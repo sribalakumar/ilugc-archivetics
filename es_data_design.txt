@@ -1,0 +1,19 @@
+# Mock data design for the elastic search email and user schema.
+
+# Investiage the behaviours of having a string id vs number id for email.
+localhost:9200/email/<message_id> -d '
+{
+  "from" : "email" #sample AT gmail.com is the current format, read on the prefered ISO format for emails.
+  "date" : " " #datetime converted to IST in ISO 8601 format.
+  "content" : "content" #Esacping of special characters? Investigate special characters behaviour on search.
+  "subject" : "subject" #subject text
+  "in_reply_to" : [] #List of string. Remove the the first chracter '<' and last character '>' from mailbox format.
+  "references" : [] #List of string. remove the first character '<' and last character '>' from mailbox format
+}'
+
+
+localhost:9200/user/email -d '
+{
+  "name" : "Name" #Have to get the name from "from" content of mailbox.
+}
+'
