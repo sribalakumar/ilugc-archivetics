@@ -1,5 +1,7 @@
 import mailbox
 import json
+import datetime
+from dateutil import parser
 
 def sanitize_key_value(key, key_value):
   options = { "From" : sanitize_from,
@@ -15,7 +17,7 @@ def sanitize_from(original_value):
   return get_email(original_value)
 
 def sanitize_date(original_value):
-  return ist_iso_date(original_value)
+  return iso_date(original_value)
 
 def sanitize_subject(original_value):
   return original_value
@@ -30,15 +32,13 @@ def sanitize_ref_or_reply(original_value):
 def sanitize_message_id(original_value):
   return remove_tag(original_value)
 
-# TODO: Observe the dicionary for inconsistency in archives formats.
-# To Handle: Time is breaking because of inconsistant time format on the archive.
-# 'Sat, 11 Dec 2010 15:55:48 +0530 (IST)' does not match format '%a %b  %d %H:%M:%S %Y'
+# dateutil library solves the problem with time format inconsistency.
+# datetime.isoformat() generates yyyy- MM-dd'T'HH:mm:ss.SSSZZ. which is compatible with date_time field of es.
 # user name is yet to be included in the dictionary.
 def put_to_es(dictionary):
   temp = json.dumps(dictionary)
-  print "****"
   print temp
-  print "****"
+  print "\n"
 
 
 def remove_tag(str_data):
@@ -64,13 +64,9 @@ def get_email(str_data):
     print str_data + " is not a valid email address."
   return email.replace(" ","")
 
-#TODO: Make the +05:30 more flexible for any time zone.
-def ist_iso_date(time_str):
-  import datetime
-  from datetime import timedelta
-  a = datetime.datetime.strptime(time_str, "%a %b  %d %H:%M:%S %Y")
-  b = a + timedelta(hours=5, minutes=30)
-  return b.isoformat()
+def iso_date(time_str):
+  temp = parser.parse(time_str)
+  return temp.isoformat()
 
 def get_content(message):
   content = ""
@@ -80,7 +76,7 @@ def get_content(message):
     content = message.get_payload(decode=False)
   return content
 
-mbox = mailbox.mbox("_path_to_file_")
+mbox = mailbox.mbox("archives/2010-December.txt")
 for message in mbox:
   dictionary = {}
   for key in message.keys():
