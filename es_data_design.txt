@@ -1,6 +1,7 @@
-# Mock data design for the elastic search email and user schema.
+# Mock data design for the Elasticsearch email and user schema.
 
-# Investiage the behaviours of having a string id vs number id for email.
+# Investiage the behaviour of having a string id vs number id for email.
+# Message id can be string, have to analyse the impact of having multiple versions for the same id.
 localhost:9200/email/<message_id> -d '
 {
   "from" : "email" #sample AT gmail.com is the current format, read on the prefered ISO format for emails.
