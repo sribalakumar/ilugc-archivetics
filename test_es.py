@@ -8,7 +8,11 @@ r = requests.get("http://localhost:9200")
 index = 'ilugc_archives'
 doc_type = "email"
 body = '{ "from" : "kumar" }'
-i = "test_string_1"
-a = es.index(index='sw', doc_type='people', id=i, body=json.loads(body))
-print a
+doc_id = "test_string_1"
+try:
+  a = es.index(index, doc_type, doc_id, json.loads(body))
+  print str(a)
+except:
+  e = sys.exc_info()[0]
+  print str(e)
 

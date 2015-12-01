@@ -1,7 +1,12 @@
 import mailbox
 import json
 import datetime
+import code
+import sys
+from elasticsearch import Elasticsearch
 from dateutil import parser
+
+#TODO: Try to use a logger and a proper OO structure for ES and parser.
 
 def sanitize_key_value(key, key_value):
   options = { "From" : sanitize_from,
@@ -36,9 +41,21 @@ def sanitize_message_id(original_value):
 # datetime.isoformat() generates yyyy- MM-dd'T'HH:mm:ss.SSSZZ. which is compatible with date_time field of es.
 # user name is yet to be included in the dictionary.
 def put_to_es(dictionary):
-  temp = json.dumps(dictionary)
-  print temp
-  print "\n"
+  es = Elasticsearch([{'host': 'localhost', 'port': 9200}]) #should try to put it in some constant instead of everytime init
+  index = 'ilugc_archives' #ideally this should be in some constant.
+  doc_type = "email"
+  #code.interact(local=dict(globals(), **locals()))
+  doc_id = dictionary["Message-ID"]
+  dictionary.pop("Message-ID")
+  body = json.dumps(dictionary)
+  try:
+    es.index(index=index, doc_type=doc_type, id=doc_id, body=json.loads(body)) #fine out why without equal to assignment in argument it is not working.
+  except:
+    e = sys.exc_info()[0]
+    print "******ERROR while pushing to ES******"
+    print str(e)
+    print "\n"
+    print body
 
 
 def remove_tag(str_data):
@@ -46,6 +63,7 @@ def remove_tag(str_data):
     str_data = str_data[1:-1];
   else:
     print "This string does not have starting and ending tag: " + str_data
+    return ""
   return str_data
 
 def get_name(str_data):
@@ -81,5 +99,9 @@ for message in mbox:
   dictionary = {}
   for key in message.keys():
     dictionary[key] = sanitize_key_value(key, message[key])
+  if not dictionary.has_key("Message-ID"):
+    print "*****No message id for the dictionary ******"
+    print str(message)
+    continue
   dictionary['content'] = get_content(message)
   put_to_es(dictionary)
