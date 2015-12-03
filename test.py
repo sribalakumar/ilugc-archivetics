@@ -1,7 +1,6 @@
 import mailbox
 import json
 import datetime
-import code
 import sys
 from elasticsearch import Elasticsearch
 from dateutil import parser
@@ -44,7 +43,6 @@ def put_to_es(dictionary):
   es = Elasticsearch([{'host': 'localhost', 'port': 9200}]) #should try to put it in some constant instead of everytime init
   index = 'ilugc_archives' #ideally this should be in some constant.
   doc_type = "email"
-  #code.interact(local=dict(globals(), **locals()))
   doc_id = dictionary["Message-ID"]
   dictionary.pop("Message-ID")
   body = json.dumps(dictionary)
