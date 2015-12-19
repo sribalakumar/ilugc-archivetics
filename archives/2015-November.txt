@@ -1,0 +1,3545 @@
+From chidambasakthi at gmail.com  Sun Nov  1 03:06:59 2015
+From: chidambasakthi at gmail.com (chidambaresan ananthan)
+Date: Sun, 1 Nov 2015 03:06:59 +0530
+Subject: [Ilugc] Trainers needed(commercial)
+Message-ID: <CAHRa3=b5+JzCSkTb3ch_+Xz9HKKcv1Vf9pXoU05NguSspM1O-g@mail.gmail.com>
+
+Dear luggies,
+We are looking for trainers to handle java, j2ee and mobile application
+development. The duration of the workshop will be 5 days for java and
+database connectivity, 6 days for j2ee,mobile application development.
+interested trainers send your detailed profile with your daily training
+charge to ac at coursee.co
+
+Note: training will be in an engineering college near madurai and the date
+will be between nov 26 to december 6.
+
+From 77minds at gmail.com  Sun Nov  1 17:05:13 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 1 Nov 2015 17:05:13 +0530
+Subject: [Ilugc] A great project for Internet freedom
+Message-ID: <CAJR+9ka=WEa8U3hJSTD1OSANA-WQJbjbM7XVf6O5Tu1SNkBm1Q@mail.gmail.com>
+
+http://zeronet.io/
+
+-- 
+http://kardrak.com/contacts/1
+
+From 01tonythomas at gmail.com  Mon Nov  2 14:52:42 2015
+From: 01tonythomas at gmail.com (Tony Thomas)
+Date: Mon, 2 Nov 2015 14:52:42 +0530
+Subject: [Ilugc] Trainers needed(commercial)
+In-Reply-To: <CAHRa3=b5+JzCSkTb3ch_+Xz9HKKcv1Vf9pXoU05NguSspM1O-g@mail.gmail.com>
+References: <CAHRa3=b5+JzCSkTb3ch_+Xz9HKKcv1Vf9pXoU05NguSspM1O-g@mail.gmail.com>
+Message-ID: <CACSPvKriB0qogG9mqF=3sdyO2jSTBnez9VQzJuCE+004hz=g_A@mail.gmail.com>
+
+You can contact our startup ThinkFOSS[www.thinkfoss.com] - which can take
+up Java, and mobile application development training.
+
+Thanks,
+Tony Thomas <http://blog.tttwrites.in/>
+ThinkFOSS <http://www.thinkfoss.com>
+
+*"where there is a wifi, there is a way"*
+
+On Sun, Nov 1, 2015 at 3:06 AM, chidambaresan ananthan <
+chidambasakthi at gmail.com> wrote:
+
+> Dear luggies,
+> We are looking for trainers to handle java, j2ee and mobile application
+> development. The duration of the workshop will be 5 days for java and
+> database connectivity, 6 days for j2ee,mobile application development.
+> interested trainers send your detailed profile with your daily training
+> charge to ac at coursee.co
+>
+> Note: training will be in an engineering college near madurai and the date
+> will be between nov 26 to december 6.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From knura9 at gmail.com  Tue Nov  3 10:14:29 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 3 Nov 2015 10:14:29 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+Message-ID: <CAHhM8gBfvmpN6xLe2d2uRfDSpPHUe4R-10zBmY-NwdmfBV9tdw@mail.gmail.com>
+
+On Wed, Oct 28, 2015 at 12:56 PM, Baskar Selvaraj <baskar at linuxpert.in> wrote:
+> Dear all,
+>
+> I am looking for a simplified solution for renaming files through shell scripts.
+>
+
+Dangerous, unless your file name string has an unique pattern.
+Otherwise, you might end up overwriting already renamed files!
+
+As the discussion shows it can be done in many ways!  The perl purist
+would probably give you a one liner :)  and there are others like
+bash, python and ruby (Shakti Kannan's solution).
+
+mmv (mass rename/move) comes to my mind -- details 'man mmv'
+
+Also this links provides some good bash examples
+<http://www.peteryu.ca/tutorials/shellscripting/batch_rename> that I
+found through uncle Google.
+
+The above maybe moot in your case but posting here for future
+reference, in case it comes up again.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Nov  3 10:23:50 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 3 Nov 2015 10:23:50 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+In-Reply-To: <CA+ark-oGLRmcwQA3RGPE-j5iEu9G1CZN+7eFazh+SY2_6kQLDw@mail.gmail.com>
+References: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+	<CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+	<CAD7fY7Rt_CjUpZcH0gPyJP409ZgP86C9r=Z5seUxXMJNw_hxOg@mail.gmail.com>
+	<CA+ark-oGLRmcwQA3RGPE-j5iEu9G1CZN+7eFazh+SY2_6kQLDw@mail.gmail.com>
+Message-ID: <CAHhM8gCUPQ0JWG0qGdqeqLb9bWCw_3QRA5JV2WmhFuXfC6T7wA@mail.gmail.com>
+
+On Thu, Oct 22, 2015 at 6:50 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+>
+> My serve is using the following bin files.
+>
+> ]# rpm -qa | grep mysql
+> mysql-5.1.73-3.el6_5.x86_64
+> mysql-libs-5.1.73-3.el6_5.x86_64
+> mysql-server-5.1.73-3.el6_5.x86_64
+> mysql-devel-5.1.73-3.el6_5.x86_64
+>
+> So I need to replace all these bin files with matching 5.5 binary file ?
+>
+
+What do you mean by replace?
+
+Use your distro's package manager to upgrade your MySQL packages.
+Some one has already mentioned Percona; they build RPM/DEB packages
+for all the major distributions out there.
+
+*Before* doing this exercise on your production server, I would
+strongly recommend that you carry out exercise on a prototype server
+(using a copy of your production data) and make sure you work out all
+the kinks (if any) in the upgrade process.   Since it is production, I
+would suggest do not go beyond 5.6.x.  It has been vetted in the field
+whereas 5.7 (not released yet) may still have some quirks post
+release.
+
+-- Arun Khan
+
+From ajeeshbkannan at gmail.com  Tue Nov  3 17:46:03 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 3 Nov 2015 17:46:03 +0530
+Subject: [Ilugc] graphite server showing timeout
+Message-ID: <CA+ark-p+exACq-yeJjww=v0A7cDQs0DLv==9VZ_M+9+rF51atA@mail.gmail.com>
+
+Hi,
+
+my graphite server is showing the following timeout messages.
+
+  File "/usr/lib/python2.7/httplib.py", line 574, in _read_chunked
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+timeout: timed out
+
+and in the syslog ::
+kernel: [ 1953.110135] init: carbon-relay respawning too fast, stopped
+ kernel: [ 2120.915969] init: carbon-cache respawning too fast, stopped
+
+
+Tried restating the carbin cache, carbon-relay and graphite-web, but the
+timeout message is reporting.
+
+Sending data is not seeing the graphite. Please help.
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From knura9 at gmail.com  Wed Nov  4 10:30:01 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 4 Nov 2015 10:30:01 +0530
+Subject: [Ilugc] graphite server showing timeout
+In-Reply-To: <CA+ark-p+exACq-yeJjww=v0A7cDQs0DLv==9VZ_M+9+rF51atA@mail.gmail.com>
+References: <CA+ark-p+exACq-yeJjww=v0A7cDQs0DLv==9VZ_M+9+rF51atA@mail.gmail.com>
+Message-ID: <CAHhM8gC=KhaOaXfNoCke=zSh+=a0L1=CYD4Fr_fRYBBR8PoXgg@mail.gmail.com>
+
+On Tue, Nov 3, 2015 at 5:46 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> Hi,
+>
+> my graphite server is showing the following timeout messages.
+>
+>   File "/usr/lib/python2.7/httplib.py", line 574, in _read_chunked
+>     line = self.fp.readline(_MAXLINE + 1)
+>   File "/usr/lib/python2.7/socket.py", line 476, in readline
+>     data = self._sock.recv(self._rbufsize)
+> timeout: timed out
+>
+> and in the syslog ::
+> kernel: [ 1953.110135] init: carbon-relay respawning too fast, stopped
+>  kernel: [ 2120.915969] init: carbon-cache respawning too fast, stopped
+>
+
+Something is wrong with the daemon setup, it is respawning too fast.
+The message is clear.
+
+Backtrack to whatever changes you made to carbon-relay and
+carbon-cache.  I believe there are enough docs on carbon/graphite so
+please RTMF.
+
+-- Arun Khan
+
+From mail2marikkannan at gmail.com  Wed Nov  4 17:29:19 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 4 Nov 2015 17:29:19 +0530
+Subject: [Ilugc] Regarding: Server Malicious hit issue
+Message-ID: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+
+Dear All.,
+
+             I am facing the issue on live server and the live server is in
+"CENTOS",some malicious hit is going out of my server through the port
+number 53 and even though I ran too many too like rkhunter,etc. But I
+didn't found the malicious file or output from my server itself.
+
+             And the host name is consider as malicious is "irc.nets.hk",and
+it doesn't have any valid ipaddress.,and result of this my cloud provider
+DNS blocked my server ip.
+
+            Can I block the port number 53 in my server itself (both
+outgoing/incoming ).,and I didn't use the port number 53 for my application.
+
+            I can see the output only through "tcpdump on the specfic port
+53"
+
+              Results:
+
+                    11:46:37.568099 IP 119.19.44.31.48427 >
+119.19.60.62.53: 14465+ A? irc.nets.hk. (29)
+11:46:40.707735 IP 119.19.44.31.58955 > 119.19.60.63.53: 1919+ A?
+irc.nets.hk. (45)
+11:46:45.712962 IP 119.19.44.31.57951 > 119.19.60.62.53: 1919+ A?
+irc.nets.hk. (45)
+11:46:48.718333 IP 119.19.44.1.39769 > 119.19.60.63.53: 15764+ A?
+irc.nets.hk. (29)
+
+            But I didn't get any results on my netstat and isof.,
+
+            Kindly share difference between tcpdump and netstat
+
+           Through Iptables we have block the port number 53 ? Is it
+possible on OS level ?
+
+           Blocking of port 53 make any issue on server because I am using
+port 22,25,80 and 443.
+
+           What actually the port 53 do in default server's.
+
+
+            Thanks in advance.
+
+
+
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From vik at hamaralinux.org  Wed Nov  4 18:12:30 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Wed, 04 Nov 2015 12:42:30 +0000
+Subject: [Ilugc] Regarding: Server Malicious hit issue
+In-Reply-To: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+References: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+Message-ID: <5639FD36.70506@hamaralinux.org>
+
+On 04/11/15 11:59, Marikkannan Rajagopal wrote:
+> Dear All.,
+>
+>               I am facing the issue on live server and the live server is in
+> "CENTOS",some malicious hit is going out of my server through the port
+> number 53 and even though I ran too many too like rkhunter,etc. But I
+> didn't found the malicious file or output from my server itself.
+>
+>               And the host name is consider as malicious is "irc.nets.hk",and
+> it doesn't have any valid ipaddress.,and result of this my cloud provider
+> DNS blocked my server ip.
+>
+>              Can I block the port number 53 in my server itself (both
+> outgoing/incoming ).,and I didn't use the port number 53 for my application.
+>
+>              I can see the output only through "tcpdump on the specfic port
+> 53"
+>
+>                Results:
+>
+>                      11:46:37.568099 IP 119.19.44.31.48427 >
+> 119.19.60.62.53: 14465+ A? irc.nets.hk. (29)
+> 11:46:40.707735 IP 119.19.44.31.58955 > 119.19.60.63.53: 1919+ A?
+> irc.nets.hk. (45)
+> 11:46:45.712962 IP 119.19.44.31.57951 > 119.19.60.62.53: 1919+ A?
+> irc.nets.hk. (45)
+> 11:46:48.718333 IP 119.19.44.1.39769 > 119.19.60.63.53: 15764+ A?
+> irc.nets.hk. (29)
+>
+>              But I didn't get any results on my netstat and isof.,
+>
+>              Kindly share difference between tcpdump and netstat
+>
+>             Through Iptables we have block the port number 53 ? Is it
+> possible on OS level ?
+>
+>             Blocking of port 53 make any issue on server because I am using
+> port 22,25,80 and 443.
+>
+>             What actually the port 53 do in default server's.
+Looks like a DNS request. If you block outgoing port 53 you will likely 
+not be able to resolve DNS.
+
+Did your provider tell you in detail why they blocked your access to 
+their DNS?
+
+You could try running suricata on your host to see if it tells you more 
+about suspicious network activity.
+http://suricata-ids.org/
+
+HTH
+
+
+Vik
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From nareshsx09 at gmail.com  Wed Nov  4 18:57:18 2015
+From: nareshsx09 at gmail.com (Naresh Tharun)
+Date: Wed, 4 Nov 2015 18:57:18 +0530
+Subject: [Ilugc] Regarding: Server Malicious hit issue
+In-Reply-To: <5639FD36.70506@hamaralinux.org>
+References: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+	<5639FD36.70506@hamaralinux.org>
+Message-ID: <CAEDB-kFg807yV8X3Verek2oXimtsPiDq5gMvxTdgx6On_KkDog@mail.gmail.com>
+
+Regarding Difference on
+
+(used for Packet Monitoring) TCPDUMP -  we can use this to capture the
+packets on various ports,protocols and ip addresses.. its just a dump copy
+of what is happening on it..
+
+(used for analyzing network activity) NET STAT- gives just a status of your
+live activity of your system in network ( port,protocol,ip wise ) not an
+report or dump like TCPDUMP..
+
+then Regarding 53 port closing kindly check whether your have server
+getting resolved in public..if your client access it through name then it
+wont resolve them ..kindly  check it and do..
+
+check also the provider message for blocking it.
+
+
+Regards
+Naresh kumar v
+
+
+On Wed, Nov 4, 2015 at 6:12 PM, Vikas Tara <vik at hamaralinux.org> wrote:
+
+> On 04/11/15 11:59, Marikkannan Rajagopal wrote:
+> > Dear All.,
+> >
+> >               I am facing the issue on live server and the live server
+> is in
+> > "CENTOS",some malicious hit is going out of my server through the port
+> > number 53 and even though I ran too many too like rkhunter,etc. But I
+> > didn't found the malicious file or output from my server itself.
+> >
+> >               And the host name is consider as malicious is "irc.nets.hk
+> ",and
+> > it doesn't have any valid ipaddress.,and result of this my cloud provider
+> > DNS blocked my server ip.
+> >
+> >              Can I block the port number 53 in my server itself (both
+> > outgoing/incoming ).,and I didn't use the port number 53 for my
+> application.
+> >
+> >              I can see the output only through "tcpdump on the specfic
+> port
+> > 53"
+> >
+> >                Results:
+> >
+> >                      11:46:37.568099 IP 119.19.44.31.48427 >
+> > 119.19.60.62.53: 14465+ A? irc.nets.hk. (29)
+> > 11:46:40.707735 IP 119.19.44.31.58955 > 119.19.60.63.53: 1919+ A?
+> > irc.nets.hk. (45)
+> > 11:46:45.712962 IP 119.19.44.31.57951 > 119.19.60.62.53: 1919+ A?
+> > irc.nets.hk. (45)
+> > 11:46:48.718333 IP 119.19.44.1.39769 > 119.19.60.63.53: 15764+ A?
+> > irc.nets.hk. (29)
+> >
+> >              But I didn't get any results on my netstat and isof.,
+> >
+> >              Kindly share difference between tcpdump and netstat
+> >
+> >             Through Iptables we have block the port number 53 ? Is it
+> > possible on OS level ?
+> >
+> >             Blocking of port 53 make any issue on server because I am
+> using
+> > port 22,25,80 and 443.
+> >
+> >             What actually the port 53 do in default server's.
+> Looks like a DNS request. If you block outgoing port 53 you will likely
+> not be able to resolve DNS.
+>
+> Did your provider tell you in detail why they blocked your access to
+> their DNS?
+>
+> You could try running suricata on your host to see if it tells you more
+> about suspicious network activity.
+> http://suricata-ids.org/
+>
+> HTH
+>
+>
+> Vik
+>
+> --
+> Founder - Hamara Linux
+> www.hamaralinux.org
+> www.twitter.com/hamaralinux
+>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From knura9 at gmail.com  Wed Nov  4 22:45:52 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 4 Nov 2015 22:45:52 +0530
+Subject: [Ilugc] Regarding: Server Malicious hit issue
+In-Reply-To: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+References: <CAJ=JFU=hQ3vv1edjdfyodOfVcdJFRrc6TTSZTFVBjGcRVaUQLg@mail.gmail.com>
+Message-ID: <CAHhM8gAXBWRV62zof7c6d-u7RcVShoxumtN1Y6fe8zDcZJPJ9A@mail.gmail.com>
+
+On Wed, Nov 4, 2015 at 5:29 PM, Marikkannan Rajagopal
+<mail2marikkannan at gmail.com> wrote:
+> Dear All.,
+>
+>              I am facing the issue on live server and the live server is in
+> "CENTOS",some malicious hit is going out of my server through the port
+> number 53 and even though I ran too many too like rkhunter,etc. But I
+> didn't found the malicious file or output from my server itself.
+>
+
+rkhunter is not a sufficient  to check for compromises.  You should
+have installed 'aide' as well.  'rpm --verify' will show compromised
+files assuming your RPM db files are not compromised.
+
+>              And the host name is consider as malicious is "irc.nets.hk",and
+> it doesn't have any valid ipaddress.,and result of this my cloud provider
+> DNS blocked my server ip.
+>
+
+Prima facie, it appears your server is hacked with a bot that floods
+DNS query requests i.e. DOS attack.
+
+
+>             Can I block the port number 53 in my server itself (both
+> outgoing/incoming ).,and I didn't use the port number 53 for my application.
+>
+
+Incoming yes, outgoing to dest port 53 will disable all DNS lookups on
+your server.
+
+>             I can see the output only through "tcpdump on the specfic port
+> 53"
+>
+>               Results:
+>
+>                     11:46:37.568099 IP 119.19.44.31.48427 >
+> 119.19.60.62.53: 14465+ A? irc.nets.hk. (29)
+> 11:46:40.707735 IP 119.19.44.31.58955 > 119.19.60.63.53: 1919+ A?
+> irc.nets.hk. (45)
+> 11:46:45.712962 IP 119.19.44.31.57951 > 119.19.60.62.53: 1919+ A?
+> irc.nets.hk. (45)
+> 11:46:48.718333 IP 119.19.44.1.39769 > 119.19.60.63.53: 15764+ A?
+> irc.nets.hk. (29)
+>
+>             But I didn't get any results on my netstat and isof.,
+>
+
+These could have been compromised.   Install busybox and use it's
+equivalent replacement for tools like netstat, ps, find etc. 'man
+busybox' shows all the functionality it provides.
+
+Your best bet would be take backups of your data and start with a
+fresh install and apply all security patches to the latest before
+throwing it open for business.
+
+Best,
+-- Arun Khan
+
+From arun289 at gmail.com  Thu Nov  5 15:25:13 2015
+From: arun289 at gmail.com (Arun Venkataswamy)
+Date: Thu, 5 Nov 2015 15:25:13 +0530
+Subject: [Ilugc] [JOB] Need junior Android resource
+Message-ID: <CAFe1ooJsG5JMBVg59WQLHUDQkQ7A5j=1dT+ptzBwSfieBuPW5A@mail.gmail.com>
+
+Hi,
+
+We are a Chennai based startup building a product which allows an
+e-commerce site to be deployed in Mobile HTML5, native Android and native
+iOS almost instantly, in a matter of days instead of months of outsourced
+development.
+
+More information here:
+http://mobizippy.com/
+
+We are ramping up quickly and we are looking for a couple of junior Android
+resources.
+
+Skills : Android SDK and familiarity with the Android studio environment
+Experience : Fresher with demonstrable Android dev skills or up to 2 years
+experience in Android.
+Skills that are bonus : Git and Linux shell script / python / node based
+automation
+Location : Chennai - OMR Perungudi
+Education : No bar
+Salary : Industry standard pay
+
+To apply, reply to me in private with your resume.
+
+Regards,
+Arun
+
+-- 
+
+Arun Venkataswamy
+http://wondroussky.blogspot.in/
+http://wondrouscode.blogspot.in/
+
+"?????? ????? ????, ???????? ??????" - ???????
+Known is a drop, Unknown is an ocean
+
+From knura9 at gmail.com  Thu Nov  5 15:41:14 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Thu, 5 Nov 2015 15:41:14 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <CA+30aUMjo-jJzE=Sj_XN4TwMxXEh6OR37rtWdorx9u3E+HGj+w@mail.gmail.com>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<CA+30aUMjo-jJzE=Sj_XN4TwMxXEh6OR37rtWdorx9u3E+HGj+w@mail.gmail.com>
+Message-ID: <CAHhM8gDHg9UxriAn3rT8XbhOpJ=-42=NDFzAW6fBq5GNZqRUMQ@mail.gmail.com>
+
+On Wed, Oct 28, 2015 at 6:34 PM, Srikanth Lakshmanan
+<logic.linux at gmail.com> wrote:
+> Hi,
+>
+> On 20 October 2015 at 11:11, sahil ????? <scorpionking.sahil at gmail.com>
+> wrote:
+>
+>> I am struggling to block pop-ups while searching on my Tablet on
+>> Chrome/Firefox browsers. Sometimes it is so disturbing and annoying while I
+>> search something along with kids and all of sudden some obscene sites
+>> comes. Do you guys have any way to stop such pop-ups while searching on
+>> tablets as no pop-up blocker works on browsers on tablets/smart-phones?
+>>
+>
+> Although I have not been successful in my attempts to block ads at router
+> level, you can try flashing openwrt / gargoyle on your router which have
+> router level blocking of ads (based on blocking lists). HTH
+>
+
+Squid proxy server does Ad Blocking.
+
+-- Arun Khan
+
+From kalyanasundharam at gmail.com  Thu Nov  5 19:22:13 2015
+From: kalyanasundharam at gmail.com (Kalyana Sundaram)
+Date: Thu, 5 Nov 2015 19:22:13 +0530
+Subject: [Ilugc] make file enabled with Profiling through gprof- reg
+Message-ID: <CALN2Dm==7nh7f1Yk45p0RXTXXk=aq_iryyTWCGpYM=W0Av2nQQ@mail.gmail.com>
+
+Hi all
+
+
+1. I need a sample make file to enable profiling with gprof in c program
+based implementation
+2. Parallel processing option enablement in the debian - c program based
+development
+3. Efficient timing optimization methods and tools ( open source)
+
+
+
+
+
+Thanks and Regards
+
+
+kalyan
+
+From shakthimaan at gmail.com  Thu Nov  5 21:45:18 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 5 Nov 2015 21:45:18 +0530
+Subject: [Ilugc] make file enabled with Profiling through gprof- reg
+In-Reply-To: <CALN2Dm==7nh7f1Yk45p0RXTXXk=aq_iryyTWCGpYM=W0Av2nQQ@mail.gmail.com>
+References: <CALN2Dm==7nh7f1Yk45p0RXTXXk=aq_iryyTWCGpYM=W0Av2nQQ@mail.gmail.com>
+Message-ID: <CABG-yt2P_SYroMAS2s3ukp67sLyoVGVDmqL2hkyxbF+TSqH-2g@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Nov 5, 2015 at 7:22 PM, Kalyana Sundaram
+<kalyanasundharam at gmail.com> wrote:
+| 1. I need a sample make file to enable profiling with gprof in c program
+| based implementation
+\--
+
+How do you compile now? Search online for tutorials on Makefiles, and
+it should be pretty straight-forward to write one. You can also refer
+my presentation on Makefiles:
+
+  http://shakthimaan.com/downloads.html#dum-ka-biryani-make-for-each-other
+
+---
+| 2. Parallel processing option enablement in the debian - c program based
+| development
+\--
+
+Which library are you using? Please provide more details.
+
+---
+| 3. Efficient timing optimization methods and tools ( open source)
+\--
+
+That is a generic question. For which programming language? Which
+compiler do you use?
+
+Please give complete information when asking a question.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From bala788 at gmail.com  Mon Nov  9 17:22:00 2015
+From: bala788 at gmail.com (Bala Chandar)
+Date: Mon, 9 Nov 2015 17:22:00 +0530
+Subject: [Ilugc] [JOB] Requirement of Ubuntu-Linux system Administrator
+Message-ID: <CACnAEvMf8d5vRcCyC6yEGSAur_L_tx7ZjpMCFqOA8=b=7xGdmA@mail.gmail.com>
+
+Dear Members
+
+
+We are in requirement of Linux System Administrator, preferred in Ubuntu
+Server / Desktop platform.
+
+
+Knowledge in:
+
+
+- Hard disk Partitioning, OS Installation (Linux/Windows Server-Desktop
+edition), Debian package installation via command line and GUI, software
+installation using Tared packages
+
+
+- Troubleshooting the Ubuntu Desktop environment
+
+
+- Linux servers like web(LAMP), backing up Users data, and SAMBA with acl
+enabled partitions
+
+
+- Apache-Tomcat / Resin Installation on linux and deployment of war files.
+
+
+- TCP/IP addressing and LAN support
+
+
+- Computer systems Asset Management
+
+
+Additional basic Knowledge in C, php, mysql, xml and java
+
+
+Company Details:
+
+
+Org. Name: CEWiT
+
+Location: Taramani, Chennai
+
+
+Request for your references. If interested for above job description,
+please send in your CV to bala788 at gmail.com
+
+
+
+Thank You
+
+Bala .....
+
+From realmailer at gmail.com  Mon Nov  9 20:40:27 2015
+From: realmailer at gmail.com (kish)
+Date: Mon, 9 Nov 2015 20:40:27 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <m2r3q8o6lq.fsf@noorul.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+	<m2r3q8o6lq.fsf@noorul.com>
+Message-ID: <CAG+57Ghm598hPTaWL-XDruezP3o6tsSHjK48F8rhKAQYPsfHrA@mail.gmail.com>
+
+These are just tools;
+learn them, use them and transcend them.
+
+
+
+On Fri, May 22, 2015 at 11:08 PM, Noorul Islam K M <noorul at noorul.com>
+wrote:
+
+> sahil ????? <scorpionking.sahil at gmail.com> writes:
+>
+> > Namaste Everyone,
+> >
+> > I want expert guideline on following topics: Jenkins, Puppet, Chef.
+> >
+> > In my past few interviews and for almost any good position in a good
+> > company above technologies are expected from a linux guy along with
+> script
+> > programming.
+> >
+> > Can a single entity practice on above technologies on her/his own? If
+> yes,
+> > then what are the steps? Do we have to set up a proper lab (VM's) for
+> this?
+> >
+>
+> For Chef, Did you take a look at Chef DK [1]
+>
+>
+> Thanks and Regards,
+> Noorul
+>
+> [1] https://downloads.chef.io/chef-dk/
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From realmailer at gmail.com  Mon Nov  9 20:41:25 2015
+From: realmailer at gmail.com (kish)
+Date: Mon, 9 Nov 2015 20:41:25 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <m2r3q8o6lq.fsf@noorul.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+	<m2r3q8o6lq.fsf@noorul.com>
+Message-ID: <CAG+57Gg7biqOkNGGdfyUKhQZxpzEBT7jVeqcymGsQKooVBjpKg@mail.gmail.com>
+
+These are just tools;
+learn them, use them and transcend them.
+
+From realmailer at gmail.com  Mon Nov  9 20:46:01 2015
+From: realmailer at gmail.com (kish)
+Date: Mon, 9 Nov 2015 20:46:01 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <CAHhM8gDHg9UxriAn3rT8XbhOpJ=-42=NDFzAW6fBq5GNZqRUMQ@mail.gmail.com>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<CA+30aUMjo-jJzE=Sj_XN4TwMxXEh6OR37rtWdorx9u3E+HGj+w@mail.gmail.com>
+	<CAHhM8gDHg9UxriAn3rT8XbhOpJ=-42=NDFzAW6fBq5GNZqRUMQ@mail.gmail.com>
+Message-ID: <CAG+57Gif2Vr19GWB5st8q1igmnC_du97CFgGgRKj+Uc53Hg8PA@mail.gmail.com>
+
+Do that /etc/hosts blacklisting.
+
+From realmailer at gmail.com  Mon Nov  9 20:49:57 2015
+From: realmailer at gmail.com (kish)
+Date: Mon, 9 Nov 2015 20:49:57 +0530
+Subject: [Ilugc] graphite server showing timeout
+In-Reply-To: <CAHhM8gC=KhaOaXfNoCke=zSh+=a0L1=CYD4Fr_fRYBBR8PoXgg@mail.gmail.com>
+References: <CA+ark-p+exACq-yeJjww=v0A7cDQs0DLv==9VZ_M+9+rF51atA@mail.gmail.com>
+	<CAHhM8gC=KhaOaXfNoCke=zSh+=a0L1=CYD4Fr_fRYBBR8PoXgg@mail.gmail.com>
+Message-ID: <CAG+57Gi0LfutiJ8hESWPqRe97M6RoOpE2YmmvWmCWW-3E9QKnA@mail.gmail.com>
+
+Carbon-relay is crashing.
+Check its logs, will probably be a stupid log file permission issue.
+
+From scorpionking.sahil at gmail.com  Tue Nov 10 23:30:41 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 10 Nov 2015 23:30:41 +0530
+Subject: [Ilugc] [[Good Read]] Role of Linus Torvalds in Linux Kernel and
+	its security vulnerabilities
+Message-ID: <CAP6xen=-SauAqQdMu6KOH3O-D=1iQMF7P5+XWhhoXeK50mi47w@mail.gmail.com>
+
+Namaste Everyone,
+
+In case if anyone has missed this wonderful though longish article about
+Linux kernel and its vulnerabilities then can read during festive holidays.
+It has parts (1-4) and all are very informative. Inquisitive folks can read
+all and discuss here if feel so.
+
+http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From ajeeshbkannan at gmail.com  Wed Nov 11 01:33:00 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 11 Nov 2015 01:33:00 +0530
+Subject: [Ilugc] logrotate compress issue
+Message-ID: <CA+ark-qUKUNFUd0iy9QqELhCwdu0LpoWey4_ytGgnDRO37ED9w@mail.gmail.com>
+
+H,
+
+i have added  logrotate as follows,
+
+log.* {
+        daily
+        missingok
+        rotate 2
+        dateext
+        dateformat %Y-%m-%d.
+        compress
+        maxage 40
+}
+
+But now the zipped logs are again and again zipping.
+
+.gz-20151011.gz2015-11-10..gz
+
+Can you check anything wrong in my logrotating
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From padsan04 at gmail.com  Wed Nov 11 10:11:23 2015
+From: padsan04 at gmail.com (Padmini Sankaran)
+Date: Wed, 11 Nov 2015 10:11:23 +0530
+Subject: [Ilugc] looking for help to set up a network using Ubuntu OS
+Message-ID: <CAMmg=vt0GS31OcUXhRLisBYA6433yJzwx=ewkipd7ovwXEo3Wg@mail.gmail.com>
+
+Hello again,
+Several computers at our school have Ubuntu installed. Others have Windows.
+We're looking for help to set up a network of computers using Ubuntu.
+
+Please contact me at this email id if you are able to help.
+
+Best wishes for Diwali,
+Padmini Sankaran
+
+From knura9 at gmail.com  Wed Nov 11 12:47:16 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 11 Nov 2015 12:47:16 +0530
+Subject: [Ilugc] logrotate compress issue
+In-Reply-To: <CA+ark-qUKUNFUd0iy9QqELhCwdu0LpoWey4_ytGgnDRO37ED9w@mail.gmail.com>
+References: <CA+ark-qUKUNFUd0iy9QqELhCwdu0LpoWey4_ytGgnDRO37ED9w@mail.gmail.com>
+Message-ID: <CAHhM8gBEd32d9dYov2gt-zk9U1KdjsdnH6jqr35d_bBOrn9vdQ@mail.gmail.com>
+
+On Wed, Nov 11, 2015 at 1:33 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> H,
+>
+> i have added  logrotate as follows,
+>
+> log.* {
+>         daily
+>         missingok
+>         rotate 2
+>         dateext
+>         dateformat %Y-%m-%d.
+>         compress
+>         maxage 40
+> }
+>
+> But now the zipped logs are again and again zipping.
+>
+> .gz-20151011.gz2015-11-10..gz
+>
+> Can you check anything wrong in my logrotating
+
+I don't think the above will work.  "log.*" wildcard matches the
+compressed files also.  So change the regex or specify the log file's
+complete name.
+
+Also, logrotate would need some finite amount of time to rename the
+current log file and replace it with a 0 length logfile for the daemon
+to log.
+
+If your daemon supports a SIGHUP, then it might be worhtwile to do a
+postrotate SIGHUP so that the daemon starts logging on the new file.
+Also, try delaycompress in conjuction with compress.  For more
+details,  RTFM   "man logrotate."
+
+You may have to experiment with the logrotate options to get what you want.
+
+Just a thought, if your distro is a RHEL/derivative check for SELinux gotchas.
+
+It would be great if you could share your solution.
+
+HTH,
+-- Arun Khan
+
+From ajeeshbkannan at gmail.com  Wed Nov 11 17:03:38 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 11 Nov 2015 17:03:38 +0530
+Subject: [Ilugc] logrotate compress issue
+In-Reply-To: <CAHhM8gBEd32d9dYov2gt-zk9U1KdjsdnH6jqr35d_bBOrn9vdQ@mail.gmail.com>
+References: <CA+ark-qUKUNFUd0iy9QqELhCwdu0LpoWey4_ytGgnDRO37ED9w@mail.gmail.com>
+	<CAHhM8gBEd32d9dYov2gt-zk9U1KdjsdnH6jqr35d_bBOrn9vdQ@mail.gmail.com>
+Message-ID: <CA+ark-owRwHrFvpeJmK9XHdKVwK7zQ2O3m1Dz0M54TE+BF_tSw@mail.gmail.com>
+
+On Wed, Nov 11, 2015 at 12:47 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Wed, Nov 11, 2015 at 1:33 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+> > H,
+> >
+> > i have added  logrotate as follows,
+> >
+> > log.* {
+> >         daily
+> >         missingok
+> >         rotate 2
+> >         dateext
+> >         dateformat %Y-%m-%d.
+> >         compress
+> >         maxage 40
+> > }
+> >
+> > But now the zipped logs are again and again zipping.
+> >
+> > .gz-20151011.gz2015-11-10..gz
+> >
+> > Can you check anything wrong in my logrotating
+>
+> I don't think the above will work.  "log.*" wildcard matches the
+> compressed files also.  So change the regex or specify the log file's
+> complete name.
+>
+> Also, logrotate would need some finite amount of time to rename the
+> current log file and replace it with a 0 length logfile for the daemon
+> to log.
+>
+> If your daemon supports a SIGHUP, then it might be worhtwile to do a
+> postrotate SIGHUP so that the daemon starts logging on the new file.
+> Also, try delaycompress in conjuction with compress.  For more
+> details,  RTFM   "man logrotate."
+>
+> You may have to experiment with the logrotate options to get what you want.
+>
+> Just a thought, if your distro is a RHEL/derivative check for SELinux
+> gotchas.
+>
+> It would be great if you could share your solution.
+>
+> HTH,
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+Thank you for your update.
+
+I am keeping 90 logs like :
+message.log.1
+message.log.2
+message.log.3
+.
+.
+message.log.90
+
+and I need to keep two archive files for every log for 40 days files. But
+now the logrotate
+log.* {
+
+option is taking "message.log.3.gz" files also in the next logrotate cycle.
+
+I need to exclude the .gz files rotation.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From ajeeshbkannan at gmail.com  Wed Nov 11 17:47:09 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 11 Nov 2015 17:47:09 +0530
+Subject: [Ilugc] logrotate compress issue
+In-Reply-To: <CA+ark-owRwHrFvpeJmK9XHdKVwK7zQ2O3m1Dz0M54TE+BF_tSw@mail.gmail.com>
+References: <CA+ark-qUKUNFUd0iy9QqELhCwdu0LpoWey4_ytGgnDRO37ED9w@mail.gmail.com>
+	<CAHhM8gBEd32d9dYov2gt-zk9U1KdjsdnH6jqr35d_bBOrn9vdQ@mail.gmail.com>
+	<CA+ark-owRwHrFvpeJmK9XHdKVwK7zQ2O3m1Dz0M54TE+BF_tSw@mail.gmail.com>
+Message-ID: <CA+ark-qVH2j=4xaYNK=ajbUbbnLhCKm996_CKOyG62N56vsOtg@mail.gmail.com>
+
+On Wed, Nov 11, 2015 at 5:03 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+>
+>
+> On Wed, Nov 11, 2015 at 12:47 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+>> On Wed, Nov 11, 2015 at 1:33 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+>> wrote:
+>> > H,
+>> >
+>> > i have added  logrotate as follows,
+>> >
+>> > log.* {
+>> >         daily
+>> >         missingok
+>> >         rotate 2
+>> >         dateext
+>> >         dateformat %Y-%m-%d.
+>> >         compress
+>> >         maxage 40
+>> > }
+>> >
+>> > But now the zipped logs are again and again zipping.
+>> >
+>> > .gz-20151011.gz2015-11-10..gz
+>> >
+>> > Can you check anything wrong in my logrotating
+>>
+>> I don't think the above will work.  "log.*" wildcard matches the
+>> compressed files also.  So change the regex or specify the log file's
+>> complete name.
+>>
+>> Also, logrotate would need some finite amount of time to rename the
+>> current log file and replace it with a 0 length logfile for the daemon
+>> to log.
+>>
+>> If your daemon supports a SIGHUP, then it might be worhtwile to do a
+>> postrotate SIGHUP so that the daemon starts logging on the new file.
+>> Also, try delaycompress in conjuction with compress.  For more
+>> details,  RTFM   "man logrotate."
+>>
+>> You may have to experiment with the logrotate options to get what you
+>> want.
+>>
+>> Just a thought, if your distro is a RHEL/derivative check for SELinux
+>> gotchas.
+>>
+>> It would be great if you could share your solution.
+>>
+>> HTH,
+>> -- Arun Khan
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+> Thank you for your update.
+>
+> I am keeping 90 logs like :
+> message.log.1
+> message.log.2
+> message.log.3
+> .
+> .
+> message.log.90
+>
+> and I need to keep two archive files for every log for 40 days files. But
+> now the logrotate
+> log.* {
+>
+> option is taking "message.log.3.gz" files also in the next logrotate
+> cycle.
+>
+> I need to exclude the .gz files rotation.
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+>
+>
+I think this will fix ::
+
+log.[1-9][0-9] {
+        daily
+        missingok
+        rotate 2
+        dateext
+        dateformat -%Y-%m-%d-%s
+        compress
+        maxage 40
+}
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From sankarmahadevan69 at gmail.com  Thu Nov 12 08:43:56 2015
+From: sankarmahadevan69 at gmail.com (Sankara Mahadevan)
+Date: Thu, 12 Nov 2015 08:43:56 +0530
+Subject: [Ilugc] Question about. Fedora
+Message-ID: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+
+Friends,
+
+I have installed Fedora 22. Whenever I play audios and videos it throughs
+an error. The player not supported this files.
+I try to install players. But it has a same error. It tries from both GUI
+and command line , but seems error.
+I try to update the fedora 22. It also seems error .how I fix this issue.
+Please help with this.
+
+From sankarshan.mukhopadhyay at gmail.com  Thu Nov 12 08:56:17 2015
+From: sankarshan.mukhopadhyay at gmail.com (Sankarshan Mukhopadhyay)
+Date: Thu, 12 Nov 2015 08:56:17 +0530
+Subject: [Ilugc] Question about. Fedora
+In-Reply-To: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+References: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+Message-ID: <CAJWA-5ZDZY=YLuz2V-85dwt8nbahKs-2AwNLfVMpeSSPhOVGaw@mail.gmail.com>
+
+On Thu, Nov 12, 2015 at 8:43 AM, Sankara Mahadevan
+<sankarmahadevan69 at gmail.com> wrote:
+>
+> I have installed Fedora 22. Whenever I play audios and videos it throughs
+> an error. The player not supported this files.
+> I try to install players. But it has a same error. It tries from both GUI
+> and command line , but seems error.
+> I try to update the fedora 22. It also seems error .how I fix this issue.
+> Please help with this.
+
+Your original email does not provide much detail about the file types
+which invoke the error as well as the player(s) you are using. I am
+guessing <https://fedoraproject.org/wiki/Forbidden_items?rd=ForbiddenItems>
+is the page you should read
+
+<https://docs.fedoraproject.org/en-US/Fedora/23/html/Installation_Guide/chap-preparing-for-installation.html#sect-preparing-upgrade-or-install>
+provides some detail around the upgrade paths and methods.
+
+Also, the <https://lists.fedoraproject.org/mailman/listinfo/india> is
+a mailing list to subscribe to if you'd like to participate in the
+Fedora community.
+
+
+-- 
+sankarshan mukhopadhyay
+<https://about.me/sankarshan.mukhopadhyay>
+
+From iamdeeresh at gmail.com  Thu Nov 12 10:00:02 2015
+From: iamdeeresh at gmail.com (DEEPAK)
+Date: Thu, 12 Nov 2015 10:00:02 +0530
+Subject: [Ilugc] Question about. Fedora
+In-Reply-To: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+References: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+Message-ID: <CAP__7=-3VJKGCGnGKKhNV1-_vBv9A7vPWRLe32ZtfiHTWURgiQ@mail.gmail.com>
+
+Hi,
+
+   Just install KODI Media Center....
+
+1 ) Connect your PC to the Internet. Open the terminal and type the below
+commands
+
+dnf install
+http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm
+-y
+
+and
+
+dnf install kodi -y
+
+
+That's all. Open the "KODI Media Center" from start menu or just type
+"kodi" from the terminal
+
+Add the directories where you saved the video and audio files.
+
+On Thu, Nov 12, 2015 at 8:43 AM, Sankara Mahadevan <
+sankarmahadevan69 at gmail.com> wrote:
+
+> Friends,
+>
+> I have installed Fedora 22. Whenever I play audios and videos it throughs
+> an error. The player not supported this files.
+> I try to install players. But it has a same error. It tries from both GUI
+> and command line , but seems error.
+> I try to update the fedora 22. It also seems error .how I fix this issue.
+> Please help with this.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+*~DEEPAK~*
+
+From vik at hamaralinux.org  Thu Nov 12 13:26:49 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Thu, 12 Nov 2015 07:56:49 +0000
+Subject: [Ilugc] Question about. Fedora
+In-Reply-To: <CAP__7=-3VJKGCGnGKKhNV1-_vBv9A7vPWRLe32ZtfiHTWURgiQ@mail.gmail.com>
+References: <CAA4Os0PLHZ4dB8OOsHpQxjcj+DTgedCTZeRoyjEnLqaJvdtw3w@mail.gmail.com>
+	<CAP__7=-3VJKGCGnGKKhNV1-_vBv9A7vPWRLe32ZtfiHTWURgiQ@mail.gmail.com>
+Message-ID: <56444641.7000201@hamaralinux.org>
+
+On 12/11/15 04:30, DEEPAK wrote:
+> Hi,
+>
+>     Just install KODI Media Center....
+>
+> 1 ) Connect your PC to the Internet. Open the terminal and type the below
+> commands
+>
+> dnf install
+> http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm
+> -y
+>
+> and
+>
+> dnf install kodi -y
+>
+Or if you want something more similar to the built in player you could 
+try vlc - it's also in the rpmfusion repo.
+
+From baskar910 at gmail.com  Thu Nov 12 14:47:00 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Thu, 12 Nov 2015 14:47:00 +0530
+Subject: [Ilugc] Ilugc co-ordination
+Message-ID: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+
+Hi All,
+I would like to invite anyone interested in volunteering for ilugc
+co-ordinator. I am unable to devote time with my current commitments.
+
+Thanks
+baskar
++919940024492
+
+From tshrinivasan at gmail.com  Thu Nov 12 14:59:33 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 12 Nov 2015 14:59:33 +0530
+Subject: [Ilugc] (OT) - workshop on Wikipedia and natural world
+Message-ID: <CAND2794T1BPuw46Ots+80Zcc66PiVgkqgis859mfvCGgzhGwaQ@mail.gmail.com>
+
+About
+Two day workshop in partnership with WikimediaIndia aimed at contributing
+to topics related to the natural world (birds, plants, frogs, insects,
+geology...) around us on Wikipedia while also learning in the process. The
+workshop will be led by Shyamal Lakshminarayanan
+
+Agenda :
+Dates : 14th and 15th November, 2015
+10 am - 3 pm
+
+Venue:
+Tamil virtual academy,
+Kotturpuram,
+Chennai
+
+Day 1 :
+
+Morning :
+Session on history, philosophy and social dynamics of Wikipedia
+Session on basics of researching and editing
+Working lunch.
+Afternoon :
+Hands-on editing on a few topics we choose ( will setup a wikipage for this)
+
+Day 2 :
+
+Short session on copyrights, licensing and Wikimedia commons
+Uploading media based on certain topics
+Working lunch.
+Editing based on the media uploaded
+
+Prerequisites: You ideally have a deep interest in the natural world (the
+Earth, climate, plants, animals) around you and routinely seek information
+and read up on the subject, good knowledge of English, reasonable level of
+Internet savviness, and a laptop. Also register yourself on Wikipedia so
+that have a login and password.
+
+Please fill the registration form in the link below
+
+http://goo.gl/forms/lSmxnEmVHD
+
+From sahasr at naman.ms  Thu Nov 12 16:19:41 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 12 Nov 2015 10:49:41 +0000
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+Message-ID: <CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+
+Hi Baskar,
+
+If there are no other volunteers,  I wouldn't mind taking care of
+organising things.  I've attended only the last 3 meets,  but my friends
+and I plan to attend and deliver a talk every meeting from now on.
+
+If there are other volunteers who have been active for longer, then it
+should probably be them,  but otherwise, please let me know.
+
+Also it would be useful if you could provide a list of responsibilities.
+
+Thanks,
+Sahas
+www.ldcs.co.in
+
+From citizenofgnu at gmail.com  Thu Nov 12 17:39:17 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Thu, 12 Nov 2015 17:39:17 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+Message-ID: <CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+
+Hi,
+
+Some of us proposed to democratically elect a volunteer and a name was
+proposed and it was some how not materialized even when a youngster came
+forward.
+I would like to reiterate the mechanism and allow a candidate to be
+democratically elected.
+
+I know the strength is feeble as far as monthly meet is concerned. I
+request you to consider an incubation period of 6 months and we can do a
+membership drive and conduct an election, select a co-ordinator and groom
+him/her. Till such time some one can shoulder the responsibility of being
+the 'co-ordinator'.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From padsan04 at gmail.com  Thu Nov 12 18:57:01 2015
+From: padsan04 at gmail.com (Padmini Sankaran)
+Date: Thu, 12 Nov 2015 18:57:01 +0530
+Subject: [Ilugc] looking for help to set up a network using Ubuntu OS
+In-Reply-To: <CAMmg=vt0GS31OcUXhRLisBYA6433yJzwx=ewkipd7ovwXEo3Wg@mail.gmail.com>
+References: <CAMmg=vt0GS31OcUXhRLisBYA6433yJzwx=ewkipd7ovwXEo3Wg@mail.gmail.com>
+Message-ID: <CAMmg=vthM-42wB7cqsx=zkwmJLA0ZY_mX+q09WPM-U64_YL_1Q@mail.gmail.com>
+
+Thank you to all who responded. I will contact you tomorrow.
+
+Best,
+Padmini
+
+On Wed, Nov 11, 2015 at 10:11 AM, Padmini Sankaran <padsan04 at gmail.com>
+wrote:
+
+> Hello again,
+> Several computers at our school have Ubuntu installed. Others have Windows.
+> We're looking for help to set up a network of computers using Ubuntu.
+>
+> Please contact me at this email id if you are able to help.
+>
+> Best wishes for Diwali,
+> Padmini Sankaran
+>
+>
+
+From shanmugas66 at gmail.com  Thu Nov 12 20:04:06 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Thu, 12 Nov 2015 20:04:06 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+Message-ID: <CA+h6mdOfV+spHEUtsH7U1eDVDARfZXPu=q_3oaFj1RmTCU61ig@mail.gmail.com>
+
+hai
+           i am an final year student and i am willing to be a volunteer
+for this group so that i could learn more and mare many of them to learn
+about this Open source and all the  free software and i am eager to work
+with this group i would be more sincerer and thank full to be join in this
+group bro all of them
+
+thanks to all
+k.shanmuga sundar
+
+On Thu, Nov 12, 2015 at 5:39 PM, Thyagarajan ?????????? <
+citizenofgnu at gmail.com> wrote:
+
+> Hi,
+>
+> Some of us proposed to democratically elect a volunteer and a name was
+> proposed and it was some how not materialized even when a youngster came
+> forward.
+> I would like to reiterate the mechanism and allow a candidate to be
+> democratically elected.
+>
+> I know the strength is feeble as far as monthly meet is concerned. I
+> request you to consider an incubation period of 6 months and we can do a
+> membership drive and conduct an election, select a co-ordinator and groom
+> him/her. Till such time some one can shoulder the responsibility of being
+> the 'co-ordinator'.
+>
+> regards,
+>
+> Thyagarajan Shanmugham.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Thu Nov 12 20:47:06 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 12 Nov 2015 20:47:06 +0530
+Subject: [Ilugc] Monthly meet ILUGC - Saturday, 21 November, 2015
+Message-ID: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+
+Hi,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free/Open Source Software (F/OSS) in Chennai since January 1998.
+
+We usually meet on the second Saturday of every month, and the
+sessions consist of technical talks and discussions. For this month,
+we shall meet on Saturday, 21st November 2015 at 1500 IST.
+
+Venue: Classroom No 1,
+             Aerospace Engineering,
+             Near Gajendra Circle,
+             IIT Madras.
+             Link for the Map: http://bit.ly/iitm-aero
+
+You can give a talk or present a demo on F/OSS. Please provide the
+following details if you are interested:
+
+  Topic
+  Description
+  Duration
+  About Yourself
+
+Entry is free.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From scorpionking.sahil at gmail.com  Fri Nov 13 18:51:19 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Fri, 13 Nov 2015 18:51:19 +0530
+Subject: [Ilugc] [[Beautiful Read]] How Google Aims To Dominate AI (Machine
+ Learning: TensorFlow Project which is Open Source)
+Message-ID: <CAP6xennqP2-dXvFh1VTgAOnc5_qU4m0GCmViNd28d2DFxv3S5A@mail.gmail.com>
+
+Namaste Everyone,
+
+Those who are curious about Machine Learning and algorithms then do check
+this out:
+
+http://www.popsci.com/google-ai
+
+A fantastic read! Though longish but full of knowledge for those who wants
+to know about Machine Learning.
+
+Interested folks can discuss here or ping me in person to share thoughts on
+the same.
+
+Thanks.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From baskar at linuxpert.in  Sat Nov 14 07:59:17 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sat, 14 Nov 2015 07:59:17 +0530
+Subject: [Ilugc] One day FDP on FOSS in Shrimati Indira Gandhi College,
+	Trichy
+Message-ID: <CACtiFJbXNamk02Y9rhdP7CgpsS0CB7TPxtBTh7o1eRM_LjDwsw@mail.gmail.com>
+
+Dear all,
+
+Myself conducted a one day FDP on FOSS in Shrimati Indira Gandhi College,
+Trichy on 13/11/2015.  More than 20 faculty members attended the program.
+
+http://www.sigc.edu/
+
+Participants were introduced to various open source tools for conducting
+laboratory practicals.  The existing Windows based PCs were replaced with
+Ubuntu MATE 15.04.  OpenLDAP+NFS was setup and configured by the faculty
+members for authentication / storing of user data.
+
+The college is looking for local technical support persons (preferably
+in/around Trichy) who can provide technical support/training.
+
+Interested persons can contact me offlist for more details.
+
+I would like to thank the college management for the opportunity.
+
+-- 
+S. Baskar
+
+NPTEL Blog: https://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From baskar at linuxpert.in  Sat Nov 14 08:12:50 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sat, 14 Nov 2015 08:12:50 +0530
+Subject: [Ilugc] [OT/Commercial] Trainers needed for conducting workshop on
+ Mobile Application Development Lab
+Message-ID: <CACtiFJaKOPSXiS81-f7kJm4r+eazHb7NA6X+jq0u2te1CbZsyQ@mail.gmail.com>
+
+Dear all,
+
+We are looking for experienced trainers to conduct workshop on Mobile
+Application Development lab using Android Studio on Linux platform in
+engineering colleges across Tamilnadu.  The lab syllabus and list of
+experiments can be found here.
+
+http://aulib.blogspot.in/2014/07/cs6611-mobile-application-development.html
+
+Interested trainers may contact me offlist for more details.
+
+-- 
+S. Baskar
+
+Blog: https://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From anbu.ganesh at cangonetworks.com  Mon Nov 16 04:34:08 2015
+From: anbu.ganesh at cangonetworks.com (Anbu Ganesh)
+Date: Mon, 16 Nov 2015 04:34:08 +0530
+Subject: [Ilugc] [job] ELK - Elastic Search Experts/Optimizers/Consultants
+Message-ID: <CANUW-HBZqx+J-XJ=McysTqNf=GR1_ppKmqrf6xeiuz43SpuP-g@mail.gmail.com>
+
+Hi all,
+
+    Our team has implemented Elastic Search (ELK) recently. We would like
+to seek external help to further fine tune query/implementation.
+
+     We are looking for Elastic Search consultants who have expertise and
+experience in ES implementations (Tera/Petabyte environment).
+
+     Please drop a line and would be glad to catch up at our Guindy office.
+
+Best Regards,
+Anbu Ganesh
+CanGo Networks
++91 99 402 80 333
+www.cangonetworks.com
+
+<http://www.dd14.org/networking-events/catalyst-demonstrations/>
+
+From sjksathishkumar at gmail.com  Mon Nov 16 13:42:41 2015
+From: sjksathishkumar at gmail.com (Sathish)
+Date: Mon, 16 Nov 2015 13:42:41 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+Message-ID: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+
+Hi folks,
+
+      I need to setup git environment in our server which is hosted in aws.
+So please can you give the instruction to setup git server ?
+
+      And also planed to setup gitlab for git management. So please can
+anyone help for this?
+
+ *Note:* That server already loaded with apache2 for serving webpages
+
+  Thanks in Advance.
+
+
+-- 
+Thanks & Regards
+
+Sathishkumar S
+Mob: +91-9994788682
+
+From shakthimaan at gmail.com  Mon Nov 16 13:55:25 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 16 Nov 2015 13:55:25 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+In-Reply-To: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+References: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+Message-ID: <CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 16, 2015 at 1:42 PM, Sathish <sjksathishkumar at gmail.com> wrote:
+|  I need to setup git environment in our server which is hosted in aws.
+| So please can you give the instruction to setup git server ?
+\--
+
+You can try Gitolite.
+
+  https://github.com/sitaramc/gitolite
+
+---
+|  And also planed to setup gitlab for git management. So please can
+| anyone help for this?
+\--
+
+You need to follow their documentation. Check their project website.
+For a start:
+
+  https://about.gitlab.com/installation/
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Mon Nov 16 13:57:54 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 16 Nov 2015 13:57:54 +0530
+Subject: [Ilugc] Monthly meet ILUGC - Saturday, 21 November, 2015
+In-Reply-To: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+References: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+Message-ID: <CABG-yt23z5f_7Xox9ZBZ9E1zFd+cPe5U2bs+fr6E20=4feBNdw@mail.gmail.com>
+
+Hi,
+
+Let us continue with the "Project Euler" series.
+
+Topic 3: Project Euler
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From sjksathishkumar at gmail.com  Mon Nov 16 14:00:48 2015
+From: sjksathishkumar at gmail.com (Sathish)
+Date: Mon, 16 Nov 2015 14:00:48 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+In-Reply-To: <CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+References: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+	<CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+Message-ID: <CAAwpc-sW0uwfVz-2cpunaDXTGPrOwmHcogd=_88pkq0Tw7i1Wg@mail.gmail.com>
+
+Thanks for your quick reply, But the problem is, That server already have
+apache2 when i read gitlab installation documentation it requires nginx. Is
+nginx gives any problem to my apache2 server?
+
+On Mon, Nov 16, 2015 at 1:55 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Mon, Nov 16, 2015 at 1:42 PM, Sathish <sjksathishkumar at gmail.com>
+> wrote:
+> |  I need to setup git environment in our server which is hosted in aws.
+> | So please can you give the instruction to setup git server ?
+> \--
+>
+> You can try Gitolite.
+>
+>   https://github.com/sitaramc/gitolite
+>
+> ---
+> |  And also planed to setup gitlab for git management. So please can
+> | anyone help for this?
+> \--
+>
+> You need to follow their documentation. Check their project website.
+> For a start:
+>
+>   https://about.gitlab.com/installation/
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards
+
+Sathishkumar S
+Mob: +91-9994788682
+*http://www.sathishkumar.in <http://www.sathishkumar.in>*
+*http://www.geekpaatty.com <http://www.geekpaatty.com/>*
+
+From l.mohanphy at gmail.com  Mon Nov 16 14:03:43 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Mon, 16 Nov 2015 14:03:43 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+In-Reply-To: <CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+References: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+	<CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+Message-ID: <CADiHtmucLn2UcehK876kWBiseb9+4GdxwWXMk3SkTJa04nwmzQ@mail.gmail.com>
+
+On Mon, Nov 16, 2015 at 1:55 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Mon, Nov 16, 2015 at 1:42 PM, Sathish <sjksathishkumar at gmail.com>
+> wrote:
+> |  I need to setup git environment in our server which is hosted in aws.
+> | So please can you give the instruction to setup git server ?
+> \--
+>
+> You can try Gitolite.
+>
+>   https://github.com/sitaramc/gitolite
+>
+> ?
++1
+
+git + gitolite + cgit is nice tools.
+
+Thanks
+Mohan L
+
+From shakthimaan at gmail.com  Mon Nov 16 14:14:10 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 16 Nov 2015 14:14:10 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+In-Reply-To: <CAAwpc-sW0uwfVz-2cpunaDXTGPrOwmHcogd=_88pkq0Tw7i1Wg@mail.gmail.com>
+References: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+	<CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+	<CAAwpc-sW0uwfVz-2cpunaDXTGPrOwmHcogd=_88pkq0Tw7i1Wg@mail.gmail.com>
+Message-ID: <CABG-yt2Ah1AtDgMKUw71Usa8acsc-vF-vA0r=OFoN+d8W+YuwA@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 16, 2015 at 2:00 PM, Sathish <sjksathishkumar at gmail.com> wrote:
+| Thanks for your quick reply, But the problem is, That server already have
+| apache2 when i read gitlab installation documentation it requires nginx.
+\--
+
+It is another web server implementation. Trying asking in Gitlab
+support channels for help regarding apache2. See:
+
+  https://about.gitlab.com/getting-help/
+
+---
+| Is
+| nginx gives any problem to my apache2 server?
+\--
+
+It depends on how you configure it. They don't necessarily have to
+interfere with each other.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From l.mohanphy at gmail.com  Mon Nov 16 14:15:13 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Mon, 16 Nov 2015 14:15:13 +0530
+Subject: [Ilugc] Need to Setup GitLap on Ubuntu Server [ Hosted in AWS ]
+In-Reply-To: <CAAwpc-sW0uwfVz-2cpunaDXTGPrOwmHcogd=_88pkq0Tw7i1Wg@mail.gmail.com>
+References: <CAAwpc-uswmoJKZsi+aKdZwHWk-NzKQLgDxEDhf31QUqW9iDc9g@mail.gmail.com>
+	<CABG-yt3U6zOiEFYiGvkoEC9xwQdgyvOU+y5s811b2K=077DeCA@mail.gmail.com>
+	<CAAwpc-sW0uwfVz-2cpunaDXTGPrOwmHcogd=_88pkq0Tw7i1Wg@mail.gmail.com>
+Message-ID: <CADiHtmueECGqevVc5C5q48ucdHzPttfAFq77yyhUVoNu6LyThg@mail.gmail.com>
+
+On Mon, Nov 16, 2015 at 2:00 PM, Sathish <sjksathishkumar at gmail.com> wrote:
+
+> Thanks for your quick reply, But the problem is, That server already have
+> apache2 when i read
+> ??
+> gitlab installation documentation it requires nginx. Is
+> ??
+> nginx gives any problem to my apache2 server?
+
+
+?You can use either apache or
+??
+nginx.?
+
+?Please go through the below links:?
+
+?
+git+gitolite+cgit+apache on Ubuntu
+
+http://www.cnblogs.com/eshizhan/p/3383876.html
+
+http://www.bigfastblog.com/gitolite-installation-step-by-step
+
+Gitolite Essentials by Sitaram Chamarty:
+
+https://www.safaribooksonline.com/library/view/gitolite-essentials/9781783282371/
+
+?Thanks
+Mohan L?
+
+From gokulakrishnan at locustechnologies.com  Mon Nov 16 18:34:56 2015
+From: gokulakrishnan at locustechnologies.com (Gls)
+Date: Mon, 16 Nov 2015 18:34:56 +0530
+Subject: [Ilugc] Master and Slave configuration in mysql
+Message-ID: <5649D478.5010305@locustechnologies.com>
+
+Hi Friends.,
+
+  How to configure the master and slave configuration in mysql..?
+
+Regards
+Gokul
+
+From shakthimaan at gmail.com  Mon Nov 16 18:45:13 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 16 Nov 2015 18:45:13 +0530
+Subject: [Ilugc] Master and Slave configuration in mysql
+In-Reply-To: <5649D478.5010305@locustechnologies.com>
+References: <5649D478.5010305@locustechnologies.com>
+Message-ID: <CABG-yt1ZeDHbErYZX7ki3RzB8cAC-Zb=zzNJHXRzw6vEBR8iJQ@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 16, 2015 at 6:34 PM, Gls
+<gokulakrishnan at locustechnologies.com> wrote:
+|  How to configure the master and slave configuration in mysql..?
+\--
+
+Please use a search engine (like DuckDuckGo or Google) before posting
+such questions. For a start:
+
+  https://dev.mysql.com/doc/refman/5.7/en/replication-howto.html
+
+  https://www.howtoforge.com/mysql_database_replication
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From gokulakrishnan at locustechnologies.com  Mon Nov 16 18:48:11 2015
+From: gokulakrishnan at locustechnologies.com (Gls)
+Date: Mon, 16 Nov 2015 18:48:11 +0530
+Subject: [Ilugc] Master and Slave configuration in mysql
+In-Reply-To: <CABG-yt1ZeDHbErYZX7ki3RzB8cAC-Zb=zzNJHXRzw6vEBR8iJQ@mail.gmail.com>
+References: <5649D478.5010305@locustechnologies.com>
+	<CABG-yt1ZeDHbErYZX7ki3RzB8cAC-Zb=zzNJHXRzw6vEBR8iJQ@mail.gmail.com>
+Message-ID: <5649D793.9010303@locustechnologies.com>
+
+Thanks
+
+On Monday 16 November 2015 06:45 PM, Shakthi Kannan wrote:
+> Hi,
+>
+> --- On Mon, Nov 16, 2015 at 6:34 PM, Gls
+> <gokulakrishnan at locustechnologies.com> wrote:
+> |  How to configure the master and slave configuration in mysql..?
+> \--
+>
+> Please use a search engine (like DuckDuckGo or Google) before posting
+> such questions. For a start:
+>
+>    https://dev.mysql.com/doc/refman/5.7/en/replication-howto.html
+>
+>    https://www.howtoforge.com/mysql_database_replication
+>
+> SK
+>
+
+
+From kidbees at gmail.com  Wed Nov 18 13:40:04 2015
+From: kidbees at gmail.com (Bala Kumar)
+Date: Wed, 18 Nov 2015 13:40:04 +0530
+Subject: [Ilugc]  Monthly meet ILUGC - Saturday, 21 November, 2015
+Message-ID: <CAKLQ04Bdqj9KwqvL1uRYxjr=RkZSyRZCuwDK_eLPCvZWxrHMgw@mail.gmail.com>
+
+Recently I was observing flooding pictures from the student activity center
+- FB page.
+https://www.facebook.com/pages/Student-Activity-Centre-IIT-Madras/422594197841530
+.
+
+Will help if insiders can give an update on the current situation and
+confirm for Saturday's meet.
+
+From rajusns at gmail.com  Wed Nov 18 15:27:11 2015
+From: rajusns at gmail.com (Raju s)
+Date: Wed, 18 Nov 2015 15:27:11 +0530
+Subject: [Ilugc] crontab not to run in night time
+Message-ID: <CAGggmUwitZSa+KEohPwD9_Zd-djmYAn1f4deNxR8TDEdKhX_yg@mail.gmail.com>
+
+Hello,
+
+We can set the time interval for scripts to run thro' crontab
+Is it possible to make crontab not to run at night.
+Or can we fix a from and to time for a script to run.
+
+Thanks
+Raju
+
+From fossbalaji at gmail.com  Wed Nov 18 15:38:05 2015
+From: fossbalaji at gmail.com (Balaji G)
+Date: Wed, 18 Nov 2015 15:38:05 +0530
+Subject: [Ilugc] crontab not to run in night time
+In-Reply-To: <CAGggmUwitZSa+KEohPwD9_Zd-djmYAn1f4deNxR8TDEdKhX_yg@mail.gmail.com>
+References: <CAGggmUwitZSa+KEohPwD9_Zd-djmYAn1f4deNxR8TDEdKhX_yg@mail.gmail.com>
+Message-ID: <CAOL5SsoC14ddKJWNQSxEK9G4dzoVwdkupYnZ5r5OQ1r6pLtJ7A@mail.gmail.com>
+
+yes .. It's possible.
+
+you can specify hours .
+
+crontab -e
+
+# m h  dom mon dow   command
+
+h - hours ( you can specify your timing here)
+
+(e.x) 7 - 18 ( 7am  to 6pm)
+
+Hope it helps.
+
+
+On Wed, Nov 18, 2015 at 3:27 PM, Raju s <rajusns at gmail.com> wrote:
+
+> Hello,
+>
+> We can set the time interval for scripts to run thro' crontab
+> Is it possible to make crontab not to run at night.
+> Or can we fix a from and to time for a script to run.
+>
+> Thanks
+> Raju
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+With regards,
+
+Balaji.G
+
+http://gbala.in
+
+From sahasr at naman.ms  Wed Nov 18 19:34:38 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Wed, 18 Nov 2015 19:04:38 +0500
+Subject: [Ilugc] Monthly meet ILUGC - Saturday, 21 November, 2015
+In-Reply-To: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+References: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+Message-ID: <1447855478.2452.3@smtp.gmail.com>
+
+Hi,
+
+I would like to talk about a LibreOffice enhancement done by a my 
+colleague.  Here is the bugzilla page for the enhancement:  
+https://bugs.documentfoundation.org/show_bug.cgi?id=48456
+
+Topic:  Contributing to LibreOffice - Calc - Talk 3
+
+Description:
+    - How to select a bug to work on
+    - Enhancement description
+    - Searching LO codebase
+
+Duration: 30 mins
+
+About me:  I work for Libre Data Consultancy Services (www.ldcs.co.in)
+
+Thanks,
+Sahas
+
+
+
+From shakthimaan at gmail.com  Thu Nov 19 14:35:21 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 19 Nov 2015 14:35:21 +0530
+Subject: [Ilugc] Monthly meet ILUGC - Saturday, 21 November, 2015
+In-Reply-To: <1447855478.2452.3@smtp.gmail.com>
+References: <CABG-yt3S_QN8L1dfitf6uTyYeqkaNL+EvPqZrWwqvejpNrpSVw@mail.gmail.com>
+	<1447855478.2452.3@smtp.gmail.com>
+Message-ID: <CABG-yt3EM5A=BjBn=g_bjsjCvZFmCO59fQ6jBe3mFf_f=49_xA@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Nov 18, 2015 at 7:34 PM, Sahasranaman M S <sahasr at naman.ms> wrote:
+| About me:  I work for Libre Data Consultancy Services (www.ldcs.co.in)
+\--
+
+In a community, the focus is more on which Free and Open Source
+Software (F/OSS) project you are contributing to. The above could have
+been written as a "contributor to the LibreOffice project".
+
+It doesn't matter whether one is a President, or Vice-President or CTO
+in a company. Everyone is a volunteer here.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Thu Nov 19 14:49:44 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 19 Nov 2015 14:49:44 +0530
+Subject: [Ilugc] Monthly meet ILUGC - Saturday, 21 November, 2015
+Message-ID: <CABG-yt05+BKVu7myCD8doa3ayHuvW=BL-zSWfzDE2FNQBxMucw@mail.gmail.com>
+
+Hi,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free/Open Source Software (F/OSS) in Chennai since January 1998.
+
+We usually meet on the second Saturday of every month, and the
+sessions consist of technical talks and discussions. For this month,
+we shall meet on Saturday, 21st November 2015 at 1500 IST.
+
+Venue: Classroom No 1,
+             Aerospace Engineering,
+             Near Gajendra Circle,
+             IIT Madras.
+             Link for the Map: http://bit.ly/iitm-aero
+
+Time: 1500-1800 IST
+
+Talk 1
+
+Topic: Contributing to LibreOffice - Calc (III)
+
+Speaker: Sahasranaman M S
+
+Duration: 30 mins
+
+Description:
+    - How to select a bug to work on
+    - Enhancement description
+    - Searching LO codebase
+
+About me:  I work for Libre Data Consultancy Services (www.ldcs.co.in)
+
+Talk 2
+
+Topic: Project Euler
+
+Speaker: Shakthi Kannan
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About me: Shakthi Kannan is a Free Software enthusiast who blogs at
+shakthimaan.com.
+
+The floor will be open after these sessions for any discussions or
+lightning talks.
+
+Entry is free.
+
+SK
+
+P.S.: I checked with few folks from IIT-Madras, and they said that
+there isn't much water logging in the campus.
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From rajusns at gmail.com  Thu Nov 19 16:27:05 2015
+From: rajusns at gmail.com (Raju s)
+Date: Thu, 19 Nov 2015 16:27:05 +0530
+Subject: [Ilugc] crontab not to run in night time
+In-Reply-To: <CAOL5SsoC14ddKJWNQSxEK9G4dzoVwdkupYnZ5r5OQ1r6pLtJ7A@mail.gmail.com>
+References: <CAGggmUwitZSa+KEohPwD9_Zd-djmYAn1f4deNxR8TDEdKhX_yg@mail.gmail.com>
+	<CAOL5SsoC14ddKJWNQSxEK9G4dzoVwdkupYnZ5r5OQ1r6pLtJ7A@mail.gmail.com>
+Message-ID: <CAGggmUwnkH8gu2ANqNPWj8DkO=PqVemM9dE4QgtOUVXA8dgc9Q@mail.gmail.com>
+
+On Wed, Nov 18, 2015 at 3:38 PM, Balaji G <fossbalaji at gmail.com> wrote:
+
+>
+>
+>
+> On Wed, Nov 18, 2015 at 3:27 PM, Raju s <rajusns at gmail.com> wrote:
+>
+> > Hello,
+> >
+> > We can set the time interval for scripts to run thro' crontab
+> > Is it possible to make crontab not to run at night.
+> > Or can we fix a from and to time for a script to run.
+> >
+> > Thanks
+> > Raju
+> > _______________________________________________
+> yes .. It's possible.
+>
+> you can specify hours .
+>
+> crontab -e
+>
+> # m h  dom mon dow   command
+>
+> h - hours ( you can specify your timing here)
+>
+> (e.x) 7 - 18 ( 7am  to 6pm)
+>
+> Hope it helps.
+
+---------------------------------
+Thanks for the info. It works
+ i have added
+*/30 09-18 * * 1-6
+to work every 30 mnts from 9 to 18 hrs from monday to saturday
+
+Raju
+
+From 77minds at gmail.com  Fri Nov 20 13:35:32 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Fri, 20 Nov 2015 13:35:32 +0530
+Subject: [Ilugc] [job] Need a Java guy / gal
+Message-ID: <CAJR+9kZC3b5GNXmsghmWsn871nKGKHXVdvpG6OuxQ2dgHu2EUQ@mail.gmail.com>
+
+Hello People,
+
+We need a Java + (possibly experience in spring) + good in DB guy / gal.
+Either fresher or 1year experience. Please mail resume to
+karthikeyan.ak at zanec.com
+
+A person who loves to code will be more welcome.
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From arun_krish20 at yahoo.co.in  Mon Nov 23 17:39:56 2015
+From: arun_krish20 at yahoo.co.in (arun kumar)
+Date: Mon, 23 Nov 2015 12:09:56 +0000 (UTC)
+Subject: [Ilugc] X11 output with Transparent channel
+References: <81968383.7709875.1448280596191.JavaMail.yahoo.ref@mail.yahoo.com>
+Message-ID: <81968383.7709875.1448280596191.JavaMail.yahoo@mail.yahoo.com>
+
+Hello All,
+We are facing an issue with X11 and multiple hardware framebuffer.
+In our board we have 2 hardware framebuffers. 
+1. /dev/FB0 - used for UI application, X11 is used to update FB0 frame buffer. in our application we are processing pixel information with RGBA format in all GUI windows(EGL 2.0).
+2. /dev/FB1 - We are displaying video thorugh gstreamer v4lsink.
+
+Finally in our board(iMx6 - Freescale) IPU process will blend these 2 hardware frame buffers with the concept of local alpha in pixel mode and update the final buffer into display.Scenario is, in GUI we are updating video play controls(except play controls area will be transparent to view the video) and will be updated to FB0 and Video will be updated to FB1.
+Issue is in FB0 pixel informations are updated with only RGB and A is neglected.
+
+We want know X11 output can be canfigured with alpha information for each pixel in the final output?May be X11 output is the final output to the display, so not nessary to have the alpha in pixel information? 
+Is there any configuration to have the Alpha channel for the pixel information to the final output from X11?
+
+Thanks in Advance!Arunkumar R
+
+
+
+
+
+
+
+From shakthimaan at gmail.com  Mon Nov 23 11:29:55 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 23 Nov 2015 11:29:55 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+Message-ID: <CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Nov 12, 2015 at 5:39 PM, Thyagarajan ??????????
+<citizenofgnu at gmail.com> wrote:
+| Some of us proposed to democratically elect a volunteer and a name was
+| proposed and it was some how not materialized even when a youngster came
+| forward.
+\--
+
+The first thing one should do when a volunteer moves on, is to make
+sure that you step up and ensure that the monthly meet actually
+happens ...
+
+---
+| I would like to reiterate the mechanism and allow a candidate to be
+| democratically elected.
+\--
+
+... and not send proposals.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Tue Nov 24 04:59:21 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 24 Nov 2015 04:59:21 +0530
+Subject: [Ilugc] Suggest a open source event ticket selling software
+Message-ID: <CAND2795=Hzkg=f50HOJUnF4xmC9Cid-3ApuoL3RiH9ywHZrh6w@mail.gmail.com>
+
+I am looking for an open source event ticket selling software.
+PHP based is preferred
+
+Exploring
+http://opentickets.com/community-edition/
+and
+https://www.fusionticket.org/
+
+Is there any other good software to explore?
+
+Thanks.
+
+Shrini.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From citizenofgnu at gmail.com  Tue Nov 24 14:56:28 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Tue, 24 Nov 2015 14:56:28 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+Message-ID: <CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+
+hi,
+
+>>. and not send proposals.
+
+Those were not proposals, but a suggestion. Should i not allowed to suggest
+here. A candidate was proposed and it was absolutely turned down.
+I worked as a foot soldier like you, if you cannot  give me credit atleast
+please do not discredit my work.
+
+Regards,
+
+Thyagarajan Shanmugham.
+
+
+On Mon, Nov 23, 2015 at 11:29 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Thu, Nov 12, 2015 at 5:39 PM, Thyagarajan ??????????
+> <citizenofgnu at gmail.com> wrote:
+> | Some of us proposed to democratically elect a volunteer and a name was
+> | proposed and it was some how not materialized even when a youngster came
+> | forward.
+> \--
+>
+> The first thing one should do when a volunteer moves on, is to make
+> sure that you step up and ensure that the monthly meet actually
+> happens ...
+>
+> ---
+> | I would like to reiterate the mechanism and allow a candidate to be
+> | democratically elected.
+> \--
+>
+> ... and not send proposals.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sahasr at naman.ms  Wed Nov 25 23:30:42 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Wed, 25 Nov 2015 23:30:42 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+Message-ID: <CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+
+Hi Shakthi,
+
+You sent the meet invitation last time,  I was wondering if you are
+planning to continue? If that's so,  my offer to coordinate on a temporary
+or permanent basis is not required.
+
+I noticed that the website has not been updated since June.  I would be
+happy to update the website with meeting time and list of talks a couple of
+days before the meeting.
+
+Regards,
+Sahas
+
+From shakthimaan at gmail.com  Thu Nov 26 06:39:31 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 26 Nov 2015 06:39:31 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+Message-ID: <CABG-yt2ez-W5=iOmZmL6b0EiYUQe_1rJ2mO9-iX6M3ZPYvU9Sw@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Nov 24, 2015 at 2:56 PM, Thyagarajan ??????????
+<citizenofgnu at gmail.com> wrote:
+| Those were not proposals, but a suggestion.
+\--
+
+You lost me there!
+
+---
+| please do not discredit my work.
+\--
+
+Nobody spoke about your work.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Thu Nov 26 06:46:31 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 26 Nov 2015 06:46:31 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+	<CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+Message-ID: <CABG-yt1cc-gceoxjEvz3Y=WBHcXgy358FD_mqKA14E1TeaQerA@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Nov 25, 2015 at 11:30 PM, Sahasranaman M S <sahasr at naman.ms> wrote:
+| You sent the meet invitation last time,  I was wondering if you are
+| planning to continue?
+\--
+
+As a volunteer, yes.
+
+---
+| If that's so,  my offer to coordinate on a temporary
+| or permanent basis is not required.
+\--
+
+These are better discussed in our monthly meets amongst people who attend.
+
+---
+| I noticed that the website has not been updated since June.  I would be
+| happy to update the website with meeting time and list of talks a couple of
+| days before the meeting.
+\--
+
+Thanks for volunteering. You might want to contact Shrini (in CC).
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Thu Nov 26 14:55:50 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 26 Nov 2015 14:55:50 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CABG-yt1cc-gceoxjEvz3Y=WBHcXgy358FD_mqKA14E1TeaQerA@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+	<CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+	<CABG-yt1cc-gceoxjEvz3Y=WBHcXgy358FD_mqKA14E1TeaQerA@mail.gmail.com>
+Message-ID: <CAND2797FnqUVZV28E==e_HQsFfUmgb2gFj3rPWdLsWR05UObhg@mail.gmail.com>
+
+> | I noticed that the website has not been updated since June.  I would be
+> | happy to update the website with meeting time and list of talks a couple of
+> | days before the meeting.
+> \--
+>
+> Thanks for volunteering. You might want to contact Shrini (in CC).
+
+
+Thanks for Volunteering Sahas.
+
+I added you as editor in the website.
+It is just a wordpress site.
+
+Feel free to add news about the meetings/events/latest news.
+
+Thanks.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From cutesan.san20 at gmail.com  Thu Nov 26 20:19:46 2015
+From: cutesan.san20 at gmail.com (zeal san)
+Date: Thu, 26 Nov 2015 20:19:46 +0530
+Subject: [Ilugc] curl error 28 connection timed-out
+Message-ID: <CAGE9fikRg_Ez0yT4gXENmRHN_J+2jU+Yoki2PB+FBaw-z+Ub+A@mail.gmail.com>
+
+Hi All,
+
+i am getting HTTP ERROR: cURL ERROR: 28: connect() timed out! when calling
+the api url through code. but while pinging from cmd prompt its works. what
+might be the problem?
+
+regards,
+Santhosh
+
+From knura9 at gmail.com  Thu Nov 26 21:20:25 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Thu, 26 Nov 2015 21:20:25 +0530
+Subject: [Ilugc] curl error 28 connection timed-out
+In-Reply-To: <CAGE9fikRg_Ez0yT4gXENmRHN_J+2jU+Yoki2PB+FBaw-z+Ub+A@mail.gmail.com>
+References: <CAGE9fikRg_Ez0yT4gXENmRHN_J+2jU+Yoki2PB+FBaw-z+Ub+A@mail.gmail.com>
+Message-ID: <CAHhM8gBRkeHZ3Rpv56Ek-ud7rH1e+W33g2S9e1gp9iaO+VcXSA@mail.gmail.com>
+
+On Thu, Nov 26, 2015 at 8:19 PM, zeal san <cutesan.san20 at gmail.com> wrote:
+> Hi All,
+>
+> i am getting HTTP ERROR: cURL ERROR: 28: connect() timed out! when calling
+> the api url through code. but while pinging from cmd prompt its works. what
+> might be the problem?
+>
+
+ping response is an ICMP echo reply whereas HTTP error is related to a
+web server.  Are you sure you have installed / activated a web server?
+
+-- Arun Khan
+
+From shakthimaan at gmail.com  Thu Nov 26 21:24:57 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 26 Nov 2015 21:24:57 +0530
+Subject: [Ilugc] curl error 28 connection timed-out
+In-Reply-To: <CAGE9fikRg_Ez0yT4gXENmRHN_J+2jU+Yoki2PB+FBaw-z+Ub+A@mail.gmail.com>
+References: <CAGE9fikRg_Ez0yT4gXENmRHN_J+2jU+Yoki2PB+FBaw-z+Ub+A@mail.gmail.com>
+Message-ID: <CABG-yt2jBNvMCTjb1Ov9VYBhoOG1pQG+ppj2=3Z2VJ2w5hd-DQ@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Nov 26, 2015 at 8:19 PM, zeal san <cutesan.san20 at gmail.com> wrote:
+| i am getting HTTP ERROR: cURL ERROR: 28: connect() timed out! when calling
+| the api url through code.
+\--
+
+Which API? What are you trying to do? Please give some more info.
+
+---
+| might be the problem?
+\--
+
+You can use "-vvvv" option with curl to produce a more verbose output.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From sahasr at naman.ms  Fri Nov 27 00:25:34 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Fri, 27 Nov 2015 00:25:34 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAND2797FnqUVZV28E==e_HQsFfUmgb2gFj3rPWdLsWR05UObhg@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+	<CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+	<CABG-yt1cc-gceoxjEvz3Y=WBHcXgy358FD_mqKA14E1TeaQerA@mail.gmail.com>
+	<CAND2797FnqUVZV28E==e_HQsFfUmgb2gFj3rPWdLsWR05UObhg@mail.gmail.com>
+Message-ID: <CAJSNQU3-WkMX0u+MuEWLw7-K=qHGDj464r8ukuQ4A+NeM4LVxw@mail.gmail.com>
+
+Thanks Shrini,  I will try and keep it up to date with meeting/event info
+to begin with.
+On 26-Nov-2015 2:57 pm, "Shrinivasan T" <tshrinivasan at gmail.com> wrote:
+
+> > | I noticed that the website has not been updated since June.  I would be
+> > | happy to update the website with meeting time and list of talks a
+> couple of
+> > | days before the meeting.
+> > \--
+> >
+> > Thanks for volunteering. You might want to contact Shrini (in CC).
+>
+>
+> Thanks for Volunteering Sahas.
+>
+> I added you as editor in the website.
+> It is just a wordpress site.
+>
+> Feel free to add news about the meetings/events/latest news.
+>
+> Thanks.
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+> http://FreeTamilEbooks.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shanmugas66 at gmail.com  Fri Nov 27 11:41:28 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Fri, 27 Nov 2015 11:41:28 +0530
+Subject: [Ilugc] Ilugc co-ordination
+In-Reply-To: <CAJSNQU3-WkMX0u+MuEWLw7-K=qHGDj464r8ukuQ4A+NeM4LVxw@mail.gmail.com>
+References: <CACq+3bupHoXRRFpvMus4amE=PB9FAPAJOsm+79MYkwJC-rnc9Q@mail.gmail.com>
+	<CAJSNQU3AogOWXkUM5i-RXB5_3Rg8kMOYMaA2NAL2PB-OCyZN4w@mail.gmail.com>
+	<CAEdr4A7GEGumP+Lxyibck_wR1FUGu1nDmCXU7uV32tQWd4yBAw@mail.gmail.com>
+	<CABG-yt34PJwx4RQE-tAMgOc1aoABYfk61ab8gYyGm1E3xu51fA@mail.gmail.com>
+	<CAEdr4A54JfMa6W+S5uiFw4Dro+DRT6VTS8r2gVMGfWUbiqttxg@mail.gmail.com>
+	<CAJSNQU1FmFxOAuSB+dZ7KO2hO1omD5QvAw-1NAfazuN=R9DmMw@mail.gmail.com>
+	<CABG-yt1cc-gceoxjEvz3Y=WBHcXgy358FD_mqKA14E1TeaQerA@mail.gmail.com>
+	<CAND2797FnqUVZV28E==e_HQsFfUmgb2gFj3rPWdLsWR05UObhg@mail.gmail.com>
+	<CAJSNQU3-WkMX0u+MuEWLw7-K=qHGDj464r8ukuQ4A+NeM4LVxw@mail.gmail.com>
+Message-ID: <CA+h6mdMNZh4ib-C0B1bOHiGEUHbSLz1_uq3XpR4m56OMBeHB5A@mail.gmail.com>
+
+hai friends
+                it is a nice thing which you all are going to update it
+will be help full to all who visit the pages and if any work then also
+share to me i would also try to join with your work bro
+
+thanks
+sundar
+
+On Fri, Nov 27, 2015 at 12:25 AM, Sahasranaman M S <sahasr at naman.ms> wrote:
+
+> Thanks Shrini,  I will try and keep it up to date with meeting/event info
+> to begin with.
+> On 26-Nov-2015 2:57 pm, "Shrinivasan T" <tshrinivasan at gmail.com> wrote:
+>
+> > > | I noticed that the website has not been updated since June.  I would
+> be
+> > > | happy to update the website with meeting time and list of talks a
+> > couple of
+> > > | days before the meeting.
+> > > \--
+> > >
+> > > Thanks for volunteering. You might want to contact Shrini (in CC).
+> >
+> >
+> > Thanks for Volunteering Sahas.
+> >
+> > I added you as editor in the website.
+> > It is just a wordpress site.
+> >
+> > Feel free to add news about the meetings/events/latest news.
+> >
+> > Thanks.
+> >
+> > --
+> > Regards,
+> > T.Shrinivasan
+> >
+> >
+> > My Life with GNU/Linux : http://goinggnu.wordpress.com
+> > Free E-Magazine on Free Open Source Software in Tamil :
+> http://kaniyam.com
+> >
+> > Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+> > http://FreeTamilEbooks.com
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From girithenayil at gmail.com  Fri Nov 27 14:18:59 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Fri, 27 Nov 2015 14:18:59 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+Message-ID: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+
+Dear All ,
+
+Opensource UTM firewall  and Session Border Controller for securing VoIP
+traffic available for free download .
+
+If any one interested to download and use it ,those guys can take advantage
+of the same .
+
+its fully free including support .
+
+for UTM visit  http://shield.com/
+
+for  Session Border Controller visit   http://blox.org/
+
+If you have any queries kindly contact me gireesh at allo.com
+
+Thanks and Regards,
+
+Gireesh
+
++91 9008092652
+
+From girithenayil at gmail.com  Fri Nov 27 14:20:00 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Fri, 27 Nov 2015 14:20:00 +0530
+Subject: [Ilugc] Fwd: Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+Message-ID: <CAEfUC9uTT+rj-gjDdQiYPW0raEFv1O7NRTDq9S+O6pYRu7ESRg@mail.gmail.com>
+
+Dear All ,
+
+Opensource UTM firewall  and Session Border Controller for securing VoIP
+traffic available for free download .
+
+If any one interested to download and use it ,those guys can take advantage
+of the same .
+
+its fully free including support .
+
+for UTM visit  http://shield.com/
+
+for  Session Border Controller visit   http://blox.org/
+
+If you have any queries kindly contact me gireesh at allo.com
+
+Thanks and Regards,
+
+Gireesh
+
++91 9008092652
+
+From shakthimaan at gmail.com  Fri Nov 27 14:23:13 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 27 Nov 2015 14:23:13 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+Message-ID: <CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+<girithenayil at gmail.com> wrote:
+| Opensource UTM firewall  and Session Border Controller for securing VoIP
+| traffic available for free download .
+\--
+
+Can you provide link to source code?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From girithenayil at gmail.com  Fri Nov 27 16:46:45 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Fri, 27 Nov 2015 16:46:45 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+Message-ID: <CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+
+Dear SK ,
+
+The Session Border Controller its open now
+
+pls check this link
+
+https://github.com/blox-org/
+
+...and for SHIELD UTM we are in the process of setting up an github ...let
+you know in detls soon .
+
+
+Regards,
+
+
+On Fri, Nov 27, 2015 at 2:23 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+> <girithenayil at gmail.com> wrote:
+> | Opensource UTM firewall  and Session Border Controller for securing VoIP
+> | traffic available for free download .
+> \--
+>
+> Can you provide link to source code?
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From girithenayil at gmail.com  Fri Nov 27 16:49:54 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Fri, 27 Nov 2015 16:49:54 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+	<CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+Message-ID: <CAEfUC9uPtoNjiv30MkpJMy92FjHMctX89aica6pLC1RZgDwLvg@mail.gmail.com>
+
+wanted to add few lines
+
+With respect to Shield UTM,
+you could download the freeware iso and try it your setup for now.
+
+On Fri, Nov 27, 2015 at 4:46 PM, Gireesh thenayil rajappan nair <
+girithenayil at gmail.com> wrote:
+
+> Dear SK ,
+>
+> The Session Border Controller its open now
+>
+> pls check this link
+>
+> https://github.com/blox-org/
+>
+> ...and for SHIELD UTM we are in the process of setting up an github ...let
+> you know in detls soon .
+>
+>
+> Regards,
+>
+>
+> On Fri, Nov 27, 2015 at 2:23 PM, Shakthi Kannan <shakthimaan at gmail.com>
+> wrote:
+>
+>> Hi,
+>>
+>> --- On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+>> <girithenayil at gmail.com> wrote:
+>> | Opensource UTM firewall  and Session Border Controller for securing VoIP
+>> | traffic available for free download .
+>> \--
+>>
+>> Can you provide link to source code?
+>>
+>> SK
+>>
+>> --
+>> Shakthi Kannan
+>> http://www.shakthimaan.com
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+
+From shakthimaan at gmail.com  Fri Nov 27 17:03:37 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 27 Nov 2015 17:03:37 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+	<CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+Message-ID: <CABG-yt1g7P8eSREQ5XOZpkx2LHfK3w63PoAR+CEAZopQ7X7c5Q@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Nov 27, 2015 at 4:46 PM, Gireesh thenayil rajappan nair
+<girithenayil at gmail.com> wrote:
+| The Session Border Controller its open now
+|
+| pls check this link
+|
+| https://github.com/blox-org/
+|
+| ...and for SHIELD UTM we are in the process of setting up an github ...let
+| you know in detls soon .
+\--
+
+Just wanted to check if it is free and open source software, and not freeware.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Fri Nov 27 17:05:34 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 27 Nov 2015 17:05:34 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9uPtoNjiv30MkpJMy92FjHMctX89aica6pLC1RZgDwLvg@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+	<CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+	<CAEfUC9uPtoNjiv30MkpJMy92FjHMctX89aica6pLC1RZgDwLvg@mail.gmail.com>
+Message-ID: <CABG-yt0SMTXihQApR8EURHkQmQgsjhbrSJCZQsFHYqFm9AWKYQ@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Nov 27, 2015 at 4:49 PM, Gireesh thenayil rajappan nair
+<girithenayil at gmail.com> wrote:
+| With respect to Shield UTM,
+| you could download the freeware iso and try it your setup for now.
+\--
+
+Can you provide the steps you used to build the .iso from the sources?
+
+This mailing list is not a place for freeware. Please only post free
+and open source software related topics.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From girithenayil at gmail.com  Fri Nov 27 17:12:26 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Fri, 27 Nov 2015 17:12:26 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CABG-yt0SMTXihQApR8EURHkQmQgsjhbrSJCZQsFHYqFm9AWKYQ@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CABG-yt0qJ2m9nobR20AHK10D=o-SuVEEAF7_BWeAeqO9c6WHgg@mail.gmail.com>
+	<CAEfUC9uMJ87j5eHkgbfF_aYTR2fmFbmf-9z-3vKPu3zMbkTmjw@mail.gmail.com>
+	<CAEfUC9uPtoNjiv30MkpJMy92FjHMctX89aica6pLC1RZgDwLvg@mail.gmail.com>
+	<CABG-yt0SMTXihQApR8EURHkQmQgsjhbrSJCZQsFHYqFm9AWKYQ@mail.gmail.com>
+Message-ID: <CAEfUC9smZcMST3ZCeLm__424u8oqUhBZXog2jZ=cykUt+myq4g@mail.gmail.com>
+
+Ok ..
+
+
+
+
+On Fri, Nov 27, 2015 at 5:05 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Fri, Nov 27, 2015 at 4:49 PM, Gireesh thenayil rajappan nair
+> <girithenayil at gmail.com> wrote:
+> | With respect to Shield UTM,
+> | you could download the freeware iso and try it your setup for now.
+> \--
+>
+> Can you provide the steps you used to build the .iso from the sources?
+>
+> This mailing list is not a place for freeware. Please only post free
+> and open source software related topics.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From scorpionking.sahil at gmail.com  Sat Nov 28 13:48:22 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Sat, 28 Nov 2015 13:48:22 +0530
+Subject: [Ilugc] [[OFF-Topic]] A programmer wrote scripts to secretly
+ automate a lot of his job...
+Message-ID: <CAP6xennnMDMM-jhVK=iKsY-cM921SgUDP_mE2FtoJ9Ri6DuYMQ@mail.gmail.com>
+
+Namaste Everyone,
+
+Stumbled upon this news yesterday and was spellbound... Amazing. Isn't it?
+
+http://www.independent.co.uk/life-style/gadgets-and-tech/lazy-or-genius-programmer-writes-code-to-send-automatic-texts-to-wife-and-make-himself-lattes-a6747771.html
+
+Do check this out and automate your daily mundane tasks.
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From knura9 at gmail.com  Mon Nov 30 13:15:13 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Mon, 30 Nov 2015 13:15:13 +0530
+Subject: [Ilugc] [[OFF-Topic]] A programmer wrote scripts to secretly
+ automate a lot of his job...
+In-Reply-To: <CAP6xennnMDMM-jhVK=iKsY-cM921SgUDP_mE2FtoJ9Ri6DuYMQ@mail.gmail.com>
+References: <CAP6xennnMDMM-jhVK=iKsY-cM921SgUDP_mE2FtoJ9Ri6DuYMQ@mail.gmail.com>
+Message-ID: <CAHhM8gDVKPbqR06uqpJUmFTEhrnwnOJiiOZP+7qMr944fha=KQ@mail.gmail.com>
+
+On Sat, Nov 28, 2015 at 1:48 PM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+> Namaste Everyone,
+>
+> Stumbled upon this news yesterday and was spellbound... Amazing. Isn't it?
+>
+> http://www.independent.co.uk/life-style/gadgets-and-tech/lazy-or-genius-programmer-writes-code-to-send-automatic-texts-to-wife-and-make-himself-lattes-a6747771.html
+>
+> Do check this out and automate your daily mundane tasks.
+>
+
+Absolutely,  this is the philosophy I impart to my Linux Admin
+students.  Sadly, only a few (in my experience) take up the challenge
+to make their sys admin life/job easier for themselves.
+
+-- Arun Khan
+
+From shakthimaan at gmail.com  Mon Nov 30 13:21:34 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Nov 2015 13:21:34 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+Message-ID: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+
+Hi,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free/Open Source Software (F/OSS) in Chennai since January 1998.
+
+We usually meet on the second Saturday of every month, and the
+sessions consist of technical talks and discussions. Our next meet is
+on Saturday, December 12 2015 at 1500 IST.
+
+Venue: Classroom No 1,
+             Aerospace Engineering,
+             Near Gajendra Circle,
+             IIT Madras.
+             Link for the Map: http://bit.ly/iitm-aero
+
+You can give a talk or present a demo on F/OSS. Please provide the
+following details if you are interested:
+
+  Topic
+  Description
+  Duration
+  About Yourself
+
+Entry is free.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From msrarun22 at gmail.com  Mon Nov 30 19:38:45 2015
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Mon, 30 Nov 2015 19:38:45 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+Message-ID: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+
+Hi all,
+
+
+
+       Facing some problem in ubuntu .Installed O/s but now i could not
+install additional packages , GUI, etc...
+When i try to install rpm using the following command it says the following
+error.
+
+   sudo apt-get install rpm
+
+reading package lists... done + building dependency tree + reading state
+information... *done e* package rpm is not available, but is referred to by
+another *package* this may mean that the package is missing, has been
+obsoleted, or is only available from another source + E: Package 'rpm' has
+no installation candidate
+<https://www.google.co.in/search?biw=1366&bih=673&q=reading+package+lists...+done+%2B+building+dependency+tree+%2B+reading+state+information...+done+e+package+rpm+is+not+available,+but+is+referred+to+by+another+package+this+may+mean+that+the+package+is+missing,+has+been+obsoleted,+or+is+only+available+from+another+source+%2B+E:+Package+'rpm'+has+no+installation+candidate&spell=1&sa=X&ved=0ahUKEwjGvfblpLjJAhUF2BoKHb8cDhgQvwUIGCgA>
+
+
+My downloaded ubuntu iso file size is 550MB only.Kindly suggest me
+
+
+thanks ,
+Sundar
+
+From shakthimaan at gmail.com  Mon Nov 30 19:44:49 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Nov 2015 19:44:49 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+Message-ID: <CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 30, 2015 at 7:38 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+| Facing some problem in ubuntu .Installed O/s but now i could not
+| install additional packages , GUI, etc...
+| When i try to install rpm using the following command it says the following
+| error.
+|
+| sudo apt-get install rpm
+\--
+
+Ubuntu is a Debian-based distribution, and it uses apt as its package
+manager, while RPM-based distributions use rpm.
+
+Why do you want to install rpm in Ubuntu?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From msrarun22 at gmail.com  Mon Nov 30 19:46:59 2015
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Mon, 30 Nov 2015 19:46:59 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+Message-ID: <CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+
+I am trying to install additional packages but couldn't...i am not getting
+gui
+
+
+Thanks ,
+sundar
+
+On Mon, Nov 30, 2015 at 7:44 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Mon, Nov 30, 2015 at 7:38 PM, Sundar Raj <msrarun22 at gmail.com>
+> wrote:
+> | Facing some problem in ubuntu .Installed O/s but now i could not
+> | install additional packages , GUI, etc...
+> | When i try to install rpm using the following command it says the
+> following
+> | error.
+> |
+> | sudo apt-get install rpm
+> \--
+>
+> Ubuntu is a Debian-based distribution, and it uses apt as its package
+> manager, while RPM-based distributions use rpm.
+>
+> Why do you want to install rpm in Ubuntu?
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From guruprasad at guruprasad.org  Mon Nov 30 19:50:38 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Mon, 30 Nov 2015 19:50:38 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+	<CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+Message-ID: <565C5B36.7030400@guruprasad.org>
+
+Hi Sundar Raj,
+
+On 11/30/15 7:46 PM, Sundar Raj wrote:
+> I am trying to install additional packages but couldn't...i am not getting
+> gui
+
+For that you would be best served by using the 'apt' package manager.
+For instance to update the package lists from the Ubuntu repositories,
+you could run 'sudo apt update'. To install a desktop environment, you
+can run 'sudo tasksel' and select 'Ubuntu Desktop' iirc to start the
+installation of a desktop environment.
+
+Thanks & Regards,
+Guruprasad
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151130/6cf48a75/attachment.bin 
+
+From shakthimaan at gmail.com  Mon Nov 30 19:51:40 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Nov 2015 19:51:40 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+	<CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+Message-ID: <CABG-yt26m4e0ya8y6uf0pyvMBpE8QVjxmkciKTCjmdCg0r1AtQ@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 30, 2015 at 7:46 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+| I am trying to install additional packages but couldn't...i am not getting
+| gui
+\--
+
+Please bottom-post when you reply.
+
+#1 What is your hardware?
+
+#2 What packages do you want to install?
+
+You can try:
+
+  $ sudo apt-get install ubuntu-gnome-desktop
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Mon Nov 30 20:07:52 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Mon, 30 Nov 2015 20:07:52 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <565C5B36.7030400@guruprasad.org>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+	<CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+	<565C5B36.7030400@guruprasad.org>
+Message-ID: <CACtiFJbG39P6uYy96mmmWRpL+tKqSKZzm+pNtEmdfo37=6mf=Q@mail.gmail.com>
+
+>
+> For that you would be best served by using the 'apt' package manager.
+> For instance to update the package lists from the Ubuntu repositories,
+> you could run 'sudo apt update'. To install a desktop environment, you
+> can run 'sudo tasksel' and select 'Ubuntu Desktop' iirc to start the
+> installation of a desktop environment.
+
+
+As 'tasksel' may not be installed by default, install 'tasksel' before
+installing the desktop environment.
+
+$sudo apt-get update
+$sudo apt-get install tasksel
+
+S. Baskar
+
+From msrarun22 at gmail.com  Mon Nov 30 20:39:07 2015
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Mon, 30 Nov 2015 20:39:07 +0530
+Subject: [Ilugc] Fwd:  Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CACtiFJbG39P6uYy96mmmWRpL+tKqSKZzm+pNtEmdfo37=6mf=Q@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+	<CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+	<565C5B36.7030400@guruprasad.org>
+	<CACtiFJbG39P6uYy96mmmWRpL+tKqSKZzm+pNtEmdfo37=6mf=Q@mail.gmail.com>
+Message-ID: <CALHF9_EEo1HDyQ5TYwfHj9xO_0uuBJ2zc=6cguM=yk-c-RutaQ@mail.gmail.com>
+
+Hi,
+
+
+        Friends  How do i manually  assign an ipaddress and proxy ip in my
+virtual machine running ubuntu 15.10.
+I could not edit to change the ip .
+
+Thanks
+Sundar
+
+
+
+
+---------- Forwarded message ----------
+From: Baskar Selvaraj <baskar at linuxpert.in>
+Date: Mon, Nov 30, 2015 at 8:07 PM
+Subject: Re: [Ilugc] Issue in ubuntu server installtion version 15.10
+To: ILUG-C <ilugc at ae.iitm.ac.in>
+
+
+>
+> For that you would be best served by using the 'apt' package manager.
+> For instance to update the package lists from the Ubuntu repositories,
+> you could run 'sudo apt update'. To install a desktop environment, you
+> can run 'sudo tasksel' and select 'Ubuntu Desktop' iirc to start the
+> installation of a desktop environment.
+
+
+As 'tasksel' may not be installed by default, install 'tasksel' before
+installing the desktop environment.
+
+$sudo apt-get update
+$sudo apt-get install tasksel
+
+S. Baskar
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+From jithinkcs at gmail.com  Mon Nov 30 21:39:49 2015
+From: jithinkcs at gmail.com (JITHIN K)
+Date: Mon, 30 Nov 2015 21:39:49 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert has
+	been received
+Message-ID: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+
+Hi All,
+
+I tried to run the svn list of a remote SVN server (Which is newly
+installed ) but it failed with the following error.
+
+Command : sudo svn info https://192.168.1.1/svn/AJ
+
+Output "svn: OPTIONS of 'https://192.168.0.1.1/svn/AJ': SSL handshake
+failed: SSL error: A TLS warning alert has been received. (
+https://192.168.1.1)"
+
+
+Server OS : Ubuntu 12.04.5
+SVN version : 1.6.17
+Clients : Ubuntu 12.04,Ubuntu 10.04
+
+*But it worked on Windows Clients (Command mode), TortoiseSVN etc*
+
+
+Options tried.
+
+1. --trust-server-cert [Along with non-interactive] - Failed.
+
+Any suggestions / idea is appreciable.
+
+
+Regards,
+Jithin K
+
+From shakthimaan at gmail.com  Mon Nov 30 21:45:50 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Nov 2015 21:45:50 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+Message-ID: <CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 30, 2015 at 9:39 PM, JITHIN K <jithinkcs at gmail.com> wrote:
+| Output "svn: OPTIONS of 'https://192.168.0.1.1/svn/AJ': SSL handshake
+| failed: SSL error: A TLS warning alert has been received. (
+| https://192.168.1.1)"
+\--
+
+How were the SSL certificates generated?
+
+Try these (for a start):
+
+  http://stackoverflow.com/questions/16805298/svn-and-ssl-handshake-failure
+
+  http://e-mats.org/2012/11/svn-options-of-ssl-handshake-failed-ssl-error-a-tls-warning-alert-has-been-received/
+
+  http://www.kpsolution.com/linux/svn-ssl-handshake-failed-ssl-error-a-tls-warning-alert-has-been-received/146/
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From jithinkcs at gmail.com  Mon Nov 30 22:14:47 2015
+From: jithinkcs at gmail.com (JITHIN K)
+Date: Mon, 30 Nov 2015 22:14:47 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+Message-ID: <CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+
+On Mon, Nov 30, 2015 at 9:45 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Mon, Nov 30, 2015 at 9:39 PM, JITHIN K <jithinkcs at gmail.com> wrote:
+> | Output "svn: OPTIONS of 'https://192.168.0.1.1/svn/AJ': SSL handshake
+> | failed: SSL error: A TLS warning alert has been received. (
+> | https://192.168.1.1)"
+> \--
+>
+> How were the SSL certificates generated?
+>
+> Try these (for a start):
+>
+>
+> http://stackoverflow.com/questions/16805298/svn-and-ssl-handshake-failure
+>
+>
+> http://e-mats.org/2012/11/svn-options-of-ssl-handshake-failed-ssl-error-a-tls-warning-alert-has-been-received/
+>
+>
+> http://www.kpsolution.com/linux/svn-ssl-handshake-failed-ssl-error-a-tls-warning-alert-has-been-received/146/
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+Hi Shakthi,
+
+Appreciate your response.
+
+I used the following command to generate the certificate.
+
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout
+/etc/ssl/apache2.key -out /etc/ssl/apache2.crt
+
+
+FYI,
+
+I just checked in Ubuntu 12.04 and Ubuntu 14.04.
+
+I only face issues with *Ubuntu 10.04 and Ubuntu 9.10. *
+
+Regards,
+Jithin k
+
+From shakthimaan at gmail.com  Mon Nov 30 22:21:16 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Nov 2015 22:21:16 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+Message-ID: <CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Nov 30, 2015 at 10:14 PM, JITHIN K <jithinkcs at gmail.com> wrote:
+| I only face issues with *Ubuntu 10.04 and Ubuntu 9.10. *
+\--
+
+Are these Ubuntu distributions LTS?
+
+Please trim your posts when you reply. Only keep the text that is
+relevant. We follow trimmed, interleaved, bottom posting.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From jithinkcs at gmail.com  Mon Nov 30 22:28:41 2015
+From: jithinkcs at gmail.com (JITHIN K)
+Date: Mon, 30 Nov 2015 22:28:41 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+	<CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+Message-ID: <CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+
+Hi Shakthi,
+
+Ubuntu 9.10 is not LTS (Ubuntu 10.04 is LTS). Its an old unsupportable
+version.
+
+Regards,
+Jithin K
+
+From guruprasad at guruprasad.org  Mon Nov 30 22:52:46 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Mon, 30 Nov 2015 22:52:46 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+	<CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+	<CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+Message-ID: <565C85E6.8030403@guruprasad.org>
+
+Hi Jithin,
+
+On 11/30/15 10:28 PM, JITHIN K wrote:
+> Hi Shakthi,
+> 
+> Ubuntu 9.10 is not LTS (Ubuntu 10.04 is LTS). Its an old unsupportable
+> version.
+
+I'm just guessing here but since these distributions are very old, these
+errors could be due to the usage of unsupported protocols/ciphers.
+
+
+That said, these are unsupported releases and even Ubuntu 10.04 LTS
+reached EOL some time earlier this year. So you shouldn't be using it.
+
+Thanks & Regards,
+Guruprasad
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151130/e7f34013/attachment.bin 
+
+From jithinkcs at gmail.com  Mon Nov 30 23:37:38 2015
+From: jithinkcs at gmail.com (JITHIN K)
+Date: Mon, 30 Nov 2015 23:37:38 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <565C85E6.8030403@guruprasad.org>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+	<CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+	<CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+	<565C85E6.8030403@guruprasad.org>
+Message-ID: <CABe_ZfLCXO0O-9R-ABv+5DdHT2=fOJStYUVXwgYosCb2xj-v3w@mail.gmail.com>
+
+Hi Guruprasad,
+
+Thanks for the response.
+
+The objective is to move all the SVN repositories from Ubuntu 9.10,Ubuntu
+10.04 to Ubuntu 12.04. I am using svnsync command to keep a mirror copy of
+the repository in the new server and once the syn over. I will decommission
+the Ubuntu 9.10 and Ubuntu 10.04.  I know that I could use svn dump for
+moving the repositories but I think svnsync is more suitable for my
+environment.
+
+I just found a work around for this solution by syncing over HTTP.
+
+Thank you
+
+Regards,
+Jithin K
+

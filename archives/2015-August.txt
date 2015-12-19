@@ -1,0 +1,3649 @@
+From tuxuday at gmail.com  Sat Aug  1 11:38:42 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Sat, 1 Aug 2015 11:38:42 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+In-Reply-To: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+References: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+Message-ID: <CANODOztvppXz+7huFBYqP19_BrYrwaRjWhECrBcQ-jwxo0b5rw@mail.gmail.com>
+
+Topic
+
+Partial garbage collection in c++ using autoptr/uniqueptr.
+
+Description
+
+Partial garbage collection in c++ using autoptr/uniqueptr.
+
+Duration
+
+30mins
+
+About Yourself
+
+SW Eng.
+?
+
+From baskar910 at gmail.com  Sat Aug  1 12:37:14 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sat, 1 Aug 2015 12:37:14 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+In-Reply-To: <CANODOztvppXz+7huFBYqP19_BrYrwaRjWhECrBcQ-jwxo0b5rw@mail.gmail.com>
+References: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+	<CANODOztvppXz+7huFBYqP19_BrYrwaRjWhECrBcQ-jwxo0b5rw@mail.gmail.com>
+Message-ID: <CACq+3bt=iSSnV+6HqOBxjb5UXqvE4-kzL5pZmmF0drE=rOj7MQ@mail.gmail.com>
+
+On Sat, Aug 1, 2015 at 11:38 AM, Udaya Kumar <tuxuday at gmail.com> wrote:
+
+> Topic
+>
+> Partial garbage collection in c++ using autoptr/uniqueptr.
+>
+> Description
+>
+> Partial garbage collection in c++ using autoptr/uniqueptr.
+>
+> Duration
+>
+> 30mins
+>
+> About Yourself
+>
+> SW Eng.
+>
+
+Hope you will be using a compiler adhering to the principle of this group,
+for demonstration purpose. I am insisting this because your topic is
+neutral.
+
+Thanks
+baskar
+
+From shakthimaan at gmail.com  Sat Aug  1 13:50:32 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 1 Aug 2015 13:50:32 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+Message-ID: <CABG-yt1QvJRmRCgz_MJ8JajHd+CG72rUcq=r5zPZfoO9eLEBCQ@mail.gmail.com>
+
+Hi,
+
+Topic: Project Euler
+
+Description:
+
+I would like to start a new series in the meet-up where the
+participants will be given a task to solve in 10 minutes. It could be
+a simple computational problem from Project Euler, or some scripting
+or command that we may find useful for our day-to-day work. After 10
+minutes, we can discuss the various solutions that people have come up
+with. This is to improve our problem-solving, and technical skills.
+
+You can solve it using any of the following approaches:
+1. Pen/pencil and paper (can be verified on a system)
+
+2. Laptop/netbook (without Internet connection)
+You can install whatever F/OSS software and documentation that you are
+familiar with, before you come to the meet-up.
+
+3. Laptop/netbook (with Internet connection during the meet-up)
+
+Duration: 30 minutes
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar910 at gmail.com  Sat Aug  1 15:17:07 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sat, 1 Aug 2015 15:17:07 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+Message-ID: <CACq+3bvdMxszXYJGMx1F5VMScYy8xRyvAQ7obnuQ3-FB=Pvz+A@mail.gmail.com>
+
+Hi,
+
+The completed agenda for the 8th Aug-2015 meet.
+
+Talk 1
+Topic:          Role of Page Cache and Buffer Cache in GNU/Linux
+Description:  1. How Linux file system stack works?
+                   2. What is File IO and Block IO
+                   3. Why Buffer Cache or Page Cache
+Duration:     20 minutes
+About Yourself:  Rengaraj works at Zilogic Systems Pvt Ltd. His area of
+interest is embedded systems. His GIT hub page https://github.com/Rengaraj
+
+
+Topic 2
+Topic:          Basics of PostgreSQL
+Description:  Postgresql is a object oriented relational database mangement
+system.
+Duration:     20-25
+About Yourself:  Mr. Raman works as a DBA at Railway Hospital, Perambur.
+
+Topic 3
+Topic:  Partial garbage collection in c++ using autoptr/uniqueptr
+Description: Partial garbage collection in c++ using autoptr/uniqueptr
+Duration: 30 Mins
+About Yourself:  Mr.Udaya kumar is Software Engineer
+
+Topic 4
+Topic: Project Euler
+Description:  Problem solving, solutions and discussions thereof.  Problems
+will be given to participants and they can solve using pen/pencil and a
+paper or a laptop or any other machine.
+Duration: 30 Minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From raashidmuhammed at zilogic.com  Sat Aug  1 14:02:58 2015
+From: raashidmuhammed at zilogic.com (Raashid Muhammed)
+Date: Sat, 1 Aug 2015 08:32:58 +0000 (UTC)
+Subject: [Ilugc] Talk for upcoming ILUG-C August meetup
+Message-ID: <loom.20150801T101743-317@post.gmane.org>
+
+Hi Everyone,
+
+I would like to give a talk on 'Partitioning in Linux' in the upcoming
+August meetup.
+
+I am a Software Engineer working for Zilogic Systems. I am passionate about
+working on Embedded Linux systems. 
+
+The details for the talk are as follows:
+
+Topic :      Partitioning
+
+Description: The subtopics to be covered are as follows:
+              * Partition Tables
+              * Various Partitioning Schemes: Advantages & Disadvantages
+              * Partitioning Tools
+              * Parted: An example tool
+
+Duration:     30 minutes
+
+Regards,
+Raashid
+
+
+From baskar910 at gmail.com  Sat Aug  1 18:20:53 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sat, 1 Aug 2015 18:20:53 +0530
+Subject: [Ilugc] Talk for upcoming ILUG-C August meetup
+In-Reply-To: <loom.20150801T101743-317@post.gmane.org>
+References: <loom.20150801T101743-317@post.gmane.org>
+Message-ID: <CACq+3bsDYagTRjcT3j=_bs-E-5gV7eusoWckkoWFwZoutnRLsQ@mail.gmail.com>
+
+Hi,
+
+On Sat, Aug 1, 2015 at 2:02 PM, Raashid Muhammed <
+raashidmuhammed at zilogic.com> wrote:
+
+> Hi Everyone,
+>
+> I would like to give a talk on 'Partitioning in Linux' in the upcoming
+> August meetup.
+>
+> I am a Software Engineer working for Zilogic Systems. I am passionate about
+> working on Embedded Linux systems.
+>
+> The details for the talk are as follows:
+>
+> Topic :      Partitioning
+>
+> Description: The subtopics to be covered are as follows:
+>               * Partition Tables
+>               * Various Partitioning Schemes: Advantages & Disadvantages
+>               * Partitioning Tools
+>               * Parted: An example tool
+>
+> Duration:     30 minutes
+>
+> Regards,
+> Raashid
+>
+
+ You are welcome, for now we already have 4 topics for this month. I am
+afraid of enough room to accommodate fifth talk. You can attend the meet,
+if by chance any of the already mentioned topic slips you can give your
+talk.
+
+Thanks
+baskar
+
+From citizenofgnu at gmail.com  Sat Aug  1 20:03:32 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Sat, 1 Aug 2015 20:03:32 +0530
+Subject: [Ilugc] Talk for upcoming ILUG-C August meetup
+In-Reply-To: <CACq+3bsDYagTRjcT3j=_bs-E-5gV7eusoWckkoWFwZoutnRLsQ@mail.gmail.com>
+References: <loom.20150801T101743-317@post.gmane.org>
+	<CACq+3bsDYagTRjcT3j=_bs-E-5gV7eusoWckkoWFwZoutnRLsQ@mail.gmail.com>
+Message-ID: <CAEdr4A7-an4YF3ePd__d_E6vePiFdm=+H8J8LVJe4tMKXzOwRg@mail.gmail.com>
+
+Hi
+>> You are welcome, for now we already have 4 topics for this month. I am
+afraid of enough room to accommodate fifth talk. You can attend the meet,
+if by chance any of the already mentioned topic slips you can give your
+talk.
+
+Nice to see after such a long time, the talks were flooded.. indeed a good
+sign to be back on track.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From baskar at linuxpert.in  Sun Aug  2 11:28:29 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sun, 2 Aug 2015 11:28:29 +0530
+Subject: [Ilugc] Talk for upcoming ILUG-C August meetup
+In-Reply-To: <loom.20150801T101743-317@post.gmane.org>
+References: <loom.20150801T101743-317@post.gmane.org>
+Message-ID: <CACtiFJa1sx5de9LwXfwdbXGPuejsnTvMXpehxXAD-pjHb3a9Rw@mail.gmail.com>
+
+On 8/1/15, Raashid Muhammed <raashidmuhammed at zilogic.com> wrote:
+> Hi Everyone,
+>
+> I would like to give a talk on 'Partitioning in Linux' in the upcoming
+> August meetup.
+>
+> I am a Software Engineer working for Zilogic Systems. I am passionate about
+> working on Embedded Linux systems.
+>
+> The details for the talk are as follows:
+>
+> Topic :      Partitioning
+>
+> Description: The subtopics to be covered are as follows:
+>               * Partition Tables
+>               * Various Partitioning Schemes: Advantages & Disadvantages
+>               * Partitioning Tools
+>               * Parted: An example tool
+
+Kindly include the topic on MBR (vs) GPT partition types also. Since
+the higher capacity Hard Disks (above 2TB) does not support MBR
+partition types.
+
+S. Baskar
+
+From ajeeshbkannan at gmail.com  Mon Aug  3 13:06:00 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Mon, 3 Aug 2015 13:06:00 +0530
+Subject: [Ilugc] mysql replication over ssl - aws vs rackspace
+Message-ID: <CA+ark-qBnBFdo_n2hywya+FfpbqJ95=i6_tf97yG-huJeK9bFQ@mail.gmail.com>
+
+Hi,
+
+I am getting the following error while connecting mysql replication over
+ssl connection.
+
+[root at slave server ]# mysql -u replicationuser -p -hmasterserver
+--ssl-ca /etc/ssl/certs/mysql/ca-cert.pem --ssl-cert
+/etc/ssl/certs/mysql/slave-public.pem --ssl-key
+/etc/ssl/certs/mysql/slave-private.pem
+
+*ERROR 2026 (HY000): SSL connection error*
+
+
+mysql slave server is located on : *aws* [ ec2 instance ]
+mysql master server is located on : *RackSpace* [ cloud server ]
+
+on rackspace :- any traffic is allowed from that machine to host
+
+on master
+ mysql> show variables like '%ssl%';
++---------------+----------------------------+
+| Variable_name | Value                      |
++---------------+----------------------------+
+| have_openssl  | YES                        |
+| have_ssl      | YES                        |
+| ssl_ca        | /etc/mysql/ca-cert.pem     |
+| ssl_capath    |                            |
+| ssl_cert      | /etc/mysql/server-cert.pem |
+| ssl_cipher    |                            |
+| ssl_key       | /etc/mysql/server-key.pem  |
++---------------+----------------------------+
+
+
+Using the same ssl key I can connect replication with in aws/rack space
+servers.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From prem at songbirdtech.com  Mon Aug  3 13:08:48 2015
+From: prem at songbirdtech.com (Prem Kurian Philip)
+Date: Mon, 3 Aug 2015 13:08:48 +0530
+Subject: [Ilugc] JOB: Because I love to Code (BILTC)
+Message-ID: <17394e83f6d67a6cb7ed64f47aa67442.squirrel@ms002oc2.lunarpages.com>
+
+We at Xerago.com are looking for people who are truly passionate about
+computer science and programming.
+
+Please do get in touch with me on prem at xerago.com and also hr at xerago.com if:
+- You think good code is like a work of art
+- You find poorly written code infuriating
+- You are constantly looking at improving your programming skills
+- You love good software design and you breathe design patterns
+- You love to take on challenging assignments in computer programming
+- You are interested in advancing the field of computer programming
+- You love working on open source projects
+- Your role models are great engineers like Dennis Ritchie, Rob Pike,
+Linus Torvalds, Fabrice Bellard etc.
+- You love learning new programming languages and technologies and you
+already know at least one language really well
+- You have an active account on Stackoverflow.com or similar site and you
+are actively answering questions there.
+- You are open to learning new technologies and languages and willing to
+explore new frontiers
+
+The ideal candidate should have a strong interest in working on open
+source products and should demonstrate this interest by current and active
+involvement in at least one such project.
+
+However, if you aren't already involved in such a project but if you are 
+interested in getting involved actively in one or more open source
+projects, please do email us.
+
+We are primarily interesting in Java/J2EE, LAMP or Android developers, but
+if you have other skills, we would still love to hear from you
+nonetheless. If you are willing to learn other technologies and you are a
+quick learner, we would love to have you in our team.
+
+What we are are primarily interested in seeing is your passion for the
+field because the work we do involves working across a wide range of
+technologies. Part of your work will involve active engagement in any open
+source project of your choice.
+
+Best Regards,
+Prem Kurian Philip
+Head of Technology,
+Xerago.com
+
+
+From shakthimaan at gmail.com  Mon Aug  3 14:46:11 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 3 Aug 2015 14:46:11 +0530
+Subject: [Ilugc] Talk for upcoming ILUG-C August meetup
+In-Reply-To: <CAEdr4A7-an4YF3ePd__d_E6vePiFdm=+H8J8LVJe4tMKXzOwRg@mail.gmail.com>
+References: <loom.20150801T101743-317@post.gmane.org>
+	<CACq+3bsDYagTRjcT3j=_bs-E-5gV7eusoWckkoWFwZoutnRLsQ@mail.gmail.com>
+	<CAEdr4A7-an4YF3ePd__d_E6vePiFdm=+H8J8LVJe4tMKXzOwRg@mail.gmail.com>
+Message-ID: <CABG-yt3Lf2Ytd+2RYUsLCD_etXyKLHySSvFBbhOmr4HgkHkmbA@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Aug 1, 2015 at 8:03 PM, Thyagarajan ??????????
+<citizenofgnu at gmail.com> wrote:
+| Nice to see after such a long time, the talks were flooded
+\--
+
+I hope to see you also present talks at future meet-ups.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From bala150985 at gmail.com  Mon Aug  3 17:08:34 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 3 Aug 2015 07:38:34 -0400
+Subject: [Ilugc] mysql replication over ssl - aws vs rackspace
+In-Reply-To: <CA+ark-qBnBFdo_n2hywya+FfpbqJ95=i6_tf97yG-huJeK9bFQ@mail.gmail.com>
+References: <CA+ark-qBnBFdo_n2hywya+FfpbqJ95=i6_tf97yG-huJeK9bFQ@mail.gmail.com>
+Message-ID: <CAFHFDAk=w5VsScmxa5W6sU=o_3mtirfE96cSyZD9Rpsz666rFw@mail.gmail.com>
+
+If I understand correctly you are trying to do replication over two service
+providers of AWS and Rackspace.  If that is the case you need to use the
+Fully qualified domain name for setting your masterserver rather than "
+masterserver".  More over the replication user should have access to coming
+from that IP address.
+
+On Mon, Aug 3, 2015 at 3:36 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hi,
+>
+> I am getting the following error while connecting mysql replication over
+> ssl connection.
+>
+> [root at slave server ]# mysql -u replicationuser -p -hmasterserver
+> --ssl-ca /etc/ssl/certs/mysql/ca-cert.pem --ssl-cert
+> /etc/ssl/certs/mysql/slave-public.pem --ssl-key
+> /etc/ssl/certs/mysql/slave-private.pem
+>
+> *ERROR 2026 (HY000): SSL connection error*
+>
+>
+> mysql slave server is located on : *aws* [ ec2 instance ]
+> mysql master server is located on : *RackSpace* [ cloud server ]
+>
+> on rackspace :- any traffic is allowed from that machine to host
+>
+> on master
+>  mysql> show variables like '%ssl%';
+> +---------------+----------------------------+
+> | Variable_name | Value                      |
+> +---------------+----------------------------+
+> | have_openssl  | YES                        |
+> | have_ssl      | YES                        |
+> | ssl_ca        | /etc/mysql/ca-cert.pem     |
+> | ssl_capath    |                            |
+> | ssl_cert      | /etc/mysql/server-cert.pem |
+> | ssl_cipher    |                            |
+> | ssl_key       | /etc/mysql/server-key.pem  |
+> +---------------+----------------------------+
+>
+>
+> Using the same ssl key I can connect replication with in aws/rack space
+> servers.
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From ajeeshbkannan at gmail.com  Mon Aug  3 20:13:14 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Mon, 3 Aug 2015 20:13:14 +0530
+Subject: [Ilugc] mysql replication over ssl - aws vs rackspace
+In-Reply-To: <CAFHFDAk=w5VsScmxa5W6sU=o_3mtirfE96cSyZD9Rpsz666rFw@mail.gmail.com>
+References: <CA+ark-qBnBFdo_n2hywya+FfpbqJ95=i6_tf97yG-huJeK9bFQ@mail.gmail.com>
+	<CAFHFDAk=w5VsScmxa5W6sU=o_3mtirfE96cSyZD9Rpsz666rFw@mail.gmail.com>
+Message-ID: <CA+ark-okth9+E=AeZFj7Pd0iXmQc7-PqsCjgmvsnEcDF9mkLjQ@mail.gmail.com>
+
+On Mon, Aug 3, 2015 at 5:08 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> If I understand correctly you are trying to do replication over two service
+> providers of AWS and Rackspace.  If that is the case you need to use the
+> Fully qualified domain name for setting your masterserver rather than "
+> masterserver".  More over the replication user should have access to coming
+> from that IP address.
+>
+> On Mon, Aug 3, 2015 at 3:36 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+>
+> > Hi,
+> >
+> > I am getting the following error while connecting mysql replication over
+> > ssl connection.
+> >
+> > [root at slave server ]# mysql -u replicationuser -p -hmasterserver
+> > --ssl-ca /etc/ssl/certs/mysql/ca-cert.pem --ssl-cert
+> > /etc/ssl/certs/mysql/slave-public.pem --ssl-key
+> > /etc/ssl/certs/mysql/slave-private.pem
+> >
+> > *ERROR 2026 (HY000): SSL connection error*
+> >
+> >
+> > mysql slave server is located on : *aws* [ ec2 instance ]
+> > mysql master server is located on : *RackSpace* [ cloud server ]
+> >
+> > on rackspace :- any traffic is allowed from that machine to host
+> >
+> > on master
+> >  mysql> show variables like '%ssl%';
+> > +---------------+----------------------------+
+> > | Variable_name | Value                      |
+> > +---------------+----------------------------+
+> > | have_openssl  | YES                        |
+> > | have_ssl      | YES                        |
+> > | ssl_ca        | /etc/mysql/ca-cert.pem     |
+> > | ssl_capath    |                            |
+> > | ssl_cert      | /etc/mysql/server-cert.pem |
+> > | ssl_cipher    |                            |
+> > | ssl_key       | /etc/mysql/server-key.pem  |
+> > +---------------+----------------------------+
+> >
+> >
+> > Using the same ssl key I can connect replication with in aws/rack space
+> > servers.
+> >
+>
+
+That is for better understanding i have added those names.
+
+From bala150985 at gmail.com  Mon Aug  3 22:04:05 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 3 Aug 2015 12:34:05 -0400
+Subject: [Ilugc] mysql replication over ssl - aws vs rackspace
+In-Reply-To: <CA+ark-okth9+E=AeZFj7Pd0iXmQc7-PqsCjgmvsnEcDF9mkLjQ@mail.gmail.com>
+References: <CA+ark-qBnBFdo_n2hywya+FfpbqJ95=i6_tf97yG-huJeK9bFQ@mail.gmail.com>
+	<CAFHFDAk=w5VsScmxa5W6sU=o_3mtirfE96cSyZD9Rpsz666rFw@mail.gmail.com>
+	<CA+ark-okth9+E=AeZFj7Pd0iXmQc7-PqsCjgmvsnEcDF9mkLjQ@mail.gmail.com>
+Message-ID: <CAFHFDA=WSNH37P0SPJ_PfwS8fhtH8Y8TXnerE5JjpSRBwJHZNQ@mail.gmail.com>
+
+Okay then in your mysql conf file under the client directive did you add
+the certs ?
+
+[client]
+ssl-ca = path to cert
+ssl-cert = path to cert
+ssl-key = path to cert
+
+On Mon, Aug 3, 2015 at 10:43 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> On Mon, Aug 3, 2015 at 5:08 PM, Balasubramaniam Natarajan <
+> bala150985 at gmail.com> wrote:
+>
+> > If I understand correctly you are trying to do replication over two
+> service
+> > providers of AWS and Rackspace.  If that is the case you need to use the
+> > Fully qualified domain name for setting your masterserver rather than "
+> > masterserver".  More over the replication user should have access to
+> coming
+> > from that IP address.
+> >
+> > On Mon, Aug 3, 2015 at 3:36 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> > wrote:
+> >
+> > > Hi,
+> > >
+> > > I am getting the following error while connecting mysql replication
+> over
+> > > ssl connection.
+> > >
+> > > [root at slave server ]# mysql -u replicationuser -p -hmasterserver
+> > > --ssl-ca /etc/ssl/certs/mysql/ca-cert.pem --ssl-cert
+> > > /etc/ssl/certs/mysql/slave-public.pem --ssl-key
+> > > /etc/ssl/certs/mysql/slave-private.pem
+> > >
+> > > *ERROR 2026 (HY000): SSL connection error*
+> > >
+> > >
+> > > mysql slave server is located on : *aws* [ ec2 instance ]
+> > > mysql master server is located on : *RackSpace* [ cloud server ]
+> > >
+> > > on rackspace :- any traffic is allowed from that machine to host
+> > >
+> > > on master
+> > >  mysql> show variables like '%ssl%';
+> > > +---------------+----------------------------+
+> > > | Variable_name | Value                      |
+> > > +---------------+----------------------------+
+> > > | have_openssl  | YES                        |
+> > > | have_ssl      | YES                        |
+> > > | ssl_ca        | /etc/mysql/ca-cert.pem     |
+> > > | ssl_capath    |                            |
+> > > | ssl_cert      | /etc/mysql/server-cert.pem |
+> > > | ssl_cipher    |                            |
+> > > | ssl_key       | /etc/mysql/server-key.pem  |
+> > > +---------------+----------------------------+
+> > >
+> > >
+> > > Using the same ssl key I can connect replication with in aws/rack space
+> > > servers.
+> > >
+> >
+>
+> That is for better understanding i have added those names.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From sijisunny at gmail.com  Mon Aug  3 22:08:26 2015
+From: sijisunny at gmail.com (Siji Sunny)
+Date: Mon, 3 Aug 2015 22:08:26 +0530
+Subject: [Ilugc] Makers Asylum Mumbai- Looking for funding through indiegogo
+Message-ID: <CADtvZWDqci2=2zQYAPE-O3T7KFQXBc_8QSoQAHTU9u1q97CW1Q@mail.gmail.com>
+
+Dear All,
+
+Makers Asylum founders recently put an funding proposal at Indiegogo-
+"Save our community MakerSpace in Mumbai"
+
+https://www.indiegogo.com/projects/save-our-community-makerspace-in-mumbai#/story
+
+Requesting all you to do your best to make the Maker's Space alive in
+Mumbai/India.
+
+*Story of Makers Asylum Mumbai* -
+
+"We started about two years ago, operating from a closet-sized garage
+<https://www.youtube.com/watch?v=eJ0ZtF5wYFY> in the suburbs. We had one 3D
+Printer, power and hand tools that were donated by well-wishers. We had a
+handful of members that gathered to build tables, simple machines and toyed
+around with electronics. People started to share knowledge and materials to
+build projects together."
+Challenges
+
+The good part is that we?ve ignited the Maker Movement in India. The bad
+part ? we?ve lost the space we?ve called home for the last six months. The
+design school that let us use a portion of their cafeteria for our
+activities needs us to vacate. We have till August 31.
+
+In order to continue feeding the hungry community of Makers, we need to
+find a new space to rent, and soon!
+
+For our community, the risk of losing the space means projects being
+abandoned midway, practical learning being put on hold and tinkers left
+without the access to tools that make their ideas grow.
+
+
+
+-- 
+Siji Sunny
+
+From ghariharan at gmail.com  Wed Aug  5 07:59:10 2015
+From: ghariharan at gmail.com (Ganesh Hariharan)
+Date: Wed, 5 Aug 2015 07:59:10 +0530
+Subject: [Ilugc] Job Posting Linux Admin Engineer
+Message-ID: <CABj+YoLotr0SEYYCNESdnWYVynxosv9YMSDygj9Pqjxtt1fAkw@mail.gmail.com>
+
+Hi All,
+
+For a DevOps project, I am looking for candidate with following exp/skills:
+
+4 to 6 years exp on Linux Administration
+Should have exposure to Prod environment management
+Good at bash scripting
+Should have worked on Httpd and Tomcat servers or anyone j2ee servers
+Exposure to any one monitoring tool and Mysql basics
+Should be ready for 24/7 support
+Good communication is a must
+Salary is not a constraint.
+Please write back to my email id only.
+
+Thanks LuG Chennai.
+
+Regards,
+Ganesh Hariharan
+
+From dilliganeshg8 at gmail.com  Wed Aug  5 10:03:46 2015
+From: dilliganeshg8 at gmail.com (Dilli Ganesh)
+Date: Wed, 5 Aug 2015 10:03:46 +0530
+Subject: [Ilugc] [Job] Openings for Sr. Linux Administrator (4-7)
+Message-ID: <CAKBo0apcWXaWkyMuoUVVy7cTu1ib4ZgXdwdo7sTTAhwHCFX_4w@mail.gmail.com>
+
+Dear All,
+
+    Fourth Dimension Technologies to hire Sr. Linux Administrator. If you
+are interested please mail CV to hr at fourdtech.co.in
+
+Requirements : 4+ Years of Experience
+
+
+Reference : K. Dilli Ganesh - RIM Team
+
+
+--
+Thanks & Regards,
+K. Dilli Ganesh,
+Engineer (Linux) - Managed Services,
+Fourth Dimension Technologies,
+Cell:9942370737
+Email: dilliganeshg8 at gmail.com
+Blog: www.dilliganesh.wordpress.com
+
+From send4kumar at gmail.com  Wed Aug  5 10:45:23 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Wed, 5 Aug 2015 10:45:23 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+Message-ID: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+
+Dear All,
+
+http://www.manager.io/
+
+I am looking for similar Accounting software web based.Help me to suggest a
+better options. PHP/MySQL preferred.
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+From sakthirengaraj at gmail.com  Wed Aug  5 10:54:55 2015
+From: sakthirengaraj at gmail.com (Rengaraj D)
+Date: Wed, 5 Aug 2015 10:54:55 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+Message-ID: <CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+
+On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+
+> Dear All,
+>
+> http://www.manager.io/
+>
+> I am looking for similar Accounting software web based.Help me to suggest a
+> better options. PHP/MySQL preferred.
+>
+> Have a look at ERPNext https://erpnext.com/
+
+From dilliganeshg8 at gmail.com  Wed Aug  5 11:45:57 2015
+From: dilliganeshg8 at gmail.com (Dilli Ganesh)
+Date: Wed, 5 Aug 2015 11:45:57 +0530
+Subject: [Ilugc] Fwd: [Job] Openings for Sr. Linux Administrator (4-7)
+In-Reply-To: <CAKBo0apcWXaWkyMuoUVVy7cTu1ib4ZgXdwdo7sTTAhwHCFX_4w@mail.gmail.com>
+References: <CAKBo0apcWXaWkyMuoUVVy7cTu1ib4ZgXdwdo7sTTAhwHCFX_4w@mail.gmail.com>
+Message-ID: <CAKBo0aoTHYbv70Fz-H15dgF2vT5tNZr8W6Uoxx3vDpK_0hGmRw@mail.gmail.com>
+
+Dear All,
+
+    Fourth Dimension Technologies to hire Sr. Linux Administrator. If you
+are interested please mail CV to hr at fourdtech.co.in
+
+Requirements : 4+ Years of Experience
+
+
+Reference : K. Dilli Ganesh - RIM Team
+
+
+--
+Thanks & Regards,
+K. Dilli Ganesh,
+Engineer (Linux) - Managed Services,
+Fourth Dimension Technologies,
+Cell:9942370737
+Email: dilliganeshg8 at gmail.com
+Blog: www.dilliganesh.wordpress.com
+
+From send4kumar at gmail.com  Wed Aug  5 11:47:38 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Wed, 5 Aug 2015 11:47:38 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+Message-ID: <CAHFTyBrMGu50Wf9E8qKs7AUY2x7FGbrt1kBt0xkv8oX3TBYwoQ@mail.gmail.com>
+
+Hey,
+
+I am looking for OpenSource , GPL one.
+
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Wed, Aug 5, 2015 at 10:54 AM, Rengaraj D <sakthirengaraj at gmail.com>
+wrote:
+
+> On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+>
+> > Dear All,
+> >
+> > http://www.manager.io/
+> >
+> > I am looking for similar Accounting software web based.Help me to
+> suggest a
+> > better options. PHP/MySQL preferred.
+> >
+> > Have a look at ERPNext https://erpnext.com/
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sakthirengaraj at gmail.com  Wed Aug  5 11:52:53 2015
+From: sakthirengaraj at gmail.com (Rengaraj D)
+Date: Wed, 5 Aug 2015 11:52:53 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAHFTyBrMGu50Wf9E8qKs7AUY2x7FGbrt1kBt0xkv8oX3TBYwoQ@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+	<CAHFTyBrMGu50Wf9E8qKs7AUY2x7FGbrt1kBt0xkv8oX3TBYwoQ@mail.gmail.com>
+Message-ID: <CANgAyd4TbiE=jpNtkSgqQuTFXd+6YyG_xU-3LXa4od+Px5=d6A@mail.gmail.com>
+
+On 5 August 2015 at 11:47, Kumar <send4kumar at gmail.com> wrote:
+
+> Hey,
+>
+> I am looking for OpenSource , GPL one.
+>
+
+ERPNext is opensource.
+https://github.com/frappe/erpnext
+It is free if you host it on your own server.
+
+From shakthimaan at gmail.com  Wed Aug  5 11:58:43 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 5 Aug 2015 11:58:43 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+Message-ID: <CABG-yt1+CxhFMOdrEuzPTLUzpXa1gC2BdngDNHfNhh2SjN33dA@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Aug 5, 2015 at 10:45 AM, Kumar <send4kumar at gmail.com> wrote:
+| I am looking for similar Accounting software web based.Help me to suggest a
+| better options. PHP/MySQL preferred.
+\--
+
+GNUKhata can be run as a web application, but is Python based though.
+Please write to them for more details.
+
+  https://gitlab.com/gnukhata/deskapp/wikis/home
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From asprakash_83 at rediffmail.com  Wed Aug  5 18:19:19 2015
+From: asprakash_83 at rediffmail.com (prakash srinivasan)
+Date: 5 Aug 2015 12:49:19 -0000
+Subject: [Ilugc] =?utf-8?q?Any_opensource_software_for_Accounting?=
+In-Reply-To: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+Message-ID: <1438751765.S.5700.24217.f4-234-102.1438778959.11960@webmail.rediffmail.com>
+
+
+
+On Wed, 05 Aug 2015 10:46:05 +0530 Kumar  wrote
+>Dear All,
+
+
+
+http://www.manager.io/
+
+
+
+I am looking for similar Accounting software web based.Help me to suggest a
+
+better options. PHP/MySQL preferred.
+
+
+We are using GNUCash, http://www.gnucash.org/
+
+-Prakash A S
+
+From tshrinivasan at gmail.com  Thu Aug  6 00:41:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 6 Aug 2015 00:41:37 +0530
+Subject: [Ilugc] Fwd: [Wikimediaindia-l] WikiConference India 2016
+In-Reply-To: <CABMAr+dn2RYcU2LJLoV8wZy-P_ZuMCWGAfkZVZUyG_6PZdH7Xw@mail.gmail.com>
+References: <CABMAr+dn2RYcU2LJLoV8wZy-P_ZuMCWGAfkZVZUyG_6PZdH7Xw@mail.gmail.com>
+Message-ID: <CAND2796AE7z_B=DPdy7w+EYLZQ48aPmrWMjEh6zn9XsEiZDXzQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Satdeep Gill <satdeepgill at gmail.com>
+Date: 2015-08-02 2:08 GMT+05:30
+Subject: [Wikimediaindia-l] WikiConference India 2016
+To: wikimediaindia-l at lists.wikimedia.org
+
+
+WikiConference India 2016 (WCI 2016) is an outcome of Indic Meetup
+held during Wikimania 2015. We had a collective dream to bid for
+Wikimania 2019 on behalf of India. If we need to run a Wikimania
+successfully, it is time that the Wikimedia community in India reboots
+itself and works together towards that. Conducting a WikiConference
+India first will be a good start towards achieving that goal. This
+will help us assess our strengths and plan accordingly for Wikimania
+2019. This is our bet to prove our unity in diversity.
+
+You can read more about the Conference at the following link:
+
+https://meta.wikimedia.org/wiki/WikiConference_India_2016
+
+I would request all of you to sign up after clicking the link below:
+
+https://meta.wikimedia.org/wiki/WikiConference_India_2016/Community_and_Team
+
+Regards
+
+Satdeep Gill
+
+(On behalf of Volunteers for WCI 2016)
+
+_______________________________________________
+Wikimediaindia-l mailing list
+Wikimediaindia-l at lists.wikimedia.org
+To unsubscribe from the list / change mailing preferences visit
+https://lists.wikimedia.org/mailman/listinfo/wikimediaindia-l
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From sarsarahman at gmail.com  Thu Aug  6 11:49:51 2015
+From: sarsarahman at gmail.com (Abdur Rahman)
+Date: Thu, 6 Aug 2015 11:49:51 +0530
+Subject: [Ilugc] [Jobs] JavaScript Developer Wanted
+Message-ID: <CADOy0Ypxsizn-+-KqWkr3Z80ZoBsNvoPeN23SEA5uLqaFiMMsQ@mail.gmail.com>
+
+Looking experienced JavaScript developer or freelancers to build a listing
+based product.
+
+Skills Required:
+
+   - CSS
+   - LESS
+   - NodeJS
+   - ExpressJS
+   - Meteor
+   - Leaflet
+
+Interested people can send your profiles to this mail id
+
+
+Regards
+
+From ajeeshbkannan at gmail.com  Fri Aug  7 19:43:32 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Fri, 7 Aug 2015 19:43:32 +0530
+Subject: [Ilugc] create a daemon
+Message-ID: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+
+Hello,
+
+I have installed an application. For stating this application I may need,
+
+1. change the directory to the installed application
+2. Then execute the command "foreman start -p 80"
+
+How can I create a service for this process and enable it when the system
+boot.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From ajeeshbkannan at gmail.com  Fri Aug  7 19:55:06 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Fri, 7 Aug 2015 19:55:06 +0530
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+Message-ID: <CA+ark-r5M0uoGdfPc8mDHCjOXSO7K7=+sW6aRWUdERKx2uSBgg@mail.gmail.com>
+
+On Fri, Aug 7, 2015 at 7:43 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hello,
+>
+> I have installed an application. For stating this application I may need,
+>
+> 1. change the directory to the installed application
+> 2. Then execute the command "foreman start -p 80"
+>
+> How can I create a service for this process and enable it when the system
+> boot.
+>
+
+Also this service would be run on a screen on the server.
+
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+>
+>
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From shakthimaan at gmail.com  Fri Aug  7 19:56:22 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 7 Aug 2015 19:56:22 +0530
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+Message-ID: <CABG-yt2TE89xMUoqSU4OJZDyKC=6i1-aPbH-7jsAswmd5=KOPA@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Aug 7, 2015 at 7:43 PM, Ajeesh Kannan
+<ajeeshbkannan at gmail.com> wrote:
+| I have installed an application.
+\--
+
+How? You might want to package your application into a Docker image
+and run it. Please search online for simple tutorials.
+
+---
+| 1. change the directory to the installed application
+\--
+
+In the Dockerfile, specify the above as WORKDIR.
+
+---
+| 2. Then execute the command "foreman start -p 80"
+\--
+
+This should be the value of CMD in the Dockerfile.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From gsivaprabu at gmail.com  Fri Aug  7 20:25:53 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Fri, 7 Aug 2015 20:25:53 +0530
+Subject: [Ilugc] Recover Ubuntu 12.04 - 32 BIT boot missing in virtual box
+	(.vdi file format)
+Message-ID: <CALp7xkBLMTOLzH=tWfhxDSDGmrjaDw0caTXa-Vpc7nFEPwK3Gg@mail.gmail.com>
+
+Hi,
+
+I am installing Ubuntu 12.04 32 bit in virtaul box.
+
+My ubuntu machine at booting time shows below error()
+
+
+
+error file not found:
+
+grub rescue>
+grub rescue>
+grub rescue>
+
+
+How can i recovered?
+
+inside no boot  folder or etc please help...
+
+
+
+regards,
+@gsivaprabu
+<http://about.me/gsivaprabu>
+
+From shakthimaan at gmail.com  Fri Aug  7 21:19:06 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 7 Aug 2015 21:19:06 +0530
+Subject: [Ilugc] Recover Ubuntu 12.04 - 32 BIT boot missing in virtual
+ box (.vdi file format)
+In-Reply-To: <CALp7xkBLMTOLzH=tWfhxDSDGmrjaDw0caTXa-Vpc7nFEPwK3Gg@mail.gmail.com>
+References: <CALp7xkBLMTOLzH=tWfhxDSDGmrjaDw0caTXa-Vpc7nFEPwK3Gg@mail.gmail.com>
+Message-ID: <CABG-yt2KLYhDSL=R+3_pjPb0HJKs9h97wnRo4-C6wkE+AqDpGw@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Aug 7, 2015 at 8:25 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+| I am installing Ubuntu 12.04 32 bit in virtaul box.
+\--
+
+Were you able to complete the installation? Please try with a more
+recent version of the distribution.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Sat Aug  8 21:42:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sat, 8 Aug 2015 21:42:37 +0530
+Subject: [Ilugc] Fwd: [Chennaipy] PyCon Chennai: Meeting
+In-Reply-To: <55C0D868.8050904@bravegnu.org>
+References: <55C0D868.8050904@bravegnu.org>
+Message-ID: <CAND2794B3dVpqg1VWQPZx=LUN567V2EQy89LnnsZLjNxvccvGw@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Vijay Kumar" <vijaykumar at bravegnu.org>
+Date: Aug 4, 2015 4:25 PM
+Subject: [Chennaipy] PyCon Chennai: Meeting
+To: <Chennaipy at python.org>
+Cc:
+
+Hi Everyone,
+We will be meeting again on 9th August (Sunday), between 10:30 AM and
+12:30 PM at Logic Soft (See http://logicsoft.co.in/contact-us/ for
+directions) to further discuss about PyCon Chennai.
+
+Defining the "Core Values of the PyCon Chennai Team", will be the main
+agenda of the meeting.
+
+Please attend the meeting if you are interested in organizing the
+conference.
+
+Regards,
+Vijay
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+From madhusudhanane at gmail.com  Sat Aug  8 22:23:02 2015
+From: madhusudhanane at gmail.com (madhusudhanan Elangovan)
+Date: Sat, 8 Aug 2015 22:23:02 +0530
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+Message-ID: <CAJwZ5NOht7XB=BWC9ff2jqfnE4j0Ezsfxpyz80xuhCseMRtjGA@mail.gmail.com>
+
+Hi Ajeesh,
+
+                Instead of writing your own daemon service, try
+http://supervisord.org/ . It's a process control system and takes care of
+most of your requirements and you just need to provide your option in a
+config file.
+
+On Fri, Aug 7, 2015 at 7:43 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hello,
+>
+> I have installed an application. For stating this application I may need,
+>
+> 1. change the directory to the installed application
+> 2. Then execute the command "foreman start -p 80"
+>
+> How can I create a service for this process and enable it when the system
+> boot.
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+
+*Thanks,Madhusudhanan*
+
+From indianathann at gmail.com  Sun Aug  9 13:06:53 2015
+From: indianathann at gmail.com (=?UTF-8?B?4K6q4K6k4K+N4K6u4K6o4K6+4K6k4K6p4K+N?=)
+Date: Sun, 9 Aug 2015 13:06:53 +0530
+Subject: [Ilugc] Create an demon
+Message-ID: <CAF3EmS1N0q4c30RNKwbsiJfVRO7f9cmgcS9XgkevTxGZxJfn8g@mail.gmail.com>
+
+Why not cron?
+
+From baskar at linuxpert.in  Sun Aug  9 16:10:33 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sun, 9 Aug 2015 16:10:33 +0530
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+Message-ID: <CACtiFJY_SG9wq011Bp8tF-K=3Bv_8OfYa=-qNyZLpF3B+7g_6g@mail.gmail.com>
+
+> I have installed an application. For stating this application I may need,
+>
+> 1. change the directory to the installed application
+> 2. Then execute the command "foreman start -p 80"
+>
+> How can I create a service for this process and enable it when the system
+> boot.
+
+You may try this if your OS supports 'systemd' service
+
+http://patrakov.blogspot.in/2011/01/writing-systemd-service-files.html
+
+http://unix.stackexchange.com/questions/15348/writing-basic-systemd-service-files
+
+S. Baskar
+
+From tshrinivasan at gmail.com  Mon Aug 10 13:18:19 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 10 Aug 2015 13:18:19 +0530
+Subject: [Ilugc] Fwd: [Inpycon] Regular registration closes in 5 days!
+In-Reply-To: <CA+6J309_DVL-1c-AnfXXFvfp=AH7CQE6h5z22p9q45bwiLGgxA@mail.gmail.com>
+References: <CA+6J309_DVL-1c-AnfXXFvfp=AH7CQE6h5z22p9q45bwiLGgxA@mail.gmail.com>
+Message-ID: <CAND2795m0LrA1gpBK9QgCKzBVZ-8r9+Qg2MkXtV7oaCTT4H-og@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Haris Ibrahim K. V. <blucalvin at gmail.com>
+Date: 2015-08-10 11:09 GMT+05:30
+Subject: [Inpycon] Regular registration closes in 5 days!
+To: Mailing list for the PyCon India conference <inpycon at python.org>,
+Bangalore Python Users Group - India <bangpypers at python.org>
+
+
+Hello folks!
+
+Grab your tickets now! Just 5 more days to go before the Regular
+Python ticket sale closes. https://in.explara.com/e/pycon-india-2015.
+
+Really, don't wait. You know how Tatkal tickets work out, don't you? ;)
+
+Just in case you were wondering why you should attend PyCon India,
+here is a little something that one of our volunteers shared a while
+back:
+http://www.aniketmaithani.net/python/5-reasons-why-you-should-attend-pycon-india-2015/
+
+If you haven't checked out the keynote speakers, and the latest
+updates on our blog, please jump over to the site and have a look
+around at http://in.pycon.org/.
+
+Yep, don't miss out on our dev sprints this year! The CFP is open:
+https://in.pycon.org/blog/2015/dev-sprint-cfp.html
+
+Cheers y'all and hope to see all of you in October!
+
+--
+Haris Ibrahim K. V.
+http://sosaysharis.wordpress.com
+@harisibrahimkv
+_______________________________________________
+Inpycon mailing list
+Inpycon at python.org
+https://mail.python.org/mailman/listinfo/inpycon
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Tue Aug 11 01:04:17 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 11 Aug 2015 01:04:17 +0530
+Subject: [Ilugc] Fwd: [Chennaipy] Mailing list for Chennai PyCon
+In-Reply-To: <55C8D654.1080304@bravegnu.org>
+References: <55C8D654.1080304@bravegnu.org>
+Message-ID: <CAND2796mjzRhoO_4mV+CR2aypMtkSWP69gf0xj=BZFi5fSVX3A@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Vijay Kumar" <vijaykumar at bravegnu.org>
+Date: Aug 10, 2015 5:54 PM
+Subject: [Chennaipy] Mailing list for Chennai PyCon
+To: <Chennaipy at python.org>
+Cc:
+
+Hi Everyone,
+A mailing list has been created for "Chennai PyCon" discussion. If you are
+interested in organizing the conference, please join the mailing list, by
+visitinghttp://chennaipy.org/mailman/listinfo/pycon_chennaipy.org
+
+Regards,
+Vijay
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+From knura9 at gmail.com  Tue Aug 11 12:24:23 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 11 Aug 2015 12:24:23 +0530
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-r5M0uoGdfPc8mDHCjOXSO7K7=+sW6aRWUdERKx2uSBgg@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+	<CA+ark-r5M0uoGdfPc8mDHCjOXSO7K7=+sW6aRWUdERKx2uSBgg@mail.gmail.com>
+Message-ID: <CAHhM8gATYEPPapstM-ynYUGnXiCVPWTAdFVXHAb96HNqQnDhug@mail.gmail.com>
+
+On Fri, Aug 7, 2015 at 7:55 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> On Fri, Aug 7, 2015 at 7:43 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+>
+>> Hello,
+>>
+>> I have installed an application. For stating this application I may need,
+>>
+>> 1. change the directory to the installed application
+>> 2. Then execute the command "foreman start -p 80"
+>>
+>> How can I create a service for this process and enable it when the system
+>> boot.
+>>
+>
+
+See below.
+
+> Also this service would be run on a screen on the server.
+
+This would require an "auto" login for a specific desktop user that
+has requisite authorization(s) to do the stuff you want the
+application to do.  Depending on what kind of desktop (GNOME, KDE,
+XFCE etc) you are using, you will have to look up it's respective
+'auto' start application(s) mechanism as well.
+
+HTH,
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Aug 11 12:30:49 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 11 Aug 2015 12:30:49 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+Message-ID: <CAHhM8gDjnKfj=eQWGQneOoLzz4rK=KTwhGh3kGo_eMcXM1+rLw@mail.gmail.com>
+
+On Wed, Aug 5, 2015 at 10:54 AM, Rengaraj D <sakthirengaraj at gmail.com> wrote:
+> On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+>
+>> Dear All,
+>>
+>> http://www.manager.io/
+>>
+>> I am looking for similar Accounting software web based.Help me to suggest a
+>> better options. PHP/MySQL preferred.
+>>
+>> Have a look at ERPNext https://erpnext.com/
+
+odoo also has a very good accounting module and it has a Web UI.
+
+-- Arun Khan
+
+From send4kumar at gmail.com  Tue Aug 11 12:50:59 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Tue, 11 Aug 2015 12:50:59 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAHhM8gDjnKfj=eQWGQneOoLzz4rK=KTwhGh3kGo_eMcXM1+rLw@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+	<CAHhM8gDjnKfj=eQWGQneOoLzz4rK=KTwhGh3kGo_eMcXM1+rLw@mail.gmail.com>
+Message-ID: <CAHFTyBrC-6cFNaXQ5HSYEA3CDUW8c69P7L8-8NwE5Ec6uMWw-Q@mail.gmail.com>
+
+Thank you All. Will try it out.
+
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Tue, Aug 11, 2015 at 12:30 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Wed, Aug 5, 2015 at 10:54 AM, Rengaraj D <sakthirengaraj at gmail.com>
+> wrote:
+> > On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+> >
+> >> Dear All,
+> >>
+> >> http://www.manager.io/
+> >>
+> >> I am looking for similar Accounting software web based.Help me to
+> suggest a
+> >> better options. PHP/MySQL preferred.
+> >>
+> >> Have a look at ERPNext https://erpnext.com/
+>
+> odoo also has a very good accounting module and it has a Web UI.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vivek.2k.64 at gmail.com  Wed Aug 12 09:39:03 2015
+From: vivek.2k.64 at gmail.com (Vivek Kumar)
+Date: Wed, 12 Aug 2015 09:39:03 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAHFTyBrC-6cFNaXQ5HSYEA3CDUW8c69P7L8-8NwE5Ec6uMWw-Q@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+	<CAHhM8gDjnKfj=eQWGQneOoLzz4rK=KTwhGh3kGo_eMcXM1+rLw@mail.gmail.com>
+	<CAHFTyBrC-6cFNaXQ5HSYEA3CDUW8c69P7L8-8NwE5Ec6uMWw-Q@mail.gmail.com>
+Message-ID: <CAP4ZfJz5rtbNNd8+FO-B+d8=VXqpC_FQHLMS9NM8A0ASCyrGRg@mail.gmail.com>
+
+best open-source accounting package
+kalculate. support all linux and mac. next 25 days they are are  launch
+cloud based   accounting package.
+
+last month i install ubuntu 14.04 with kalculate. I am very happy. we save
+at-least  50000.
+
+
+On Tue, Aug 11, 2015 at 12:50 PM, Kumar <send4kumar at gmail.com> wrote:
+
+> Thank you All. Will try it out.
+>
+>
+> Thank you.
+>
+>
+> With regards,
+> Kumar
+> m: +91 94434 55374
+> im: send4kumar [ skype ]
+>
+> On Tue, Aug 11, 2015 at 12:30 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Wed, Aug 5, 2015 at 10:54 AM, Rengaraj D <sakthirengaraj at gmail.com>
+> > wrote:
+> > > On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+> > >
+> > >> Dear All,
+> > >>
+> > >> http://www.manager.io/
+> > >>
+> > >> I am looking for similar Accounting software web based.Help me to
+> > suggest a
+> > >> better options. PHP/MySQL preferred.
+> > >>
+> > >> Have a look at ERPNext https://erpnext.com/
+> >
+> > odoo also has a very good accounting module and it has a Web UI.
+> >
+> > -- Arun Khan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From send4kumar at gmail.com  Wed Aug 12 10:00:48 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Wed, 12 Aug 2015 10:00:48 +0530
+Subject: [Ilugc] Any opensource software for Accounting
+In-Reply-To: <CAP4ZfJz5rtbNNd8+FO-B+d8=VXqpC_FQHLMS9NM8A0ASCyrGRg@mail.gmail.com>
+References: <CAHFTyBqFYK-jQmOkOio65n=djaATqq39ds0mSjQbeZPwYVLuLQ@mail.gmail.com>
+	<CANgAyd7Bwmo1uVFRxHa0nZooipVX_JnaOE5BnmGkQqa_KhHnwA@mail.gmail.com>
+	<CAHhM8gDjnKfj=eQWGQneOoLzz4rK=KTwhGh3kGo_eMcXM1+rLw@mail.gmail.com>
+	<CAHFTyBrC-6cFNaXQ5HSYEA3CDUW8c69P7L8-8NwE5Ec6uMWw-Q@mail.gmail.com>
+	<CAP4ZfJz5rtbNNd8+FO-B+d8=VXqpC_FQHLMS9NM8A0ASCyrGRg@mail.gmail.com>
+Message-ID: <CAHFTyBpxKGMV_1uTbXJ6O_-Hgb48Q6hFuBUbAEU-nD_uZROCwQ@mail.gmail.com>
+
+Sounds Great !
+
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Wed, Aug 12, 2015 at 9:39 AM, Vivek Kumar <vivek.2k.64 at gmail.com> wrote:
+
+> best open-source accounting package
+> kalculate. support all linux and mac. next 25 days they are are  launch
+> cloud based   accounting package.
+>
+> last month i install ubuntu 14.04 with kalculate. I am very happy. we save
+> at-least  50000.
+>
+>
+> On Tue, Aug 11, 2015 at 12:50 PM, Kumar <send4kumar at gmail.com> wrote:
+>
+> > Thank you All. Will try it out.
+> >
+> >
+> > Thank you.
+> >
+> >
+> > With regards,
+> > Kumar
+> > m: +91 94434 55374
+> > im: send4kumar [ skype ]
+> >
+> > On Tue, Aug 11, 2015 at 12:30 PM, Arun Khan <knura9 at gmail.com> wrote:
+> >
+> > > On Wed, Aug 5, 2015 at 10:54 AM, Rengaraj D <sakthirengaraj at gmail.com>
+> > > wrote:
+> > > > On 5 August 2015 at 10:45, Kumar <send4kumar at gmail.com> wrote:
+> > > >
+> > > >> Dear All,
+> > > >>
+> > > >> http://www.manager.io/
+> > > >>
+> > > >> I am looking for similar Accounting software web based.Help me to
+> > > suggest a
+> > > >> better options. PHP/MySQL preferred.
+> > > >>
+> > > >> Have a look at ERPNext https://erpnext.com/
+> > >
+> > > odoo also has a very good accounting module and it has a Web UI.
+> > >
+> > > -- Arun Khan
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From bharathi.list at gmail.com  Wed Aug 12 12:29:09 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Wed, 12 Aug 2015 14:59:09 +0800
+Subject: [Ilugc] create a daemon
+In-Reply-To: <CA+ark-r5M0uoGdfPc8mDHCjOXSO7K7=+sW6aRWUdERKx2uSBgg@mail.gmail.com>
+References: <CA+ark-qaMEbqw5aOKMgeUZTCO5WAu+21o=z7R2402rf=AkqHyw@mail.gmail.com>
+	<CA+ark-r5M0uoGdfPc8mDHCjOXSO7K7=+sW6aRWUdERKx2uSBgg@mail.gmail.com>
+Message-ID: <CAAeEhqsTshmWAxUKR41TpArOi1xeyC6OJcudrhumFqWuze9hOw@mail.gmail.com>
+
+On Fri, Aug 7, 2015 at 10:25 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> > I have installed an application. For stating this application I may need,
+> >
+> > 1. change the directory to the installed application
+> > 2. Then execute the command "foreman start -p 80"
+> >
+> > How can I create a service for this process and enable it when the system
+> > boot.
+>
+> Also this service would be run on a screen on the server.
+
+
+The author discussed few options in the man page of the foreman:
+Take a look at it: https://ddollar.github.io/foreman/
+
+HTH
+--
+Bharathi Subramanian
+
+From vpandiyarajaneee at gmail.com  Wed Aug 12 16:23:45 2015
+From: vpandiyarajaneee at gmail.com (Pandiyarajan V)
+Date: Wed, 12 Aug 2015 16:23:45 +0530
+Subject: [Ilugc] I have added the ilugc
+Message-ID: <CAFMvKkLxz0xioUpqZt9GLWiKkMojWz8xK4bt4PJtohUPiwPg4g@mail.gmail.com>
+
+
+
+From kidbees at gmail.com  Wed Aug 12 23:11:24 2015
+From: kidbees at gmail.com (Bala Kumar)
+Date: Wed, 12 Aug 2015 23:11:24 +0530
+Subject: [Ilugc]  Q&A from Monthly Meet - Aug 8-2015
+Message-ID: <CAKLQ04Bj4Ag+dJ6KWOk_ATEcdM8muWcd8=0Jkf-Kz3NELC99hQ@mail.gmail.com>
+
+Hi everyone,
+          During the meet - I raised an open question regarding leap
+seconds and how
+are they handled in DB's. Everyone had our opinions and most of the
+attendees
+suggested it is taken care by the OS.
+
+Looks like Leap second is handled by DB as well because of the usage
+of *now()* function. Found this link interesting
+ https://dev.mysql.com/doc/refman/5.5/en/time-zone-leap-seconds.html.
+
+In recent versions of MySQL - leap second 59:60 is reverted to 59:59 and
+because
+of this decrement there can be ambiguities in our where queries. For
+accurate
+query results MySQL suggest using *UNIX_TIMESTAMP(timestamp_column).*
+
+Have discussed queries in this shared document:
+https://docs.google.com/document/d/16CNBxIQGMbVoSgbg297h7b8rdr8huirTeb7XVt3PGAM/edit
+
+Leap Second example in the Shared link is from MySQL doc and when I tried
+it on my
+machine, I found it not working - very recently someone have commented the
+same in their official doc - let me know if the example actually works.
+
+ PS: http://www.postgresql.org/docs/9.1/static/functions-datetime.html says
+       "PostgreSQL uses UT1 because leap seconds are not handled." Also
+Interested
+        to know if there are any such MySQL like decrements for leap
+seconds in
+        PostgreSQL too.
+
+Thanks,
+Bala.
+
+From kidbees at gmail.com  Thu Aug 13 12:02:47 2015
+From: kidbees at gmail.com (Bala Kumar)
+Date: Thu, 13 Aug 2015 12:02:47 +0530
+Subject: [Ilugc]  MySQL leap second works ?
+Message-ID: <CAKLQ04DPC12Sp6V6M2qX4hbR9wJDQbX-EHcgYe5ESgX6dM4HKQ@mail.gmail.com>
+
+Hi everyone,
+          During the Monthly Meet - Aug 8-2015 - I raised an open question
+regarding leap
+seconds and how are they handled in DB's. Everyone had our opinions and
+most of the
+attendees suggested it is taken care by the OS.
+
+Interestingly looks like Leap second is handled by DB as well because of
+the usage of
+*now()* function. Found this link interesting
+https://dev.mysql.com/doc/refman/5.5/en/time-zone-leap-seconds.html.
+
+In recent versions of MySQL leap second 59:60 is reverted to 59:59 and
+because of this
+decrement there can be ambiguities in our where queries. For accurate query
+results MySQL
+suggests using *UNIX_TIMESTAMP(timestamp_column).*
+
+Eg:
+  => mysql> SELECT a, ts, UNIX_TIMESTAMP(ts) FROM t1;
+  +------+---------------------+--------------------+
+  | a | ts | UNIX_TIMESTAMP(ts) |
+  +------+---------------------+--------------------+ |
+  | 1 | 2008-12-31 23:59:59 |1230767999 |
+  | 2 | 2008-12-31 23:59:59 |1230768000 |
+  +------+---------------------+--------------------+
+  2 rows in set (0.00 sec)
+
+  Querying for the leap second -
+  => SELECT * FROM t1 WHERE ts = '2008-12-31 23:59:60';*
+     Empty set, 2 warnings (0.00 sec)
+     Returns empty set, because it is stored as 23:59:59 as shown in first
+query.
+
+  Using UNIX_TIMESTAMP in the condition we get -
+  => mysql> *SELECT * FROM t1 WHERE UNIX_TIMESTAMP(ts) = 1230768000;
+    +------+---------------------+
+    | a    | ts                  |
+    +------+---------------------+
+    |    2 | 2008-12-31 23:59:59 |
+    +------+---------------------+
+    1 row in set (0.00 sec)
+
+  Interesting part is that for 59:59 we get only one result and not the
+expected two rows.
+  => mysql> *SELECT * FROM t1 WHERE ts = '2008-12-31 23:59:59';*
+    +------+---------------------+
+    | a    | ts                  |
+    +------+---------------------+
+    |    1 | 2008-12-31 23:59:59 |
+    +------+---------------------+
+    1 row in set (0.00 sec)
+
+I Took this Leap Second example from MySQL doc and when I tried it on my
+machine, this leap
+second behaviour was not working - very recently someone have commented the
+same in the doc.
+Please let me know if the example actually works for anyone else ?
+
+Also http://www.postgresql.org/docs/9.1/static/functions-datetime.html says
+"PostgreSQL uses UT1 because leap seconds are not handled." Interested to
+know if there
+are any such MySQL like decrements for leap seconds in PostgreSQL too.
+
+Thanks,
+Bala.
+
+From anbu.ganesh at cangonetworks.com  Thu Aug 13 15:00:33 2015
+From: anbu.ganesh at cangonetworks.com (Anbu Ganesh)
+Date: Thu, 13 Aug 2015 15:00:33 +0530
+Subject: [Ilugc] [Job] MEAN (Mongo, Express, Angular,
+	Node JS) Experts & Consultants.
+Message-ID: <CANUW-HAbPQOxiPVnJ7+0Z=8E-QcNJAT+o1sugrgsxJdNa6wzLA@mail.gmail.com>
+
+Hi all,
+
+    We are a product company based in Guindy, Chennai focused on Telecom
+Network Analytics. We are currently looking for someone with solid hands on
+experience in MEAN stack implementation.
+
+Our product has been deployed in more than 15 countries globally
+with offices in Europe and Middle East.
+
+*REQUIREMENTS:*
+
+*Database:*
+*MongoDB* *development* & Migration experience from MSSQL/MYSQL to Mongo.
+
+*Front-End & Middleware:*
+*Angular JS, Node JS Development* and migration from MVC to MEAN would be
+an added advantage.
+
+*Experience:*
+Anyone who is confident on the above topics could reach out to us.
+
+*Mode of engagement:*
+Positions are open for both part-time and full-time engagements.
+
+Mail to : anbu.ganesh at cangonetworks.com
+              Raghu.arcot at cangonetworks.com
+              Deepak.nair at cangonetworks.com
+
+
+Best Regards,
+Anbu Ganesh
+CanGo Networks
+www.cangonetworks.com
+
+<http://www.dd14.org/networking-events/catalyst-demonstrations/>
+
+From tshrinivasan at gmail.com  Fri Aug 14 12:26:20 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 14 Aug 2015 12:26:20 +0530
+Subject: [Ilugc] Fwd: [chennai.rb] Freedom Bootcamp 2k15
+In-Reply-To: <CAPfdFFjfag3n_8eCAVfEK2RhkGSGgK12Wq0_661kMLixyoZudg@mail.gmail.com>
+References: <CAPfdFFjfag3n_8eCAVfEK2RhkGSGgK12Wq0_661kMLixyoZudg@mail.gmail.com>
+Message-ID: <CAND27955Gx+eeBvi3UPX4tUg+sf+=ffRTmKYAd9+xm7wecQ2qQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Mugunthan Latchoumanane" <mugunthan.masti at gmail.com>
+Date: Aug 14, 2015 5:32 AM
+Subject: [chennai.rb] Freedom Bootcamp 2k15
+To: <fsftn-villupuram at googlegroups.com>, <mailinglist at fsftn.org>, <
+chennairb at googlegroups.com>, <puduvailug at freelists.org>
+Cc:
+
+Dear Friends,
+
+
+As a part of our FTW(FSFTN Tech Weekends) initiative, we are organising a
+Hackathon/Bootcamp on the the 15th of august for college students and
+general public .
+
+Well, Independence day is just a co-incidence!
+
+In this one day event, we will be having 3 parallel tracks running at the
+same time:
+
+Ruby On Rails (Web application development)
+Blender (3D Animation)
+Wikipedia (The largest Encyclopedia)
+
+The participants in each track would collaborate with each other and
+Brain-Storm together to Hack on a real-time project, which will, of course
+be a Free Software.
+
+Each of the 3 tracks would be assigned with one or more mentors from that
+respective fields/communities, who would guide them through and beyond the
+Hackathon.
+
+Requirements:
+
+Ruby On Rails:
+Intermediate level knowledge about Rails framework.
+Basic level knowledge about git and github.(VCS)
+Basics of postgresql.
+
+Blender:
+
+Basic Knowledge on working with Blender.
+Love for art < 3
+Patience (This one is a Must!)
+
+Wikipedia:
+
+No technical prerequisites.
+Just need to have/create a Wikipedia account.
+
+*NOTE: Participants must have a GNU/LINUX based OS in their laptops.
+
+Venue:
+
+FSFTN Office, No.36 (old #24 <https://web.telegram.org/#/im?q=%2324>)
+Thanikachalam Road,
+Flat No. 2, First Floor, B Block, Silverpark Apartments,
+T. Nagar, Chennai ? 600017.
+
+Location Map:
+http://www.openstreetmap.org/?mlat=13.03553&mlon=80.23901#map=18/13.03553/80.23901
+
+Contact:
+
+Srravya
+
+FSFTN Volunteer
+
+Mobile Number: 9962943247
+
+
+*NOTE: The Number of seats for this event is very limited.
+
+<http://www.openstreetmap.org/?mlat=13.03553&mlon=80.23901#map=18/13.03553/80.23901>
+
+www.openstreetmap.org
+
+OpenStreetMap is the free wiki world map.
+
+
+-- 
+
+---
+You received this message because you are subscribed to the Google Groups
+"chennai.rb" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to chennairb+unsubscribe at googlegroups.com.
+For more options, visit https://groups.google.com/d/optout.
+
+From manokaran at gmail.com  Mon Aug 17 19:35:46 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 17 Aug 2015 14:05:46 +0000
+Subject: [Ilugc] [OT][JOB][commercial] android developer wanted
+Message-ID: <CAKGmkL3rTBaUb9dfqfV4neNKE4xbsE29n5f02iTBt5V36rJQsw@mail.gmail.com>
+
+Hi,
+
+A friend is in need of an android developer for some tasks that will take a
+couple of weeks. If you, or anyone you know, are interested, pls reply to
+my mail id directly.
+
+Thanks,
+mano
+
+From rkrajeshkumar87 at gmail.com  Tue Aug 18 11:27:47 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Tue, 18 Aug 2015 11:27:47 +0530
+Subject: [Ilugc] Chit Fund Software
+Message-ID: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+
+Dear All,
+
+Is there any good chit fund application available. One of my client needs a
+solution on this. Please let me know if anything available.
+
+--
+regards
+Rajesh Kumar R.K
+
+From bala150985 at gmail.com  Tue Aug 18 11:32:07 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Tue, 18 Aug 2015 11:32:07 +0530
+Subject: [Ilugc] Chit Fund Software
+In-Reply-To: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+References: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+Message-ID: <CAFHFDA=E8JgqU=bMs4k30bKVN6yBBa1PBWdUMwcUA74w_MHGtQ@mail.gmail.com>
+
+On Tue, Aug 18, 2015 at 11:27 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com>
+wrote:
+
+> Dear All,
+>
+> Is there any good chit fund application available. One of my client needs a
+> solution on this. Please let me know if anything available.
+>
+
+Not to pull any ones leg, won't open office calc be able to do that with
+some appropriate formulas ?
+
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From 77minds at gmail.com  Tue Aug 18 12:58:15 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Tue, 18 Aug 2015 12:58:15 +0530
+Subject: [Ilugc] Chit Fund Software
+In-Reply-To: <CAFHFDA=E8JgqU=bMs4k30bKVN6yBBa1PBWdUMwcUA74w_MHGtQ@mail.gmail.com>
+References: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+	<CAFHFDA=E8JgqU=bMs4k30bKVN6yBBa1PBWdUMwcUA74w_MHGtQ@mail.gmail.com>
+Message-ID: <CAJR+9kbbsxek7ZP3pznBhbvdvdYgB_M+Y=g-VcUnhAwikUXNHg@mail.gmail.com>
+
++1 for calc!!!
+
+On Tue, Aug 18, 2015 at 11:32 AM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> On Tue, Aug 18, 2015 at 11:27 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com>
+> wrote:
+>
+> > Dear All,
+> >
+> > Is there any good chit fund application available. One of my client
+> needs a
+> > solution on this. Please let me know if anything available.
+> >
+>
+> Not to pull any ones leg, won't open office calc be able to do that with
+> some appropriate formulas ?
+>
+>
+> --
+> Regards,
+> Balasubramaniam Natarajan
+> http://blog.etutorshop.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From rkrajeshkumar87 at gmail.com  Tue Aug 18 15:08:29 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Tue, 18 Aug 2015 15:08:29 +0530
+Subject: [Ilugc] Chit Fund Software
+In-Reply-To: <CAJR+9kbbsxek7ZP3pznBhbvdvdYgB_M+Y=g-VcUnhAwikUXNHg@mail.gmail.com>
+References: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+	<CAFHFDA=E8JgqU=bMs4k30bKVN6yBBa1PBWdUMwcUA74w_MHGtQ@mail.gmail.com>
+	<CAJR+9kbbsxek7ZP3pznBhbvdvdYgB_M+Y=g-VcUnhAwikUXNHg@mail.gmail.com>
+Message-ID: <CAAKbJMLeZbo+p43OEt8oJews+ZqPEMyvFedAPyVGXbs0U70VCQ@mail.gmail.com>
+
+The wanted to automate the process with managements of customers etc.,
+
+calc is not suitable for large application.
+
+--
+regards
+Rajesh
+
+On Tue, Aug 18, 2015 at 12:58 PM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> +1 for calc!!!
+>
+> On Tue, Aug 18, 2015 at 11:32 AM, Balasubramaniam Natarajan <
+> bala150985 at gmail.com> wrote:
+>
+> > On Tue, Aug 18, 2015 at 11:27 AM, Rajesh kumar <
+> rkrajeshkumar87 at gmail.com>
+> > wrote:
+> >
+> > > Dear All,
+> > >
+> > > Is there any good chit fund application available. One of my client
+> > needs a
+> > > solution on this. Please let me know if anything available.
+> > >
+> >
+> > Not to pull any ones leg, won't open office calc be able to do that with
+> > some appropriate formulas ?
+> >
+> >
+> > --
+> > Regards,
+> > Balasubramaniam Natarajan
+> > http://blog.etutorshop.com
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From bala150985 at gmail.com  Tue Aug 18 15:46:54 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Tue, 18 Aug 2015 06:16:54 -0400
+Subject: [Ilugc] Chit Fund Software
+In-Reply-To: <CAAKbJMLeZbo+p43OEt8oJews+ZqPEMyvFedAPyVGXbs0U70VCQ@mail.gmail.com>
+References: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+	<CAFHFDA=E8JgqU=bMs4k30bKVN6yBBa1PBWdUMwcUA74w_MHGtQ@mail.gmail.com>
+	<CAJR+9kbbsxek7ZP3pznBhbvdvdYgB_M+Y=g-VcUnhAwikUXNHg@mail.gmail.com>
+	<CAAKbJMLeZbo+p43OEt8oJews+ZqPEMyvFedAPyVGXbs0U70VCQ@mail.gmail.com>
+Message-ID: <CAFHFDA=RN71TtT3spiVEW5OjB0zTh=hbZpePndkdJ7TcePHgOg@mail.gmail.com>
+
+On Tue, Aug 18, 2015 at 5:38 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com>
+wrote:
+
+> The wanted to automate the process with managements of customers etc.,
+>
+> calc is not suitable for large application.
+>
+>
+Okay.
+
+
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From knura9 at gmail.com  Tue Aug 18 17:36:55 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 18 Aug 2015 17:36:55 +0530
+Subject: [Ilugc] Chit Fund Software
+In-Reply-To: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+References: <CAAKbJMKHsR6TtGjVPSsjwcspA9gp5x0nY9BbM3_JB2MAhhs=wA@mail.gmail.com>
+Message-ID: <CAHhM8gA_4YdOOQ_=WZmEW8_QmxyY7Ns5EE46k6jifFSOjZkCgg@mail.gmail.com>
+
+On Tue, Aug 18, 2015 at 11:27 AM, Rajesh kumar
+<rkrajeshkumar87 at gmail.com> wrote:
+> Dear All,
+>
+> Is there any good chit fund application available. One of my client needs a
+> solution on this. Please let me know if anything available.
+>
+
+Dpn't know about Chit Fund accounting/management.
+Most ERP stack have CRM + Accounting modules.   It might have to be
+customized to meet regulatory requirements.
+Take a look at odoo ERP.
+-- 
+Arun Khan (???? ????/???? ???)
+"If you do not exit out of your shell, you are just a nut."  Sadhguru
+
+From aneesh.reghu at gmail.com  Tue Aug 18 19:32:33 2015
+From: aneesh.reghu at gmail.com (aneesh reghu)
+Date: Tue, 18 Aug 2015 19:32:33 +0530
+Subject: [Ilugc] [Job] Openings for Desktop Administrator
+Message-ID: <CAHe+QBu3YGfP_oM39_AOddLesg=YTeUfcZAR4JtBn626L+2ZXA@mail.gmail.com>
+
+Hi All,
+
+
+"Sokrati Technologies PVT LTD"
+http://www.sokrati.com/
+
+We have opening  for Desktop Administrator  in Pune. Interested candidate
+please send your resume to aneesh.reghu at gmail.com
+
+
+
+Thanks & Regards
+Aneesh Reghu
+MOB:+919789982220
+
+From aneesh.reghu at gmail.com  Tue Aug 18 19:58:32 2015
+From: aneesh.reghu at gmail.com (aneesh reghu)
+Date: Tue, 18 Aug 2015 19:58:32 +0530
+Subject: [Ilugc] [Job] Openings for Desktop Administrator
+In-Reply-To: <CAHe+QBu3YGfP_oM39_AOddLesg=YTeUfcZAR4JtBn626L+2ZXA@mail.gmail.com>
+References: <CAHe+QBu3YGfP_oM39_AOddLesg=YTeUfcZAR4JtBn626L+2ZXA@mail.gmail.com>
+Message-ID: <CAHe+QBtwv--9h4xEu5jdLuAiqN4zvdWZyUApRGAdeR=oCm-ueA@mail.gmail.com>
+
+ We are looking Experience must be from 1 year  to 3 years.
+
+
+On Tue, Aug 18, 2015 at 7:32 PM, aneesh reghu <aneesh.reghu at gmail.com>
+wrote:
+
+> Hi All,
+>
+>
+> "Sokrati Technologies PVT LTD"
+> http://www.sokrati.com/
+>
+> We have opening  for Desktop Administrator  in Pune. Interested candidate
+> please send your resume to aneesh.reghu at gmail.com
+>
+>
+>
+> Thanks & Regards
+> Aneesh Reghu
+> MOB:+919789982220
+>
+
+From shanmugas66 at gmail.com  Tue Aug 18 21:46:13 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Tue, 18 Aug 2015 21:46:13 +0530
+Subject: [Ilugc] [Job] Openings for Desktop Administrator
+In-Reply-To: <CAHe+QBtwv--9h4xEu5jdLuAiqN4zvdWZyUApRGAdeR=oCm-ueA@mail.gmail.com>
+References: <CAHe+QBu3YGfP_oM39_AOddLesg=YTeUfcZAR4JtBn626L+2ZXA@mail.gmail.com>
+	<CAHe+QBtwv--9h4xEu5jdLuAiqN4zvdWZyUApRGAdeR=oCm-ueA@mail.gmail.com>
+Message-ID: <CA+h6mdOgL0EZ7JROown9vjJZmC4FNfn3VKRsS9PNi-JS_dihwg@mail.gmail.com>
+
+hai bro,
+                i am a final year student and i am doing my project in
+cloud image retrieving  using spark platform
+i have to know about the basics of cloud and cluster with spark did any one
+has the idea and if any one know about it please share with me .........
+
+
+On Tue, Aug 18, 2015 at 7:58 PM, aneesh reghu <aneesh.reghu at gmail.com>
+wrote:
+
+>  We are looking Experience must be from 1 year  to 3 years.
+>
+>
+> On Tue, Aug 18, 2015 at 7:32 PM, aneesh reghu <aneesh.reghu at gmail.com>
+> wrote:
+>
+> > Hi All,
+> >
+> >
+> > "Sokrati Technologies PVT LTD"
+> > http://www.sokrati.com/
+> >
+> > We have opening  for Desktop Administrator  in Pune. Interested candidate
+> > please send your resume to aneesh.reghu at gmail.com
+> >
+> >
+> >
+> > Thanks & Regards
+> > Aneesh Reghu
+> > MOB:+919789982220
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vijaykumar at bravegnu.org  Tue Aug 18 22:20:30 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Tue, 18 Aug 2015 16:50:30 +0000 (UTC)
+Subject: [Ilugc] Chennaipy August Meetup
+Message-ID: <loom.20150818T184836-57@post.gmane.org>
+
+# August Meetup
+
+## Date & Time
+
+   * 22nd August (Saturday)
+   * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+Schedule
+
+  * Introduction to GeoJson and GeoDjango (20 min)
+    by Shrinidhi  Kulkarni
+
+  * Introduction to Asynchronous Programming (20 min)
+    by Rengaraj
+
+  * Networking Tea Break sponsored by Zilogic Systems (30 min)
+
+  * Introduction to Google App Engine (20 min)
+    by Krithika Vembu
+
+  * Towards probabilistic programming in Python (20 min)
+    by Ronojoy Adhikari
+
+  * Discussions (30 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/224333564/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/224333564/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+   * Invent Your Own Computer Games with Python, Chapters 1 - 9
+     http://inventwithpython.com/chapters/
+
+   * Google's Python Course (with Lecture Videos)
+     https://developers.google.com/edu/python/
+
+   * How to Think Like a Computer Scientist, Chapters 1 - 12
+     http://www.greenteapress.com/thinkpython/ 
+
+
+From nshanmuga1 at gmail.com  Wed Aug 19 12:04:17 2015
+From: nshanmuga1 at gmail.com (Nathan P)
+Date: Wed, 19 Aug 2015 12:04:17 +0530
+Subject: [Ilugc] [Job] Openings for Desktop Administrator
+In-Reply-To: <CAHe+QBtwv--9h4xEu5jdLuAiqN4zvdWZyUApRGAdeR=oCm-ueA@mail.gmail.com>
+References: <CAHe+QBu3YGfP_oM39_AOddLesg=YTeUfcZAR4JtBn626L+2ZXA@mail.gmail.com>
+	<CAHe+QBtwv--9h4xEu5jdLuAiqN4zvdWZyUApRGAdeR=oCm-ueA@mail.gmail.com>
+Message-ID: <CAFjbcYwdeAXFN2t_6-TB7Zj78CDJDW5FSz22=dLucGq+Z5T5MQ@mail.gmail.com>
+
+i have forwarded my resume to your email id.
+
+Thanks
+Nathan
+
+On Tue, Aug 18, 2015 at 7:58 PM, aneesh reghu <aneesh.reghu at gmail.com>
+wrote:
+
+>  We are looking Experience must be from 1 year  to 3 years.
+>
+>
+> On Tue, Aug 18, 2015 at 7:32 PM, aneesh reghu <aneesh.reghu at gmail.com>
+> wrote:
+>
+> > Hi All,
+> >
+> >
+> > "Sokrati Technologies PVT LTD"
+> > http://www.sokrati.com/
+> >
+> > We have opening  for Desktop Administrator  in Pune. Interested candidate
+> > please send your resume to aneesh.reghu at gmail.com
+> >
+> >
+> >
+> > Thanks & Regards
+> > Aneesh Reghu
+> > MOB:+919789982220
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+P.Nathan
+Mob:+91-9677932024
+
+From sisinious123 at gmail.com  Wed Aug 19 14:25:27 2015
+From: sisinious123 at gmail.com (Sisi nious)
+Date: Wed, 19 Aug 2015 14:25:27 +0530
+Subject: [Ilugc] [Job] - Openings for Android,
+	Angular and Software developers- Reg
+Message-ID: <CAP=iymVLwtb-uCkc_=3Fd2fO2F=GcAxd-TqHijhowGMZLniE0g@mail.gmail.com>
+
+Hi all,
+
+
+*Sciflare Technologies, *Chennai have immediate opening for the following
+positions.
+
+1. Android Developer
+2. Angular Developer
+3. Software Developer
+
+Both freshers/ experienced candidates can apply
+for Full-time/Part-time/Freelancing.
+
+Mail id: hr at sciflare.com
+Contact no: +914442811538
+Website: www.sciflare.com
+
+Thanks & Regards
+Sisinious
++91-9791440910
+
+From prem at songbirdtech.com  Wed Aug 19 15:06:43 2015
+From: prem at songbirdtech.com (Prem Kurian Philip)
+Date: Wed, 19 Aug 2015 15:06:43 +0530
+Subject: [Ilugc] [Job] Openings for Desktop Administrator
+Message-ID: <c8f9bdd2d197b603e89d63ea97abe96e.squirrel@ms002oc2.lunarpages.com>
+
+>Date: Tue, 18 Aug 2015 21:46:13 +0530
+>From: shanmuga sundar <shanmugas66 at gmail.com>
+>Subject: Re: [Ilugc] [Job] Openings for Desktop Administrator
+>To: ILUG-C <ilugc at ae.iitm.ac.in>
+>Message-ID:
+        <CA+h6mdOgL0EZ7JROown9vjJZmC4FNfn3VKRsS9PNi-JS_dihwg at mail.gmail.com>
+>Content-Type: text/plain; charset=UTF-8
+
+>hai bro,
+>                i am a final year student and i am doing my project in
+>cloud image retrieving  using spark platform
+>i have to know about the basics of cloud and cluster with spark did any one
+>has the idea and if any one know about it please share with me .........
+
+Please create a new thread of discussion instead of hijacking a thread.
+What I mean is: Do not reply to an exiting discussion with a completely
+unrelated post while keeping the same subject. Create a new post with a
+new relevant subject.
+
+Why? Because it helps those who are following the discussion.
+
+Thank you,
+Prem Kurian Philip
+
+
+
+>On Tue, Aug 18, 2015 at 7:58 PM, aneesh reghu <aneesh.reghu at gmail.com>
+>wrote:
+
+>>  We are looking Experience must be from 1 year  to 3 years.
+>>
+>>
+>> On Tue, Aug 18, 2015 at 7:32 PM, aneesh reghu <aneesh.reghu at gmail.com>
+>> wrote:
+>>
+>> Hi All,
+>>
+>>
+> > "Sokrati Technologies PVT LTD"
+> > http://www.sokrati.com/
+> >
+> > We have opening  for Desktop Administrator  in Pune. Interested candidate
+> > please send your resume to aneesh.reghu at gmail.com
+> >
+> >
+> >
+> > Thanks & Regards
+> > Aneesh Reghu
+> > MOB:+919789982220
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+From saket.sinha89 at gmail.com  Wed Aug 19 21:26:00 2015
+From: saket.sinha89 at gmail.com (Saket Sinha)
+Date: Wed, 19 Aug 2015 21:26:00 +0530
+Subject: [Ilugc] [Job] Openings for Web Developer (Team Lead) - Hindustan
+	Times
+Message-ID: <CAK25hWMA=ysxjPgK1ktyvJGGZTXBN68G+_uouqN4rZC8MH4RTw@mail.gmail.com>
+
+Hi,
+
+We have opening for Web Developer (Team Lead).
+
+Kindly fwd your resumes to shivangishanker1309 at gmail.com .
+
+
+Please find the JD below -
+
+Title: Team Lead
+
+About Us:
+
+Our journey began with the simple goal of connecting students to the
+right college. Starting with our flagship website www.htcampus.com we
+have grown to become India's largest network of education related
+websites. Even though we are a part of the esteemed Hindustan Times
+media group our business is an independent startup with a young team
+and work culture.
+
+The Role:
+
+We are looking for an expert Web Developer who can lead a team. As the
+team leader you would beresponsible for ensuring that your team writes
+good clean code; that is modular and can scale with traffic. Naturally
+this requires, that your own code illustrates these good habits and
+deep understanding of the fundamentals.  As we are fast growing
+startup, we like to give people autonomy and really appreciate
+ownership. You would be responsible for a bouquet of products that
+cater to the
+need of students across various domains. You would independently
+interact with the product team  and give them time estimates against
+specs provided. Working with the design team you would power beautiful
+and user friendly UI.  You would report to the technology head of the
+business who is there to support you in getting things done.
+
+You should have:
+? 7+ years of web development experience for websites built using
+Django framework
+? Fluent in python
+? Fluent with Apache configurations, modules etc
+? Fluent with MySql query writing and optimization
+? Exposure to CSS and HTML
+? Good communication skills and a team player
+
+Skills Required: Python, Apache, Linux, Ubuntu, MySQL, Django
+
+
+Regards,
+Saket Sinha
+
+From shanmugas66 at gmail.com  Thu Aug 20 21:58:15 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Thu, 20 Aug 2015 21:58:15 +0530
+Subject: [Ilugc] can suggest a new ideas about the spark
+Message-ID: <CA+h6mdPcKyKuPGvqmP1wtLjrxD3S1=syZVynTCvMn5QAbzx9xg@mail.gmail.com>
+
+hai bro,
+                i am a final year student and i am doing my project in
+cloud image retrieving  using spark platform
+i have to know about the basics of cloud and cluster with spark did any one
+has the idea and if any one know about it please share with me .........
+
+and if any one work with the spark platform also can suggest about your
+experiences bro  it would also a helpfull for us
+
+From noorul at noorul.com  Fri Aug 21 11:04:58 2015
+From: noorul at noorul.com (Noorul Islam K M)
+Date: Fri, 21 Aug 2015 11:04:58 +0530
+Subject: [Ilugc] can suggest a new ideas about the spark
+In-Reply-To: <CA+h6mdPcKyKuPGvqmP1wtLjrxD3S1=syZVynTCvMn5QAbzx9xg@mail.gmail.com>
+	(shanmuga sundar's message of "Thu, 20 Aug 2015 21:58:15 +0530")
+References: <CA+h6mdPcKyKuPGvqmP1wtLjrxD3S1=syZVynTCvMn5QAbzx9xg@mail.gmail.com>
+Message-ID: <m2oai1dx19.fsf@noorul.com>
+
+shanmuga sundar <shanmugas66 at gmail.com> writes:
+
+> hai bro,
+>                 i am a final year student and i am doing my project in
+> cloud image retrieving  using spark platform
+> i have to know about the basics of cloud and cluster with spark did any one
+> has the idea and if any one know about it please share with me .........
+>
+> and if any one work with the spark platform also can suggest about your
+> experiences bro  it would also a helpfull for us
+
+What is that you want to know?
+
+1. Installing spark?
+2. Writing Spark App?
+
+There is a very active community around Spark
+(http://spark.apache.org/community.html). Take a look at it try connect
+with people there.
+
+Thanks and Regards
+Noorul
+
+From anil.dusa at sokrati.com  Fri Aug 21 12:22:19 2015
+From: anil.dusa at sokrati.com (Anil Dusa)
+Date: Fri, 21 Aug 2015 12:22:19 +0530
+Subject: [Ilugc] Fwd: Sokrati Hiring Desktop Administration
+In-Reply-To: <CADx3traKr8thTqe9hWjckYTNgy2_mYuNDw6kPcw6-wgqTBbt4Q@mail.gmail.com>
+References: <CADx3traKr8thTqe9hWjckYTNgy2_mYuNDw6kPcw6-wgqTBbt4Q@mail.gmail.com>
+Message-ID: <CADx3trY3H3uWXmUOVy9Uy4q2jmkh+b9ianr4RJGJoTfVG2HaHQ@mail.gmail.com>
+
+Hello,
+
+We are hiring Desktop Administration, Please find the job details below :
+
+*You need to have:*
+
+
+   - A degree in Computer Science or Computer Engineering
+   - Strong familiarity with Linux, networking, routing, scripting and
+   automation.
+   - Proven ability in setting up and maintaining security for production
+   environment.
+   - A strong focus on the efficiency, performance, robustness, high
+   availability of the local as well production infrastructure and coming up
+   with ways to improve it.
+   - Ability to debug, troubleshoot and resolve system issues efficiently.
+   - Experience with server virtualisation, RAID, LDAP, VPN, database
+   administration, managing cloud data centers (preferably Hetzner and EC2) is
+   a must.
+   - Good communication skills and experience with hudson, puppet,
+   monitoring is a
+   - plus.
+   - 3+ years of experience as Linux System Administrator.
+
+
+*@Sokrati*
+
+
+   - You will own up management of internal infrastructure
+   - You will use every aspect of system administration you have learnt or
+   heard of. We believe in experimenting to facilitate more efficient, secured
+   systems.
+   - You will start owning local as well as cloud infrastructure in no
+   time. The company aspires in creating effective owners.
+   - You will participate in every aspect of system administration, right
+   from coming up with requirements to make system efficient, secured, robust
+   and highly available up until its implementation.
+   - You can get promoted every 6 months and it is upto you! Performance
+   reviews are triggered through self-evaluation and can happen every 6
+   months. And double-
+   - promotions are encouraged!
+
+
+*If you are excited about:*
+
+   - Having an unmatched startup experience that allows you to work on
+   bleeding-edge technologies
+   - Making a splash in a multi-billion dollar digital advertising industry
+   - Learning and growing far beyond your current horizon
+   - Competitive compensation with the usual benefits
+   - A place full of like-minded & ridiculously smart folks
+   - A start-up culture that you?d cherish forever in your work life
+
+If above skills interests you and matches your profile, please do send us
+an email with your updated profile to anil.dusa at sokrati.com or
+aneesh.reghu at sokrati.com
+
+Thank you.
+Anil
++91-9075126572
+
+From baskar at linuxpert.in  Sat Aug 22 10:16:16 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sat, 22 Aug 2015 10:16:16 +0530
+Subject: [Ilugc] Resource persons needed for conducting workshop in Python
+	and Scilab
+Message-ID: <CACtiFJaCSOBg5RFLQbW2=S_eS-QpwpDidiAKSYFVzrSn9jHGDQ@mail.gmail.com>
+
+Dear all,
+
+Hindustan University wants to conduct a one day workshop on Python and
+another one day workshop on Scilab for faculty members.
+
+Interested trainers can contact me offlist for more details.
+
+Regards
+
+-- 
+S. Baskar
+
+Blog: https://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From 77minds at gmail.com  Sat Aug 22 18:54:05 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 22 Aug 2015 18:54:05 +0530
+Subject: [Ilugc] Indian Engineer Logo
+Message-ID: <CAJR+9kb3F25-5Dbm6FD57TAjxuKU8xJcH+i9DEstQJasOHF3wg@mail.gmail.com>
+
+Hello People,
+
+Hope you like it
+https://77minds.wordpress.com/2015/08/22/the-indian-engineer-logo/
+
+-----
+
+Karthikeyan A K
+
+From tshrinivasan at gmail.com  Sun Aug 23 21:19:24 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sun, 23 Aug 2015 21:19:24 +0530
+Subject: [Ilugc] Fwd: Remainder: Weeks of Contributions on SUMO (Support
+ Mozilla) @9:30pm today
+In-Reply-To: <CAJhY2p9+vnytWztWL2PcPzLrG4gFBqOKJG8a-GpeTsh=N6GiLg@mail.gmail.com>
+References: <CAJhY2p9+vnytWztWL2PcPzLrG4gFBqOKJG8a-GpeTsh=N6GiLg@mail.gmail.com>
+Message-ID: <CAND27961QDsQtUWYnfxFwiGiwgfwRKXjoLks9pFU4W0L4-6Aag@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mohammed Adam <adamlaskas24 at gmail.com>
+Date: 2015-08-23 21:10 GMT+05:30
+Subject: Remainder: Weeks of Contributions on SUMO (Support Mozilla)
+@9:30pm today
+To: Mozilla Tamilnadu <mozchennai at gmail.com>, Mozillians Tamilnadu
+<MozilliansTN at googlegroups.com>
+
+
+- Come and join with us to learn more about how to contribute in
+SUMO(Support Mozilla)
+
+- Connect with our IRC Channel also ?#?moztn? .
+
+- And this our etherpad Link : https://moztn.etherpad.mozilla.org/WoC-SuMo-l10n?
+
+- Facebook Event Page of SUMO:
+    https://www.facebook.com/events/962016070507392/
+
+See you all @9:30pm on SUMO Contribution.
+
+Thanking You,
+
+With Regards,
+Adam.
+
+--
+You received this message because you are subscribed to the Google
+Groups "Mozillians Tamilnadu" group.
+To unsubscribe from this group and stop receiving emails from it, send
+an email to MozilliansTN+unsubscribe at googlegroups.com.
+To post to this group, send email to MozilliansTN at googlegroups.com.
+To view this discussion on the web visit
+https://groups.google.com/d/msgid/MozilliansTN/CAJhY2p9%2BvnytWztWL2PcPzLrG4gFBqOKJG8a-GpeTsh%3DN6GiLg%40mail.gmail.com.
+For more options, visit https://groups.google.com/d/optout.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From priyacst at gmail.com  Mon Aug 24 16:50:20 2015
+From: priyacst at gmail.com (Priya K)
+Date: Mon, 24 Aug 2015 16:50:20 +0530
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+Message-ID: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+
+Hello everyone,
+
+I have a doubt in git stashing. Pls help to find it out.
+
+I have narrated the doubt as follows:
+
+Say, first I have some commits in my *master* branch.
+Now I create a branch named *new*.
+I do some changes in *new* branch.
+
+Now I want to checkout to *master* branch without committing the changes.
+So when I checkout, it should show an error for stashing. But no error
+occurs, it checked-out to *master* branch.
+
+Actually,
+First I have to do a commit in *new* branch. Then I do some changes in a
+file. In this case only, when I try to checkout, an error occurs for
+stashing.
+
+I don't know why a commit is necessary before stashing.
+
+-----
+Regards,
+Priya K
+
+From 77minds at gmail.com  Mon Aug 24 17:46:30 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 24 Aug 2015 17:46:30 +0530
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+Message-ID: <CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+
+Commit is not necessary b4 stashing.
+https://www.youtube.com/watch?v=KLEDKgMmbBI and read this
+http://git-scm.com/book/en/v1/Git-Tools-Stashing
+
+On Mon, Aug 24, 2015 at 4:50 PM, Priya K <priyacst at gmail.com> wrote:
+
+> Hello everyone,
+>
+> I have a doubt in git stashing. Pls help to find it out.
+>
+> I have narrated the doubt as follows:
+>
+> Say, first I have some commits in my *master* branch.
+> Now I create a branch named *new*.
+> I do some changes in *new* branch.
+>
+> Now I want to checkout to *master* branch without committing the changes.
+> So when I checkout, it should show an error for stashing. But no error
+> occurs, it checked-out to *master* branch.
+>
+> Actually,
+> First I have to do a commit in *new* branch. Then I do some changes in a
+> file. In this case only, when I try to checkout, an error occurs for
+> stashing.
+>
+> I don't know why a commit is necessary before stashing.
+>
+> -----
+> Regards,
+> Priya K
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From manokaran at gmail.com  Mon Aug 24 19:01:27 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 24 Aug 2015 13:31:27 +0000
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+Message-ID: <CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+
+>
+> On Mon, Aug 24, 2015 at 4:50 PM, Priya K <priyacst at gmail.com> wrote:
+>
+> > Say, first I have some commits in my *master* branch.
+> > Now I create a branch named *new*.
+> > I do some changes in *new* branch.
+> >
+> > Now I want to checkout to *master* branch without committing the changes.
+> > So when I checkout, it should show an error for stashing. But no error
+> > occurs, it checked-out to *master* branch.
+> >
+> > Actually,
+> > First I have to do a commit in *new* branch. Then I do some changes in a
+> > file. In this case only, when I try to checkout, an error occurs for
+> > stashing.
+> >
+> > I don't know why a commit is necessary before stashing.
+> >
+>
+
+Assuming that you 'git add'ed all the changed files, after a commit you'll
+have nothing to stash! It would help if you post the output of 'git status'
+before and after commit and before and after stash.
+
+Cheers,
+mano
+
+From manokaran at gmail.com  Mon Aug 24 19:28:41 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 24 Aug 2015 13:58:41 +0000
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+	<CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+Message-ID: <CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+
+Its likely that the changes you have made in the new branch is not in an
+already tracked file.
+
+From priyacst at gmail.com  Mon Aug 24 22:36:27 2015
+From: priyacst at gmail.com (Priya K)
+Date: Mon, 24 Aug 2015 22:36:27 +0530
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+	<CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+	<CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+Message-ID: <CAEw0HbtGyhhzQxGB7mQdJazf921Y7ZNGhHLtPdeCws23LanGag@mail.gmail.com>
+
+Actually I understand the process of stashing.
+
+If we work in a remote repository, this doubt will not arise. But I have
+the git repository in my local machine.
+
+When I switch one branch to other branch, if the changes are not committed,
+it should show the error "Please, commit your changes or stash them before
+you can switch branches".
+
+But in my case that error didn't occur. I understand that without the error
+also we can stash the changes.
+
+Actually only this happens when we create and edit any new branches. Once a
+branch is ready with some commits, then there is no problem.
+
+Pls try it with your local machine.
+
+On Mon, Aug 24, 2015 at 7:28 PM, Manokaran K <manokaran at gmail.com> wrote:
+
+> Its likely that the changes you have made in the new branch is not in an
+> already tracked file.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+*K. Priya*
+*Spoken Tutorial Project*
+http://spoken-tutorial.org
+*IIT Bombay*
+
+From priyacst at gmail.com  Mon Aug 24 22:40:58 2015
+From: priyacst at gmail.com (Priya K)
+Date: Mon, 24 Aug 2015 22:40:58 +0530
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAEw0HbtGyhhzQxGB7mQdJazf921Y7ZNGhHLtPdeCws23LanGag@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+	<CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+	<CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+	<CAEw0HbtGyhhzQxGB7mQdJazf921Y7ZNGhHLtPdeCws23LanGag@mail.gmail.com>
+Message-ID: <CAEw0Hbs8CuA5QZhWO2+VhnQRY_YMM3kzU1hxh4rxTqgPFJEXQA@mail.gmail.com>
+
+Actually there is no problem because of this issue.
+I just want to know why it happens and what is the logic.
+
+On Mon, Aug 24, 2015 at 10:36 PM, Priya K <priyacst at gmail.com> wrote:
+
+> Actually I understand the process of stashing.
+>
+> If we work in a remote repository, this doubt will not arise. But I have
+> the git repository in my local machine.
+>
+> When I switch one branch to other branch, if the changes are not
+> committed, it should show the error "Please, commit your changes or stash
+> them before you can switch branches".
+>
+> But in my case that error didn't occur. I understand that without the
+> error also we can stash the changes.
+>
+> Actually only this happens when we create and edit any new branches. Once
+> a branch is ready with some commits, then there is no problem.
+>
+> Pls try it with your local machine.
+>
+> On Mon, Aug 24, 2015 at 7:28 PM, Manokaran K <manokaran at gmail.com> wrote:
+>
+>> Its likely that the changes you have made in the new branch is not in an
+>> already tracked file.
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+>
+> --
+> Regards,
+> *K. Priya*
+> *Spoken Tutorial Project*
+> http://spoken-tutorial.org
+> *IIT Bombay*
+>
+
+
+
+-- 
+Regards,
+*K. Priya*
+*Spoken Tutorial Project*
+http://spoken-tutorial.org
+*IIT Bombay*
+
+From sahasr at naman.ms  Mon Aug 24 23:15:02 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Mon, 24 Aug 2015 23:15:02 +0530
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAEw0Hbs8CuA5QZhWO2+VhnQRY_YMM3kzU1hxh4rxTqgPFJEXQA@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+	<CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+	<CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+	<CAEw0HbtGyhhzQxGB7mQdJazf921Y7ZNGhHLtPdeCws23LanGag@mail.gmail.com>
+	<CAEw0Hbs8CuA5QZhWO2+VhnQRY_YMM3kzU1hxh4rxTqgPFJEXQA@mail.gmail.com>
+Message-ID: <CAJSNQU0o6P5G20YQCe5pfd2=kV5CPr0hT531Yr=bKm+Mbr3xiQ@mail.gmail.com>
+
+I think you will get an error only if there is a conflict between the two
+branches.   Let's say there are two files A and B in master.  You create
+branch new, change file A,  then try to change branch,  it would let you,
+and carry over the changes to the checked out master branch.
+
+But if you have changed file A in branch new, committed it, then changed it
+again,  then try to switch branch,  it won't let you because the change
+cannot be carried over because the two branches have different versions of
+file A.
+
+Regards,
+Sahas
+On 24-Aug-2015 22:41, "Priya K" <priyacst at gmail.com> wrote:
+
+> Actually there is no problem because of this issue.
+> I just want to know why it happens and what is the logic.
+>
+> On Mon, Aug 24, 2015 at 10:36 PM, Priya K <priyacst at gmail.com> wrote:
+>
+> > Actually I understand the process of stashing.
+> >
+> > If we work in a remote repository, this doubt will not arise. But I have
+> > the git repository in my local machine.
+> >
+> > When I switch one branch to other branch, if the changes are not
+> > committed, it should show the error "Please, commit your changes or stash
+> > them before you can switch branches".
+> >
+> > But in my case that error didn't occur. I understand that without the
+> > error also we can stash the changes.
+> >
+> > Actually only this happens when we create and edit any new branches. Once
+> > a branch is ready with some commits, then there is no problem.
+> >
+> > Pls try it with your local machine.
+> >
+> > On Mon, Aug 24, 2015 at 7:28 PM, Manokaran K <manokaran at gmail.com>
+> wrote:
+> >
+> >> Its likely that the changes you have made in the new branch is not in an
+> >> already tracked file.
+> >> _______________________________________________
+> >> ILUGC Mailing List:
+> >> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> >> ILUGC Mailing List Guidelines:
+> >> http://ilugc.in/mailinglist-guidelines
+> >>
+> >
+> >
+> >
+> > --
+> > Regards,
+> > *K. Priya*
+> > *Spoken Tutorial Project*
+> > http://spoken-tutorial.org
+> > *IIT Bombay*
+> >
+>
+>
+>
+> --
+> Regards,
+> *K. Priya*
+> *Spoken Tutorial Project*
+> http://spoken-tutorial.org
+> *IIT Bombay*
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From manokaran at gmail.com  Mon Aug 24 23:24:12 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 24 Aug 2015 17:54:12 +0000
+Subject: [Ilugc] [ilugc] Doubt in Git stashing
+In-Reply-To: <CAJSNQU0o6P5G20YQCe5pfd2=kV5CPr0hT531Yr=bKm+Mbr3xiQ@mail.gmail.com>
+References: <CAEw0HbsSOTV976AdDj_10t8DUBHBbTZwYOdFLhvUHVt9-UPmaA@mail.gmail.com>
+	<CAJR+9kYxuB0vTa2qWOa8rhNJ+rQ1jcF+gc+E5X1mvG1KzKjdAg@mail.gmail.com>
+	<CAKGmkL0rNTjSkmxpVzqRMJbnTdAomNeD1hswYbt9dAAO=4bCeA@mail.gmail.com>
+	<CAKGmkL2iLDm_VSx3dZx7D5HTKCpqaAjdBWdVwYsE8MWB-0Xxyg@mail.gmail.com>
+	<CAEw0HbtGyhhzQxGB7mQdJazf921Y7ZNGhHLtPdeCws23LanGag@mail.gmail.com>
+	<CAEw0Hbs8CuA5QZhWO2+VhnQRY_YMM3kzU1hxh4rxTqgPFJEXQA@mail.gmail.com>
+	<CAJSNQU0o6P5G20YQCe5pfd2=kV5CPr0hT531Yr=bKm+Mbr3xiQ@mail.gmail.com>
+Message-ID: <CAKGmkL1phc_R5goz5nOo=jacH5Jc16DsKduGo89-eQuXo-NrQw@mail.gmail.com>
+
+Interesting. Will try it out.
+
+Thanks.
+
+On Mon, Aug 24, 2015 at 11:15 PM Sahasranaman M S <sahasr at naman.ms> wrote:
+
+> I think you will get an error only if there is a conflict between the two
+> branches.   Let's say there are two files A and B in master.  You create
+> branch new, change file A,  then try to change branch,  it would let you,
+> and carry over the changes to the checked out master branch.
+>
+> But if you have changed file A in branch new, committed it, then changed it
+> again,  then try to switch branch,  it won't let you because the change
+> cannot be carried over because the two branches have different versions of
+> file A.
+>
+> Regards,
+> Sahas
+> On 24-Aug-2015 22:41, "Priya K" <priyacst at gmail.com> wrote:
+>
+> > Actually there is no problem because of this issue.
+> > I just want to know why it happens and what is the logic.
+> >
+> > On Mon, Aug 24, 2015 at 10:36 PM, Priya K <priyacst at gmail.com> wrote:
+> >
+> > > Actually I understand the process of stashing.
+> > >
+> > > If we work in a remote repository, this doubt will not arise. But I
+> have
+> > > the git repository in my local machine.
+> > >
+> > > When I switch one branch to other branch, if the changes are not
+> > > committed, it should show the error "Please, commit your changes or
+> stash
+> > > them before you can switch branches".
+> > >
+> > > But in my case that error didn't occur. I understand that without the
+> > > error also we can stash the changes.
+> > >
+> > > Actually only this happens when we create and edit any new branches.
+> Once
+> > > a branch is ready with some commits, then there is no problem.
+> > >
+> > > Pls try it with your local machine.
+> > >
+> > > On Mon, Aug 24, 2015 at 7:28 PM, Manokaran K <manokaran at gmail.com>
+> > wrote:
+> > >
+> > >> Its likely that the changes you have made in the new branch is not in
+> an
+> > >> already tracked file.
+> > >> _______________________________________________
+> > >> ILUGC Mailing List:
+> > >> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > >> ILUGC Mailing List Guidelines:
+> > >> http://ilugc.in/mailinglist-guidelines
+> > >>
+> > >
+> > >
+> > >
+> > > --
+> > > Regards,
+> > > *K. Priya*
+> > > *Spoken Tutorial Project*
+> > > http://spoken-tutorial.org
+> > > *IIT Bombay*
+> > >
+> >
+> >
+> >
+> > --
+> > Regards,
+> > *K. Priya*
+> > *Spoken Tutorial Project*
+> > http://spoken-tutorial.org
+> > *IIT Bombay*
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Thu Aug 27 00:08:28 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 27 Aug 2015 00:08:28 +0530
+Subject: [Ilugc] Fwd: Weeks of Contribution - Coding
+In-Reply-To: <CAOG0kM2g+MKQgbd_e2tACU5mohR2KVfK4dRur-ccEjOxAk=UhA@mail.gmail.com>
+References: <CAOG0kM2g+MKQgbd_e2tACU5mohR2KVfK4dRur-ccEjOxAk=UhA@mail.gmail.com>
+Message-ID: <CAND2794nR4zRPOs0yL9zagW+_4Zv9oHe=u4PDxUHSMZN0ocvwA@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Mozilla Tamilnadu" <mozchennai at gmail.com>
+Date: Aug 26, 2015 6:59 PM
+Subject: Weeks of Contribution - Coding
+To: "Mozillians Tamilnadu" <MozilliansTN at googlegroups.com>
+Cc:
+
+Dear Contributors,
+
+This week we will be having Coding contribution session on Sunday Evening
+at 7.00
+
+Facebook Event
+https://www.facebook.com/events/1665579120344657/
+
+
+Google+ Hangouts Link
+https://plus.google.com/u/0/events/chk5gk1v7b9e1ua4s387p1aarf0
+
+IRC
+#moztn
+
+Etherpad link
+https://moztn.etherpad.mozilla.org/Weeks-Of-contribution-Codingweek
+
+Thank you
+-- 
+Join on Google groups
+<https://groups.google.com/forum/#%21forum/mozillianstn>
+Like Us at Facebook Page <https://www.facebook.com/MozillaTN>
+Follow us on Twitter <https://twitter.com/mozillaTN>
+Join on Facebook group <https://www.facebook.com/groups/719835014702351/>
+Join on Google+ Communities
+<https://plus.google.com/u/0/communities/104131602605446465629>
+
+-- 
+You received this message because you are subscribed to the Google Groups
+"Mozillians Tamilnadu" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to MozilliansTN+unsubscribe at googlegroups.com.
+To post to this group, send email to MozilliansTN at googlegroups.com.
+To view this discussion on the web visit
+https://groups.google.com/d/msgid/MozilliansTN/CAOG0kM2g%2BMKQgbd_e2tACU5mohR2KVfK4dRur-ccEjOxAk%3DUhA%40mail.gmail.com
+<https://groups.google.com/d/msgid/MozilliansTN/CAOG0kM2g%2BMKQgbd_e2tACU5mohR2KVfK4dRur-ccEjOxAk%3DUhA%40mail.gmail.com?utm_medium=email&utm_source=footer>
+.
+For more options, visit https://groups.google.com/d/optout.
+
+From tshrinivasan at gmail.com  Thu Aug 27 04:05:44 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 27 Aug 2015 04:05:44 +0530
+Subject: [Ilugc] FSFTN Tech Weekend(FTW) Meetups - Python for Beginners
+Message-ID: <CAND2795YfpUDo2nMOnGYn8SiEQmH=BdzVJyt7wttsUrrmgYiFQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mugunthan Latchoumanane <mugunthan.masti at gmail.com>
+Date: 2015-08-27 1:58 GMT+05:30
+Subject: [FSFTN] (no subject)
+To: mailinglist at fsftn.org, sjitglug at gmail.com, Ceglug at googlegroups.com,
+viluppuram at fsftn.org, puduvailug at freelists.org
+
+
+Dear participant,
+
+As a part of FSFTN Tech Weekend (FTW) Meetups, we have initiated a series
+of follow up sessions on various technical and philosophical topics. We
+have had sessions on installation, version control (git), cryptography,
+security, WordPress, ruby, etc.
+
+At this week's FTW (FSFTN Tech Weekend) Meet up, we have planned for an
+interactive hands on programming session on Python. The meet up is open to
+all. Interested people are most welcome.
+
+To register, visit tiny.cc/pymeet. The event is free of cost but
+registration is mandatory.
+
+
+We recommended that you carry a laptop with any GNU/Linux distro of your
+choice installed in it.
+
+Come Hungry and learn python snakes with snacks
+
+
+Date - 30th August, Sunday
+Time - 2.00 p.m. - 5.00 p.m.
+Venue - 1-B, Asian College of Journalism, 2nd Main Road, Tharamani, Chennai
+- 600 113
+Click on this link for the map and directions.
+
+
+Kindly RSVP by 8 p.m. on August 29th, Saturday
+
+For any queries,
+
+Contact :
+Mail us at learn at fsftn.org
+
++91 9626186476
+_______________________________________________
+Mailinglist mailing list
+Mailinglist at fsftn.org
+http://fsftn.org/mailman/listinfo/mailinglist_fsftn.org
+http://fsftn.org/mailman/options/mailinglist_fsftn.org
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From raamanp at gmail.com  Fri Aug 28 11:11:43 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Fri, 28 Aug 2015 11:11:43 +0530
+Subject: [Ilugc] FOSS club in Vels University Chennai
+Message-ID: <CAFf706z-NCw-TgrYJn3Crb8=5+vTJCk8VojaB4v5XCUv1FvO3Q@mail.gmail.com>
+
+Yesterday a FOSS club was started in Vels University, Chennai. I gave
+a talk on FOSS philosophy and career  opportunities. Mr.S.Baskar spoke
+about FOSS software required for a student
+
+I thank the management and faculty of Vels University for the opportunity
+
+Raman.P
+blog:http://ramanchennai.wordpress.com/
+
+From baskar at linuxpert.in  Sun Aug 30 16:06:10 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sun, 30 Aug 2015 16:06:10 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+Message-ID: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+
+Dear all,
+
+I am trying to access the Coursera course catalog through the following
+python program.
+
+http://adilmoujahid.com/posts/2015/03/coursera-data-mining/
+
+All required libraries including 'pandas' got installed.
+
+while executing 'get_data.py', I am getting the following error.
+
+Getting Courses Data
+Structuring the Data
+Traceback (most recent call last):
+  File "get_data.py.orig", line 76, in <module>
+    main()
+  File "get_data.py.orig", line 42, in main
+    courses_df['course_name'] = map(lambda course_data:
+course_data['name'], courses_data)
+  File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1804,
+in __setitem__
+    self._set_item(key, value)
+  File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1843,
+in _set_item
+    value = self._sanitize_column(key, value)
+  File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1872,
+in _sanitize_column
+    assert(len(value) == len(self.index))
+AssertionError
+
+I have no experience with Python.  What I actually require is the resulting
+data in CSV/TSV format.
+
+Any help would be appreciated.
+
+-- 
+S. Baskar
+
+From gowkanimozhi at gmail.com  Sun Aug 30 17:21:50 2015
+From: gowkanimozhi at gmail.com (Gowtham Sundaar)
+Date: Sun, 30 Aug 2015 17:21:50 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+Message-ID: <CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+
+Download a packaged distribution like anaconda. Way simpler.
+On Aug 30, 2015 4:06 PM, "Baskar Selvaraj" <baskar at linuxpert.in> wrote:
+
+> Dear all,
+>
+> I am trying to access the Coursera course catalog through the following
+> python program.
+>
+> http://adilmoujahid.com/posts/2015/03/coursera-data-mining/
+>
+> All required libraries including 'pandas' got installed.
+>
+> while executing 'get_data.py', I am getting the following error.
+>
+> Getting Courses Data
+> Structuring the Data
+> Traceback (most recent call last):
+>   File "get_data.py.orig", line 76, in <module>
+>     main()
+>   File "get_data.py.orig", line 42, in main
+>     courses_df['course_name'] = map(lambda course_data:
+> course_data['name'], courses_data)
+>   File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1804,
+> in __setitem__
+>     self._set_item(key, value)
+>   File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1843,
+> in _set_item
+>     value = self._sanitize_column(key, value)
+>   File "/usr/lib/python2.7/site-packages/pandas/core/frame.py", line 1872,
+> in _sanitize_column
+>     assert(len(value) == len(self.index))
+> AssertionError
+>
+> I have no experience with Python.  What I actually require is the resulting
+> data in CSV/TSV format.
+>
+> Any help would be appreciated.
+>
+> --
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From baskar at linuxpert.in  Sun Aug 30 17:36:55 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sun, 30 Aug 2015 17:36:55 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+Message-ID: <CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+
+On Sun, Aug 30, 2015 at 5:21 PM, Gowtham Sundaar <gowkanimozhi at gmail.com>
+wrote:
+
+> Download a packaged distribution like anaconda. Way simpler.
+>
+
+What you mean by 'packaged distribution like anaconda'.  My GNU/Linux
+distro is Fedora-18
+
+S. Baskar
+
+From jagannathante at gmail.com  Sun Aug 30 19:35:57 2015
+From: jagannathante at gmail.com (Jagannathan Tiruvallur Eachambadi)
+Date: Sun, 30 Aug 2015 14:05:57 +0000
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+Message-ID: <CABzJUX4QRcDpd72mM5fOGjKoiqe0QV3e04NVDVJ5vPbBKsHXwg@mail.gmail.com>
+
+The code works in my system that uses python3 with all python packages
+installed from the official repos in archlinux. I had to make some changes (
+https://stackoverflow.com/questions/6541767/python-urllib-error-attributeerror-bytes-object-has-no-attribute-read
+).
+
+Regards
+Jagannathan T E
+
+From 77minds at gmail.com  Mon Aug 31 10:37:55 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 31 Aug 2015 10:37:55 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+Message-ID: <CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+
+https://store.continuum.io/cshop/anaconda/ , languages have distributions :)
+
+On Sun, Aug 30, 2015 at 5:36 PM, Baskar Selvaraj <baskar at linuxpert.in>
+wrote:
+
+> On Sun, Aug 30, 2015 at 5:21 PM, Gowtham Sundaar <gowkanimozhi at gmail.com>
+> wrote:
+>
+> > Download a packaged distribution like anaconda. Way simpler.
+> >
+>
+> What you mean by 'packaged distribution like anaconda'.  My GNU/Linux
+> distro is Fedora-18
+>
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From baskar at linuxpert.in  Mon Aug 31 12:21:11 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Mon, 31 Aug 2015 12:21:11 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+Message-ID: <CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+
+On Mon, Aug 31, 2015 at 10:37 AM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> https://store.continuum.io/cshop/anaconda/ , languages have distributions
+> :)
+
+
+Got it and thanks for the link.
+
+S. Baskar
+
+From honestraj.it at gmail.com  Mon Aug 31 15:03:28 2015
+From: honestraj.it at gmail.com (honest raj)
+Date: Mon, 31 Aug 2015 02:33:28 -0700
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+	<CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+Message-ID: <CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+
+Hi sir,
+i want to help for ilugc users because now i am a 2015 B.tech(IT) fresher.I
+have been working .net developer at one reputed company.I want to study
+Bigdata analytics.
+
+On Sun, Aug 30, 2015 at 11:51 PM, Baskar Selvaraj <baskar at linuxpert.in>
+wrote:
+
+> On Mon, Aug 31, 2015 at 10:37 AM, Karthikeyan A K <77minds at gmail.com>
+> wrote:
+>
+> > https://store.continuum.io/cshop/anaconda/ , languages have
+> distributions
+> > :)
+>
+>
+> Got it and thanks for the link.
+>
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From honestraj.it at gmail.com  Mon Aug 31 15:05:11 2015
+From: honestraj.it at gmail.com (honest raj)
+Date: Mon, 31 Aug 2015 02:35:11 -0700
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+	<CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+	<CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+Message-ID: <CACPPKCa8-+RRHeWWwEP9WM2KLOz1=wARFkL7M3or1_FR0e4q=w@mail.gmail.com>
+
+Please help for me...I always created two android app and one windows based
+ bluetooth application.
+
+On Mon, Aug 31, 2015 at 2:33 AM, honest raj <honestraj.it at gmail.com> wrote:
+
+> Hi sir,
+> i want to help for ilugc users because now i am a 2015 B.tech(IT)
+> fresher.I have been working .net developer at one reputed company.I want to
+> study Bigdata analytics.
+>
+> On Sun, Aug 30, 2015 at 11:51 PM, Baskar Selvaraj <baskar at linuxpert.in>
+> wrote:
+>
+>> On Mon, Aug 31, 2015 at 10:37 AM, Karthikeyan A K <77minds at gmail.com>
+>> wrote:
+>>
+>> > https://store.continuum.io/cshop/anaconda/ , languages have
+>> distributions
+>> > :)
+>>
+>>
+>> Got it and thanks for the link.
+>>
+>> S. Baskar
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+
+From manokaran at gmail.com  Mon Aug 31 17:27:44 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 31 Aug 2015 11:57:44 +0000
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CACPPKCa8-+RRHeWWwEP9WM2KLOz1=wARFkL7M3or1_FR0e4q=w@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+	<CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+	<CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+	<CACPPKCa8-+RRHeWWwEP9WM2KLOz1=wARFkL7M3or1_FR0e4q=w@mail.gmail.com>
+Message-ID: <CAKGmkL2YWSm+w-uA-QcFVZSP3_yDnaCvc9-JJy4VZwV9YwnueA@mail.gmail.com>
+
+You show initiative. Which is nice.
+
+Pls go through the list guidelines for help on how to ask questions in
+mailing lists. These etiquette will always be useful to you. For one, pls
+start another thread to ask your questions with a clear subject line.
+
+That said, this is a Linux focussed list. So am not sure you'll get much
+help on bigdata here!
+
+Best of luck,
+mano
+
+On Mon, Aug 31, 2015 at 3:05 PM honest raj <honestraj.it at gmail.com> wrote:
+
+> Please help for me...I always created two android app and one windows based
+>  bluetooth application.
+>
+> On Mon, Aug 31, 2015 at 2:33 AM, honest raj <honestraj.it at gmail.com>
+> wrote:
+>
+> > Hi sir,
+> > i want to help for ilugc users because now i am a 2015 B.tech(IT)
+> > fresher.I have been working .net developer at one reputed company.I want
+> to
+> > study Bigdata analytics.
+> >
+> > On Sun, Aug 30, 2015 at 11:51 PM, Baskar Selvaraj <baskar at linuxpert.in>
+> > wrote:
+> >
+> >> On Mon, Aug 31, 2015 at 10:37 AM, Karthikeyan A K <77minds at gmail.com>
+> >> wrote:
+> >>
+> >> > https://store.continuum.io/cshop/anaconda/ , languages have
+> >> distributions
+> >> > :)
+> >>
+> >>
+> >> Got it and thanks for the link.
+> >>
+> >> S. Baskar
+> >> _______________________________________________
+> >> ILUGC Mailing List:
+> >> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> >> ILUGC Mailing List Guidelines:
+> >> http://ilugc.in/mailinglist-guidelines
+> >>
+> >
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From jagannathante at gmail.com  Mon Aug 31 19:22:11 2015
+From: jagannathante at gmail.com (Jagannathan Tiruvallur Eachambadi)
+Date: Mon, 31 Aug 2015 13:52:11 +0000
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CAKGmkL2YWSm+w-uA-QcFVZSP3_yDnaCvc9-JJy4VZwV9YwnueA@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+	<CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+	<CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+	<CACPPKCa8-+RRHeWWwEP9WM2KLOz1=wARFkL7M3or1_FR0e4q=w@mail.gmail.com>
+	<CAKGmkL2YWSm+w-uA-QcFVZSP3_yDnaCvc9-JJy4VZwV9YwnueA@mail.gmail.com>
+Message-ID: <CABzJUX58TgDdho4_xxp5gBhbrgHwu281e6zXOBv8KovF+T83zA@mail.gmail.com>
+
+Hey, I changed the code to work with python3 and it works but I don't want
+to register for sharedcount service. You can sign up and include your api
+key in the source code. Forked repo:
+https://github.com/j605/Coursera_Analytics/blob/master/get_data.py
+
+From tshrinivasan at gmail.com  Mon Aug 31 20:47:35 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 31 Aug 2015 20:47:35 +0530
+Subject: [Ilugc] Fwd: Pan India level Mozilla Location Services event
+In-Reply-To: <CAOG0kM1kb1iorUQ+UwP5VBKCt+Yox-95NPa7fb-VsCB=dURR-A@mail.gmail.com>
+References: <CAOG0kM1kb1iorUQ+UwP5VBKCt+Yox-95NPa7fb-VsCB=dURR-A@mail.gmail.com>
+Message-ID: <CAND2795o464onA+bNkH1TPzribC7nHXKO_xeJR_vYRH44D8K+w@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Mozilla Tamilnadu" <mozchennai at gmail.com>
+Date: Aug 31, 2015 3:11 PM
+Subject: Pan India level Mozilla Location Services event
+To: "Mozillians Tamilnadu" <MozilliansTN at googlegroups.com>
+Cc:
+
+Dear Contributors,
+
+Pan India level Mozilla Location Services event is going to happen.
+Get ready with your Mozilla Stumbler installed Android devices.
+
+More info in the link [1]
+
+
+Dont worry if you are going to contribute for first time. The event starts
+from September 1st and goes till September 21.
+
+You can easily score maximum points. In Tamilnadu level we had lot of
+contributors participated previously check link [2]
+
+If you want to learn  about it you can check the blog post link at [3]
+
+[1]
+https://docs.google.com/forms/d/1eqXvMUfr3kF8hOTLwf0G7mcFcsiakC4ik1rpcklVFfw/viewform?fbzx=5984792140108446415
+
+[2] https://viswaprasathks.wordpress.com/2015/08/07/mls-tamilnadu-wrapup/
+
+[3]
+https://technorulerin.wordpress.com/2015/06/06/mozilla-location-services/
+
+All the best.
+
+Thank you
+
+-- 
+Join on Google groups
+<https://groups.google.com/forum/#%21forum/mozillianstn>
+Like Us at Facebook Page <https://www.facebook.com/MozillaTN>
+Follow us on Twitter <https://twitter.com/mozillaTN>
+Join on Facebook group <https://www.facebook.com/groups/719835014702351/>
+Join on Google+ Communities
+<https://plus.google.com/u/0/communities/104131602605446465629>
+
+-- 
+You received this message because you are subscribed to the Google Groups
+"Mozillians Tamilnadu" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to MozilliansTN+unsubscribe at googlegroups.com.
+To post to this group, send email to MozilliansTN at googlegroups.com.
+To view this discussion on the web visit
+https://groups.google.com/d/msgid/MozilliansTN/CAOG0kM1kb1iorUQ%2BUwP5VBKCt%2BYox-95NPa7fb-VsCB%3DdURR-A%40mail.gmail.com
+<https://groups.google.com/d/msgid/MozilliansTN/CAOG0kM1kb1iorUQ%2BUwP5VBKCt%2BYox-95NPa7fb-VsCB%3DdURR-A%40mail.gmail.com?utm_medium=email&utm_source=footer>
+.
+For more options, visit https://groups.google.com/d/optout.
+

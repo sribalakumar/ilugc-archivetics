@@ -1,0 +1,3834 @@
+From gsivaprabu at gmail.com  Thu Oct  1 18:32:48 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Thu, 1 Oct 2015 18:32:48 +0530
+Subject: [Ilugc] How to create SNMP MIB browser using HTML5 and JavaScript ?
+ Any opensource libraries there ?
+Message-ID: <CALp7xkBQ0mb84tnfd7gcsCtEtzVCtfVDtQ5DLFZJyKfoyYM57g@mail.gmail.com>
+
+Hi friends,
+
+How to create SNMP MIB browser using HTML5 and JavaScript ? Any opensource
+libraries there ?
+??
+regards,
+?@gsivaprabu?
+
+<http://about.me/gsivaprabu>
+
+From ajeeshbkannan at gmail.com  Sat Oct  3 20:23:49 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Sat, 3 Oct 2015 20:23:49 +0530
+Subject: [Ilugc] measure the number of bytes received
+Message-ID: <CA+ark-oK8czFpSe8HnC4tEK-gDbLAcWPpn45z8mWXKU0Qp6_jA@mail.gmail.com>
+
+Hi,
+
+udp port 4000 returns an infinite stream of bytes at an unknown rate. how
+can i measure the number of bytes received in 10 seconds?
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From kanagaraj.rk at gmail.com  Sun Oct  4 08:16:15 2015
+From: kanagaraj.rk at gmail.com (RK RK)
+Date: Sun, 4 Oct 2015 08:16:15 +0530
+Subject: [Ilugc] measure the number of bytes received
+In-Reply-To: <CA+ark-oK8czFpSe8HnC4tEK-gDbLAcWPpn45z8mWXKU0Qp6_jA@mail.gmail.com>
+References: <CA+ark-oK8czFpSe8HnC4tEK-gDbLAcWPpn45z8mWXKU0Qp6_jA@mail.gmail.com>
+Message-ID: <CALVLwtZtmkKz=V3CNPRE_5+_bp5qWR0n0Td9-rqMcmsNodvcAA@mail.gmail.com>
+
+tcpdump / wireshark
+
+-- 
+
+With Regards,
+RK,
++91 9840483044
+
+From sahasr at naman.ms  Sun Oct  4 17:52:58 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Sun, 4 Oct 2015 17:52:58 +0530
+Subject: [Ilugc] Talk for upcoming ILUG-C October meetup
+In-Reply-To: <loom.20150930T113013-783@post.gmane.org>
+References: <loom.20150930T113013-783@post.gmane.org>
+Message-ID: <CAJSNQU3DBqs=6e=iB5kxWq2GSOzFCi2jPiXDX=A_JHn545va_g@mail.gmail.com>
+
+Hi all,
+
+I would like to talk about a LibreOffice Easy Hack for C++ programmers to
+try.
+
+Topic:  Contributing to LibreOffice - replace boost::bind with C++11 lambdas
+
+bug report: https://bugs.documentfoundation.org/show_bug.cgi?id=93243
+
+This talk would cover:
+    - A short introduction to contributing to LibreOffice
+    - Intro to boost::bind, C++11 lambdas
+    - Searching the LO codebase with OpenGrok
+    - Several example boost::bind statements that we will replace with
+lambdas.
+
+Duration: 30 minutes
+
+Regards,
+Sahas
+www.ldcs.co.in
+Libre Data Consultancy Services Private Limited.
+
+From baskar910 at gmail.com  Sun Oct  4 18:01:38 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sun, 4 Oct 2015 18:01:38 +0530
+Subject: [Ilugc] monthly meet ILUGC - 10th October
+Message-ID: <CACq+3bt+FJxxEGo2OPYvoyN=_Fg3Fx8xR_=zarZF+y4e0_yyBQ@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Topic 1: Partitioning
+
+Description: The subtopics to be covered are as follows:
+              * Partition Tables
+              * Various Partitioning Schemes: Advantages & Disadvantages
+              * Partitioning Tools
+              * Parted: An example tool
+
+Duration:     30 minutes
+About Yourself: Raashid Software Engineer working for Zilogic Systems. I am
+passionate about working on Embedded Linux systems.
+
+Topic 2: Contributing to LibreOffice - replace boost::bind with C++11
+lambdas
+
+Description:   - A short introduction to contributing to LibreOffice
+    - Intro to boost::bind, C++11 lambdas
+    - Searching the LO codebase with OpenGrok
+    - Several example boost::bind statements that we will replace with
+lambdas.
+
+Duration: 30 minutes
+About Yourself: Sahas is working in Libre Data Consultancy Services Private
+Limited
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From shakthimaan at gmail.com  Mon Oct  5 10:16:08 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 5 Oct 2015 10:16:08 +0530
+Subject: [Ilugc] monthly meet ILUGC - 10th October
+In-Reply-To: <CACq+3bu3oSC2JC+_NqFdGZipZDGoBKHx40dhgsXi_Nc4Na64Cg@mail.gmail.com>
+References: <CACq+3bu3oSC2JC+_NqFdGZipZDGoBKHx40dhgsXi_Nc4Na64Cg@mail.gmail.com>
+Message-ID: <CABG-yt1bCPNyEa0weEficQ2qupAb-vKfvv-zLBT-v4Sf86ZDfw@mail.gmail.com>
+
+Hi,
+
+Topic: Project Euler
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From sarsarahman at gmail.com  Mon Oct  5 13:14:16 2015
+From: sarsarahman at gmail.com (Abdur Rahman)
+Date: Mon, 5 Oct 2015 13:14:16 +0530
+Subject: [Ilugc] [JOB]Node and Angularjs Developer wanted
+Message-ID: <CADOy0Yo8VGnigLcDaE21OU2NX94FH=2U126Rzzk37UAo1UYSZw@mail.gmail.com>
+
+Looking for Node and AngularJS Developer for full-time interested people
+please send me your profiles on rahman at ifelsetech dot com
+
+
+
+Regards
+Rahman
+
+From gsivaprabu at gmail.com  Mon Oct  5 18:10:38 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Mon, 5 Oct 2015 18:10:38 +0530
+Subject: [Ilugc] Any working libray for MIB Parser in javascript?
+Message-ID: <CALp7xkCBezikvehzAoTdjH9CQUge=oHXHaf4j+AN-HVB6G6=eg@mail.gmail.com>
+
+Hi Friends,
+
+Any working library for MIB Parser in JavaScript?
+
+regards,
+@gsivaprabu
+<http://about.me/gsivaprabu>
+
+From bala150985 at gmail.com  Mon Oct  5 18:37:59 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 5 Oct 2015 09:07:59 -0400
+Subject: [Ilugc] measure the number of bytes received
+In-Reply-To: <CA+ark-oK8czFpSe8HnC4tEK-gDbLAcWPpn45z8mWXKU0Qp6_jA@mail.gmail.com>
+References: <CA+ark-oK8czFpSe8HnC4tEK-gDbLAcWPpn45z8mWXKU0Qp6_jA@mail.gmail.com>
+Message-ID: <CAFHFDAkD4Qfr9rF2XtJegvDGLQ+rvVfa+osMsj7zh+94gVGOOw@mail.gmail.com>
+
+I guess you need to write a small bash  script, to access a file under the
+sudo file system of /proc at time t1 and t2.  Then you can get the answer
+easily.  I guess any tool which you use might do the same thing.
+
+On Sat, Oct 3, 2015 at 10:53 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hi,
+>
+> udp port 4000 returns an infinite stream of bytes at an unknown rate. how
+> can i measure the number of bytes received in 10 seconds?
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From ganesh.ranganathan.85 at gmail.com  Mon Oct  5 22:46:45 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Mon, 5 Oct 2015 22:46:45 +0530
+Subject: [Ilugc] [OT] How do you estimate the cost and time required to
+ complete a freelancing Git
+Message-ID: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+
+A possibly off topic question to the freelancers on the lists. Given a set
+of very high level requirements, how do you estimate the cost required to
+complete it?
+
+Let's say a basic CRUD website which requires login (with Oauth providers
+like FB), creating some entities and logout. And a blog module in addition
+to this. What would be your estimation to build this in rails/php?
+
+Thanks,
+Ganesh
+
+From ganesh.ranganathan.85 at gmail.com  Mon Oct  5 22:48:08 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Mon, 5 Oct 2015 22:48:08 +0530
+Subject: [Ilugc] [OT] How do you estimate the cost and time required to
+ complete a freelancing Git
+In-Reply-To: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+References: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+Message-ID: <CALFmRoGA-3d5tcnfkWgFCxxwZgJj79qO2KZGAHx1ORCa55xhkA@mail.gmail.com>
+
+Typo: The subject line should read : freelancing gig.
+
+Thanks in Advance.
+
+Regards,
+Ganesh
+
+On Mon, Oct 5, 2015 at 10:46 PM, Ganesh Ranganathan <
+ganesh.ranganathan.85 at gmail.com> wrote:
+
+> A possibly off topic question to the freelancers on the lists. Given a set
+> of very high level requirements, how do you estimate the cost required to
+> complete it?
+>
+> Let's say a basic CRUD website which requires login (with Oauth providers
+> like FB), creating some entities and logout. And a blog module in addition
+> to this. What would be your estimation to build this in rails/php?
+>
+> Thanks,
+> Ganesh
+>
+>
+>
+
+From baskar910 at gmail.com  Tue Oct  6 06:18:50 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Tue, 6 Oct 2015 06:18:50 +0530
+Subject: [Ilugc] Monthly meet ILUGC - 10th October - Final Agenda
+Message-ID: <CACq+3bsG+kyKQVEFe8gCW3Q+Sct05ut3Msy56+tLJeJyNG5LkA@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Topic 1: Partitioning
+
+Description: The subtopics to be covered are as follows:
+              * Partition Tables
+              * Various Partitioning Schemes: Advantages & Disadvantages
+              * Partitioning Tools
+              * Parted: An example tool
+
+Duration:     30 minutes
+About Yourself: Raashid Software Engineer working for Zilogic Systems. I am
+passionate about working on Embedded Linux systems.
+
+Topic 2: Contributing to LibreOffice - replace boost::bind with C++11
+lambdas
+
+Description:   - A short introduction to contributing to LibreOffice
+    - Intro to boost::bind, C++11 lambdas
+    - Searching the LO codebase with OpenGrok
+    - Several example boost::bind statements that we will replace with
+lambdas.
+
+Duration: 30 minutes
+About Yourself: Sahas is working in Libre Data Consultancy Services Private
+Limited
+
+Topic 3: Project Euler
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From balakumar.muthu at gmail.com  Tue Oct  6 12:50:04 2015
+From: balakumar.muthu at gmail.com (Balakumar Muthu)
+Date: Tue, 6 Oct 2015 12:50:04 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+Message-ID: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+
+Hey Folks,
+
+You've Open-sourced your codes, now why don?t we try Open up our Office
+Spaces?
+
+Coworkable.com is an open free platform to share your extra, idle Office
+Spaces, Desks, Conference room with other needy Startups, Geeks and
+Entrepreneurs. Sharing your unused office space provide the opportunity to
+meet, work and network with smart professionals like you, which lead to
+unlimited business opportunities.
+
+Register free at http://coworkable.com and join the big stack of listings
+from Asia-Pacific countries.
+
+Please give it a try and let us know your feedback at echo at coworkable.com .
+If you like what we are doing, please do spread the word about
+Coworkable.com with your friends too.
+
+C?mon let's share, work and grow together.
+
+Thanks
+Bala
+
+From tuxuday at gmail.com  Tue Oct  6 13:01:42 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Tue, 6 Oct 2015 13:01:42 +0530
+Subject: [Ilugc] Monthly meet ILUGC - 10th October - Final Agenda
+In-Reply-To: <CACq+3bsG+kyKQVEFe8gCW3Q+Sct05ut3Msy56+tLJeJyNG5LkA@mail.gmail.com>
+References: <CACq+3bsG+kyKQVEFe8gCW3Q+Sct05ut3Msy56+tLJeJyNG5LkA@mail.gmail.com>
+Message-ID: <CANODOztM+EQyGTOTuAaDKL-qYDJQiSvmP8VZyTJaWGf6E7kOkA@mail.gmail.com>
+
+If time permits i will share more on smart pointers in c++.
+
+-- 
+Cheers
+Uday.
+
+From knura9 at gmail.com  Tue Oct  6 15:50:38 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 6 Oct 2015 15:50:38 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+Message-ID: <CAHhM8gARg5jVB8=-m2Dm3MGdBQMdyUKkAm1-2MV2NTEA4M27sg@mail.gmail.com>
+
+On Tue, Oct 6, 2015 at 12:50 PM, Balakumar Muthu
+<balakumar.muthu at gmail.com> wrote:
+> Hey Folks,
+>
+> You've Open-sourced your codes, now why don?t we try Open up our Office
+> Spaces?
+>
+> Coworkable.com is an open free platform to share your extra, idle Office
+> Spaces, Desks, Conference room with other needy Startups, Geeks and
+> Entrepreneurs. Sharing your unused office space provide the opportunity to
+> meet, work and network with smart professionals like you, which lead to
+> unlimited business opportunities.
+
+Nice idea.
+How many have done this in India?
+
+How do you build trust factor with people you don't know but allow
+them into your premises?
+(for example building watchman are known to give information about
+your valuables)
+
+-- Arun Khan
+
+From send4kumar at gmail.com  Tue Oct  6 16:07:57 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Tue, 6 Oct 2015 16:07:57 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+Message-ID: <CAHFTyBp1VHONukS5jgneUSWtki+v1YpfBOSEbB0wV5cyCau4Jg@mail.gmail.com>
+
+Nice Bala. After a long gap. I am seeing your email.
+
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Tue, Oct 6, 2015 at 12:50 PM, Balakumar Muthu <balakumar.muthu at gmail.com>
+wrote:
+
+> Hey Folks,
+>
+> You've Open-sourced your codes, now why don?t we try Open up our Office
+> Spaces?
+>
+> Coworkable.com is an open free platform to share your extra, idle Office
+> Spaces, Desks, Conference room with other needy Startups, Geeks and
+> Entrepreneurs. Sharing your unused office space provide the opportunity to
+> meet, work and network with smart professionals like you, which lead to
+> unlimited business opportunities.
+>
+> Register free at http://coworkable.com and join the big stack of listings
+> from Asia-Pacific countries.
+>
+> Please give it a try and let us know your feedback at echo at coworkable.com
+> .
+> If you like what we are doing, please do spread the word about
+> Coworkable.com with your friends too.
+>
+> C?mon let's share, work and grow together.
+>
+> Thanks
+> Bala
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From rajan at bluetronics.co.in  Tue Oct  6 18:16:37 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Tue, 6 Oct 2015 18:16:37 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAHFTyBp1VHONukS5jgneUSWtki+v1YpfBOSEbB0wV5cyCau4Jg@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+	<CAHFTyBp1VHONukS5jgneUSWtki+v1YpfBOSEbB0wV5cyCau4Jg@mail.gmail.com>
+Message-ID: <CAGaELm1YmzqbkO6krJtNdp99pbrq8VZwy_PGgAubcPLUR4Pe5g@mail.gmail.com>
+
+Greetings ,
+                  i have been searching for shared work space for more than
+8 months. But all it ended in bitter experience. They are asking the same
+10 months advance and the rent is above imaginary. ( 16000 / 25000 / 22000
+for min of 260 sq.ft.) .these co working spaces, as arun said .... is of
+much secure where everyone is peeping into other works. I am not meaning
+about Coworkable.com , i am speaking generally about all co-working hubs
+here. The people willing to rent just says they have given enough money for
+their interior & advance is so high , they expect us pay the advance more.
+People are more focussed on grabing money rather than in the intention of
+what balakumar said. These things leads the people like us to finalise with
+new work space ( as these people ask the rent & advance nearer to the fresh
+space guys) .
+
+All companies like regus, coworkable is doing the same.
+
+This is my real experience what i am having for past few months till now.
+If some one with good experience , please post it hear. Wishiing to hear
+from you.
+
+thanks for balakumar to open this topic.
+
+On Tue, Oct 6, 2015 at 4:07 PM, Kumar <send4kumar at gmail.com> wrote:
+
+> Nice Bala. After a long gap. I am seeing your email.
+>
+>
+> Thank you.
+>
+>
+> With regards,
+> Kumar
+> m: +91 94434 55374
+> im: send4kumar [ skype ]
+>
+> On Tue, Oct 6, 2015 at 12:50 PM, Balakumar Muthu <
+> balakumar.muthu at gmail.com>
+> wrote:
+>
+> > Hey Folks,
+> >
+> > You've Open-sourced your codes, now why don?t we try Open up our Office
+> > Spaces?
+> >
+> > Coworkable.com is an open free platform to share your extra, idle Office
+> > Spaces, Desks, Conference room with other needy Startups, Geeks and
+> > Entrepreneurs. Sharing your unused office space provide the opportunity
+> to
+> > meet, work and network with smart professionals like you, which lead to
+> > unlimited business opportunities.
+> >
+> > Register free at http://coworkable.com and join the big stack of
+> listings
+> > from Asia-Pacific countries.
+> >
+> > Please give it a try and let us know your feedback at
+> echo at coworkable.com
+> > .
+> > If you like what we are doing, please do spread the word about
+> > Coworkable.com with your friends too.
+> >
+> > C?mon let's share, work and grow together.
+> >
+> > Thanks
+> > Bala
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics,
+Bengaluru,Karnataka,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From citizenofgnu at gmail.com  Tue Oct  6 20:09:12 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Tue, 6 Oct 2015 20:09:12 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAGaELm1YmzqbkO6krJtNdp99pbrq8VZwy_PGgAubcPLUR4Pe5g@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+	<CAHFTyBp1VHONukS5jgneUSWtki+v1YpfBOSEbB0wV5cyCau4Jg@mail.gmail.com>
+	<CAGaELm1YmzqbkO6krJtNdp99pbrq8VZwy_PGgAubcPLUR4Pe5g@mail.gmail.com>
+Message-ID: <CAEdr4A4vi9bK_GwPf5DUgPX3AcDy6d1qCO3_DJ+0E9Z9uB0yFA@mail.gmail.com>
+
+Dear Admin,
+
+I think this post though it is tagged [OT], is away from our goals, and
+request  your discretionary wisdom  to ban such real estate advertisements.
+
+
+regards
+
+Thyagarajan Shanmugham,
+
+From arun289 at gmail.com  Tue Oct  6 21:06:09 2015
+From: arun289 at gmail.com (Arun Venkataswamy)
+Date: Tue, 6 Oct 2015 21:06:09 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAGaELm1YmzqbkO6krJtNdp99pbrq8VZwy_PGgAubcPLUR4Pe5g@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+	<CAHFTyBp1VHONukS5jgneUSWtki+v1YpfBOSEbB0wV5cyCau4Jg@mail.gmail.com>
+	<CAGaELm1YmzqbkO6krJtNdp99pbrq8VZwy_PGgAubcPLUR4Pe5g@mail.gmail.com>
+Message-ID: <CAFe1oo+bDnViwfr_QS_crkpMLfpyhm-SW-RPD6pVEB62VtUr6A@mail.gmail.com>
+
+On Tue, Oct 6, 2015 at 6:16 PM, Raja Rajan <rajan at bluetronics.co.in> wrote:
+
+> Greetings ,
+>                   i have been searching for shared work space for more than
+> 8 months. But all it ended in bitter experience. They are asking the same
+> 10 months advance and the rent is above imaginary. ( 16000 / 25000 / 22000
+> for min of 260 sq.ft.) .these co working spaces, as arun said .... is of
+> much secure where everyone is peeping into other works. I am not meaning
+> about Coworkable.com , i am speaking generally about all co-working hubs
+> here. The people willing to rent just says they have given enough money for
+> their interior & advance is so high , they expect us pay the advance more.
+> People are more focussed on grabing money rather than in the intention of
+> what balakumar said. These things leads the people like us to finalise with
+> new work space ( as these people ask the rent & advance nearer to the fresh
+> space guys) .
+>
+> All companies like regus, coworkable is doing the same.
+>
+>
+We work out of this place:
+http://theworks.at/omr/
+They charge on a per seat basis. Around Rs.4,800 per month. Includes
+internet, air conditioning and access to a conference room. Nice guys. The
+spirit is good. Do go and take a look.
+
+But now we have taken an entire floor as private space here.
+They have a facility at Alwarpet too.
+
+Regards,
+Arun Venkataswamy
+http://wondroussky.blogspot.in/
+http://wondrouscode.blogspot.in/
+
+"?????? ????? ????, ???????? ??????" - ???????
+Known is a drop, Unknown is an ocean
+
+From ajeeshbkannan at gmail.com  Wed Oct  7 01:41:42 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 7 Oct 2015 01:41:42 +0530
+Subject: [Ilugc] svnadmin dump
+Message-ID: <CA+ark-rjQMddzYCXo6QjQwc-iTUQR+Bjz8hCsHJWe9qiFQ8XDQ@mail.gmail.com>
+
+Hello,
+
+I have created a small script for svn repos dump.
+
+svnadmin dump /var/local/svn/$
+{x} | gzip -9 > /svn_backups/${x}
+_`date +%d-%m-%Y`.dump.gz
+
+How can I make sure that the above command executed without any warning or
+error messages while dumping a repo. Is there any status check or flag can
+be added for this? Or a regular expression condition like " if [ "$?" -eq
+"0" ]" .
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From tshrinivasan at gmail.com  Wed Oct  7 05:11:22 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 7 Oct 2015 05:11:22 +0530
+Subject: [Ilugc] [OT] Please donate to buy a good camera for a Wikimedia
+ Commons Photography Contributor
+Message-ID: <CAND2796tTXU+_HMTJjK6xge07bO_4DzewQiPZ=yaGyu2fV2AMg@mail.gmail.com>
+
+Please donate to buy a good camera for a Wikimedia Commons Photography
+Contributor. He contributed more than 5000 botanical photos to
+wikimedia commons.
+
+
+Mr.Yerkadu Elango, is a Tamil writer. He wrote 75 books. All the books
+are non-fiction, much informative, basic science oriented. General
+knowledge, educationalists, scientists, women leaders, social causes
+are the themes for his books.
+
+To make Science and General Knowledge reach more people, he releases
+his books as Free Ebooks.
+
+http://freetamilebooks.com/authors/??????????????/
+
+We can download all his 17 ebooks for free here.
+
+As works in Botanical Department in a Central Govt office in Yerkadu,
+He is very good at categorizing the plants and flowers. He take photos
+of all the plants around Yerkadu and uploads in
+https://commons.wikimedia.org
+
+https://commons.wikimedia.org is a sub project of Wikipedia, where we
+can contribute with photos and anyone can use the photos without any
+piracy issues. All the photos are in creative commons license. So we
+can use the photos and have to mention the name, url of the wikipedia
+page as source.
+
+So far, Yerkadu Elango, contributed 5000 photos on Commons.
+
+He adds the Botanical details of the plants along with the photos.
+
+We can see all his contributions here ?
+https://commons.wikimedia.org/wiki/Category:Files_by_User:Yercaud-elango
+
+More details about him:
+
+https://ta.wikipedia.org/s/3pgz
+
+http://www.vallamai.com/?p=53227
+
+He is looking for Donations to buy a good camera so that his efforts
+can be more useful for the community.
+
+For now, he is using a normal point and shoot camera, which is not
+helping to capture the flowers are in height of trees. He has to climb
+up on trees and rocks to get the photos.
+
+Recently this camera has broken.
+
+It will be nice, if we can help him to buy a good camera with nice
+ZOOM features, may be around 30x.
+
+We dont know, if such effort of capturing plants will happen once
+again. The initial effort itself should be best as much possible.
+
+Please donate to buy a good camera for Yerkadu elango.
+
+Bank Details:
+
+T Shrinivasan
+Account No:
+006010101471083
+Axis bank
+Mylapore Branch
+Chennai
+IFSC code UTIB0000006
+
+Send an email to yercaudelango at gmail.com  & tshrinivasan at gmail.com on
+your donation details.
+
+Thanks a lot.
+
+
+
+
+Read this in tamil at
+
+http://tshrinivasan.blogspot.co.uk/2015/04/donate-to-buy-a-camera-for-a-wikipedia-contributor.html
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From knura9 at gmail.com  Wed Oct  7 14:24:29 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 7 Oct 2015 14:24:29 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+Message-ID: <CAHhM8gAZs5BRPGVtT41Czjvb2LJRntyYmcP3A5q9hrMNdQZfug@mail.gmail.com>
+
+On Tue, Oct 6, 2015 at 12:50 PM, Balakumar Muthu
+<balakumar.muthu at gmail.com> wrote:
+> Hey Folks,
+>
+> You've Open-sourced your codes, now why don?t we try Open up our Office
+> Spaces?
+>
+> Coworkable.com is an open free platform to share your extra, idle Office
+> Spaces, Desks, Conference room with other needy Startups, Geeks and
+> Entrepreneurs. Sharing your unused office space provide the opportunity to
+> meet, work and network with smart professionals like you, which lead to
+> unlimited business opportunities.
+>
+
+I interpret this concept similar to AirBnB -- I have a spare room,
+office space/resources etc., that I can let out and have a
+supplementary income.
+
+The concept of organized commercial office sharing, that others have
+posted their experience with, has been around for more than a couple
+of decades.  I don't think they fit into the concept of  sharing my
+*own* extra office space/resources.
+
+IMO, this is the distinction one needs to understand and
+coworkable.com needs to emphasis on this aspect.  If this is *not* the
+intent, then I agree that this post is borderline commercial.   The
+establishment of trust factor between renter/rentee is fuzzy (at least
+to me).   I had booked a room in Netherlands (through AirBnB);  the
+difference between the pics on the web site and the reality was like
+day an night.  I was lucky to get a partial refund from AirBnB.
+
+-- Arun Khan
+
+From citizenofgnu at gmail.com  Wed Oct  7 14:59:48 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Wed, 7 Oct 2015 14:59:48 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAHhM8gAZs5BRPGVtT41Czjvb2LJRntyYmcP3A5q9hrMNdQZfug@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+	<CAHhM8gAZs5BRPGVtT41Czjvb2LJRntyYmcP3A5q9hrMNdQZfug@mail.gmail.com>
+Message-ID: <CAEdr4A742Dce3phT+1k5H8oNXGtHgPXfAX6spNBTrWPCVj4LcA@mail.gmail.com>
+
+hi,
+
+The question is not commercial or non commercials, it never fits into our
+goals,
+
+when asked what is ilugc the web site says
+
+ "ILUGC was started on 1997 and it is an one of the oldest Linux Users Group
+<http://en.wikipedia.org/wiki/Linux_User_Group> in India. We are a
+heterogeneous group of computer users from the South Indian city of Chennai
+<http://en.wikipedia.org/wiki/Chennai> (aka Madras), united in our use
+of Free/Libre/Open
+Source Softwares <http://en.wikibooks.org/wiki/FLOSS_Concept_Booklet> and
+support of Software Freedom in general and the GNU/Linux in particular."
+
+Kindly specify how this post fits into the mandate or kindly explain me how
+this post is even tangentially benefits the user with  "RESPECT TO OUR
+MANDATE".
+
+Please clarify, Am I  allowed to  say that  a tea shop near my office sells
+vadaa pav and he also gives the recipe , can we talk about it here?
+
+Need of admin's role becomes very much imminent,  either to focus on our
+goals or deviate from it.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From srini.it at gmail.com  Wed Oct  7 18:34:44 2015
+From: srini.it at gmail.com (Srinivasan Sundararajan)
+Date: Wed, 7 Oct 2015 18:34:44 +0530
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D_Open_Source_your_Office_Spaces_?=
+	=?utf-8?b?4oCTIENvd29ya2FibGUuY29t?=
+In-Reply-To: <CAEdr4A742Dce3phT+1k5H8oNXGtHgPXfAX6spNBTrWPCVj4LcA@mail.gmail.com>
+References: <CAM6SDzjCGnMV+18FX6fZaSc7sVtatTgerAhDu4AQjd8-fL5ODQ@mail.gmail.com>
+	<CAHhM8gAZs5BRPGVtT41Czjvb2LJRntyYmcP3A5q9hrMNdQZfug@mail.gmail.com>
+	<CAEdr4A742Dce3phT+1k5H8oNXGtHgPXfAX6spNBTrWPCVj4LcA@mail.gmail.com>
+Message-ID: <CACqthKFU+70P_H_hU_sjOea=4Fi1S_g0gk8ugkbOrs3L+R9UwQ@mail.gmail.com>
+
+On Wed, Oct 7, 2015 at 2:59 PM, Thyagarajan ?????????? <
+citizenofgnu at gmail.com> wrote:
+
+> hi,
+>
+> The question is not commercial or non commercials, it never fits into our
+> goals,
+>
+> With due respect to Thyagarajan's comments, I should not extend this
+thread.
+
+However, I am sure he won't mind me raising a couple of points (should we
+branch off the discussion into a new thread, may be a mail outside ilug-c
+group mail?) :
+a) the usage of "open" : while the member sincerely wants to extend the
+concept of "openness" to all spheres, we do see the abuse of the term as a
+brand value to promote diverse interests (what is the status of "open drug
+discovery project"?) ; the increasing examples of "open source" going into
+dual (sic) mode
+
+b) the real world scenario of mixing of open stuff and closed stuff --
+permitting / permissive clauses of open source licensing [re the current
+thread topic , how will it tackle "no sub-letting" clause, unless the
+premises owner is "open sourcing" it ..]
+
+Srinivasan
+
+From nbashok008 at gmail.com  Sat Oct 10 18:33:50 2015
+From: nbashok008 at gmail.com (Ashok Kumar)
+Date: Sat, 10 Oct 2015 18:33:50 +0530
+Subject: [Ilugc] Reg: Mitutoyo CMM Quality Software to run in linux
+Message-ID: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+
+Dear all
+
+We using Mitutoyo CMM Quality software running in Windows XP ...We plan to
+run the software using linux Fedora..can anyone please support us to run
+this Software on Fedora OS,Either in person or online support....Thanks in
+advance
+
+
+Thanks
+Regds
+Ashok
+9677170999
+ Vibromech Engineers & services Ltd
+NO 6, 7 Sengundram Industrial Estate
+Melrosepuram, Singaperumal koil,
+603204
+
+From vik at hamaralinux.org  Sat Oct 10 18:38:44 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Sat, 10 Oct 2015 14:08:44 +0100
+Subject: [Ilugc] Reg: Mitutoyo CMM Quality Software to run in linux
+In-Reply-To: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+References: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+Message-ID: <56190DDC.2050602@hamaralinux.org>
+
+On 10/10/15 14:03, Ashok Kumar wrote:
+> Dear all
+>
+> We using Mitutoyo CMM Quality software running in Windows XP ...We plan to
+> run the software using linux Fedora..can anyone please support us to run
+> this Software on Fedora OS,Either in person or online support....Thanks in
+> advance
+>
+You could try running it under wine (https://www.winehq.org/).
+
+This article might help you set it up:
+http://www.unixmen.com/install-and-configure-wine-to-play-latest-windows-games-in-linux-ubuntu-linuxmint-fedora/
+
+
+
+
+
+From shakthimaan at gmail.com  Sat Oct 10 19:06:36 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 10 Oct 2015 19:06:36 +0530
+Subject: [Ilugc] Reg: Mitutoyo CMM Quality Software to run in linux
+In-Reply-To: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+References: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+Message-ID: <CABG-yt0DUy-h8jEh=_2graTSC56Od_9h01RjoQ2qFzxmJxk7WA@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Oct 10, 2015 at 6:33 PM, Ashok Kumar <nbashok008 at gmail.com> wrote:
+| We using Mitutoyo CMM Quality software running in Windows XP ...We plan to
+| run the software using linux Fedora..can anyone please support
+\--
+
+Is it free and open source software? Otherwise, you should really be
+asking them for support!
+
+Please ask them to build it on GNU/Linux.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From kinitrupti at yahoo.co.in  Sun Oct 11 16:38:13 2015
+From: kinitrupti at yahoo.co.in (trupti kini)
+Date: Sun, 11 Oct 2015 11:08:13 +0000 (UTC)
+Subject: [Ilugc] [OT] How do you estimate the cost and time required to
+ complete a freelancing Git
+In-Reply-To: <CALFmRoGA-3d5tcnfkWgFCxxwZgJj79qO2KZGAHx1ORCa55xhkA@mail.gmail.com>
+References: <CALFmRoGA-3d5tcnfkWgFCxxwZgJj79qO2KZGAHx1ORCa55xhkA@mail.gmail.com>
+Message-ID: <159738156.1786975.1444561693194.JavaMail.yahoo@mail.yahoo.com>
+
+
+
+
+     On Monday, 5 October 2015 10:48 PM, Ganesh Ranganathan <ganesh.ranganathan.85 at gmail.com> wrote:
+   
+ 
+
+ Typo: The subject line should read : freelancing gig.
+
+Thanks in Advance.
+
+Regards,
+Ganesh
+
+On Mon, Oct 5, 2015 at 10:46 PM, Ganesh Ranganathan <
+ganesh.ranganathan.85 at gmail.com> wrote:
+
+> A possibly off topic question to the freelancers on the lists. Given a set
+> of very high level requirements, how do you estimate the cost required to
+> complete it?
+>
+> Let's say a basic CRUD website which requires login (with Oauth providers
+> like FB), creating some entities and logout. And a blog module in addition
+> to this. What would be your estimation to build this in rails/php?
+>
+> Thanks,
+> Ganesh
+>
+>
+>
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+Hi,
+You need to judge yourself as per your experience and how many projects you have done till now as a freelancer. Check out this link?https://motivapp.com/freelance-hourly-rate-calculator?which can help you as well and similar websites.
+Hope this helps. 
+  
+
+From madanus at gmail.com  Sun Oct 11 19:37:58 2015
+From: madanus at gmail.com (Madan U S)
+Date: Sun, 11 Oct 2015 19:37:58 +0530
+Subject: [Ilugc] [OT] How do you estimate the cost and time required to
+	complete a freelancing Git
+In-Reply-To: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+References: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+Message-ID: <9f44f9e4-4ef7-4768-9abc-7c9cc52d414e@typeapp.com>
+
+Hi Ganesh,
+
+???? Pl find my comments inline.
+
+
+
+On Oct 5, 2015, 10:47 PM, at 10:47 PM, Ganesh Ranganathan <ganesh.ranganathan.85 at gmail.com> wrote:
+>A possibly off topic question to the freelancers on the lists. Given a
+>set
+>of very high level requirements, how do you estimate the cost required
+>to
+>complete it?
+>
+>Let's say a basic CRUD website which requires login (with Oauth
+>providers
+>like FB), creating some entities and logout. And a blog module in
+>addition
+>to this. What would be your estimation to build this in rails/php?
+>
+>Thanks,
+>Ganesh
+>_______________________________________________
+>ILUGC Mailing List:
+>http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>ILUGC Mailing List Guidelines:
+>http://ilugc.in/mailinglist-guidelines
+
+From 77minds at gmail.com  Mon Oct 12 10:53:05 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 12 Oct 2015 10:53:05 +0530
+Subject: [Ilugc] [OT] How do you estimate the cost and time required to
+ complete a freelancing Git
+In-Reply-To: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+References: <CALFmRoF__fbphurA_kE0P40fOA20+2kLZ=Swu6Srb00i4_skLw@mail.gmail.com>
+Message-ID: <CAJR+9kbPF1GCAW9KMjJzsSnmt7mkpEgXiwONa2dCVnLUosVXpg@mail.gmail.com>
+
+Don't estimate https://twitter.com/search?q=%23noestimates . be bold and
+join the revolution.
+
+On Mon, Oct 5, 2015 at 10:46 PM, Ganesh Ranganathan <
+ganesh.ranganathan.85 at gmail.com> wrote:
+
+> A possibly off topic question to the freelancers on the lists. Given a set
+> of very high level requirements, how do you estimate the cost required to
+> complete it?
+>
+> Let's say a basic CRUD website which requires login (with Oauth providers
+> like FB), creating some entities and logout. And a blog module in addition
+> to this. What would be your estimation to build this in rails/php?
+>
+> Thanks,
+> Ganesh
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From madanus at gmail.com  Mon Oct 12 11:59:12 2015
+From: madanus at gmail.com (Madan U Sreenivasan)
+Date: Mon, 12 Oct 2015 11:59:12 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+Message-ID: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+
+Hi All,
+
+    Here are some motivational posters for your office. We wanted this to
+be freely used by everybody. Hence, we are making each of these posters
+freely available for use. You could download and print the posters for your
+office.
+
+    We hope that this helps you improve the motivation levels of your
+employees, and hey, who doesn't like to see the wall changed every now and
+then! We suggest you also subscribe to the list (option provided on the
+site on the right-navigation panel)
+
+    Motivational Posters for your Office - Part 1
+<http://www.readersnest.com/2015/10/posters-for-your-office-walls-1.html>
+
+    Please give us your feedback on the poster, by mailing me. Also, feel
+free to read the rest of the articles and give us your honest feedback.
+
+Regards,
+Madan
+
+From skbohra123 at gmail.com  Mon Oct 12 12:19:21 2015
+From: skbohra123 at gmail.com (shreekant bohra)
+Date: Mon, 12 Oct 2015 12:19:21 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+Message-ID: <CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+
+Hi
+
+If you truly want people to print these posters and get motivated, you need
+to put in some more efforts, provide some really motivational and inspiring
+messages and pictures and most importantly, you need to provide these in
+open and printable formats such as SVG or PDF.
+
+Cheers
+
+
+--
+Shree Kant Bohra
+
+
+
+On Mon, Oct 12, 2015 at 11:59 AM, Madan U Sreenivasan <madanus at gmail.com>
+wrote:
+
+> Hi All,
+>
+>     Here are some motivational posters for your office. We wanted this to
+> be freely used by everybody. Hence, we are making each of these posters
+> freely available for use. You could download and print the posters for your
+> office.
+>
+>     We hope that this helps you improve the motivation levels of your
+> employees, and hey, who doesn't like to see the wall changed every now and
+> then! We suggest you also subscribe to the list (option provided on the
+> site on the right-navigation panel)
+>
+>     Motivational Posters for your Office - Part 1
+> <http://www.readersnest.com/2015/10/posters-for-your-office-walls-1.html>
+>
+>     Please give us your feedback on the poster, by mailing me. Also, feel
+> free to read the rest of the articles and give us your honest feedback.
+>
+> Regards,
+> Madan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From scorpionking.sahil at gmail.com  Mon Oct 12 12:28:03 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Mon, 12 Oct 2015 12:28:03 +0530
+Subject: [Ilugc] Pushing code to github from Sublime Text3
+Message-ID: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+
+Namaste Everyone,
+
+I need some pointers to push my code to github from Sublime Text3. I am
+able to initialize, add, commit and add remote origin but unable to push.
+When I ran the push command if looks for authentic username and password
+for github. I don't know where to provide the login credentials (may be in
+git config file) but how do I do it from Sublime Text3?
+
+If there is anyone who has prior experience on it then please guide me or
+redirect me to some relevant links.
+
+Look forward to hear from you soon.
+
+Thanks for your valuable time.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From madanus at gmail.com  Mon Oct 12 12:32:42 2015
+From: madanus at gmail.com (Madan U Sreenivasan)
+Date: Mon, 12 Oct 2015 12:32:42 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+	<CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+Message-ID: <CAOdw4Wvk2cMNg3tJEwrGp1DjjXky49oE9u7A6StGsga_nrxcyQ@mail.gmail.com>
+
+On Mon, Oct 12, 2015 at 12:19 PM, shreekant bohra <skbohra123 at gmail.com>
+wrote:
+
+> Hi
+>
+> If you truly want people to print these posters and get motivated, you need
+> to put in some more efforts, provide some really motivational and inspiring
+> messages and pictures
+
+
+Shreekant - point taken - yes, we will keep improving on this.
+
+
+
+> and most importantly, you need to provide these in
+> open and printable formats such as SVG or PDF.
+>
+
+As much as I appreciate this feedback, JPEG is a commonly used format, and
+I prefer this for distribution - will discuss further with the designer on
+this.
+
+Anyways, Thank you for the time to give us the feedback. Would really be
+glad if you subscribe and keep giving any feedback that you might have -
+our blog is not just for posters, we do some contemporary stories and
+wellness related articles also.
+
+Regards,
+Madan
+
+From ganesh.ranganathan.85 at gmail.com  Mon Oct 12 13:10:19 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Mon, 12 Oct 2015 13:10:19 +0530
+Subject: [Ilugc] Pushing code to github from Sublime Text3
+In-Reply-To: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+References: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+Message-ID: <CALFmRoG6ipm_9H5ZjDRZEwMy+gnSdzTOq8TFxYy=-FsLQkXMVw@mail.gmail.com>
+
+On Mon, Oct 12, 2015 at 12:28 PM, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> I don't know where to provide the login credentials (may be in
+> git config file) but how do I do it from Sublime Text3?
+>
+
+Try the SSH endpoint.
+
+Thanks,
+Ganesh?
+
+From scorpionking.sahil at gmail.com  Mon Oct 12 13:23:40 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Mon, 12 Oct 2015 13:23:40 +0530
+Subject: [Ilugc] Pushing code to github from Sublime Text3
+In-Reply-To: <CALFmRoG6ipm_9H5ZjDRZEwMy+gnSdzTOq8TFxYy=-FsLQkXMVw@mail.gmail.com>
+References: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+	<CALFmRoG6ipm_9H5ZjDRZEwMy+gnSdzTOq8TFxYy=-FsLQkXMVw@mail.gmail.com>
+Message-ID: <CAP6xen=R6w=A6e7stGru0vmLc4oT5GyO-8QMeJ1d495PP63MPA@mail.gmail.com>
+
+On Mon, Oct 12, 2015 at 1:10 PM, Ganesh Ranganathan <
+ganesh.ranganathan.85 at gmail.com> wrote:
+
+> On Mon, Oct 12, 2015 at 12:28 PM, sahil ????? <
+> scorpionking.sahil at gmail.com>
+> wrote:
+>
+> > I don't know where to provide the login credentials (may be in
+> > git config file) but how do I do it from Sublime Text3?
+> >
+>
+> Try the SSH endpoint.
+>
+
+I am trying https method (as this method is recommended by github too). On
+the other hand, being able to push the code via SSH (manually going to a
+folder and use git commands) but I want to achieve this via Sublime Text3
+(via SSH or HTTPS method). Any pointers?
+
+Thanks for your reply.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From ganesh.ranganathan.85 at gmail.com  Mon Oct 12 13:30:39 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Mon, 12 Oct 2015 13:30:39 +0530
+Subject: [Ilugc] Pushing code to github from Sublime Text3
+In-Reply-To: <CAP6xen=R6w=A6e7stGru0vmLc4oT5GyO-8QMeJ1d495PP63MPA@mail.gmail.com>
+References: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+	<CALFmRoG6ipm_9H5ZjDRZEwMy+gnSdzTOq8TFxYy=-FsLQkXMVw@mail.gmail.com>
+	<CAP6xen=R6w=A6e7stGru0vmLc4oT5GyO-8QMeJ1d495PP63MPA@mail.gmail.com>
+Message-ID: <CALFmRoHRW8-Da5g9fr9hPq-BbwStkf16Vi9qtTgf0RU--9q07A@mail.gmail.com>
+
+On Mon, Oct 12, 2015 at 1:23 PM, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> but I want to achieve this via Sublime Text3
+> (via SSH or HTTPS method). Any pointers?
+>
+
+?Are you using the Sublime-Text-git plugin? For SSH, it should work out of
+the box if your SSH keys are set up in Github (which should be the case
+since you are able to do it from the folder). What error are you getting?
+
+I am not sure if storing credentials is possible for the HTTPS method is
+possible, but even if it is - storing the password in cleartext is very
+in?secure.
+
+Thanks,
+Ganesh
+
+From guruprasad at guruprasad.org  Mon Oct 12 13:41:19 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Mon, 12 Oct 2015 13:41:19 +0530
+Subject: [Ilugc] Pushing code to github from Sublime Text3
+In-Reply-To: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+References: <CAP6xennjRRHdgAWCrCcguv5fSxpn5gph6OjB+Lq2xgKxJBYq5Q@mail.gmail.com>
+Message-ID: <561B6B27.7090204@guruprasad.org>
+
+Hi Sahil,
+
+On 10/12/15 12:28 PM, sahil ????? wrote:
+> Namaste Everyone,
+> 
+> I need some pointers to push my code to github from Sublime Text3. I am
+> able to initialize, add, commit and add remote origin but unable to push.
+> When I ran the push command if looks for authentic username and password
+> for github. I don't know where to provide the login credentials (may be in
+> git config file) but how do I do it from Sublime Text3?
+> 
+> If there is anyone who has prior experience on it then please guide me or
+> redirect me to some relevant links.
+> 
+> Look forward to hear from you soon.
+
+This mailing list is dedicated to discussing GNU/Linux (or Linux if you
+like it that way) and Free Open Source Software. Sublime Text 3 is not
+open source software and it is not welcome to discuss proprietary
+software here on this list. Please take your queries about Sublime Text
+3 to the relevant forum (probably Sublime Text support forum).
+
+Thanks & Regards,
+Guruprasad
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151012/9cd5ae47/attachment.bin 
+
+From knura9 at gmail.com  Mon Oct 12 14:01:39 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Mon, 12 Oct 2015 14:01:39 +0530
+Subject: [Ilugc] Reg: Mitutoyo CMM Quality Software to run in linux
+In-Reply-To: <CABG-yt0DUy-h8jEh=_2graTSC56Od_9h01RjoQ2qFzxmJxk7WA@mail.gmail.com>
+References: <CA+UwGhoXh9YUf7GQ+8banSr_TTb4jabQbqVrGb7LQcKoUjXWkQ@mail.gmail.com>
+	<CABG-yt0DUy-h8jEh=_2graTSC56Od_9h01RjoQ2qFzxmJxk7WA@mail.gmail.com>
+Message-ID: <CAHhM8gAXcKJez=aetFr9omwovOP=TmbTcULvcezb78aE9oZJdA@mail.gmail.com>
+
+On Sat, Oct 10, 2015 at 7:06 PM, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> Hi,
+>
+> --- On Sat, Oct 10, 2015 at 6:33 PM, Ashok Kumar <nbashok008 at gmail.com> wrote:
+> | We using Mitutoyo CMM Quality software running in Windows XP ...We plan to
+> | run the software using linux Fedora..can anyone please support
+> \--
+>
+
+For production purposes you should *seriously* consider using a
+distribution with Long Term Support (LTS).
+
+> Is it free and open source software? Otherwise, you should really be
+> asking them for support!
+>
+
++1
+
+> Please ask them to build it on GNU/Linux.
+>
+
+And request them to support it on a LTS distribution like CentOS,
+Ubuntu LTS or Debian.
+
+-- Arun Khan
+
+From 77minds at gmail.com  Mon Oct 12 17:37:02 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 12 Oct 2015 17:37:02 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <CAOdw4Wvk2cMNg3tJEwrGp1DjjXky49oE9u7A6StGsga_nrxcyQ@mail.gmail.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+	<CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+	<CAOdw4Wvk2cMNg3tJEwrGp1DjjXky49oE9u7A6StGsga_nrxcyQ@mail.gmail.com>
+Message-ID: <CAJR+9kZ_7jLNupp1xkjOWRTgoYwNXV1hmuan4CS-5XmaV09d8Q@mail.gmail.com>
+
+Well these are my motivation http://dilbert.com/ . Has any one read
+"Dilbert's principle" and felt how true it is?
+
+If I am not lazy would like to talk about "Politics, Management and
+Demoralization in of bright minds I.T sector" in one of the ilugc talk.
+
+
+
+On Mon, Oct 12, 2015 at 12:32 PM, Madan U Sreenivasan <madanus at gmail.com>
+wrote:
+
+> On Mon, Oct 12, 2015 at 12:19 PM, shreekant bohra <skbohra123 at gmail.com>
+> wrote:
+>
+> > Hi
+> >
+> > If you truly want people to print these posters and get motivated, you
+> need
+> > to put in some more efforts, provide some really motivational and
+> inspiring
+> > messages and pictures
+>
+>
+> Shreekant - point taken - yes, we will keep improving on this.
+>
+>
+>
+> > and most importantly, you need to provide these in
+> > open and printable formats such as SVG or PDF.
+> >
+>
+> As much as I appreciate this feedback, JPEG is a commonly used format, and
+> I prefer this for distribution - will discuss further with the designer on
+> this.
+>
+> Anyways, Thank you for the time to give us the feedback. Would really be
+> glad if you subscribe and keep giving any feedback that you might have -
+> our blog is not just for posters, we do some contemporary stories and
+> wellness related articles also.
+>
+> Regards,
+> Madan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/1/Karthikeyan%20A%20K
+
+From bharath79in at rediffmail.com  Mon Oct 12 20:41:52 2015
+From: bharath79in at rediffmail.com (Bharath Kumar)
+Date: 12 Oct 2015 15:11:52 -0000
+Subject: [Ilugc] =?utf-8?q?ilugc_Digest=2C_Vol_137=2C_Issue_11?=
+In-Reply-To: <mailman.40.1444651639.21558.ilugc@ae.iitm.ac.in>
+Message-ID: <1444651734.S.32856.15296.f4-235-217.1444662712.20969@webmail.rediffmail.com>
+
+Dear Sirs,
+
+Can anyone provide me latest STABLE ubuntu operating system as a CD/DVD package ?
+
+Bharathkumar AV
+
+From tshrinivasan at gmail.com  Tue Oct 13 03:52:03 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 13 Oct 2015 03:52:03 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+	<CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+Message-ID: <CAND2794mxAxaFDQ55OYUnm+JXoURvchCSy_h2gshwMCwhFOoBA@mail.gmail.com>
+
+Nice effort.
+
+
+Last year we tried to create tamil wallpapers using the images in
+creative commons license.
+https://www.flickr.com/groups/tamilwallpapers/pool/
+http://cctamilwallpapers.blogspot.co.in
+
+We stopped due to loss of interest and volunteers..
+
+
+Release the images in creative commons license.
+Why?
+read here - http://malaigal.com/?p=7205
+
+If possible,
+create posters in Tamil also.
+Make in vertical formats too so that people can set as mobile/tablet wallpapers.
+Make images with Free Software related text and photos.
+Share the source files too, so that any one can modify if they want.
+
+
+Thanks for the efforts.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From tshrinivasan at gmail.com  Tue Oct 13 04:36:38 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 13 Oct 2015 04:36:38 +0530
+Subject: [Ilugc] Lightning Talk - Yet Another Lightning talk - PyCon India
+	2015 by Shakthimaan
+Message-ID: <CAND2796+ZjjLwpvUvpQe-RXaj3ove_tViHiz8=769QAM=C30Dw@mail.gmail.com>
+
+The best lightning talk about Python in PyCon India 2015
+
+https://www.youtube.com/watch?t=12&v=QmScfOsdxqg
+
+by Shakthimaan.
+
+Dont miss it.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From niranjan.ashok at gmail.com  Tue Oct 13 07:46:21 2015
+From: niranjan.ashok at gmail.com (mallapadi niranjan)
+Date: Tue, 13 Oct 2015 07:46:21 +0530
+Subject: [Ilugc] Lightning Talk - Yet Another Lightning talk - PyCon
+ India 2015 by Shakthimaan
+In-Reply-To: <CAND2796+ZjjLwpvUvpQe-RXaj3ove_tViHiz8=769QAM=C30Dw@mail.gmail.com>
+References: <CAND2796+ZjjLwpvUvpQe-RXaj3ove_tViHiz8=769QAM=C30Dw@mail.gmail.com>
+Message-ID: <CAE_F0QQ1px8MO58CyMroC9v76uTnw1gY+f26Uy5n2Epq0+-QCA@mail.gmail.com>
+
+That was really worth listening, Thanks for sharing.  Thanks shakti for
+this talk.[clap,clap,clap]
+
+
+On Tue, Oct 13, 2015 at 4:36 AM, Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> The best lightning talk about Python in PyCon India 2015
+>
+> https://www.youtube.com/watch?t=12&v=QmScfOsdxqg
+>
+> by Shakthimaan.
+>
+> Dont miss it.
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+> http://FreeTamilEbooks.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From madanus at gmail.com  Tue Oct 13 09:19:43 2015
+From: madanus at gmail.com (Madan U S)
+Date: Tue, 13 Oct 2015 09:19:43 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <CAND2794mxAxaFDQ55OYUnm+JXoURvchCSy_h2gshwMCwhFOoBA@mail.gmail.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+	<CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+	<CAND2794mxAxaFDQ55OYUnm+JXoURvchCSy_h2gshwMCwhFOoBA@mail.gmail.com>
+Message-ID: <c663d999-ae97-47f5-8945-69407c95585d@typeapp.com>
+
+Reply inline
+
+
+
+On Oct 13, 2015, 3:53 AM, at 3:53 AM, Shrinivasan T <tshrinivasan at gmail.com> wrote:
+>Nice effort.
+>
+>
+>Last year we tried to create tamil wallpapers using the images in
+>creative commons license.
+>https://www.flickr.com/groups/tamilwallpapers/pool/
+>http://cctamilwallpapers.blogspot.co.in
+>
+>We stopped due to loss of interest and volunteers..
+>
+>
+>Release the images in creative commons license.
+>Why?
+>read here - http://malaigal.com/?p=7205
+>
+>If possible,
+>create posters in Tamil also.
+>Make in vertical formats too so that people can set as mobile/tablet
+>wallpapers.
+>Make images with Free Software related text and photos.
+>Share the source files too, so that any one can modify if they want.
+>
+>
+>Thanks for the efforts.
+>
+>
+>
+>-- 
+>Regards,
+>T.Shrinivasan
+>
+>
+>My Life with GNU/Linux : http://goinggnu.wordpress.com
+>Free E-Magazine on Free Open Source Software in Tamil :
+>http://kaniyam.com
+>
+>Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+>http://FreeTamilEbooks.com
+>_______________________________________________
+>ILUGC Mailing List:
+>http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>ILUGC Mailing List Guidelines:
+>http://ilugc.in/mailinglist-guidelines
+
+From arun289 at gmail.com  Tue Oct 13 09:37:48 2015
+From: arun289 at gmail.com (Arun Venkataswamy)
+Date: Tue, 13 Oct 2015 09:37:48 +0530
+Subject: [Ilugc] [OT] Motivational Posters for your office - Part 1
+In-Reply-To: <c663d999-ae97-47f5-8945-69407c95585d@typeapp.com>
+References: <CAOdw4WuORxn5mP=O-eawLh6gk_yy82A-Xb3C2dRH_hbEYzp7jQ@mail.gmail.com>
+	<CAD5EYcoS-1_PBt5nVHU7ComQix-xH8L9Hgj-86XkN5Hwe-HcWg@mail.gmail.com>
+	<CAND2794mxAxaFDQ55OYUnm+JXoURvchCSy_h2gshwMCwhFOoBA@mail.gmail.com>
+	<c663d999-ae97-47f5-8945-69407c95585d@typeapp.com>
+Message-ID: <CAFe1oo+9_X7Fzmte1D7L86AqencSCQEXy-i8mpvoZMiE1-9Kjw@mail.gmail.com>
+
+On Tue, Oct 13, 2015 at 9:19 AM, Madan U S <madanus at gmail.com> wrote:
+
+> Reply inline
+>
+
+I am not able to see your inline replies. I am on gmail.
+
+Regards,
+Arun
+
+From mushab.mmm at gmail.com  Tue Oct 13 21:29:06 2015
+From: mushab.mmm at gmail.com (Mohamed Mushab)
+Date: Tue, 13 Oct 2015 21:29:06 +0530
+Subject: [Ilugc] Looking for Linux Server Administrator | E2E Networks pvt
+	ltd
+Message-ID: <CAE=+U4wVOkG4dg=eY4dOGREOtmenhu1jtOpt=QXtodCVAyMSQQ@mail.gmail.com>
+
+Hi,
+
+E2E Networks Pvt Ltd Looking for an Linux Server Administrator.
+
+Job Location: Melvisharam, Vellore District, Tamil Nadu
+Qualification : BE (CSE & IT)
+Eligibility > 70% (10th, 12th & BE)
+Package: Company Standard
+
+company url: https://www.e2enetworks.com/
+
+Please revert back to me if any one interested.
+-- 
+Regards
+Mohamed Mushab,
+
+From mail2marikkannan at gmail.com  Wed Oct 14 12:44:42 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 14 Oct 2015 12:44:42 +0530
+Subject: [Ilugc] Redmine Plugin Support
+Message-ID: <CAJ=JFUmksX6RSQ3Ti9jAQnNcLXGgpyCazwQHsJkSBodxNqsihQ@mail.gmail.com>
+
+Hi all.,
+
+       I am using the redmine tool on centos for tracking and ticketing
+purpose.
+
+       I need to integrate the tools like time based Issue tracking,Not
+commit user notification through mail,Assign the task to more than one user
+(not include as a group).
+
+       I need the redmine plugin support for this requirement,and send me
+needful for this.
+
+      I had worked with few more plugins but not worked for me.
+
+      Thanks in advance
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From sureshkumarr.s at gmail.com  Thu Oct 15 10:28:28 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Thu, 15 Oct 2015 10:28:28 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+Message-ID: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+
+Dear All,
+
+KaanalNet is a opensource SDN Testbed project.
+
+http://kaanalnet.org/
+https://github.com/sureshkvl/kaanalnet/wiki
+
+This project is released officially last month and getting
+attractions from different SDN group members around the world.
+
+Now, I need to integrate and test with different SDN Controllers (such
+as OpenDayLight, Ryu, POX) and document the steps in Wiki.
+
+The preliminary reference is below (this page requires updation, but
+still can be referred).
+
+https://github.com/sureshkvl/kaanalnet/wiki/Sdnexample
+
+One university student(Northeastern University) approached me to do
+his university shortterm project in kaanalNet with SDN Controller.
+This is good start.
+
+So, I am circulating this mail, to get more participants from our
+indian collage students  to contribute in  Development / QA/
+Integration & Testing/ Documentation etc in this project.
+
+Interested people can mail me (sureshkumarr.s at gmail.com/sureshkvl at yahoo.com).
+
+Dear Members,
+Can you share this message to other similar groups to reach more students.
+
+Thanks
+suresh.
+
+From vik at hamaralinux.org  Fri Oct 16 00:40:05 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Thu, 15 Oct 2015 20:10:05 +0100
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+Message-ID: <561FFA0D.3080708@hamaralinux.org>
+
+On 15/10/15 05:58, S Suresh wrote:
+> Dear All,
+>
+> KaanalNet is a opensource SDN Testbed project.
+>
+> http://kaanalnet.org/
+> https://github.com/sureshkvl/kaanalnet/wiki
+>
+> This project is released officially last month and getting
+> attractions from different SDN group members around the world.
+>
+> Now, I need to integrate and test with different SDN Controllers (such
+> as OpenDayLight, Ryu, POX) and document the steps in Wiki.
+>
+> The preliminary reference is below (this page requires updation, but
+> still can be referred).
+>
+> https://github.com/sureshkvl/kaanalnet/wiki/Sdnexample
+>
+> One university student(Northeastern University) approached me to do
+> his university shortterm project in kaanalNet with SDN Controller.
+> This is good start.
+>
+> So, I am circulating this mail, to get more participants from our
+> indian collage students  to contribute in  Development / QA/
+> Integration & Testing/ Documentation etc in this project.
+>
+> Interested people can mail me (sureshkumarr.s at gmail.com/sureshkvl at yahoo.com).
+>
+> Dear Members,
+> Can you share this message to other similar groups to reach more students.
+>
+> Thanks
+> suresh.
+> __
+Would you like us to package it for hamara linux?
+
+If so, please raise it on our mailing list or bugzilla
+https://www.hamaralinux.org/community
+
+From ajeeshbkannan at gmail.com  Fri Oct 16 03:10:44 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Fri, 16 Oct 2015 03:10:44 +0530
+Subject: [Ilugc] tool for read and writes for mysql database
+Message-ID: <CA+ark-oG52CQ1_nqXwVw8CkGGB2vL80srksgmzLwqzFsxtzGsA@mail.gmail.com>
+
+Hello,
+
+Is there any tool or way to  identify the read and writes happening to a
+mysql Database. I need to calculate the percentage of read and write.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From sureshkumarr.s at gmail.com  Fri Oct 16 09:34:04 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Fri, 16 Oct 2015 09:34:04 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <561FFA0D.3080708@hamaralinux.org>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+	<561FFA0D.3080708@hamaralinux.org>
+Message-ID: <CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+
+Hi Vikas,
+
+> Would you like us to package it for hamara linux?
+>
+> If so, please raise it on our mailing list or bugzilla
+> https://www.hamaralinux.org/community
+
+I dont have immediate plans to support on other distributions.. its
+tightly coupled with ubuntu
+
+Thanks
+suresh
+
+From vik at hamaralinux.org  Fri Oct 16 12:23:34 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 16 Oct 2015 07:53:34 +0100
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>	<561FFA0D.3080708@hamaralinux.org>
+	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+Message-ID: <56209EEE.9010409@hamaralinux.org>
+
+On 16/10/15 05:04, S Suresh wrote:
+> its
+> tightly coupled with ubuntu
+At the moment, so are we - do you have it packaged for ubuntu?
+
+From knura9 at gmail.com  Fri Oct 16 13:58:32 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Fri, 16 Oct 2015 13:58:32 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+	<561FFA0D.3080708@hamaralinux.org>
+	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+Message-ID: <CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+
+On Fri, Oct 16, 2015 at 9:34 AM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+> Hi Vikas,
+>
+>> Would you like us to package it for hamara linux?
+>>
+>> If so, please raise it on our mailing list or bugzilla
+>> https://www.hamaralinux.org/community
+>
+> I dont have immediate plans to support on other distributions.. its
+> tightly coupled with ubuntu
+>
+
+Hopefully your packages are compatible with it's dependent library
+versions in the latest 2 LTS versions (12.04/14.04).
+
+-- Arun Khan
+
+From sureshkumarr.s at gmail.com  Fri Oct 16 15:38:02 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Fri, 16 Oct 2015 15:38:02 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+	<561FFA0D.3080708@hamaralinux.org>
+	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+	<CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+Message-ID: <CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>
+
+Hi Arun,
+
+>>
+>> I dont have immediate plans to support on other distributions.. its
+>> tightly coupled with ubuntu
+>>
+>
+> Hopefully your packages are compatible with it's dependent library
+> versions in the latest 2 LTS versions (12.04/14.04).
+>
+
+Its a NodeJS package. It is expected to run on all linux flavors.
+But Ubuntu LXC template is used in this project for VMs creations and
+ubuntu system files are edited by code. this is the limitation.
+
+Thanks
+suresh
+
+From vik at hamaralinux.org  Fri Oct 16 15:51:18 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 16 Oct 2015 11:21:18 +0100
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>	<561FFA0D.3080708@hamaralinux.org>	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>	<CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+	<CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>
+Message-ID: <5620CF9E.8080906@hamaralinux.org>
+
+On 16/10/15 11:08, S Suresh wrote:
+> Hi Arun,
+>
+>>> I dont have immediate plans to support on other distributions.. its
+>>> tightly coupled with ubuntu
+>>>
+>> Hopefully your packages are compatible with it's dependent library
+>> versions in the latest 2 LTS versions (12.04/14.04).
+>>
+> Its a NodeJS package. It is expected to run on all linux flavors.
+> But Ubuntu LXC template is used in this project for VMs creations and
+> ubuntu system files are edited by code. this is the limitation.
+>
+This is why I was talking about (deb) packaging - being able to install 
+it from apt would help potential users.
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From sureshkumarr.s at gmail.com  Fri Oct 16 16:04:33 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Fri, 16 Oct 2015 16:04:33 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <5620CF9E.8080906@hamaralinux.org>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+	<561FFA0D.3080708@hamaralinux.org>
+	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+	<CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+	<CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>
+	<5620CF9E.8080906@hamaralinux.org>
+Message-ID: <CAJLBBzyNmhc1beNnokJ-ReAF3jO5dn-Grmjte_uENLHM_zgZyw@mail.gmail.com>
+
+Hi Vikas,
+
+
+>> Its a NodeJS package. It is expected to run on all linux flavors.
+>> But Ubuntu LXC template is used in this project for VMs creations and
+>> ubuntu system files are edited by code. this is the limitation.
+>>
+> This is why I was talking about (deb) packaging - being able to install
+> it from apt would help potential users.
+>
+
+I understand packaging gives easy way of installation, But i dont have
+time currently to do this.
+The below guide gives the required installation steps and i feel this
+is sufficient now.
+
+https://github.com/sureshkvl/kaanalnet/wiki/Installation
+
+From vik at hamaralinux.org  Fri Oct 16 16:10:47 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 16 Oct 2015 11:40:47 +0100
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <CAJLBBzyNmhc1beNnokJ-ReAF3jO5dn-Grmjte_uENLHM_zgZyw@mail.gmail.com>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>	<561FFA0D.3080708@hamaralinux.org>	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>	<CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>	<CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>	<5620CF9E.8080906@hamaralinux.org>
+	<CAJLBBzyNmhc1beNnokJ-ReAF3jO5dn-Grmjte_uENLHM_zgZyw@mail.gmail.com>
+Message-ID: <5620D42F.6090004@hamaralinux.org>
+
+On 16/10/15 11:34, S Suresh wrote:
+> Hi Vikas,
+>
+>
+>>> Its a NodeJS package. It is expected to run on all linux flavors.
+>>> But Ubuntu LXC template is used in this project for VMs creations and
+>>> ubuntu system files are edited by code. this is the limitation.
+>>>
+>> This is why I was talking about (deb) packaging - being able to install
+>> it from apt would help potential users.
+>>
+> I understand packaging gives easy way of installation, But i dont have
+> time currently to do this.
+> The below guide gives the required installation steps and i feel this
+> is sufficient now.
+>
+> https://github.com/sureshkvl/kaanalnet/wiki/Installation
+I guess I am not making myself very clear :)
+
+I am saying that we will package it, if you raise that request on our 
+bug tracker.
+
+If we package it, then there will be a package that can be pushed 
+upstream to debian and ubuntu (if someone want to do that).
+
+We have taken a similar approach to the diaspora installer - we're keen 
+to support Indian Open Source projects in this way.
+
+From sureshkumarr.s at gmail.com  Fri Oct 16 16:56:11 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Fri, 16 Oct 2015 16:56:11 +0530
+Subject: [Ilugc] KaanalNet Project Contribution
+In-Reply-To: <5620D42F.6090004@hamaralinux.org>
+References: <CAJLBBzyUbBMs7mOQDFEz9eC1A8M4hUqnPuUcpDGpL-oBLTc3uw@mail.gmail.com>
+	<561FFA0D.3080708@hamaralinux.org>
+	<CAJLBBzwpkkvBxHybiEaOiebD-OrBrHJewCNMmSJNieXfE9zR=A@mail.gmail.com>
+	<CAHhM8gCcX6GqJsQmbc7uTrmDT61saQqzKOfPtRpLeuRQddUOFw@mail.gmail.com>
+	<CAJLBBzwBkY2XpYSQswDDBVMVu2mH-z1wxpFRSZfP4mODY8BAtg@mail.gmail.com>
+	<5620CF9E.8080906@hamaralinux.org>
+	<CAJLBBzyNmhc1beNnokJ-ReAF3jO5dn-Grmjte_uENLHM_zgZyw@mail.gmail.com>
+	<5620D42F.6090004@hamaralinux.org>
+Message-ID: <CAJLBBzwb_kL1dne+dTJ9=NQ7ye_rqi2jmi59z+iA3aQ0zeD9HQ@mail.gmail.com>
+
+Hi Vikas,
+
+> I guess I am not making myself very clear :)
+>
+> I am saying that we will package it, if you raise that request on our
+> bug tracker.
+>
+> If we package it, then there will be a package that can be pushed
+> upstream to debian and ubuntu (if someone want to do that).
+>
+> We have taken a similar approach to the diaspora installer - we're keen
+> to support Indian Open Source projects in this way.
+
+Its great, that you provide debian package as well which can be pushed
+to debian repo.
+Thanks for your support.  I will contact you in a month time for
+packaging .  Thanks for your support.
+
+regards
+suresh
+
+From kinitrupti at yahoo.co.in  Sun Oct 18 12:00:07 2015
+From: kinitrupti at yahoo.co.in (trupti kini)
+Date: Sun, 18 Oct 2015 06:30:07 +0000 (UTC)
+Subject: [Ilugc] tool for read and writes for mysql database
+In-Reply-To: <CA+ark-oG52CQ1_nqXwVw8CkGGB2vL80srksgmzLwqzFsxtzGsA@mail.gmail.com>
+References: <CA+ark-oG52CQ1_nqXwVw8CkGGB2vL80srksgmzLwqzFsxtzGsA@mail.gmail.com>
+Message-ID: <1546225370.1716682.1445149807500.JavaMail.yahoo@mail.yahoo.com>
+
+ 
+
+
+     On Friday, 16 October 2015 3:11 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+   
+ 
+
+ Hello,
+
+Is there any tool or way to? identify the read and writes happening to a
+mysql Database. I need to calculate the percentage of read and write.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+Hi,
+Have you checked in google for mysql monitoring tools? 
+  
+
+From ajeeshbkannan at gmail.com  Mon Oct 19 18:28:02 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Mon, 19 Oct 2015 18:28:02 +0530
+Subject: [Ilugc] tool for read and writes for mysql database
+In-Reply-To: <1546225370.1716682.1445149807500.JavaMail.yahoo@mail.yahoo.com>
+References: <CA+ark-oG52CQ1_nqXwVw8CkGGB2vL80srksgmzLwqzFsxtzGsA@mail.gmail.com>
+	<1546225370.1716682.1445149807500.JavaMail.yahoo@mail.yahoo.com>
+Message-ID: <CA+ark-pXobM5DvFnjMeq+ucDxPu=b2CSoUWQ=CNz1pY+EGwuFg@mail.gmail.com>
+
+On Sun, Oct 18, 2015 at 12:00 PM, trupti kini <kinitrupti at yahoo.co.in>
+wrote:
+
+>
+>
+>
+>      On Friday, 16 October 2015 3:11 AM, Ajeesh Kannan <
+> ajeeshbkannan at gmail.com> wrote:
+>
+>
+>
+>  Hello,
+>
+> Is there any tool or way to  identify the read and writes happening to a
+> mysql Database. I need to calculate the percentage of read and write.
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+> Hi,
+> Have you checked in google for mysql monitoring tools?
+>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+
+Yes,
+
+But could not find an actual tool to monitor the read and write calculator
+for a database.
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From tshrinivasan at gmail.com  Tue Oct 20 03:25:14 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 19 Oct 2015 14:55:14 -0700
+Subject: [Ilugc] Free Ebook - Software Defined Networking with OpenFlow
+Message-ID: <CAND2794d=Bar1wWf5Zd1QQBjj8kBKKFJMkwDz4_7pzJJ-taCcA@mail.gmail.com>
+
+OpenFlow is at the heart of Software Defined Networking, an approach that
+makes managing network services much easier. Today's free eBook shows you
+how, giving you an insight into OpenFlow and practical guidance on how to
+start using it.
+
+Get your copy at https://www.packtpub.com/packt/offers/free-learning/
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From scorpionking.sahil at gmail.com  Tue Oct 20 10:55:17 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 20 Oct 2015 10:55:17 +0530
+Subject: [Ilugc] Not able to Hibernate in Ubuntu (MATE desktop)
+Message-ID: <CAP6xenmQRkUH3T9WJxZ=VMdkf2mfjK4XOmXhs770t+p-We0foQ@mail.gmail.com>
+
+Namaste Everyone,
+
+I recently installed Ubuntu 14.04 on my laptop (fresh install) and then
+changed the desktop to Mate but I am unable to hibernate my machine. RAM is
+4GB and SWAP is 3GB. I tried <sudo pm-hibernate> and also enabled
+hibernation on ubuntu
+(*https://help.ubuntu.com/stable/ubuntu-help/power-hibernate.html
+<https://help.ubuntu.com/stable/ubuntu-help/power-hibernate.html>*)
+
+When I execute <sudo pm-hibernate> command my system remains in active
+state but the network connection disconnects.
+
+Can someone suggests me how to solve this problem or redriect me to any
+link?
+
+Thank you in advance.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From scorpionking.sahil at gmail.com  Tue Oct 20 11:11:06 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 20 Oct 2015 11:11:06 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on tablets/phones
+Message-ID: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+
+Namaste Everyone,
+
+I am struggling to block pop-ups while searching on my Tablet on
+Chrome/Firefox browsers. Sometimes it is so disturbing and annoying while I
+search something along with kids and all of sudden some obscene sites
+comes. Do you guys have any way to stop such pop-ups while searching on
+tablets as no pop-up blocker works on browsers on tablets/smart-phones?
+
+Please suggest.
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From guruprasad at guruprasad.org  Tue Oct 20 11:14:58 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Tue, 20 Oct 2015 11:14:58 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+Message-ID: <5625D4DA.9070406@guruprasad.org>
+
+Hi Sahil,
+
+On 10/20/15 11:11 AM, sahil ????? wrote:
+> Namaste Everyone,
+> 
+> I am struggling to block pop-ups while searching on my Tablet on
+> Chrome/Firefox browsers. Sometimes it is so disturbing and annoying while I
+> search something along with kids and all of sudden some obscene sites
+> comes. Do you guys have any way to stop such pop-ups while searching on
+> tablets as no pop-up blocker works on browsers on tablets/smart-phones?
+
+I use uBlock Origin extension (available for Firefox on desktop and
+mobile, Chromium on desktop and is FOSS) which not only serves as a
+lightweight ad-blocker, but it also helps get rid of tracking and popups.
+
+HTH :)
+
+Thanks & Regards,
+Guruprasad
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151020/08f5b6d8/attachment.bin 
+
+From tshrinivasan at gmail.com  Tue Oct 20 15:08:34 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 20 Oct 2015 02:38:34 -0700
+Subject: [Ilugc] linux mint donload folder content missing
+In-Reply-To: <CAMBPTQjc8z0gBHc5tdLkQ8hJ74FtiYbmOMrj-Pmhf6DW96L7NA@mail.gmail.com>
+References: <CAMBPTQjc8z0gBHc5tdLkQ8hJ74FtiYbmOMrj-Pmhf6DW96L7NA@mail.gmail.com>
+Message-ID: <CAND2795vhdFdOMfD1ffFRk+q2dFJ+p9PmgEdpQvEcTLPeP6saQ@mail.gmail.com>
+
+Hi,
+
+Download folder can not be empty, unless someone deleted it.
+
+Check in Trash for any deleted files.
+
+Make sure that no one deletes the folders.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From shirish at hamaralinux.org  Tue Oct 20 20:29:41 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Tue, 20 Oct 2015 20:29:41 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <5625D4DA.9070406@guruprasad.org>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<5625D4DA.9070406@guruprasad.org>
+Message-ID: <562656DD.8070005@hamaralinux.org>
+
+at bottom :-
+
+On Tuesday 20 October 2015 11:14 AM, L. Guruprasad wrote:
+> Hi Sahil,
+>
+> On 10/20/15 11:11 AM, sahil ????? wrote:
+>> Namaste Everyone,
+>>
+>> I am struggling to block pop-ups while searching on my Tablet on
+>> Chrome/Firefox browsers. Sometimes it is so disturbing and annoying while I
+>> search something along with kids and all of sudden some obscene sites
+>> comes. Do you guys have any way to stop such pop-ups while searching on
+>> tablets as no pop-up blocker works on browsers on tablets/smart-phones?
+>
+> I use uBlock Origin extension (available for Firefox on desktop and
+> mobile, Chromium on desktop and is FOSS) which not only serves as a
+> lightweight ad-blocker, but it also helps get rid of tracking and popups.
+>
+> HTH :)
+>
+> Thanks & Regards,
+> Guruprasad
+>
+>
+>
+
+I use request-policy continued (Another FF extension) which also does 
+same/similar work. Doesn't allow third-parties to track you. Will have 
+to check out UBlock Origin, hearing about it first time, thanx guru :)
+
+
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From scorpionking.sahil at gmail.com  Tue Oct 20 20:56:37 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 20 Oct 2015 20:56:37 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <562656DD.8070005@hamaralinux.org>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<5625D4DA.9070406@guruprasad.org> <562656DD.8070005@hamaralinux.org>
+Message-ID: <CAP6xen=tSOjDNkwHZ1SbzZad1curr4dCjftxe7eH+tOzt-76EQ@mail.gmail.com>
+
+On Tue, Oct 20, 2015 at 8:29 PM, shirish <shirish at hamaralinux.org> wrote:
+
+> at bottom :-
+>
+> On Tuesday 20 October 2015 11:14 AM, L. Guruprasad wrote:
+> > Hi Sahil,
+>
+>
+> I use request-policy continued (Another FF extension) which also does
+> same/similar work. Doesn't allow third-parties to track you. Will have
+> to check out UBlock Origin, hearing about it first time, thanx guru :)
+>
+
+Thank you guys for your suggestions.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From guruprasad at guruprasad.org  Tue Oct 20 21:33:13 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Tue, 20 Oct 2015 21:33:13 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <562656DD.8070005@hamaralinux.org>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<5625D4DA.9070406@guruprasad.org> <562656DD.8070005@hamaralinux.org>
+Message-ID: <562665C1.4030604@guruprasad.org>
+
+Hi Shirish,
+
+On 10/20/15 8:29 PM, shirish wrote:
+> I use request-policy continued (Another FF extension) which also does 
+> same/similar work. Doesn't allow third-parties to track you. Will have 
+> to check out UBlock Origin, hearing about it first time, thanx guru :)
+
+uBlock Origin (not to be confused with uBlock whose original author
+forked it into uBlock Origin) can do what Request Policy Continued does
+as well if you enable the advanced mode after reading about the advanced
+features -
+https://github.com/gorhill/uBlock/wiki/Advanced-user-features. But I
+like doing the same with Request Policy Continued and leave just the
+adblocking and tracking protection to uBlock Origin. I also use NoScript
+(albeit in a passive mode) to protect against common JavaScript based
+vulnerabilities.
+
+I also access my email (both self-hosted and Gmail) mainly via
+Thunderbird and in case I want to use the webmail, I use it in a
+separate browser used exclusively for that purpose. I also use Firefox
+in permanent private mode and block all third party cookies. And that's
+my tinfoil hat for keeping my privacy.
+
+Thanks & Regards,
+Guruprasad
+
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151020/e87d6f69/attachment.bin 
+
+From scorpionking.sahil at gmail.com  Tue Oct 20 21:44:32 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 20 Oct 2015 21:44:32 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <562665C1.4030604@guruprasad.org>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<5625D4DA.9070406@guruprasad.org> <562656DD.8070005@hamaralinux.org>
+	<562665C1.4030604@guruprasad.org>
+Message-ID: <CAP6xennS_w6cRgejz=fo9yuG5rwiozFF+stcabqG4GL8g1gDuA@mail.gmail.com>
+
+On Tue, Oct 20, 2015 at 9:33 PM, L. Guruprasad <guruprasad at guruprasad.org>
+wrote:
+
+>
+> uBlock Origin (not to be confused with uBlock whose original author
+> forked it into uBlock Origin) can do what Request Policy Continued does
+> as well if you enable the advanced mode after reading about the advanced
+> features -
+> https://github.com/gorhill/uBlock/wiki/Advanced-user-features. But I
+> like doing the same with Request Policy Continued and leave just the
+> adblocking and tracking protection to uBlock Origin. I also use NoScript
+> (albeit in a passive mode) to protect against common JavaScript based
+> vulnerabilities.
+>
+
+Thanks for the info.
+
+
+> I also access my email (both self-hosted and Gmail) mainly via
+> Thunderbird and in case I want to use the webmail, I use it in a
+> separate browser used exclusively for that purpose. I also use Firefox
+> in permanent private mode and block all third party cookies. And that's
+> my tinfoil hat for keeping my privacy.
+>
+
+There is no such thing called 'Privacy' (dialogue from movie: Wolf of Wall
+Street, AFAIK). Privacy is a myth. But, a simple 'whois' gives juicy info
+about your registered domain (assuming that the provided info is true).
+Then could you please educate me that where is the 'Privacy'?
+
+I am asking out of curiosity. No other intention.
+
+P.S. :- I also take precautions day-in and day-out to stay away from
+tracking.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From guruprasad at guruprasad.org  Tue Oct 20 22:35:28 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Tue, 20 Oct 2015 22:35:28 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <CAP6xennS_w6cRgejz=fo9yuG5rwiozFF+stcabqG4GL8g1gDuA@mail.gmail.com>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+	<5625D4DA.9070406@guruprasad.org> <562656DD.8070005@hamaralinux.org>
+	<562665C1.4030604@guruprasad.org>
+	<CAP6xennS_w6cRgejz=fo9yuG5rwiozFF+stcabqG4GL8g1gDuA@mail.gmail.com>
+Message-ID: <56267458.5080800@guruprasad.org>
+
+Hi Sahil,
+
+On 10/20/15 9:44 PM, sahil ????? wrote:
+>> I also access my email (both self-hosted and Gmail) mainly via
+>> Thunderbird and in case I want to use the webmail, I use it in a
+>> separate browser used exclusively for that purpose. I also use Firefox
+>> in permanent private mode and block all third party cookies. And that's
+>> my tinfoil hat for keeping my privacy.
+>>
+> 
+> There is no such thing called 'Privacy' (dialogue from movie: Wolf of Wall
+> Street, AFAIK). Privacy is a myth. But, a simple 'whois' gives juicy info
+> about your registered domain (assuming that the provided info is true).
+> Then could you please educate me that where is the 'Privacy'?
+
+I guess you didn't get my 'tinfoil hat' reference :) While there is no
+such thing as completely fool-proof and absolute privacy, it is very
+much essential to do our best to keep our privacy (or the remnants of
+whatever is left). Hence I do what I do. Ymmv. :)
+
+Thanks & Regards,
+Guruprasad
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151020/976c1719/attachment.bin 
+
+From ajeeshbkannan at gmail.com  Tue Oct 20 23:26:46 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 20 Oct 2015 23:26:46 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+Message-ID: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+
+Hi,
+
+Is there any good document to refer mysql server upgrade from 5.1.73 to
+mysql 5.5.46.
+
+-- 
+With Regards,
+Ajeesh B.Kannan.
+
+From knura9 at gmail.com  Wed Oct 21 12:43:00 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 21 Oct 2015 12:43:00 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+In-Reply-To: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+References: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+Message-ID: <CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+
+On Tue, Oct 20, 2015 at 11:26 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> Hi,
+>
+> Is there any good document to refer mysql server upgrade from 5.1.73 to
+> mysql 5.5.46.
+>
+
+Don't know about docs but take *backup* of your data before attempting
+the upgrade!
+
+Off the cuff - why stop at 5.5.46?  GA 5.6.x is also available from
+Percona's site and 5.7, with performance improvement (claimed by
+Oracle), is set to be released in a month or so.
+
+IIRC, MySQL site has release notes and/or docs for upgrades.  I would
+suggest you do the migration in smaller steps  i.e. 5.1 to 5.2 and so
+forth.
+
+-- Arun Khan
+
+From vijaykumar at bravegnu.org  Wed Oct 21 12:52:32 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Wed, 21 Oct 2015 07:22:32 +0000 (UTC)
+Subject: [Ilugc] Chennaipy October Meetup
+Message-ID: <loom.20151021T091921-970@post.gmane.org>
+
+# October Meetup
+
+## Date & Time
+
+    * 24th October (Saturday)
+    * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+   * Postgresql Explain (20 min)
+     by Abishek
+
+   * Introduction to pgcli and mycli (20 min)
+     by Amjith Ramanujan
+
+   * Networking Tea sponsored by Zilogic Systems (30 min)
+
+   * Image Processing Using OpenCV (20 min)
+     by Haripriya Baskar
+
+   * Pretty Printing in Python (20 min)
+     by Shakthi Kannan
+
+   * Lightning Talks (20 min)
+
+   * Discussion (20 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/225633816/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/225633816/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+    * Invent Your Own Computer Games with Python, Chapters 1 - 9
+      http://inventwithpython.com/chapters/
+
+    * Google's Python Course (with Lecture Videos)
+      https://developers.google.com/edu/python/
+
+    * How to Think Like a Computer Scientist, Chapters 1 - 12
+      http://www.greenteapress.com/thinkpython/
+
+
+
+From tshrinivasan at gmail.com  Wed Oct 21 21:07:03 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 21 Oct 2015 21:07:03 +0530
+Subject: [Ilugc] Fwd: Ubuntu Online Summit (3-5 Nov): Get your sessions in
+In-Reply-To: <56279AB8.6040204@ubuntu.com>
+References: <56266B51.9030508@ubuntu.com> <56279AB8.6040204@ubuntu.com>
+Message-ID: <CAND27977_MR7ZVFrhybyjs8sWoVWDCDFzoGOkC=BqRVvC5__4A@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Daniel Holbach <daniel.holbach at ubuntu.com>
+Date: 2015-10-21 19:31 GMT+05:30
+Subject: Fwd: Ubuntu Online Summit (3-5 Nov): Get your sessions in
+To: Submit and discuss any Ubuntu related news stories
+<ubuntu-news-team at lists.ubuntu.com>
+
+
+
+
+---------- ???? ?????????????? ????? ----------
+From: Daniel Holbach <daniel.holbach at ubuntu.com>
+To: ubuntu-devel-announce at lists.ubuntu.com
+Cc:
+Date: Tue, 20 Oct 2015 18:26:57 +0200
+Subject: Ubuntu Online Summit (3-5 Nov): Get your sessions in
+Hello everybody,
+
+from 3-5 Nov we are going to have our next Ubuntu Online Summit where we
+plan the X release. As at the last times, everything will happen on
+Google Hangouts and the schedule is going to be up at summit.ubuntu.com.
+
+Now is the best time to get your sessions in, it just takes a couple of
+minutes:
+
+ http://summit.ubuntu.com/getinvolved/propose-a-session/
+
+Please bring it up in your teams and make sure we have all your
+important sessions, no matter if they are discussion or planning
+sessions or if you want to make them more like demos or workshops.
+
+Thanks a lot in advance and see you in two weeks!
+ Daniel
+
+--
+ubuntu-devel-announce mailing list
+ubuntu-devel-announce at lists.ubuntu.com
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-devel-announce
+
+
+--
+Ubuntu-news-team mailing list
+Ubuntu-news-team at lists.ubuntu.com
+Modify settings or unsubscribe at:
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-news-team
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+-------------- next part --------------
+An embedded message was scrubbed...
+From: unknown sender
+Subject: no subject
+Date: no date
+Size: 5124
+Url: http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151021/66150a53/attachment.eml 
+
+From scorpionking.sahil at gmail.com  Thu Oct 22 15:25:47 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Thu, 22 Oct 2015 15:25:47 +0530
+Subject: [Ilugc] Not able to Hibernate in Ubuntu (MATE desktop)
+In-Reply-To: <CAP6xenmQRkUH3T9WJxZ=VMdkf2mfjK4XOmXhs770t+p-We0foQ@mail.gmail.com>
+References: <CAP6xenmQRkUH3T9WJxZ=VMdkf2mfjK4XOmXhs770t+p-We0foQ@mail.gmail.com>
+Message-ID: <CAP6xenkkq_W1gN=4Oy43gcCqGn5QyX6_bqfLmHYsNcNybqSrKw@mail.gmail.com>
+
+On Tue, Oct 20, 2015 at 10:55 AM, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> Namaste Everyone,
+>
+> I recently installed Ubuntu 14.04 on my laptop (fresh install) and then
+> changed the desktop to Mate but I am unable to hibernate my machine. RAM is
+> 4GB and SWAP is 3GB. I tried <sudo pm-hibernate> and also enabled
+> hibernation on ubuntu (*https://help.ubuntu.com/stable/ubuntu-help/power-hibernate.html
+> <https://help.ubuntu.com/stable/ubuntu-help/power-hibernate.html>*)
+>
+> When I execute <sudo pm-hibernate> command my system remains in active
+> state but the network connection disconnects.
+>
+
+Friends, I am able to hibernate my system by some tweaking (increasing swap
+space).
+I did some research and had a rough idea about why it didn't hibernate and
+then increased the swap space by following this link (
+http://www.thegeekstuff.com/2010/08/how-to-add-swap-space/) and now
+hibernation is possible.
+
+Thanks.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From prkart at gmail.com  Thu Oct 22 16:40:45 2015
+From: prkart at gmail.com (P.R.Karthik)
+Date: Thu, 22 Oct 2015 16:40:45 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+In-Reply-To: <CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+References: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+	<CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+Message-ID: <CAD7fY7Rt_CjUpZcH0gPyJP409ZgP86C9r=Z5seUxXMJNw_hxOg@mail.gmail.com>
+
+Hi,
+
+1) Shutdown the MySQL and have a backup of data directory.
+2) Replace the MySQL binary files.
+3) start the MySQL server with the old data directory.
+4) Run the mysql_upgrade to fix the internal tables.
+
+Go with mysql 5.1 to MySQL 5.5. Then move on to MySQL 5.6. MySQL 5.7 will
+be GA by next week.
+
+Consider using Percona Server if there is a heavy need and client accepts.
+You can also try MariaDB 5.5 if you need more benefit from the Optimizer.
+
+Regards,
+KarthiK.P.R
+
+On Wed, Oct 21, 2015 at 12:43 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Tue, Oct 20, 2015 at 11:26 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+> > Hi,
+> >
+> > Is there any good document to refer mysql server upgrade from 5.1.73 to
+> > mysql 5.5.46.
+> >
+>
+> Don't know about docs but take *backup* of your data before attempting
+> the upgrade!
+>
+> Off the cuff - why stop at 5.5.46?  GA 5.6.x is also available from
+> Percona's site and 5.7, with performance improvement (claimed by
+> Oracle), is set to be released in a month or so.
+>
+> IIRC, MySQL site has release notes and/or docs for upgrades.  I would
+> suggest you do the migration in smaller steps  i.e. 5.1 to 5.2 and so
+> forth.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From ajeeshbkannan at gmail.com  Thu Oct 22 18:50:09 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Thu, 22 Oct 2015 18:50:09 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+In-Reply-To: <CAD7fY7Rt_CjUpZcH0gPyJP409ZgP86C9r=Z5seUxXMJNw_hxOg@mail.gmail.com>
+References: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+	<CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+	<CAD7fY7Rt_CjUpZcH0gPyJP409ZgP86C9r=Z5seUxXMJNw_hxOg@mail.gmail.com>
+Message-ID: <CA+ark-oGLRmcwQA3RGPE-j5iEu9G1CZN+7eFazh+SY2_6kQLDw@mail.gmail.com>
+
+On Thu, Oct 22, 2015 at 4:40 PM, P.R.Karthik <prkart at gmail.com> wrote:
+
+> Hi,
+>
+> 1) Shutdown the MySQL and have a backup of data directory.
+> 2) Replace the MySQL binary files.
+> 3) start the MySQL server with the old data directory.
+> 4) Run the mysql_upgrade to fix the internal tables.
+>
+> Go with mysql 5.1 to MySQL 5.5. Then move on to MySQL 5.6. MySQL 5.7 will
+> be GA by next week.
+>
+> Consider using Percona Server if there is a heavy need and client accepts.
+> You can also try MariaDB 5.5 if you need more benefit from the Optimizer.
+>
+> Regards,
+> KarthiK.P.R
+>
+> On Wed, Oct 21, 2015 at 12:43 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Tue, Oct 20, 2015 at 11:26 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com
+> >
+> > wrote:
+> > > Hi,
+> > >
+> > > Is there any good document to refer mysql server upgrade from 5.1.73 to
+> > > mysql 5.5.46.
+> > >
+> >
+> > Don't know about docs but take *backup* of your data before attempting
+> > the upgrade!
+> >
+> > Off the cuff - why stop at 5.5.46?  GA 5.6.x is also available from
+> > Percona's site and 5.7, with performance improvement (claimed by
+> > Oracle), is set to be released in a month or so.
+> >
+> > IIRC, MySQL site has release notes and/or docs for upgrades.  I would
+> > suggest you do the migration in smaller steps  i.e. 5.1 to 5.2 and so
+> > forth.
+> >
+> > -- Arun Khan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+Thank you Karthik,
+
+My serve is using the following bin files.
+
+]# rpm -qa | grep mysql
+mysql-5.1.73-3.el6_5.x86_64
+mysql-libs-5.1.73-3.el6_5.x86_64
+mysql-server-5.1.73-3.el6_5.x86_64
+mysql-devel-5.1.73-3.el6_5.x86_64
+
+So I need to replace all these bin files with matching 5.5 binary file ?
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From ajeeshbkannan at gmail.com  Thu Oct 22 19:03:49 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Thu, 22 Oct 2015 19:03:49 +0530
+Subject: [Ilugc] mysql upgrade 5.1.73 to 5.5.46
+In-Reply-To: <CA+ark-oGLRmcwQA3RGPE-j5iEu9G1CZN+7eFazh+SY2_6kQLDw@mail.gmail.com>
+References: <CA+ark-pAvaiA=sOC5warOYd4s2uB_dk4dON1GfNL+s3jGG6n-g@mail.gmail.com>
+	<CAHhM8gDWCAn2C85diHi6umDo3toprCsFFezvaRqVL86Uvkdq3A@mail.gmail.com>
+	<CAD7fY7Rt_CjUpZcH0gPyJP409ZgP86C9r=Z5seUxXMJNw_hxOg@mail.gmail.com>
+	<CA+ark-oGLRmcwQA3RGPE-j5iEu9G1CZN+7eFazh+SY2_6kQLDw@mail.gmail.com>
+Message-ID: <CA+ark-r52sMxAOJAKmVNaN2hLoF8kDs6tnihWzBcv-Gszq4VYg@mail.gmail.com>
+
+On Thu, Oct 22, 2015 at 6:50 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+>
+>
+> On Thu, Oct 22, 2015 at 4:40 PM, P.R.Karthik <prkart at gmail.com> wrote:
+>
+>> Hi,
+>>
+>> 1) Shutdown the MySQL and have a backup of data directory.
+>> 2) Replace the MySQL binary files.
+>> 3) start the MySQL server with the old data directory.
+>> 4) Run the mysql_upgrade to fix the internal tables.
+>>
+>> Go with mysql 5.1 to MySQL 5.5. Then move on to MySQL 5.6. MySQL 5.7 will
+>> be GA by next week.
+>>
+>> Consider using Percona Server if there is a heavy need and client accepts.
+>> You can also try MariaDB 5.5 if you need more benefit from the Optimizer.
+>>
+>> Regards,
+>> KarthiK.P.R
+>>
+>> On Wed, Oct 21, 2015 at 12:43 PM, Arun Khan <knura9 at gmail.com> wrote:
+>>
+>> > On Tue, Oct 20, 2015 at 11:26 PM, Ajeesh Kannan <
+>> ajeeshbkannan at gmail.com>
+>> > wrote:
+>> > > Hi,
+>> > >
+>> > > Is there any good document to refer mysql server upgrade from 5.1.73
+>> to
+>> > > mysql 5.5.46.
+>> > >
+>> >
+>> > Don't know about docs but take *backup* of your data before attempting
+>> > the upgrade!
+>> >
+>> > Off the cuff - why stop at 5.5.46?  GA 5.6.x is also available from
+>> > Percona's site and 5.7, with performance improvement (claimed by
+>> > Oracle), is set to be released in a month or so.
+>> >
+>> > IIRC, MySQL site has release notes and/or docs for upgrades.  I would
+>> > suggest you do the migration in smaller steps  i.e. 5.1 to 5.2 and so
+>> > forth.
+>> >
+>> > -- Arun Khan
+>> > _______________________________________________
+>> > ILUGC Mailing List:
+>> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> > ILUGC Mailing List Guidelines:
+>> > http://ilugc.in/mailinglist-guidelines
+>> >
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+> Thank you Karthik,
+>
+> My serve is using the following bin files.
+>
+> ]# rpm -qa | grep mysql
+> mysql-5.1.73-3.el6_5.x86_64
+> mysql-libs-5.1.73-3.el6_5.x86_64
+> mysql-server-5.1.73-3.el6_5.x86_64
+> mysql-devel-5.1.73-3.el6_5.x86_64
+>
+> So I need to replace all these bin files with matching 5.5 binary file ?
+>
+>
+Or i would need to replace each and every files.
+
+~]$ rpm -ql mysql-5.1.73-3.el6_5.x86_64
+/usr/bin/msql2mysql
+/usr/bin/my_print_defaults
+/usr/bin/mysql
+/usr/bin/mysql_config
+/usr/bin/mysql_find_rows
+/usr/bin/mysql_waitpid
+/usr/bin/mysqlaccess
+/usr/bin/mysqladmin
+/usr/bin/mysqlbinlog
+/usr/bin/mysqlcheck
+/usr/bin/mysqldump
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From gsivaprabu at gmail.com  Mon Oct 26 18:34:53 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Mon, 26 Oct 2015 18:34:53 +0530
+Subject: [Ilugc] HADOOP training institute in Chennai
+Message-ID: <CALp7xkADjM4eMH2sQfAgymZyEB7OhneDNny1qhEyQk-436nY4g@mail.gmail.com>
+
+Hi Friends,
+
+Any good center for teaching advanced hadoop in chennai location?
+
+regards,
+@gsivaprabu
+<http://about.me/gsivaprabu>
+
+From shakthimaan at gmail.com  Mon Oct 26 20:19:28 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 26 Oct 2015 20:19:28 +0530
+Subject: [Ilugc] HADOOP training institute in Chennai
+In-Reply-To: <CALp7xkADjM4eMH2sQfAgymZyEB7OhneDNny1qhEyQk-436nY4g@mail.gmail.com>
+References: <CALp7xkADjM4eMH2sQfAgymZyEB7OhneDNny1qhEyQk-436nY4g@mail.gmail.com>
+Message-ID: <CABG-yt3EYFxbGOjgVyPSRGRgAYnmO7vhgO84qbAcyK2Emq7QcA@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Oct 26, 2015 at 6:34 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+| Any good center for teaching advanced hadoop in chennai location?
+\--
+
+You want to teach or learn?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Tue Oct 27 17:08:52 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 27 Oct 2015 17:08:52 +0530
+Subject: [Ilugc] Numpy cookbook - free ebook by packtpub
+Message-ID: <CAND2795-2xt+f8gQznT+0fpJTPHFj=GEyftVck8+9WM-9MWcpw@mail.gmail.com>
+
+Today's world of science and technology is all about speed and
+flexibility. When it comes to scientific computing, NumPy is on the
+top of the list ? giving you both speed and high productivity when you
+need it. Numpy Cookbook will teach you to write readable, efficient,
+and fast code that is as close to the language of Mathematics as much
+as possible with the cutting edge open source NumPy software library.
+With a host of recipes for every situation, be sure to grab this free
+eBook today before it?s gone!
+
+https://www.packtpub.com/packt/offers/free-learning
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+
+From scorpionking.sahil at gmail.com  Tue Oct 27 19:13:45 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 27 Oct 2015 19:13:45 +0530
+Subject: [Ilugc] 15 Free Books for People Who Code
+Message-ID: <CAP6xenngBif34hz+J1RR2e+WMds1q2pSNepgpurXp_qF3oUiew@mail.gmail.com>
+
+Namaste Everyone,
+
+Recently, I stumbled upon this link while looking for something related to
+coding and found it worth share. It may help you in one way or the other.
+
+Do have a look.
+
+http://sixrevisions.com/lists/free-books-code/
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From 77minds at gmail.com  Wed Oct 28 04:45:49 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Wed, 28 Oct 2015 04:45:49 +0530
+Subject: [Ilugc] 15 Free Books for People Who Code
+In-Reply-To: <CAP6xenngBif34hz+J1RR2e+WMds1q2pSNepgpurXp_qF3oUiew@mail.gmail.com>
+References: <CAP6xenngBif34hz+J1RR2e+WMds1q2pSNepgpurXp_qF3oUiew@mail.gmail.com>
+Message-ID: <CAJR+9kYEJQnQFd28f+KB6cS+ktHycZ_uQ9L3qm7KXKqisd5UGA@mail.gmail.com>
+
+Thanks, finding http://infolab.stanford.edu/~ullman/focs.html to be very
+educative. Wonder why that book went out of print. Any way thanks a lot.
+
+On Tue, Oct 27, 2015 at 7:13 PM, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> Namaste Everyone,
+>
+> Recently, I stumbled upon this link while looking for something related to
+> coding and found it worth share. It may help you in one way or the other.
+>
+> Do have a look.
+>
+> http://sixrevisions.com/lists/free-books-code/
+>
+> Thank you.
+>
+> --
+>
+> *Regards,Sahil ModGill*
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From baskar at linuxpert.in  Wed Oct 28 12:56:47 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 12:56:47 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+Message-ID: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+
+Dear all,
+
+I am looking for a simplified solution for renaming files through shell scripts.
+
+I need the file names in continuous numerical order, i.e. from
+M?L01.mp4 to M?L30.mp4
+
+So, the file
+
+M2L01.mp4 should be renamed to M2L11.mp4 and
+M3L01.mp4 should be renamed to M3L21.mp4
+
+M1L01.mp4
+M1L02.mp4
+M1L03.mp4
+M1L04.mp4
+M1L05.mp4
+M1L06.mp4
+M1L07.mp4
+M1L08.mp4
+M1L09.mp4
+M1L10.mp4
+* M2L01.mp4
+M2L02.mp4
+M2L03.mp4
+M2L04.mp4
+M2L05.mp4
+M2L06.mp4
+M2L07.mp4
+M2L08.mp4
+M2L09.mp4
+M2L10.mp4
+* M3L01.mp4
+M3L02.mp4
+M3L03.mp4
+M3L04.mp4
+M3L05.mp4
+M3L06.mp4
+M3L07.mp4
+M3L08.mp4
+M3L09.mp4
+M3L10.mp4
+
+Any help would be appreciated.
+
+-- 
+S. Baskar
+
+Blog: https://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From shakthimaan at gmail.com  Wed Oct 28 14:28:36 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 28 Oct 2015 14:28:36 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+Message-ID: <CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Oct 28, 2015 at 12:56 PM, Baskar Selvaraj
+<baskar at linuxpert.in> wrote:
+| M2L01.mp4 should be renamed to M2L11.mp4 and
+| M3L01.mp4 should be renamed to M3L21.mp4
+\--
+
+M1L10.mp4 can be renamed to M1L00.mp4? Here is a quickly hacked up Ruby script:
+
+=== test.rb ===
+
+#!/usr/bin/env ruby
+
+Dir.glob("*.mp4").each do |f|
+  new_f = f.dup
+  new_f[3] = (f[1].to_i - 1).to_s
+
+  File.rename(f, new_f)
+end
+
+=== END ===
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Wed Oct 28 14:55:51 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 14:55:51 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+Message-ID: <CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+
+> === test.rb ===
+>
+> #!/usr/bin/env ruby
+>
+> Dir.glob("*.mp4").each do |f|
+>   new_f = f.dup
+>   new_f[3] = (f[1].to_i - 1).to_s
+>
+>   File.rename(f, new_f)
+> end
+>
+> === END ===
+
+Hi,
+
+Thanks for the script
+
+The scripts works, but the results were different, if the value after L is < 10.
+
+input:
+
+M1L01.mp4
+M1L02.mp4
+M1L03.mp4
+M1L04.mp4
+M1L05.mp4
+M2L01.mp4
+M2L02.mp4
+M2L03.mp4
+M2L04.mp4
+M2L05.mp4
+M3L01.mp4
+M3L02.mp4
+M3L03.mp4
+M3L04.mp4
+M3L05.mp4
+
+Output:
+
+M1L01.mp4
+M1L02.mp4
+M1L03.mp4
+M1L04.mp4
+M1L05.mp4
+M2L11.mp4
+M2L12.mp4
+M2L13.mp4
+M2L14.mp4
+M2L15.mp4
+M3L21.mp4
+M3L22.mp4
+M3L23.mp4
+M3L24.mp4
+M3L25.mp4
+
+S. Baskar
+
+From shakthimaan at gmail.com  Wed Oct 28 15:03:31 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 28 Oct 2015 15:03:31 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+Message-ID: <CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Oct 28, 2015 at 2:55 PM, Baskar Selvaraj
+<baskar at linuxpert.in> wrote:
+| The scripts works, but the results were different, if the value
+after L is < 10.
+\--
+
+That is the question I had asked in my previous reply. What should be
+the expected behavior in such a case?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Wed Oct 28 17:38:28 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 17:38:28 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+Message-ID: <CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+
+On Wed, Oct 28, 2015 at 3:03 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Wed, Oct 28, 2015 at 2:55 PM, Baskar Selvaraj
+> <baskar at linuxpert.in> wrote:
+> | The scripts works, but the results were different, if the value
+> after L is < 10.
+> \--
+>
+> That is the question I had asked in my previous reply. What should be
+> the expected behavior in such a case?
+
+
+There could be 'n' number of modules (referred as M) and those modules may
+have 'n' no.of number of lectures (referred as L).
+
+Now the requirement is to remove the modules from the filenames and have
+only lectures in consecutive numerical order
+
+If the directory has files names like this,
+
+M1L1.mp4
+M1L2.mp4
+M1L3.mp4
+M2L1.mp4
+M2L2.mp4
+M2L3.mp4
+M2L4.mp4
+M3L1.mp4
+M3L2.mp4
+
+Then, the resulting file list should be as below (were M followed by 'n'
+value can be removed)
+
+L1.mp4
+L2.mp4
+L3.mp4
+L4.mp4 (here M2L1 should automatically get renamed to L4)
+L5.mp4
+L6.mp4
+L7.mp4
+L8.mp4 (here M3L1 again should automatically get renamed to L8)
+L9.mp4
+
+S. Baskar
+
+From logic.linux at gmail.com  Wed Oct 28 18:34:54 2015
+From: logic.linux at gmail.com (Srikanth Lakshmanan)
+Date: Wed, 28 Oct 2015 18:34:54 +0530
+Subject: [Ilugc] [[OFF-TOPIC]] Block pop-ups in browsers on
+	tablets/phones
+In-Reply-To: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+References: <CAP6xen==H-t9sb4m_Y6Bcs5Asgd-GyOjcEj_JiLxKWz7fe58kQ@mail.gmail.com>
+Message-ID: <CA+30aUMjo-jJzE=Sj_XN4TwMxXEh6OR37rtWdorx9u3E+HGj+w@mail.gmail.com>
+
+Hi,
+
+On 20 October 2015 at 11:11, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> I am struggling to block pop-ups while searching on my Tablet on
+> Chrome/Firefox browsers. Sometimes it is so disturbing and annoying while I
+> search something along with kids and all of sudden some obscene sites
+> comes. Do you guys have any way to stop such pop-ups while searching on
+> tablets as no pop-up blocker works on browsers on tablets/smart-phones?
+>
+
+Although I have not been successful in my attempts to block ads at router
+level, you can try flashing openwrt / gargoyle on your router which have
+router level blocking of ads (based on blocking lists). HTH
+
+
+-- 
+Regards
+Srikanth.L
+http://j.mp/SrikanthL
+
+From vinothtronics at gmail.com  Wed Oct 28 20:13:35 2015
+From: vinothtronics at gmail.com (Vinoth Marimuthu)
+Date: Wed, 28 Oct 2015 10:43:35 -0400
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+Message-ID: <CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+
+Hi Baskar,
+
+you can try this
+
+i=1
+cd *test*
+for name in `ls | sort`;
+do
+temp=`echo $name | cut -c 1-3`;
+if [ $i -lt 10 ]
+then
+newname=$temp;
+newname+="0$i.mp4";
+echo $name renamed to $newname;
+mv $name $newname
+else
+newname="$temp$i.mp4";
+echo $name renamed to $newname;
+mv $name $newname
+fi
+i=$((i+1));
+done
+cd ..
+
+change it to directory you want.
+
+I executed in bash and it worked i can see the new files like
+
+M1L01.mp4
+M1L02.mp4
+M1L03.mp4
+M1L04.mp4
+M1L05.mp4
+M1L06.mp4
+M1L07.mp4
+M1L08.mp4
+M1L09.mp4
+M1L10.mp4
+M2L11.mp4
+M2L12.mp4
+M2L13.mp4
+M2L14.mp4
+M2L15.mp4
+M2L16.mp4
+M2L17.mp4
+M2L18.mp4
+M2L19.mp4
+M2L20.mp4
+M3L21.mp4
+M3L22.mp4
+M3L23.mp4
+M3L24.mp4
+M3L25.mp4
+M3L26.mp4
+M3L27.mp4
+M3L28.mp4
+M3L29.mp4
+M3L30.mp4
+
+I kept the first 3 letter as it is if you want you can remove them in the
+newname calculation
+
+Regards,
+Vinoth marimuthu
+
+
+On Wed, Oct 28, 2015 at 8:08 AM, Baskar Selvaraj <baskar at linuxpert.in>
+wrote:
+
+> On Wed, Oct 28, 2015 at 3:03 PM, Shakthi Kannan <shakthimaan at gmail.com>
+> wrote:
+>
+> > Hi,
+> >
+> > --- On Wed, Oct 28, 2015 at 2:55 PM, Baskar Selvaraj
+> > <baskar at linuxpert.in> wrote:
+> > | The scripts works, but the results were different, if the value
+> > after L is < 10.
+> > \--
+> >
+> > That is the question I had asked in my previous reply. What should be
+> > the expected behavior in such a case?
+>
+>
+> There could be 'n' number of modules (referred as M) and those modules may
+> have 'n' no.of number of lectures (referred as L).
+>
+> Now the requirement is to remove the modules from the filenames and have
+> only lectures in consecutive numerical order
+>
+> If the directory has files names like this,
+>
+> M1L1.mp4
+> M1L2.mp4
+> M1L3.mp4
+> M2L1.mp4
+> M2L2.mp4
+> M2L3.mp4
+> M2L4.mp4
+> M3L1.mp4
+> M3L2.mp4
+>
+> Then, the resulting file list should be as below (were M followed by 'n'
+> value can be removed)
+>
+> L1.mp4
+> L2.mp4
+> L3.mp4
+> L4.mp4 (here M2L1 should automatically get renamed to L4)
+> L5.mp4
+> L6.mp4
+> L7.mp4
+> L8.mp4 (here M3L1 again should automatically get renamed to L8)
+> L9.mp4
+>
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Wed Oct 28 20:20:48 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 28 Oct 2015 20:20:48 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+Message-ID: <CABG-yt1jmHaygWi1_qgvFzENjRCYzmcRsC7swjNbmtXfAJZk_w@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Oct 28, 2015 at 5:38 PM, Baskar Selvaraj
+<baskar at linuxpert.in> wrote:
+| Now the requirement is to remove the modules from the filenames and have
+| only lectures in consecutive numerical order
+|
+| M1L1.mp4
+| M1L2.mp4
+| ...
+\--
+
+New requirements! This is not what you mentioned in your initial
+e-mail (where it was M1L01.mp4, M1L02.mp4 etc).
+
+---
+| Then, the resulting file list should be as below (were M followed by 'n'
+| value can be removed)
+|
+| L4.mp4 (here M2L1 should automatically get renamed to L4)
+\--
+
+Yet again, new requirements!
+
+I'd suggest you spend some time learning a scripting language, like
+Ruby, and hack the existing script to suit your needs.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Wed Oct 28 21:24:39 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 21:24:39 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+	<CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+Message-ID: <CACtiFJZvAb5JPCHhpTpT_4oMw6NOdKOa5b=fZrZtuF3pdrgv=Q@mail.gmail.com>
+
+On 10/28/15, Vinoth Marimuthu <vinothtronics at gmail.com> wrote:
+> Hi Baskar,
+>
+> you can try this
+>
+> i=1
+> cd *test*
+> for name in `ls | sort`;
+> do
+> temp=`echo $name | cut -c 1-3`;
+> if [ $i -lt 10 ]
+> then
+> newname=$temp;
+> newname+="0$i.mp4";
+> echo $name renamed to $newname;
+> mv $name $newname
+> else
+> newname="$temp$i.mp4";
+> echo $name renamed to $newname;
+> mv $name $newname
+> fi
+> i=$((i+1));
+> done
+> cd ..
+>
+> change it to directory you want.
+>
+
+Thanks, it worked.
+
+S. Baskar
+
+From baskar at linuxpert.in  Wed Oct 28 21:31:09 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 21:31:09 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CABG-yt1jmHaygWi1_qgvFzENjRCYzmcRsC7swjNbmtXfAJZk_w@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+	<CABG-yt1jmHaygWi1_qgvFzENjRCYzmcRsC7swjNbmtXfAJZk_w@mail.gmail.com>
+Message-ID: <CACtiFJZMk3bedkdY8eHS4u5nNp_FRi0xQhQkFTto+YjGCs+zqA@mail.gmail.com>
+
+> | Now the requirement is to remove the modules from the filenames and have
+> | only lectures in consecutive numerical order
+> |
+> | M1L1.mp4
+> | M1L2.mp4
+> | ...
+> \--
+>
+> New requirements! This is not what you mentioned in your initial
+> e-mail (where it was M1L01.mp4, M1L02.mp4 etc).
+>
+
+Sorry for my mistake.  What I mentioned in the initial e-mail was
+correct.  It was M1L01.mp4 and M1L02.mp4 only.
+
+S. Baskar.
+
+From shakthimaan at gmail.com  Wed Oct 28 21:42:51 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 28 Oct 2015 21:42:51 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJZvAb5JPCHhpTpT_4oMw6NOdKOa5b=fZrZtuF3pdrgv=Q@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+	<CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+	<CACtiFJZvAb5JPCHhpTpT_4oMw6NOdKOa5b=fZrZtuF3pdrgv=Q@mail.gmail.com>
+Message-ID: <CABG-yt3EnqPcSJrz250-Hi=dPKcned=rbQXkZ2qz2o7+Xi82qg@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Oct 28, 2015 at 9:24 PM, Baskar Selvaraj
+<baskar at linuxpert.in> wrote:
+| Thanks, it worked.
+\--
+
+Did you understand what the script did?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Wed Oct 28 21:49:15 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 28 Oct 2015 21:49:15 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CABG-yt3EnqPcSJrz250-Hi=dPKcned=rbQXkZ2qz2o7+Xi82qg@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+	<CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+	<CACtiFJZvAb5JPCHhpTpT_4oMw6NOdKOa5b=fZrZtuF3pdrgv=Q@mail.gmail.com>
+	<CABG-yt3EnqPcSJrz250-Hi=dPKcned=rbQXkZ2qz2o7+Xi82qg@mail.gmail.com>
+Message-ID: <CACtiFJYMEr4DgP1GKn32x2syx_OSDTE1i9Sk8Mi7HfV4H2Sb0g@mail.gmail.com>
+
+On 10/28/15, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> Hi,
+>
+> --- On Wed, Oct 28, 2015 at 9:24 PM, Baskar Selvaraj
+> <baskar at linuxpert.in> wrote:
+> | Thanks, it worked.
+> \--
+>
+> Did you understand what the script did?
+
+Bash script: Yes
+Ruby script: No (as I have learn ruby)
+
+S. Baskar
+
+From shakthimaan at gmail.com  Wed Oct 28 22:14:22 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 28 Oct 2015 22:14:22 +0530
+Subject: [Ilugc] [Help] Renaming files through bash shell scripts
+In-Reply-To: <CACtiFJYMEr4DgP1GKn32x2syx_OSDTE1i9Sk8Mi7HfV4H2Sb0g@mail.gmail.com>
+References: <CACtiFJad0XmGRcLYeHzNKtF6mOTVAVCq629DBTkXXqvsQ12Ghw@mail.gmail.com>
+	<CABG-yt2_mnQdbr2+Q0x5Af_exEsC_7zB9Bc4hb0Y-PfOjFYGDQ@mail.gmail.com>
+	<CACtiFJZc=4QFfBHq-LM2zvV4rNGF8Dn=TqMM+cRNUQBrvcLfMg@mail.gmail.com>
+	<CABG-yt2WC82o3CPHaiQnMyPDbLOgKWxxD7U6NqLBRGmbTdFDQQ@mail.gmail.com>
+	<CACtiFJb5_SCKLmd2ftcrEJtQAB0AUdipNfsPCdm_ox8emFk6eg@mail.gmail.com>
+	<CAHoi8=jcJLsoy2srN49sVBAzD=2D9vH8ce0gTK3a7sg76SfBUw@mail.gmail.com>
+	<CACtiFJZvAb5JPCHhpTpT_4oMw6NOdKOa5b=fZrZtuF3pdrgv=Q@mail.gmail.com>
+	<CABG-yt3EnqPcSJrz250-Hi=dPKcned=rbQXkZ2qz2o7+Xi82qg@mail.gmail.com>
+	<CACtiFJYMEr4DgP1GKn32x2syx_OSDTE1i9Sk8Mi7HfV4H2Sb0g@mail.gmail.com>
+Message-ID: <CABG-yt2ScKdJ3HOZUu0VVbXsiFosF=3YKYLq2T=r=XypkgdPtQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Oct 28, 2015 at 9:49 PM, Baskar Selvaraj
+<baskar at linuxpert.in> wrote:
+| Ruby script: No (as I have learn ruby)
+\--
+
+Please take some time to learn. For a start:
+
+  https://www.ruby-lang.org/en/documentation/quickstart/
+
+  http://tryruby.org/levels/1/challenges/0
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From kidbees at gmail.com  Fri Oct 30 01:47:36 2015
+From: kidbees at gmail.com (Bala Kumar)
+Date: Fri, 30 Oct 2015 01:47:36 +0530
+Subject: [Ilugc]  Monthly meet ILUGC - 10th October
+Message-ID: <CAKLQ04BO62hZ6SmBX8LgNka8rd19G6hnNJUR1Q6TWvhjHHeEEw@mail.gmail.com>
+
+Can some one share last meet Euler problem. I remember it as a Permutation
+problem but forgot to take notes then.
+
+From shakthimaan at gmail.com  Fri Oct 30 06:35:13 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 30 Oct 2015 06:35:13 +0530
+Subject: [Ilugc] Monthly meet ILUGC - 10th October
+In-Reply-To: <CAKLQ04BO62hZ6SmBX8LgNka8rd19G6hnNJUR1Q6TWvhjHHeEEw@mail.gmail.com>
+References: <CAKLQ04BO62hZ6SmBX8LgNka8rd19G6hnNJUR1Q6TWvhjHHeEEw@mail.gmail.com>
+Message-ID: <CABG-yt3rCtUT0=+TdoU9WafdBn3kAomxO_JdTVp2x+P=U2SpKA@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Oct 30, 2015 at 1:47 AM, Bala Kumar <kidbees at gmail.com> wrote:
+| Can some one share last meet Euler problem. I remember it as a Permutation
+| problem but forgot to take notes then.
+\--
+
+Find a permutation of 'n' number of people to determine the order in
+which they be seated in a movie theatre.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From suresh1876 at gmail.com  Fri Oct 30 19:00:19 2015
+From: suresh1876 at gmail.com (Suresh Kumar)
+Date: Fri, 30 Oct 2015 19:00:19 +0530
+Subject: [Ilugc] change attachment file name in mutt command
+Message-ID: <CAORyqAPHod9OuKYv1sC+b_4BjjJQPZS6L=OAVj7RmpYTvY-cSg@mail.gmail.com>
+
+Hi,
+ i am sending mail with an attachment  using the mutt command
+ since the file name is not relevant (say it generates names like..
+012342.out )
+ i want to change the name of the file before attaching it..
+
+for example
+mutt -s "Test Message" -a /backups/012345.out  -c toemailid at gmail.com
+
+want to rename the file "012345.out' before attaching it.
+
+only option i have is that, make a copy of the file in another location,
+then rename it as you like and then attach it from that location and then
+delete the file from that location.
+
+any other solution..?
+
+
+-- 
+~ J Suresh Kumar
+  95000 90432
+http://rakshana.in/blog/  http://vardana.rakshana.in
+
+From scorpionking.sahil at gmail.com  Fri Oct 30 22:59:05 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Fri, 30 Oct 2015 22:59:05 +0530
+Subject: [Ilugc] Tor Just Launched the Easiest App Yet for Anonymous,
+	Encrypted IM
+Message-ID: <CAP6xenkfKB0tSarZYrd7kSs2edruXn-Ft-aWcq+t0RF9yitKEw@mail.gmail.com>
+
+Namaste Everyone,
+
+In case if you've missed this news then do check this out:
+
+*Tor Just Launched the Easiest App Yet for Anonymous, Encrypted IM*
+
+http://www.wired.com/2015/10/tor-just-launched-the-easiest-app-yet-for-anonymous-encrypted-im/
+
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From tshrinivasan at gmail.com  Sat Oct 31 18:19:34 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sat, 31 Oct 2015 18:19:34 +0530
+Subject: [Ilugc] [job] Needs Linux Systems Engineer. - New Delhi
+Message-ID: <CAND27953Jy6zisexpqDggHJ-N5NWysZHcRL2DsNQFrP9gua4wQ@mail.gmail.com>
+
+NComputing, a leader in desktop virtualization is looking for Linux System
+Engineers.
+
+Skills:
+- Deep knowledge of Linux desktop architecture (UDev, D-Bus, Xorg, login
+and window managers)
+- 3+ years of practical experience in C and C++, multi-threaded and
+multi-process software
+- experience in Bash scripting
+- ability to analyze open-source code quickly and efficiently
+- agility in debugging and profiling code (GDB, strace, gprof)
+
+Skills that are a bonus:
+- ability to develop user space Xorg drivers
+- knowledge of Linux package systems: RPM / DEB
+- knowledge of Linux device drivers
+
+Location: New Delhi
+Education: BE/ B.Tech, ME/ M.Tech, BCA, MCA
+Experience: 3 to 5 Years
+Salary range: 5 to 12 LPA
+
+To apply, send your resume to hr at osidays.com
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get Free Tamil Ebooks for Android, iOS, Kindle, Computer :
+http://FreeTamilEbooks.com
+

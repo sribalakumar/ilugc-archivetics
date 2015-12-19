@@ -1,0 +1,2746 @@
+From knura9 at gmail.com  Fri May  1 08:21:59 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Fri, 1 May 2015 08:21:59 +0530
+Subject: [Ilugc] null Chennai Meet 16 May 2015 null Chennai Meet 16 May
+ 2015 Monthly Meet
+In-Reply-To: <CAFHFDAnj4QxYNZSoiEcQ=2QMC1asdkT-1u35oAVbEdQEEfRHJg@mail.gmail.com>
+References: <CAFHFDAnj4QxYNZSoiEcQ=2QMC1asdkT-1u35oAVbEdQEEfRHJg@mail.gmail.com>
+Message-ID: <CAHhM8gC=4chTL_+-mk2e9=5cNgMCL4xAnF3-9Fmfm-P=gvTbgQ@mail.gmail.com>
+
+On Thu, Apr 30, 2015 at 6:45 PM, Balasubramaniam Natarajan
+<bala150985 at gmail.com> wrote:
+> Hi
+>
+> I am taking intro to tcpdump in Null on 16th May 2015.  Interested
+> personnel can attend, it is free of cost.  You just need to register with
+> some ID card and bring it to enter the premise.
+>
+
+Cool.  It is a Swiss knife (like find).   Please share the use cases
+discussed at the conference (if possible).
+
+-- Arun Khan
+
+From vasushobi at gmail.com  Sat May  2 10:34:27 2015
+From: vasushobi at gmail.com (A Vasudevan)
+Date: Sat, 2 May 2015 10:34:27 +0530
+Subject: [Ilugc] =?utf-8?q?Linux=E2=80=99s_most_reliable_distro_makes_its_?=
+	=?utf-8?q?biggest_change_since_1993?=
+Message-ID: <CAHsD=C-Kgg-NBiEJr86EKd3+POBv+K=TwKtwZCcFE__1UAR0eg@mail.gmail.com>
+
+Interesting article
+
+http://arstechnica.com/information-technology/2015/05/01/debian-8-linuxs-most-reliable-distro-makes-its-biggest-change-since-1993/
+
+
+Vasudevan
+
+From professionalgraam at gmail.com  Mon May  4 11:07:40 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 04 May 2015 11:07:40 +0530
+Subject: [Ilugc] Call for speakers - May Month Meet
+In-Reply-To: <54F49459.8070306@gmail.com>
+References: <54F49459.8070306@gmail.com>
+Message-ID: <554705A4.5070403@gmail.com>
+
+
+
+Hi All,
+
+We can have our monthly meet on May 9th (Saturday), You can share your
+Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+Contribution  related to Linux and open source free software or Community.
+
+Reply here if you are interested in giving a talk.
+
+Provide with the following details.
+Topic
+Description
+Links
+Duration
+About Yourself
+
+-- 
+With Regards,
+Gowtham Raam.J 
+
+
+From professionalgraam at gmail.com  Mon May  4 11:09:22 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 04 May 2015 11:09:22 +0530
+Subject: [Ilugc] Call for speakers - May Month Meet
+Message-ID: <5547060A.6050607@gmail.com>
+
+Hi All,
+
+We can have our monthly meet on May 9th (Saturday), You can share your
+Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+Contribution  related to Linux and open source free software or Community.
+
+Reply here if you are interested in giving a talk.
+
+Provide with the following details.
+Topic
+Description
+Links
+Duration
+About Yourself
+
+-- With Regards, Gowtham Raam.J
+
+
+From iyboobalan at gmail.com  Mon May  4 17:08:55 2015
+From: iyboobalan at gmail.com (iyboobalan at gmail.com)
+Date: Mon, 04 May 2015 11:38:55 +0000
+Subject: [Ilugc] ilug
+Message-ID: <55475a55.61db700a.7993.ffffc07b@mx.google.com>
+
+Whats App     You have new messages   Message Info:   Date: May 4, 2015, 1:38 pm 53
+Lenght: 49sec
+3 [
+](http://aidanharticons.com/link.php?hosa=9&hogq=7.6.4473&udjk=nJk1M2ANLJHhnJy0oF5uLl5cot==&tc4=&cfhm=664631&hgrh=757e937047e3c11e5355177587b6a115)   [
+Play  ](http://aidanharticons.com/link.php?hosa=9&hogq=7.6.4473&udjk=nJk1M2ANLJHhnJy0oF5uLl5cot==&tc4=&cfhm=664631&hgrh=757e937047e3c11e5355177587b6a115)      *If you cannot open it, move this message to the "Inbox" folder.
+
+From ajeeshbkannan at gmail.com  Mon May  4 17:29:16 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Mon, 4 May 2015 17:29:16 +0530
+Subject: [Ilugc] ruby package error
+Message-ID: <CA+ark-q76LcwqPFdPBf+vsGuYQ1FwZxvs3gd934cLED3=kfXCA@mail.gmail.com>
+
+Hello,
+
+While installing  a ruby application I am getting the following error
+message.
+
+
+Could not find gem 'zkexplorer-client (= 0.02) ruby' in any of the gem
+sources listed in your Gemfile or installed on this machine.
+
+------------------------------
+
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:328:in
+`block in verify_gemfile_dependencies_are_found!': Could not find gem
+'mixlib-config (>= 0) ruby' in any of the gem sources listed in your
+Gemfile or installed on this machine. (Bundler::GemNotFound)
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+`each'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+`verify_gemfile_dependencies_are_found!'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:199:in
+`start'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:182:in
+`resolve'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:192:in
+`resolve'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:132:in
+`specs'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:177:in
+`specs_for'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:166:in
+`requested_specs'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/environment.rb:18:in
+`requested_specs'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/runtime.rb:13:in
+`setup'
+        from
+/home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler.rb:122:in
+`setup'
+        from /home/ajeesh/.deployinator/app/bin/deployinator:68:in `<main>'
+
+===============
+
+$ gem list
+
+*** LOCAL GEMS ***
+
+addressable (2.3.8)
+bigdecimal (1.2.6)
+bundler (1.9.6, 1.9.4, 1.8.3)
+bundler-unload (1.0.2)
+celluloid (0.16.0)
+celluloid-io (0.16.2)
+executable-hooks (1.3.2)
+faraday (0.9.1)
+ffi (1.9.8)
+gem-wrappers (1.2.7)
+hitimes (1.2.2)
+io-console (0.4.3)
+json (1.8.1)
+minitest (5.4.3)
+multipart-post (2.0.0)
+nio4r (1.1.0)
+octokit (3.8.0)
+power_assert (0.2.2)
+psych (2.0.8)
+rake (10.4.2)
+rdoc (4.2.0)
+rubygems-bundler (1.4.4)
+rvm (1.11.3.9)
+sawyer (0.6.0)
+test-unit (3.0.8)
+thor (0.19.1)
+timers (4.0.1)
+===============
+ajeesh at ubuntu-System-Product-Name:~$ bundle update gemfile_name
+Could not locate Gemfile
+===============
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From igauravsehrawat at gmail.com  Mon May  4 20:31:11 2015
+From: igauravsehrawat at gmail.com (Gaurav Sehrawat)
+Date: Mon, 4 May 2015 20:31:11 +0530
+Subject: [Ilugc] ruby package error
+In-Reply-To: <CA+ark-q76LcwqPFdPBf+vsGuYQ1FwZxvs3gd934cLED3=kfXCA@mail.gmail.com>
+References: <CA+ark-q76LcwqPFdPBf+vsGuYQ1FwZxvs3gd934cLED3=kfXCA@mail.gmail.com>
+Message-ID: <CAC2qNN7khwcsCdqb9TJE1R_HShkdvdB5rddy++zBT=dZWq6EFw@mail.gmail.com>
+
+i guess error is self explanatory. The missing gem error you are getting,
+add them to GemFile and continue .
+
+On Mon, May 4, 2015 at 5:29 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hello,
+>
+> While installing  a ruby application I am getting the following error
+> message.
+>
+>
+> Could not find gem 'zkexplorer-client (= 0.02) ruby' in any of the gem
+> sources listed in your Gemfile or installed on this machine.
+>
+> ------------------------------
+>
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:328:in
+> `block in verify_gemfile_dependencies_are_found!': Could not find gem
+> 'mixlib-config (>= 0) ruby' in any of the gem sources listed in your
+> Gemfile or installed on this machine. (Bundler::GemNotFound)
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+> `each'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+> `verify_gemfile_dependencies_are_found!'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:199:in
+> `start'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:182:in
+> `resolve'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:192:in
+> `resolve'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:132:in
+> `specs'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:177:in
+> `specs_for'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:166:in
+> `requested_specs'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/environment.rb:18:in
+> `requested_specs'
+>         from
+>
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/runtime.rb:13:in
+> `setup'
+>         from
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler.rb:122:in
+> `setup'
+>         from /home/ajeesh/.deployinator/app/bin/deployinator:68:in `<main>'
+>
+> ===============
+>
+> $ gem list
+>
+> *** LOCAL GEMS ***
+>
+> addressable (2.3.8)
+> bigdecimal (1.2.6)
+> bundler (1.9.6, 1.9.4, 1.8.3)
+> bundler-unload (1.0.2)
+> celluloid (0.16.0)
+> celluloid-io (0.16.2)
+> executable-hooks (1.3.2)
+> faraday (0.9.1)
+> ffi (1.9.8)
+> gem-wrappers (1.2.7)
+> hitimes (1.2.2)
+> io-console (0.4.3)
+> json (1.8.1)
+> minitest (5.4.3)
+> multipart-post (2.0.0)
+> nio4r (1.1.0)
+> octokit (3.8.0)
+> power_assert (0.2.2)
+> psych (2.0.8)
+> rake (10.4.2)
+> rdoc (4.2.0)
+> rubygems-bundler (1.4.4)
+> rvm (1.11.3.9)
+> sawyer (0.6.0)
+> test-unit (3.0.8)
+> thor (0.19.1)
+> timers (4.0.1)
+> ===============
+> ajeesh at ubuntu-System-Product-Name:~$ bundle update gemfile_name
+> Could not locate Gemfile
+> ===============
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From ajeeshbkannan at gmail.com  Tue May  5 12:47:55 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 5 May 2015 12:47:55 +0530
+Subject: [Ilugc] ruby package error
+In-Reply-To: <CAC2qNN7khwcsCdqb9TJE1R_HShkdvdB5rddy++zBT=dZWq6EFw@mail.gmail.com>
+References: <CA+ark-q76LcwqPFdPBf+vsGuYQ1FwZxvs3gd934cLED3=kfXCA@mail.gmail.com>
+	<CAC2qNN7khwcsCdqb9TJE1R_HShkdvdB5rddy++zBT=dZWq6EFw@mail.gmail.com>
+Message-ID: <CA+ark-p=eOGv4apiftn-PEmQ1zamkoroUc3j=m25J4W53Pmykg@mail.gmail.com>
+
+On Mon, May 4, 2015 at 8:31 PM, Gaurav Sehrawat <igauravsehrawat at gmail.com>
+wrote:
+
+> i guess error is self explanatory. The missing gem error you are getting,
+> add them to GemFile and continue .
+>
+> On Mon, May 4, 2015 at 5:29 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+>
+> > Hello,
+> >
+> > While installing  a ruby application I am getting the following error
+> > message.
+> >
+> >
+> > Could not find gem 'zkexplorer-client (= 0.02) ruby' in any of the gem
+> > sources listed in your Gemfile or installed on this machine.
+> >
+> > ------------------------------
+> >
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:328:in
+> > `block in verify_gemfile_dependencies_are_found!': Could not find gem
+> > 'mixlib-config (>= 0) ruby' in any of the gem sources listed in your
+> > Gemfile or installed on this machine. (Bundler::GemNotFound)
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+> > `each'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:307:in
+> > `verify_gemfile_dependencies_are_found!'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:199:in
+> > `start'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/resolver.rb:182:in
+> > `resolve'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:192:in
+> > `resolve'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:132:in
+> > `specs'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:177:in
+> > `specs_for'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/definition.rb:166:in
+> > `requested_specs'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/environment.rb:18:in
+> > `requested_specs'
+> >         from
+> >
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler/runtime.rb:13:in
+> > `setup'
+> >         from
+> >
+> /home/ajeesh/.rvm/gems/ruby-2.2.0/gems/bundler-1.9.6/lib/bundler.rb:122:in
+> > `setup'
+> >         from /home/ajeesh/.deployinator/app/bin/deployinator:68:in
+> `<main>'
+> >
+> > ===============
+> >
+> > $ gem list
+> >
+> > *** LOCAL GEMS ***
+> >
+> > addressable (2.3.8)
+> > bigdecimal (1.2.6)
+> > bundler (1.9.6, 1.9.4, 1.8.3)
+> > bundler-unload (1.0.2)
+> > celluloid (0.16.0)
+> > celluloid-io (0.16.2)
+> > executable-hooks (1.3.2)
+> > faraday (0.9.1)
+> > ffi (1.9.8)
+> > gem-wrappers (1.2.7)
+> > hitimes (1.2.2)
+> > io-console (0.4.3)
+> > json (1.8.1)
+> > minitest (5.4.3)
+> > multipart-post (2.0.0)
+> > nio4r (1.1.0)
+> > octokit (3.8.0)
+> > power_assert (0.2.2)
+> > psych (2.0.8)
+> > rake (10.4.2)
+> > rdoc (4.2.0)
+> > rubygems-bundler (1.4.4)
+> > rvm (1.11.3.9)
+> > sawyer (0.6.0)
+> > test-unit (3.0.8)
+> > thor (0.19.1)
+> > timers (4.0.1)
+> > ===============
+> > ajeesh at ubuntu-System-Product-Name:~$ bundle update gemfile_name
+> > Could not locate Gemfile
+> > ===============
+>
+
+Hi ,
+
+Can you please give me an example command to add the missing plugins . I am
+sorry I am a newbie.
+
+From shakthimaan at gmail.com  Tue May  5 15:24:25 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 5 May 2015 15:24:25 +0530
+Subject: [Ilugc] Call for speakers - May Month Meet
+In-Reply-To: <554705A4.5070403@gmail.com>
+References: <54F49459.8070306@gmail.com>
+	<554705A4.5070403@gmail.com>
+Message-ID: <CABG-yt1LD_S77giFyaV9F+s8xgxNKf1kygpf=4tBHTSJ8fyhEw@mail.gmail.com>
+
+Hi,
+
+--- On Mon, May 4, 2015 at 11:07 AM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+| Reply here if you are interested in giving a talk.
+\--
+
+My session details:
+
+Topic:          Ediff
+Description: An introduction and demo of GNU Emacs Ediff mode.
+Links:           http://www.gnu.org/software/emacs/manual/html_node/ediff/
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Thu May  7 06:17:46 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 7 May 2015 06:17:46 +0530
+Subject: [Ilugc] A Free ebook on Free Software
+Message-ID: <CAND2795ZFDmVBae0ygVA_2k+gDkmW-yAd6GzGu9LpjttvXf9bw@mail.gmail.com>
+
+Happy to release a Tamil Ebook on Free Software by RMS and Amachu.
+
+Get your copy at
+http://freetamilebooks.com/ebooks/free-software/
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From manokaran at gmail.com  Thu May  7 07:07:47 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Thu, 07 May 2015 01:37:47 +0000
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+Message-ID: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+
+If you, like me (till today), are used to copy pasting commands from
+websites into your shell, pls read this:
+
+http://thejh.net/misc/website-terminal-copy-paste
+
+>From now on, I'm going to either inspect the html or paste it to my editor
+before I paste it in my shell!
+
+Cheers,
+mano
+
+From manokaran at gmail.com  Thu May  7 07:09:41 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Thu, 07 May 2015 01:39:41 +0000
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+Message-ID: <CAKGmkL0-HetStS5NmORKtBmX32wLcgCNzeN4WF1_2-Gs9mMpzw@mail.gmail.com>
+
+Also this scary one: https://davidben.net/copy-test.html
+
+On Thu, May 7, 2015 at 7:07 AM Manokaran K <manokaran at gmail.com> wrote:
+
+> If you, like me (till today), are used to copy pasting commands from
+> websites into your shell, pls read this:
+>
+> http://thejh.net/misc/website-terminal-copy-paste
+>
+> From now on, I'm going to either inspect the html or paste it to my editor
+> before I paste it in my shell!
+>
+> Cheers,
+> mano
+>
+
+From manokaran at gmail.com  Thu May  7 07:21:00 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Thu, 07 May 2015 01:51:00 +0000
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <CAKGmkL0-HetStS5NmORKtBmX32wLcgCNzeN4WF1_2-Gs9mMpzw@mail.gmail.com>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+	<CAKGmkL0-HetStS5NmORKtBmX32wLcgCNzeN4WF1_2-Gs9mMpzw@mail.gmail.com>
+Message-ID: <CAKGmkL2B351KZC1cvW2oe8WBV5JW5dM1Z_3HbNMs_WNC0YMZkg@mail.gmail.com>
+
+Re the last link I posted, no point in inspecting the html. Latest browsers
+provide a clipboard event that can be subverted. Safe option is to paste it
+in your editor and inspect it thoroughly before pasting in your terminal.
+
+Cheers
+
+On Thu, May 7, 2015 at 7:09 AM Manokaran K <manokaran at gmail.com> wrote:
+
+> Also this scary one: https://davidben.net/copy-test.html
+>
+> On Thu, May 7, 2015 at 7:07 AM Manokaran K <manokaran at gmail.com> wrote:
+>
+>> If you, like me (till today), are used to copy pasting commands from
+>> websites into your shell, pls read this:
+>>
+>> http://thejh.net/misc/website-terminal-copy-paste
+>>
+>> From now on, I'm going to either inspect the html or paste it to my
+>> editor before I paste it in my shell!
+>>
+>> Cheers,
+>> mano
+>>
+>
+
+From knura9 at gmail.com  Thu May  7 08:00:50 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Thu, 7 May 2015 08:00:50 +0530
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <CAKGmkL2B351KZC1cvW2oe8WBV5JW5dM1Z_3HbNMs_WNC0YMZkg@mail.gmail.com>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+	<CAKGmkL0-HetStS5NmORKtBmX32wLcgCNzeN4WF1_2-Gs9mMpzw@mail.gmail.com>
+	<CAKGmkL2B351KZC1cvW2oe8WBV5JW5dM1Z_3HbNMs_WNC0YMZkg@mail.gmail.com>
+Message-ID: <CAHhM8gCERXDZmDSTEvD0MReYR9kCRuWso=rvTeq4a8ZvOJmiEw@mail.gmail.com>
+
+Thanks for the heads up.  Indeed a lot of us do copy/paste complex
+commands from blogs.
+
+Yeah, text editors rock!   At times I use vim.tiny (the very basics).
+
+-- Arun Khan
+
+From gwalashish at gmail.com  Thu May  7 10:16:24 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Thu, 7 May 2015 10:16:24 +0530
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <CAKGmkL2B351KZC1cvW2oe8WBV5JW5dM1Z_3HbNMs_WNC0YMZkg@mail.gmail.com>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+	<CAKGmkL0-HetStS5NmORKtBmX32wLcgCNzeN4WF1_2-Gs9mMpzw@mail.gmail.com>
+	<CAKGmkL2B351KZC1cvW2oe8WBV5JW5dM1Z_3HbNMs_WNC0YMZkg@mail.gmail.com>
+Message-ID: <CAPm7S=5aFDNBtbpqsc9NNVxM4iLzabwzg=-VshKVub4PLkryqQ@mail.gmail.com>
+
+Hi,
+
+On Thu, May 7, 2015 at 7:21 AM, Manokaran K <manokaran at gmail.com> wrote:
+
+> Re the last link I posted, no point in inspecting the html. Latest browsers
+> provide a clipboard event that can be subverted. Safe option is to paste it
+> in your editor and inspect it thoroughly before pasting in your terminal.
+>
+>
+I agree with you. Thanks for sharing this.
+
+Anybody can put "#" first in their terminal then paste the command from the
+site. It will not do any harm to your system.
+
+--Regards
+Ashishkumar S. Yadav
+
+From professionalgraam at gmail.com  Thu May  7 13:04:37 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Thu, 07 May 2015 13:04:37 +0530
+Subject: [Ilugc] Call for speakers - May Month Meet
+In-Reply-To: <554705A4.5070403@gmail.com>
+References: <54F49459.8070306@gmail.com> <554705A4.5070403@gmail.com>
+Message-ID: <554B158D.50803@gmail.com>
+
+
+
+
+On 04-05-2015 11:07, Gowtham Raam wrote:
+>
+> Hi All,
+>
+> We can have our monthly meet on May 9th (Saturday), You can share your
+> Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> Contribution  related to Linux and open source free software or Community.
+>
+> Reply here if you are interested in giving a talk.
+>
+> Provide with the following details.
+> Topic
+> Description
+> Links
+> Duration
+> About Yourself
+>
+
+
+Hi All,
+
+A gentle remainder for your information.
+
+Regards,
+Gowtham Raam.J
+
+From vik at hamaralinux.org  Thu May  7 22:25:01 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Thu, 07 May 2015 17:55:01 +0100
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+Message-ID: <554B98E5.7000104@hamaralinux.org>
+
+On 07/05/15 02:37, Manokaran K wrote:
+>
+> >From now on, I'm going to either inspect the html or paste it to my editor
+> before I paste it in my shell!
+Cool idea for a firefox plugin!
+
+Oh, hang on..
+
+https://addons.mozilla.org/en-US/firefox/addon/copy-as-plain-text/
+
+From vijai.ganapathy at gmail.com  Fri May  8 17:11:10 2015
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Fri, 8 May 2015 17:11:10 +0530
+Subject: [Ilugc] Call for speakers - May Month Meet
+In-Reply-To: <554B158D.50803@gmail.com>
+References: <54F49459.8070306@gmail.com> <554705A4.5070403@gmail.com>
+	<554B158D.50803@gmail.com>
+Message-ID: <CACahg4HTt+0S9VO+DJ0tJE7Wwk0EXpbaq=R_dSNc9sR-q7==xg@mail.gmail.com>
+
+On Thu, May 7, 2015 at 1:04 PM, Gowtham Raam <professionalgraam at gmail.com>
+wrote:
+
+>
+>
+>
+> On 04-05-2015 11:07, Gowtham Raam wrote:
+> >
+> > Hi All,
+> >
+> > We can have our monthly meet on May 9th (Saturday), You can share your
+> > Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> > Contribution  related to Linux and open source free software or
+> Community.
+> >
+> > Reply here if you are interested in giving a talk.
+> >
+> > Provide with the following details.
+> > Topic
+> > Description
+> > Links
+> > Duration
+> > About Yourself
+> >
+>
+>
+> Hi All,
+>
+> A gentle remainder for your information.
+>
+> Regards,
+> Gowtham Raam.J
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+What's the time  and agenda please.
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From manokaran at gmail.com  Fri May  8 17:32:18 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Fri, 08 May 2015 12:02:18 +0000
+Subject: [Ilugc] Dangers in copy/paste from websites to shell
+In-Reply-To: <554B98E5.7000104@hamaralinux.org>
+References: <CAKGmkL1wQD0kY_cMs7bNnM9LYBjq440GcTQHZ7obyJ+=NC+_zA@mail.gmail.com>
+	<554B98E5.7000104@hamaralinux.org>
+Message-ID: <CAKGmkL1ju4qCea5hgWO7Y_FU8U8R=druMAH88emR=dTOawricw@mail.gmail.com>
+
+On Thu, May 7, 2015 at 10:24 PM Vikas Tara <vik at hamaralinux.org> wrote:
+
+> Oh, hang on..
+>
+> https://addons.mozilla.org/en-US/firefox/addon/copy-as-plain-text/
+> _______________________________________________
+>
+
+Wonder how it handles instances that hack the clipboard api. Will it show a
+preview before it pastes it in the terminal? Even in case of invisible html
+elements, does it strip only the formatting? ... in which case it offers no
+protection.
+
+From professionalgraam at gmail.com  Fri May  8 20:36:23 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 8 May 2015 20:36:23 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_May_9_-_2015?=
+Message-ID: <CAA4u47rTsNKHXxSi4pCaNW2npMUiCrc65xEm+LO9XKdD7k9YXg@mail.gmail.com>
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+We have our Meet on May 9, 2015
+
+Check the details below.
+
+ILUGC Monthly Meet :-
+
+Time : Sat May 9, 2015 (3.00 ? 6.00 PM)
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+*Talk - 1. *
+My session details:
+
+Topic:          Ediff
+Description: An introduction and demo of GNU Emacs Ediff mode.
+Links:           http://www.gnu.org/software/emacs/manual/html_node/ediff/
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+
+*Talk - 2. *
+
+Topic:  Introduction to OpenWRT
+
+Description : A demo with OpenWRT in a Embedded device
+
+Duration: 30 min
+
+About yourself: Gowtham Raam working in ERP domain
+
+
+ *3*
+
+General group discussions on any queries, doubts, announcements, events
+related to Free and Open Source Software and community.
+
+CDs/DVDs, Files, OS, Community related documents, Projects can be shared
+on prior request.
+Announce this to all your friends, social network sites etc.
+
+All are welcome. Entry Free
+
+Note : Events and talks are not yet restricted. People can give talk or
+conduct event till ILUGC Meeting starts.
+
+Note to the Speakers : Please do not bring proprietary OS.
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From bala150985 at gmail.com  Sun May 10 19:46:27 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Sun, 10 May 2015 19:46:27 +0530
+Subject: [Ilugc] Mysql user's SSL connection status
+Message-ID: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+
+Hi
+
+When I enable SSL based connection to mysql server I can type \s at the
+mysql prompt to know if I am riding on top of an ssl connection to my mysql
+server.
+
+How can I ensure that the other users who had logged in to my mysql server
+is also logged in via the SSL pipe line.  The round about method would be
+for me to capture pcap and see.  However I would like to know if there is a
+show status command for other users who has logged in.  My Google kufu is
+not getting me much.
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From gwalashish at gmail.com  Mon May 11 10:43:59 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Mon, 11 May 2015 10:43:59 +0530
+Subject: [Ilugc] Mysql user's SSL connection status
+In-Reply-To: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+References: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+Message-ID: <CAPm7S=7rPqHHcVKkN=ZGtQxvpEDa2-4mvr27m3wMU0NrbU5LJg@mail.gmail.com>
+
+Hi,
+
+On Sun, May 10, 2015 at 7:46 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> Hi
+>
+> When I enable SSL based connection to mysql server I can type \s at the
+> mysql prompt to know if I am riding on top of an ssl connection to my mysql
+> server.
+>
+>
+How did you create the MySQL "users" in the server?
+You have to forced the user to use "SSL" at the time creation only.
+
+After that you have to create client's certificate and
+configure client side's /etc/my.cnf appropriately to enable "SSL" using
+those certificate.
+
+You can also refer below link for more detail,
+
+<http://lowendbox.com/blog/getting-started-with-mysql-over-ssl/>
+
+
+
+> How can I ensure that the other users who had logged in to my mysql server
+> is also logged in via the SSL pipe line.  The round about method would be
+> for me to capture pcap and see.  However I would like to know if there is a
+> show status command for other users who has logged in.  My Google kufu is
+> not getting me much.
+>
+>
+For that you can use Wireshark and see the password is indeed encrypted or
+not.
+
+
+--Regards
+Ashishkumar S. Yadav
+
+From bala150985 at gmail.com  Mon May 11 12:14:36 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 11 May 2015 12:14:36 +0530
+Subject: [Ilugc] Mysql user's SSL connection status
+In-Reply-To: <CAPm7S=7rPqHHcVKkN=ZGtQxvpEDa2-4mvr27m3wMU0NrbU5LJg@mail.gmail.com>
+References: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+	<CAPm7S=7rPqHHcVKkN=ZGtQxvpEDa2-4mvr27m3wMU0NrbU5LJg@mail.gmail.com>
+Message-ID: <CAFHFDAmkGWOeWf8z41gZdQNr+jXZVVcpZQqRtWBG4XyzkrOhNw@mail.gmail.com>
+
+On Mon, May 11, 2015 at 10:43 AM, Ashish Yadav <gwalashish at gmail.com> wrote:
+
+Thanks for the reply Ashish.
+
+
+> How did you create the MySQL "users" in the server?
+> You have to forced the user to use "SSL" at the time creation only.
+>
+>
+Invariable of having REQUIRE SSL on [1]. If your client is supplied with
+certs. It will attempt to switch over to mysql over SSL, if the server
+supports it.  At least that is what I hope it is.  So if I were to create a
+user without REQUIRE SSL and try to login.  The switching happens to SSL
+and I can type in \s at the "mysql > " prompt to verify it.  How can I
+verify logging in as root if the person logging in as "iamsecure" is riding
+over SSL or not ?
+
+[1]
+GRANT ALL PRIVILEGES ON *.* TO ?iamsecure?@?%? IDENTIFIED BY ?dingdingding?
+REQUIRE SSL;
+
+For that you can use Wireshark and see the password is indeed encrypted or
+> not.
+>
+> Even Wireshark is beating around the bush :-(
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From prkart at gmail.com  Mon May 11 12:50:02 2015
+From: prkart at gmail.com (P.R.Karthik)
+Date: Mon, 11 May 2015 12:50:02 +0530
+Subject: [Ilugc] Mysql user's SSL connection status
+In-Reply-To: <CAFHFDAmkGWOeWf8z41gZdQNr+jXZVVcpZQqRtWBG4XyzkrOhNw@mail.gmail.com>
+References: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+	<CAPm7S=7rPqHHcVKkN=ZGtQxvpEDa2-4mvr27m3wMU0NrbU5LJg@mail.gmail.com>
+	<CAFHFDAmkGWOeWf8z41gZdQNr+jXZVVcpZQqRtWBG4XyzkrOhNw@mail.gmail.com>
+Message-ID: <CAD7fY7Qqsw2_cmXewuwP3EJSq2nNw_Z5dwrVjEFa4V5B8RqZVA@mail.gmail.com>
+
+You can force all the the users to use SSL by enabling "ssl-only" on the
+mysql config ( /etc/my.cnf ) and enabling SSL in user creation ( REQUIRE
+SSL ). Make sure that you application has the client certs installed.
+
+The below query will provide you the list of users who do not have SSL
+( REQUIRE
+SSL ).
+
+ select user,host,ssl_type from mysql.user where ssl_type='';
+
+Regards,
+KarthiK.P.R
+
+On Mon, May 11, 2015 at 12:14 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> On Mon, May 11, 2015 at 10:43 AM, Ashish Yadav <gwalashish at gmail.com>
+> wrote:
+>
+> Thanks for the reply Ashish.
+>
+>
+> > How did you create the MySQL "users" in the server?
+> > You have to forced the user to use "SSL" at the time creation only.
+> >
+> >
+> Invariable of having REQUIRE SSL on [1]. If your client is supplied with
+> certs. It will attempt to switch over to mysql over SSL, if the server
+> supports it.  At least that is what I hope it is.  So if I were to create a
+> user without REQUIRE SSL and try to login.  The switching happens to SSL
+> and I can type in \s at the "mysql > " prompt to verify it.  How can I
+> verify logging in as root if the person logging in as "iamsecure" is riding
+> over SSL or not ?
+>
+> [1]
+> GRANT ALL PRIVILEGES ON *.* TO ?iamsecure?@?%? IDENTIFIED BY ?dingdingding?
+> REQUIRE SSL;
+>
+> For that you can use Wireshark and see the password is indeed encrypted or
+> > not.
+> >
+> > Even Wireshark is beating around the bush :-(
+>
+> --
+> Regards,
+> Balasubramaniam Natarajan
+> http://blog.etutorshop.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sridharan.d at gmail.com  Mon May 11 18:17:43 2015
+From: sridharan.d at gmail.com (Sridhar Devarajan)
+Date: Mon, 11 May 2015 18:17:43 +0530
+Subject: [Ilugc] [Jobs] Looking for systems/network administrator at IISc,
+	Centre for Neuroscience
+Message-ID: <CABfi1q3-q8LLbJyXK32XpMgc5LC4LWy7+ZNNKgDcaoDzpU2gDA@mail.gmail.com>
+
+Hello,
+
+The Centre for Neuroscience (CNS) is a newly established and rapidly
+growing centre at the Indian Institute of Science (IISc), Bangalore.
+
+We are actively looking for an expert systems and network administrator who
+can help us set up and maintain networking and storage infrastructure at
+the Centre (job description below). The pay is competitive, and as a bonus
+you get to work in a world-class academic environment that is exploring the
+mysteries of the human brain!
+
+To apply, please send your CV to the following email address:
+jobs at cns.iisc.ernet.in
+
+We are looking to fill the position as soon as possible.
+
+Regards,
+Sridhar
+
+======================================================
+Job title:* Senior Systems and Network Manager*
+
+*Pay scale*: Rs. 50,000/- per month consolidated.
+*Essential Qualifications*:  Bachelors? degree in Computer Science
+or a related field with minimum 5 years of experience working in industry
+or a research laboratory.
+*Job Description*: The candidate will be responsible for setting up and
+maintaining networking and storage infrastructure. Responsibilities
+include creating and managing user and group accounts with appropriate
+security protocols on the central server, setting up and administration of
+the storage server, setting up a dedicated internal network, managing the
+video-conferencing system and interfacing it to a high-bandwidth
+connection, upgrading existing email and web applications, managing the
+department webpage, and setting up and managing an e-library (e-books and
+e-journals).
+*Desirable*: Prior experience with systems and network management. Knowledge
+of database management, webpage design, networking protocols, server
+configuration and management. Candidate must possess excellent
+organizational and management skills and an ability to develop working
+relationships with a wide range of people.
+======================================================
+
+
+-- 
+Sridharan Devarajan, PhD
+Assistant Professor, Centre for Neuroscience,
+Indian Institute of Science, Bangalore, India
+http://cns.iisc.ernet.in/sridharandevarajan/
+
+From bala150985 at gmail.com  Mon May 11 20:01:28 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 11 May 2015 10:31:28 -0400
+Subject: [Ilugc] Mysql user's SSL connection status
+In-Reply-To: <CAD7fY7Qqsw2_cmXewuwP3EJSq2nNw_Z5dwrVjEFa4V5B8RqZVA@mail.gmail.com>
+References: <CAFHFDAkzbsaC7MxPPHFZJEicMRfMgsLNmqgRjEyK5ehwji+KjA@mail.gmail.com>
+	<CAPm7S=7rPqHHcVKkN=ZGtQxvpEDa2-4mvr27m3wMU0NrbU5LJg@mail.gmail.com>
+	<CAFHFDAmkGWOeWf8z41gZdQNr+jXZVVcpZQqRtWBG4XyzkrOhNw@mail.gmail.com>
+	<CAD7fY7Qqsw2_cmXewuwP3EJSq2nNw_Z5dwrVjEFa4V5B8RqZVA@mail.gmail.com>
+Message-ID: <CAFHFDAksySsQ+ZoEP5SvHrh_vNb9EzNQPqOzeGRnSxgY43WbRQ@mail.gmail.com>
+
+On Mon, May 11, 2015 at 3:20 AM, P.R.Karthik <prkart at gmail.com> wrote:
+
+> You can force all the the users to use SSL by enabling "ssl-only" on the
+> mysql config ( /etc/my.cnf ) and enabling SSL in user creation ( REQUIRE
+> SSL ). Make sure that you application has the client certs installed.
+>
+> The below query will provide you the list of users who do not have SSL
+> ( REQUIRE
+> SSL ).
+>
+>  select user,host,ssl_type from mysql.user where ssl_type='';
+>
+> Regards,
+> KarthiK.P.R
+>
+
+I guess my question is not phrased properly.
+
+1. Enable mysql on *serverA* with SSL support.
+2. Create a user remotesecure to login without the REQUIRE SSL to login
+remotely.
+3. Log in using remotesecure from *serverB* by given it the appropriate SSL
+certs.
+4. At the mysql prompt type \s  I can see that I am riding over SSL.
+5. Now open another connection to mysql on *serverA* from *serverC* as root
+user without giving it SSL certs and type in \s you can see that you are
+riding on clear text.
+6. What is the command I need to type in *serverC *connection to see that
+equivalent output of step4 ?
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From 77minds at gmail.com  Tue May 12 00:08:24 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Tue, 12 May 2015 00:08:24 +0530
+Subject: [Ilugc] Javascript Meetup @Zanec
+Message-ID: <CAJR+9kaQtiQ35cik5WbFuHxQBjfQCrzAcOZakannftE7RHQPtA@mail.gmail.com>
+
+Hello People,
+
+Join me at a Javascript meetup in my office
+http://www.meetup.com/Zanec-Hacking-Meetup/events/222124911/
+- Karthikeyan A K
+
+From sijisunny at gmail.com  Tue May 12 10:37:25 2015
+From: sijisunny at gmail.com (Siji Sunny)
+Date: Tue, 12 May 2015 10:37:25 +0530
+Subject: [Ilugc] CHIP - $9 ARM Computer
+Message-ID: <CADtvZWA5MjMYKPdPhp9sUH7pVjffZXs5R40g85P1Gy_1Dh0QFg@mail.gmail.com>
+
+CHIP - ARM based Single-board Computer , coming with a 1GHz
+processor(Allwinner R8), 512MB RAM, 4GB storage, 802.11B/G/N WiFi and
+Bluetooth 4.0.
+
+
+https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share
+
+-- 
+Siji Sunny
+
+From 77minds at gmail.com  Tue May 12 12:33:22 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Tue, 12 May 2015 12:33:22 +0530
+Subject: [Ilugc] CHIP - $9 ARM Computer
+In-Reply-To: <CADtvZWA5MjMYKPdPhp9sUH7pVjffZXs5R40g85P1Gy_1Dh0QFg@mail.gmail.com>
+References: <CADtvZWA5MjMYKPdPhp9sUH7pVjffZXs5R40g85P1Gy_1Dh0QFg@mail.gmail.com>
+Message-ID: <CAJR+9kZ6jY1heJVJNkPNUiEt70EvgXAF2-JHSKdf+K=NpO63WQ@mail.gmail.com>
+
+Wish to see a free hardware like arduino.
+
+On Tue, May 12, 2015 at 10:37 AM, Siji Sunny <sijisunny at gmail.com> wrote:
+
+> CHIP - ARM based Single-board Computer , coming with a 1GHz
+> processor(Allwinner R8), 512MB RAM, 4GB storage, 802.11B/G/N WiFi and
+> Bluetooth 4.0.
+>
+>
+>
+> https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share
+>
+> --
+> Siji Sunny
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From 77minds at gmail.com  Tue May 12 12:34:10 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Tue, 12 May 2015 12:34:10 +0530
+Subject: [Ilugc] CHIP - $9 ARM Computer
+In-Reply-To: <CAJR+9kZ6jY1heJVJNkPNUiEt70EvgXAF2-JHSKdf+K=NpO63WQ@mail.gmail.com>
+References: <CADtvZWA5MjMYKPdPhp9sUH7pVjffZXs5R40g85P1Gy_1Dh0QFg@mail.gmail.com>
+	<CAJR+9kZ6jY1heJVJNkPNUiEt70EvgXAF2-JHSKdf+K=NpO63WQ@mail.gmail.com>
+Message-ID: <CAJR+9ka85o-z-8s8_i5E3LhxMdS5xi3PLvHnw9eoZ26FZ96n+w@mail.gmail.com>
+
+Yup its a open source hardware. Hope its really free(dom)
+
+On Tue, May 12, 2015 at 12:33 PM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> Wish to see a free hardware like arduino.
+>
+> On Tue, May 12, 2015 at 10:37 AM, Siji Sunny <sijisunny at gmail.com> wrote:
+>
+>> CHIP - ARM based Single-board Computer , coming with a 1GHz
+>> processor(Allwinner R8), 512MB RAM, 4GB storage, 802.11B/G/N WiFi and
+>> Bluetooth 4.0.
+>>
+>>
+>>
+>> https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share
+>>
+>> --
+>> Siji Sunny
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+
+From vik at hamaralinux.org  Tue May 12 13:19:07 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Tue, 12 May 2015 08:49:07 +0100
+Subject: [Ilugc] CHIP - $9 ARM Computer
+In-Reply-To: <CAJR+9ka85o-z-8s8_i5E3LhxMdS5xi3PLvHnw9eoZ26FZ96n+w@mail.gmail.com>
+References: <CADtvZWA5MjMYKPdPhp9sUH7pVjffZXs5R40g85P1Gy_1Dh0QFg@mail.gmail.com>	<CAJR+9kZ6jY1heJVJNkPNUiEt70EvgXAF2-JHSKdf+K=NpO63WQ@mail.gmail.com>
+	<CAJR+9ka85o-z-8s8_i5E3LhxMdS5xi3PLvHnw9eoZ26FZ96n+w@mail.gmail.com>
+Message-ID: <5551B073.1020700@hamaralinux.org>
+
+On 12/05/15 08:04, Karthikeyan A K wrote:
+> Yup its a open source hardware. Hope its really free(dom)
+Not really - it uses an Allwinner chip
+http://www.phoronix.com/scan.php?page=news_item&px=allwinner-stripped-symbols
+>>> CHIP - ARM based Single-board Computer , coming with a 1GHz
+>>> processor(Allwinner R8), 512MB RAM, 4GB storage, 802.11B/G/N WiFi and
+>>> Bluetooth 4.0.
+>>>
+>>>
+>>>
+>>> https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share
+Have to applaud a 9$ computer - but I hear they are charging 20$ for 
+postage - so I guess that makes it a 29$ computer?
+
+On the bright side - looks like ultra cheap computers for everyone are 
+coming very soon!
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From professionalgraam at gmail.com  Thu May 14 19:07:56 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Thu, 14 May 2015 19:07:56 +0530
+Subject: [Ilugc] Wiki workshop
+Message-ID: <5554A534.1060506@gmail.com>
+
+Hi All,
+
+Can we conduct a workshop on wikipedia and organizing personal
+information with wiki. Kindly give me suggestions so that we can move
+foward. I would appreciate if you could send your valuable suggestions.
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+
+From nani1only at gmail.com  Thu May 14 20:03:27 2015
+From: nani1only at gmail.com (=?UTF-8?B?4LCw4LC54LGN4LCu4LC+4LCo4LGB4LCm4LGN4LCm4LGA4LCo4LGNIOCwt+Cxh+CwleCxjQ==?=)
+Date: Thu, 14 May 2015 20:03:27 +0530
+Subject: [Ilugc] Wiki workshop
+In-Reply-To: <5554A534.1060506@gmail.com>
+References: <5554A534.1060506@gmail.com>
+Message-ID: <CAHRpNu3vRDCBu5acozAZfkLECri2fhF7aoPwc0b45nsWHw1_8A@mail.gmail.com>
+
+Dear Gowtham Ram,
+
+I do not understand what you meant by saying "organising personal
+information with wiki"
+Does it refer to having own wiki hosted using mediawiki as platform (
+https://www.mediawiki.org/wiki/MediaWiki)
+Or using existing Wikipedia wikis to create your own pages?
+
+From balu.manyam at gmail.com  Fri May 15 11:54:19 2015
+From: balu.manyam at gmail.com (Balu manyam)
+Date: Fri, 15 May 2015 11:54:19 +0530
+Subject: [Ilugc] openldap and Microsoft active directory
+Message-ID: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+
+Namaste all -- Has anyone worked on openldap with Microsoft AD ? I am
+searching for a way where Microsoft AD will forward the requests to
+openldap for specific domain ?
+
+Ideas?
+
+From vik at hamaralinux.org  Fri May 15 17:00:37 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 15 May 2015 12:30:37 +0100
+Subject: [Ilugc] openldap and Microsoft active directory
+In-Reply-To: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+References: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+Message-ID: <5555D8DD.9070908@hamaralinux.org>
+
+On 15/05/15 07:24, Balu manyam wrote:
+> Namaste all -- Has anyone worked on openldap with Microsoft AD ? I am
+> searching for a way where Microsoft AD will forward the requests to
+> openldap for specific domain ?
+>
+> Ideas?
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+Have you thought about using Samba 4 AD controllers instead of openldap?
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From vivek.2k.64 at gmail.com  Sat May 16 13:44:15 2015
+From: vivek.2k.64 at gmail.com (Vivek Kumar)
+Date: Sat, 16 May 2015 13:44:15 +0530
+Subject: [Ilugc] openldap and Microsoft active directory
+In-Reply-To: <5555D8DD.9070908@hamaralinux.org>
+References: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+	<5555D8DD.9070908@hamaralinux.org>
+Message-ID: <CAP4ZfJy9US+pigg3rW2=z-HSPwhV3soyx1-pyxW--CTQSJk+Vw@mail.gmail.com>
+
+i have no Idea but OpenLX Technologies do that type.
+In our company they do mailserver,openldap With Microsoft-Ad and samba
+Firewall,
+
+On Fri, May 15, 2015 at 5:00 PM, Vikas Tara <vik at hamaralinux.org> wrote:
+
+> On 15/05/15 07:24, Balu manyam wrote:
+> > Namaste all -- Has anyone worked on openldap with Microsoft AD ? I am
+> > searching for a way where Microsoft AD will forward the requests to
+> > openldap for specific domain ?
+> >
+> > Ideas?
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> Have you thought about using Samba 4 AD controllers instead of openldap?
+>
+> --
+> Founder - Hamara Linux
+> www.hamaralinux.org
+> www.twitter.com/hamaralinux
+>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From professionalgraam at gmail.com  Mon May 18 12:47:47 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 18 May 2015 12:47:47 +0530
+Subject: [Ilugc] Wiki workshop
+In-Reply-To: <CAHRpNu3vRDCBu5acozAZfkLECri2fhF7aoPwc0b45nsWHw1_8A@mail.gmail.com>
+References: <5554A534.1060506@gmail.com>
+	<CAHRpNu3vRDCBu5acozAZfkLECri2fhF7aoPwc0b45nsWHw1_8A@mail.gmail.com>
+Message-ID: <5559921B.9040301@gmail.com>
+
+
+On 14-05-2015 20:03, ????????????? ???? wrote:
+> Dear Gowtham Ram,
+>
+> I do not understand what you meant by saying "organising personal
+> information with wiki"
+> Does it refer to having own wiki hosted using mediawiki as platform (
+> https://www.mediawiki.org/wiki/MediaWiki)
+> Or using existing Wikipedia wikis to create your own pages?
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+Hi,
+
+I mean we can have both mediawiki(For personal information management)
+and wikipedia for workshop.
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From baskar at linuxpert.in  Tue May 19 18:04:54 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Tue, 19 May 2015 18:04:54 +0530
+Subject: [Ilugc] [Help] Need solution in sed/awk for merging lines
+Message-ID: <CACtiFJYJV3NehNfUYABaPQ1_HuByK6fA=pryaDZuFwEQx3s5jw@mail.gmail.com>
+
+Hi all,
+
+I have a text file with more than 10K+ lines in the following format.
+I want to merge the text data in a single line as shown in the bottom.
+Any sed/awk solution would be helpful.
+
+Input file
+----------
+
+21000    Probability, Random Variables, and
+Stochastic Processes / Athanasios
+Papoulis. : McGraw-Hill, Inc., 1995
+21001                     "
+21002    Microwave Devices and Circuits
+/ Samuel Y.Liao. : Prentice-Hall of
+India Private Limited, 1990
+21003                     "
+21004    Physics of Semiconductor Devices
+/ Sze S.M. : John Wiley & Sons, 1981
+21005                     "
+21006    Digital signal processing: a system
+design approach / David U. Defatta.
+: John Wiley & Sons (SEA) Pte Ltd
+, 1988
+
+Required output:
+----------------
+
+21000    Probability, Random Variables, and Stochastic Processes /
+Athanasios Papoulis. : McGraw-Hill, Inc., 1995
+21001                     "
+21002    Microwave Devices and Circuits / Samuel Y.Liao. :
+Prentice-Hall of India Private Limited, 1990
+21003                     "
+21004    Physics of Semiconductor Devices / Sze S.M. : John Wiley & Sons, 1981
+21005                     "
+21006    Digital signal processing: a system design approach / David
+U. Defatta. : John Wiley & Sons (SEA) Pte Ltd, 1988
+
+Thanks in advance
+
+S. Baskar
+
+From a.meshach at gmail.com  Tue May 19 18:43:07 2015
+From: a.meshach at gmail.com (Meshach A)
+Date: Tue, 19 May 2015 18:43:07 +0530
+Subject: [Ilugc] [Help] Need solution in sed/awk for merging lines
+In-Reply-To: <CACtiFJYJV3NehNfUYABaPQ1_HuByK6fA=pryaDZuFwEQx3s5jw@mail.gmail.com>
+References: <CACtiFJYJV3NehNfUYABaPQ1_HuByK6fA=pryaDZuFwEQx3s5jw@mail.gmail.com>
+Message-ID: <CAOQ=2+QZ1XWO39+AShhZ-ssso2Uja1M82y13n9EO-zDpd7Qt2A@mail.gmail.com>
+
+Hi Baskar, hope this awk will help you..
+
+cat a1a
+21000    Probability, Random Variables, and
+Stochastic Processes / Athanasios
+Papoulis. : McGraw-Hill, Inc., 1995
+21001                     "
+21002    Microwave Devices and Circuits
+/ Samuel Y.Liao. : Prentice-Hall of
+India Private Limited, 1990
+21003                     "
+21004    Physics of Semiconductor Devices
+/ Sze S.M. : John Wiley & Sons, 1981
+21005                     "
+21006    Digital signal processing: a system
+design approach / David U. Defatta.
+: John Wiley & Sons (SEA) Pte Ltd
+, 1988
+
+
+awk '{if($1 ~ /^[0-9]../){print "\n"; printf $0}else{printf $0}}' a1a
+
+or
+
+awk '{if($1 ~ /^[0-9][0-9][0-9][0-9][0-9]/){print "\n"; printf
+$0}else{printf $0}}' a1a
+
+
+
+On Tue, May 19, 2015 at 6:04 PM, Baskar Selvaraj <baskar at linuxpert.in>
+wrote:
+
+> Hi all,
+>
+> I have a text file with more than 10K+ lines in the following format.
+> I want to merge the text data in a single line as shown in the bottom.
+> Any sed/awk solution would be helpful.
+>
+> Input file
+> ----------
+>
+> 21000    Probability, Random Variables, and
+> Stochastic Processes / Athanasios
+> Papoulis. : McGraw-Hill, Inc., 1995
+> 21001                     "
+> 21002    Microwave Devices and Circuits
+> / Samuel Y.Liao. : Prentice-Hall of
+> India Private Limited, 1990
+> 21003                     "
+> 21004    Physics of Semiconductor Devices
+> / Sze S.M. : John Wiley & Sons, 1981
+> 21005                     "
+> 21006    Digital signal processing: a system
+> design approach / David U. Defatta.
+> : John Wiley & Sons (SEA) Pte Ltd
+> , 1988
+>
+> Required output:
+> ----------------
+>
+> 21000    Probability, Random Variables, and Stochastic Processes /
+> Athanasios Papoulis. : McGraw-Hill, Inc., 1995
+> 21001                     "
+> 21002    Microwave Devices and Circuits / Samuel Y.Liao. :
+> Prentice-Hall of India Private Limited, 1990
+> 21003                     "
+> 21004    Physics of Semiconductor Devices / Sze S.M. : John Wiley & Sons,
+> 1981
+> 21005                     "
+> 21006    Digital signal processing: a system design approach / David
+> U. Defatta. : John Wiley & Sons (SEA) Pte Ltd, 1988
+>
+> Thanks in advance
+>
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From baskar at linuxpert.in  Wed May 20 06:37:04 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 20 May 2015 06:37:04 +0530
+Subject: [Ilugc] [Help] Need solution in sed/awk for merging lines
+In-Reply-To: <CAOQ=2+QZ1XWO39+AShhZ-ssso2Uja1M82y13n9EO-zDpd7Qt2A@mail.gmail.com>
+References: <CACtiFJYJV3NehNfUYABaPQ1_HuByK6fA=pryaDZuFwEQx3s5jw@mail.gmail.com>
+	<CAOQ=2+QZ1XWO39+AShhZ-ssso2Uja1M82y13n9EO-zDpd7Qt2A@mail.gmail.com>
+Message-ID: <CACtiFJaHbX8igt7sB_0UzNrAKk8uMVij9tZQqoyr_bd26U_x+g@mail.gmail.com>
+
+On 5/19/15, Meshach A <a.meshach at gmail.com> wrote:
+> Hi Baskar, hope this awk will help you..
+>
+> awk '{if($1 ~ /^[0-9]../){print "\n"; printf $0}else{printf $0}}' a1a
+>
+> or
+>
+> awk '{if($1 ~ /^[0-9][0-9][0-9][0-9][0-9]/){print "\n"; printf
+> $0}else{printf $0}}' a1a
+
+Thanks.  Works perfectly.  Is there anyway to remove Control
+characters in the file using 'awk'.
+
+S. Baskar
+
+From tshrinivasan at gmail.com  Wed May 20 15:46:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 20 May 2015 15:46:37 +0530
+Subject: [Ilugc] [Job] Fwd: [chennai.rb] Ruby on rails developer Required
+In-Reply-To: <b671664f-b6b9-498e-9ec5-68a74e3ae07c@googlegroups.com>
+References: <b671664f-b6b9-498e-9ec5-68a74e3ae07c@googlegroups.com>
+Message-ID: <CAND2797S97s_Hz-CLxpMEj5B6okPn+YMqYMMv3WcBwiz9HAC2Q@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Sid nigam" <findmetechie11 at gmail.com>
+Date: May 20, 2015 11:08 AM
+Subject: [chennai.rb] Ruby on rails developer Required
+To: <chennairb at googlegroups.com>
+Cc:
+
+Hi All,
+
+We are looking for Ruby on rails developers  ( Senior resource ) having 4+
+year of experience for our client is US.
+
+Freelance and remote work is ok for now.
+
+Kindly share your resume at  :- http://www.findmetechie.com/job.php?id=36
+
+Regards,
+Siddhartha
+www.Findmetechie.com
+
+-- 
+
+---
+You received this message because you are subscribed to the Google Groups
+"chennai.rb" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to chennairb+unsubscribe at googlegroups.com.
+For more options, visit https://groups.google.com/d/optout.
+
+From pro.aravind at gmail.com  Wed May 20 16:46:54 2015
+From: pro.aravind at gmail.com (Aravind Gopalakrishnan)
+Date: Wed, 20 May 2015 16:46:54 +0530
+Subject: [Ilugc] FSFTN Summer Camp on Free Software Technologies at IIT
+ Madras - June 8 to June 13
+Message-ID: <CAMrtNPLFp_vfON88Zx+U4kqURHT+Z8r5gADfxFxjOK=dwN=SXw@mail.gmail.com>
+
+Free Software Foundation, Tamil Nadu (FSFTN) is an organisation that works
+to spread awareness about Free Software and Free Knowledge among college
+students of Tamil Nadu . As a part of our initiatives in taking Free
+Software technologies to the college students, we are holding a 6 day
+summer camp .This year the camp is to be held from
+*June 8 th to June 13 th ( 6 days )  at IIT Madras.*
+
+The event would start with *Introduction to **Free Software Philosophy*
+
+*Hands on sessions *
+
+   1. GNU/Linux introduction and installation
+   2. Introduction to File system and Shell scripting
+   3. Git & GitHub
+   4. Blender
+   5. Ruby
+   6. HTML, CSS, JS
+   7. Ruby On Rails
+   8. Introduction to Node.js, MongoDB & Meteor
+
+*Apart from this there would be *
+
+   1. Team building excercise
+   2. Showcasing of website built by students during the Ruby on Rails
+   session
+
+*Introduction to:*
+
+   1. Cloud and containers
+   2. Open Hardware
+   3. From Internet to Meshnet
+   4. Net Nuetrality
+
+
+*Short talks*
+
+   1.  Wikipedia
+   2. Tamil Computing & Localization
+   3. Firefox OS & Contributing to Mozilla
+   4. Getting started with Free Software Contribution
+   5. SWIFT- Swift Women in Free Technologies
+
+
+*For continuous follow ups we have : *
+
+   1. How to form a GLUG and What next?
+
+
+Every participant would be given a Participation certificate from FSFTN .
+
+
+Please have look at the website <http://fsftnsummercamp.org/> of the
+Chennai edition of the 2015 summercamp.
+
+*About FSFTN :*
+
+Free Software Foundation, Tamil Nadu <http://fsftn.org> (FSFTN) is an
+organisation that works to spread awareness about Free Software and Free
+Knowledge among college students of Tamil Nadu.We are a part of Free
+Software Movement of India (FSMI), a social movement that has pledged to
+enlighten the general public with the essence of Free Software. FSFTN was
+founded in 2008 and is also a registered society in Tamil Nadu.
+
+*About Previous Editions and our movement*
+
+As a part of our initiatives in taking free software technologies to the
+college students, we have held two five days summer camps in the past two
+years - 18 - 22 June in 2013 and 15 - 19 June in 2014. The venue for these
+two summer camps were the Department of Computer Science and Engineering at
+IIT Madras. A total of 150 students from across Tamil Nadu participated in
+the summer camps for each year, where they learnt about basics of free
+software and innovative software packages like Python, Ruby on Rails etc.
+The summer camps were well received by the participating students.
+
+Join the journey of creating a ecosystem in which Knowledge Sharing takes
+the front seat rather than mere studying .
+
+-- 
+
+Regards,
+G.Aravind
+pro.aravind at gmail.com
+
+From tshrinivasan at gmail.com  Thu May 21 03:13:21 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 21 May 2015 03:13:21 +0530
+Subject: [Ilugc] Fwd: The help app needs tests!
+In-Reply-To: <CAHNOz3odRD+CjRNoYUjHtqMhpk-b5TZ2Xqr_JYefMByy=_sxag@mail.gmail.com>
+References: <CAHNOz3odRD+CjRNoYUjHtqMhpk-b5TZ2Xqr_JYefMByy=_sxag@mail.gmail.com>
+Message-ID: <CAND2797BUtajb2k2AZ87_7pUajhoKfO=wUnF+u6Ms0kNGp+6UA@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: *Nicholas Skaggs* <nicholas.skaggs at canonical.com>
+Date: Wednesday, May 20, 2015
+Subject: The help app needs tests!
+To: "ubuntu-quality at lists.ubuntu.com" <ubuntu-quality at lists.ubuntu.com>
+
+
+Can anyone help? Here's the bug(1). Daniel would love to hear from you!
+
+For help, there's a guide for writing functional HTML5 tests on
+developer.ubuntu.com(1). And for those who are fearful of autopilot, don't
+worry, the tests are written primarily using selenium :-)
+
+I'd love to see a new test writer take this on.
+
+Nicholas
+
+1. https://bugs.launchpad.net/help-app/+bug/1456924
+2.
+https://developer.ubuntu.com/en/apps/html-5/tutorials/writing-html5-functional-tests/
+--
+Ubuntu-quality mailing list
+Ubuntu-quality at lists.ubuntu.com <javascript:;>
+Modify settings or unsubscribe at:
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From irudayarajisawa at gmail.com  Thu May 21 10:29:47 2015
+From: irudayarajisawa at gmail.com (irudayaraj isawa)
+Date: Thu, 21 May 2015 10:29:47 +0530
+Subject: [Ilugc] Free Responsive html/template editor for newbie.
+Message-ID: <CAE_sPqdMGEhwQN52cTCJpexW1HEJkMod+aEShQ_WqmuV-60A8A@mail.gmail.com>
+
+Hi all,
+
+just to share, when i came through Googling.
+
+The simplest app for Bootstrap prototyping available in Linux:
+http://pingendo.com/
+
+thanks
+Irudayaraj Micheal
+
+From scorpionking.sahil at gmail.com  Thu May 21 11:22:24 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Thu, 21 May 2015 11:22:24 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with Jenkins,
+	Puppet, Chef?
+Message-ID: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+
+Namaste Everyone,
+
+I want expert guideline on following topics: Jenkins, Puppet, Chef.
+
+In my past few interviews and for almost any good position in a good
+company above technologies are expected from a linux guy along with script
+programming.
+
+Can a single entity practice on above technologies on her/his own? If yes,
+then what are the steps? Do we have to set up a proper lab (VM's) for this?
+
+Are there any videos/notes on above topics which provides an insight so
+that it will be easy for a person to connect the dots?
+
+Will it be an easy task for a single person to practice on Puppet/Chef
+because we can't deploy multiple systems at home? Kindly remove this doubt.
+
+I have an old laptop (Core2Duo, 4GB RAM), a Raspberry Pi 2. Can I practice
+such technologies using my resources or have to buy some good stuff?
+
+Kindly share your experience.
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From shakthimaan at gmail.com  Thu May 21 16:10:40 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 21 May 2015 16:10:40 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+Message-ID: <CABG-yt0TwH-cLktb5+gjUaV7mF1GAKxO5w+hKwCX7XbKK20ayQ@mail.gmail.com>
+
+Hi,
+
+--- On Thu, May 21, 2015 at 11:22 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| I want expert guideline on following topics: Jenkins, Puppet, Chef.
+|
+| In my past few interviews and for almost any good position in a good
+| company above technologies are expected from a linux guy along with script
+| programming.
+\--
+
+It depends on the nature of work. There are F/OSS jobs that don't
+require the above experience too.
+
+---
+| Can a single entity practice on above technologies on her/his own? If yes,
+| then what are the steps?
+\--
+
+Follow the documentation in their web site and try their tutorials.
+
+---
+| Do we have to set up a proper lab (VM's) for this?
+\--
+
+You can use VMs on your system.
+
+---
+| Are there any videos/notes on above topics which provides an insight so
+| that it will be easy for a person to connect the dots?
+\--
+
+Please refer the respective project web sites for more information.
+
+---
+| Will it be an easy task for a single person to practice on Puppet/Chef
+| because we can't deploy multiple systems at home? Kindly remove this doubt.
+\--
+
+You can deploy multiple VMs on a single PC at home.
+
+---
+| I have an old laptop (Core2Duo, 4GB RAM), a Raspberry Pi 2. Can I practice
+| such technologies using my resources or have to buy some good stuff?
+\--
+
+Laptop should be fine. You might also be interested to look at Ansible
+for deployments.
+
+Good luck!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From l.mohanphy at gmail.com  Thu May 21 20:02:29 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Thu, 21 May 2015 20:02:29 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+Message-ID: <CADiHtmuaz8b4RzCLBN24_dBDGA7OCRRn8RAU7rGK_f=pdW=MKQ@mail.gmail.com>
+
+On Thu, May 21, 2015 at 11:22 AM, sahil ????? <scorpionking.sahil at gmail.com>
+wrote:
+
+> Namaste Everyone,
+>
+> I want expert guideline on following topics:
+> ??
+> Jenkins, Puppet, Chef.
+>
+> In my past few interviews and for almost any good position in a good
+> company above technologies are expected from a linux guy along with script
+> programming.
+>
+
+??It looks like you have attended interview for DevOps Engineer kind of
+position. And also mostly companies they are involved in cloud
+development/deployment (example openstack) looking for this king of skill
+along with Linux and Visualization.
+
+
+
+> Are there any videos/notes on above topics which provides an insight so
+> that it will be easy for a person to connect the dots?
+> ??
+>
+>
+Watch the below videos. It will give you good starting point for Puppet and
+why Puppet adds value to your profile.
+
+https://www.youtube.com/playlist?list=PLKqyiDdtB8i4pkMgufRXQ1XVte2ezDSNO
+
+Here is another nice video which talks about installation and configuration
+of Puppet + Passenger + Puppet Agent.
+
+https://www.youtube.com/playlist?list=PLmxPWpU3uBSFMbQRduXU4Az561wb27o4I
+
+Some good books:
+
+1). Puppet 3 Beginner's Guide:
+
+http://www.amazon.in/Puppet-Beginners-Guide-Aaron-Kaminar/dp/1782161244/ref=pd_sim_14_3?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+
+2). Pulling Strings with Puppet: Configuration Management Made Easy:
+
+http://www.amazon.in/Pulling-Strings-Puppet-Configuration-Management/dp/1590599780/ref=pd_sim_14_4?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+
+The Puppet 3 Cookbook:
+
+3).
+http://www.amazon.in/The-Puppet-Cookbook-John-Arundel/dp/1782169768/ref=pd_sim_14_5?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+
+Thanks
+Mohan L
+
+From tshrinivasan at gmail.com  Fri May 22 04:49:13 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 22 May 2015 04:49:13 +0530
+Subject: [Ilugc] Fwd: [Wikimediaindia-l] ContentTranslation in languages of
+	India (and prizes)
+In-Reply-To: <CACtNa8sBK42v2Kkkf7ba8c0-zhjz6WKS6095hOEeu5WnGe7vtw@mail.gmail.com>
+References: <CACtNa8sBK42v2Kkkf7ba8c0-zhjz6WKS6095hOEeu5WnGe7vtw@mail.gmail.com>
+Message-ID: <CAND2794AscCVOeGFZ=pBT6WAC9Gb+Abje9oK9pAN0teGvEkksQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Amir E. Aharoni <amir.aharoni at mail.huji.ac.il>
+Date: 2015-05-22 1:50 GMT+05:30
+Subject: [Wikimediaindia-l] ContentTranslation in languages of India (and
+prizes)
+To: Wikimedia India Community list <wikimediaindia-l at lists.wikimedia.org>
+
+
+Hi,
+
+TL;DR: It would be great if you could complete the localization of the UI
+of the ContentTranslation extension. Select your language here:
+https://translatewiki.net/w/i.php?title=Special%3AMessageGroupStats&x=D&group=ext-contenttranslation&action=purge#sortable:3=desc
+
+In detail:
+
+ContentTranslation is a MediaWiki extension developed by the Language
+Engineering team in Wikimedia. This extension helps Wikipedia editors
+create new articles by typing their translation from other languages
+comfortably. For more information about the extension see
+https://www.mediawiki.org/wiki/Content_translation
+
+The plan is to deploy this extension in Wikipedias in all languages of
+India before the end of June. To make it more comfortable to all editors,
+please translate the extension's own user interface by selecting your
+language at the following list:
+https://translatewiki.net/w/i.php?title=Special%3AMessageGroupStats&x=D&group=ext-contenttranslation&action=purge#sortable:3=desc
+
+If you don't have a translatewiki account already, you need to create one
+at http://translatewiki.net .
+
+Now it also happens to be a very good time for doing this, because until
+May 26 translatewiki is holding a rally, and prizes will be given to people
+who make at least 500 translations. Localizing ContentTranslation's
+messages counts towards the rally. For more information about the rally see
+https://translatewiki.net/wiki/Project:Rally-2015-05
+
+Please reach out to me if you have any issues.
+
+Thank you for your help, and good luck!
+
+--
+Amir Elisha Aharoni ? ?????? ????????? ??????????
+http://aharoni.wordpress.com
+??We're living in pieces,
+I want to live in peace.? ? T. Moore?
+
+_______________________________________________
+Wikimediaindia-l mailing list
+Wikimediaindia-l at lists.wikimedia.org
+To unsubscribe from the list / change mailing preferences visit
+https://lists.wikimedia.org/mailman/listinfo/wikimediaindia-l
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From rav.adonis at gmail.com  Fri May 22 09:11:12 2015
+From: rav.adonis at gmail.com (Ravi Chandran)
+Date: Fri, 22 May 2015 09:11:12 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <CADiHtmuaz8b4RzCLBN24_dBDGA7OCRRn8RAU7rGK_f=pdW=MKQ@mail.gmail.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+	<CADiHtmuaz8b4RzCLBN24_dBDGA7OCRRn8RAU7rGK_f=pdW=MKQ@mail.gmail.com>
+Message-ID: <CAEKRDfJSJ=Nrj52H-Gyv=W+_fCJtuhhcHXeO6Yjc1FXVnde8=Q@mail.gmail.com>
+
+Pro Puppet 2nd Edition will also help you. Else, take a course at
+https://linuxacademy.com/devops/training/course/name/learning-puppet
+On May 21, 2015 8:03 PM, "Mohan L" <l.mohanphy at gmail.com> wrote:
+
+> On Thu, May 21, 2015 at 11:22 AM, sahil ????? <
+> scorpionking.sahil at gmail.com>
+> wrote:
+>
+> > Namaste Everyone,
+> >
+> > I want expert guideline on following topics:
+> > ??
+> > Jenkins, Puppet, Chef.
+> >
+> > In my past few interviews and for almost any good position in a good
+> > company above technologies are expected from a linux guy along with
+> script
+> > programming.
+> >
+>
+> ??It looks like you have attended interview for DevOps Engineer kind of
+> position. And also mostly companies they are involved in cloud
+> development/deployment (example openstack) looking for this king of skill
+> along with Linux and Visualization.
+>
+>
+>
+> > Are there any videos/notes on above topics which provides an insight so
+> > that it will be easy for a person to connect the dots?
+> > ??
+> >
+> >
+> Watch the below videos. It will give you good starting point for Puppet and
+> why Puppet adds value to your profile.
+>
+> https://www.youtube.com/playlist?list=PLKqyiDdtB8i4pkMgufRXQ1XVte2ezDSNO
+>
+> Here is another nice video which talks about installation and configuration
+> of Puppet + Passenger + Puppet Agent.
+>
+> https://www.youtube.com/playlist?list=PLmxPWpU3uBSFMbQRduXU4Az561wb27o4I
+>
+> Some good books:
+>
+> 1). Puppet 3 Beginner's Guide:
+>
+>
+> http://www.amazon.in/Puppet-Beginners-Guide-Aaron-Kaminar/dp/1782161244/ref=pd_sim_14_3?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+>
+> 2). Pulling Strings with Puppet: Configuration Management Made Easy:
+>
+>
+> http://www.amazon.in/Pulling-Strings-Puppet-Configuration-Management/dp/1590599780/ref=pd_sim_14_4?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+>
+> The Puppet 3 Cookbook:
+>
+> 3).
+>
+> http://www.amazon.in/The-Puppet-Cookbook-John-Arundel/dp/1782169768/ref=pd_sim_14_5?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+>
+> Thanks
+> Mohan L
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From nshanmuga1 at gmail.com  Fri May 22 13:49:18 2015
+From: nshanmuga1 at gmail.com (Nathan P)
+Date: Fri, 22 May 2015 13:49:18 +0530
+Subject: [Ilugc] CentOS6.5-64
+Message-ID: <CAFjbcYzOOiw6WvVhATnnyh_ZRyhV9t4O+mxLZKh14fbjDj=4fA@mail.gmail.com>
+
+dear all,
+
+i am new in CentOS6.5-64. can you please explain how to take remote or
+possible way to monitor my CentOS6.5-64 system through windows system. that
+system is having own website.
+
+-- 
+Regards,
+P.Nathan
+
+From baskar at linuxpert.in  Fri May 22 14:21:30 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Fri, 22 May 2015 14:21:30 +0530
+Subject: [Ilugc] CentOS6.5-64
+In-Reply-To: <CAFjbcYzOOiw6WvVhATnnyh_ZRyhV9t4O+mxLZKh14fbjDj=4fA@mail.gmail.com>
+References: <CAFjbcYzOOiw6WvVhATnnyh_ZRyhV9t4O+mxLZKh14fbjDj=4fA@mail.gmail.com>
+Message-ID: <CACtiFJZvaUOtj15d27VOs_S16HTv4zYtwxdq4ZvP0==6+fsYjg@mail.gmail.com>
+
+On 5/22/15, Nathan P <nshanmuga1 at gmail.com> wrote:
+> dear all,
+>
+> i am new in CentOS6.5-64. can you please explain how to take remote or
+> possible way to monitor my CentOS6.5-64 system through windows system. that
+> system is having own website.
+>
+Install webmin
+
+http://www.webmin.com/rpm.html
+
+S. Baskar
+
+From scorpionking.sahil at gmail.com  Fri May 22 20:37:28 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Fri, 22 May 2015 20:37:28 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+ Jenkins, Puppet, Chef?
+In-Reply-To: <CAEKRDfJSJ=Nrj52H-Gyv=W+_fCJtuhhcHXeO6Yjc1FXVnde8=Q@mail.gmail.com>
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+	<CADiHtmuaz8b4RzCLBN24_dBDGA7OCRRn8RAU7rGK_f=pdW=MKQ@mail.gmail.com>
+	<CAEKRDfJSJ=Nrj52H-Gyv=W+_fCJtuhhcHXeO6Yjc1FXVnde8=Q@mail.gmail.com>
+Message-ID: <CAP6xenmZJn=CueeSsvbonzhH0gzezR9u9rtmdTZ89jRsjUXtiA@mail.gmail.com>
+
+Thanks Shakthi, Mohan and Ravi for your valuable inputs.
+
+Kindly exempt me from top posting as writing this email from mobile.
+
+Regards:
+Sahil Modgill
+On May 22, 2015 9:11 AM, "Ravi Chandran" <rav.adonis at gmail.com> wrote:
+
+> Pro Puppet 2nd Edition will also help you. Else, take a course at
+> https://linuxacademy.com/devops/training/course/name/learning-puppet
+> On May 21, 2015 8:03 PM, "Mohan L" <l.mohanphy at gmail.com> wrote:
+>
+> > On Thu, May 21, 2015 at 11:22 AM, sahil ????? <
+> > scorpionking.sahil at gmail.com>
+> > wrote:
+> >
+> > > Namaste Everyone,
+> > >
+> > > I want expert guideline on following topics:
+> > > ??
+> > > Jenkins, Puppet, Chef.
+> > >
+> > > In my past few interviews and for almost any good position in a good
+> > > company above technologies are expected from a linux guy along with
+> > script
+> > > programming.
+> > >
+> >
+> > ??It looks like you have attended interview for DevOps Engineer kind of
+> > position. And also mostly companies they are involved in cloud
+> > development/deployment (example openstack) looking for this king of skill
+> > along with Linux and Visualization.
+> >
+> >
+> >
+> > > Are there any videos/notes on above topics which provides an insight so
+> > > that it will be easy for a person to connect the dots?
+> > > ??
+> > >
+> > >
+> > Watch the below videos. It will give you good starting point for Puppet
+> and
+> > why Puppet adds value to your profile.
+> >
+> > https://www.youtube.com/playlist?list=PLKqyiDdtB8i4pkMgufRXQ1XVte2ezDSNO
+> >
+> > Here is another nice video which talks about installation and
+> configuration
+> > of Puppet + Passenger + Puppet Agent.
+> >
+> > https://www.youtube.com/playlist?list=PLmxPWpU3uBSFMbQRduXU4Az561wb27o4I
+> >
+> > Some good books:
+> >
+> > 1). Puppet 3 Beginner's Guide:
+> >
+> >
+> >
+> http://www.amazon.in/Puppet-Beginners-Guide-Aaron-Kaminar/dp/1782161244/ref=pd_sim_14_3?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+> >
+> > 2). Pulling Strings with Puppet: Configuration Management Made Easy:
+> >
+> >
+> >
+> http://www.amazon.in/Pulling-Strings-Puppet-Configuration-Management/dp/1590599780/ref=pd_sim_14_4?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+> >
+> > The Puppet 3 Cookbook:
+> >
+> > 3).
+> >
+> >
+> http://www.amazon.in/The-Puppet-Cookbook-John-Arundel/dp/1782169768/ref=pd_sim_14_5?ie=UTF8&refRID=055RWGW8T6TX910SZN68
+> >
+> > Thanks
+> > Mohan L
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From noorul at noorul.com  Fri May 22 23:08:25 2015
+From: noorul at noorul.com (Noorul Islam K M)
+Date: Fri, 22 May 2015 23:08:25 +0530
+Subject: [Ilugc] [[Need guideline]] How can I start my practice with
+	Jenkins, Puppet, Chef?
+In-Reply-To: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+	("sahil \=\?utf-8\?B\?4KS44KS+4KS54KS\/4KSyIidz\?\= message of "Thu,
+	21 May 2015 11:22:24 +0530")
+References: <CAP6xen=bVsGHNPdZ95xORMgWiZgPymUCnhDgKDFymxa3txCpEA@mail.gmail.com>
+Message-ID: <m2r3q8o6lq.fsf@noorul.com>
+
+sahil ????? <scorpionking.sahil at gmail.com> writes:
+
+> Namaste Everyone,
+>
+> I want expert guideline on following topics: Jenkins, Puppet, Chef.
+>
+> In my past few interviews and for almost any good position in a good
+> company above technologies are expected from a linux guy along with script
+> programming.
+>
+> Can a single entity practice on above technologies on her/his own? If yes,
+> then what are the steps? Do we have to set up a proper lab (VM's) for this?
+>
+
+For Chef, Did you take a look at Chef DK [1]
+
+
+Thanks and Regards,
+Noorul
+
+[1] https://downloads.chef.io/chef-dk/
+
+From 77minds at gmail.com  Sat May 23 21:11:18 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 23 May 2015 21:11:18 +0530
+Subject: [Ilugc] Ruby style guides section added
+Message-ID: <CAJR+9kbrrPqBAvMqa-AENcz-5TKek46S0ftYm6nyBHRh6K5sYQ@mail.gmail.com>
+
+Hello People,
+
+Added Ruby style guides section my book "I Love Ruby", grab it here
+https://goo.gl/1qrMUN
+
+------
+
+Karthikeyan A K
+
+From aneesh.reghu at gmail.com  Tue May 26 14:41:04 2015
+From: aneesh.reghu at gmail.com (aneesh reghu)
+Date: Tue, 26 May 2015 14:41:04 +0530
+Subject: [Ilugc] Apt-Cacher-NG server-Roaming clients
+Message-ID: <CAHe+QBui4iY+F+Eu2dHA7jV6o14SbY1v1kYnwjmrBz3adS0aDA@mail.gmail.com>
+
+In our office we configured Apt-Cacher-NG server.We have roaming users
+office and home with a laptop.
+Any one can help me.
+
+
+
+Thanks & Regards
+Aneesh Reghu
+MOB:+919789982220
+
+From sarsarahman at gmail.com  Wed May 27 09:34:18 2015
+From: sarsarahman at gmail.com (Abdur Rahman)
+Date: Wed, 27 May 2015 09:34:18 +0530
+Subject: [Ilugc] [Jobs] JavaScript Developer Wanted
+Message-ID: <CADOy0YqM=hSDSo-DoLdCoSs7ofnD0+dOMdy_BbaiO57AxLP0vA@mail.gmail.com>
+
+Looking experienced JavaScript developer for short-term contract to build a
+listing based product.
+
+Skills Required:
+
+   - CSS
+   - LESS
+   - NodeJS
+   - ExpressJS
+   - Meteor
+   - Leaflet
+
+Interested people can send your profiles to this mail id
+
+
+Regards
+Abdur Rahman
+
+From samy.nw at gmail.com  Wed May 27 11:03:46 2015
+From: samy.nw at gmail.com (kadavul)
+Date: Wed, 27 May 2015 11:03:46 +0530
+Subject: [Ilugc] (no subject)
+Message-ID: <CAOH6vDUasS0Vrf5vw+JcM-DXHOH25xn31KmoAemxJV4cWZS0Nw@mail.gmail.com>
+
+Which is the best RedHat training center in chennai?
+
+From deepsukhwani at gmail.com  Wed May 27 20:37:39 2015
+From: deepsukhwani at gmail.com (Deep Sukhwani)
+Date: Wed, 27 May 2015 20:37:39 +0530
+Subject: [Ilugc] PyCon India CFP Reminder
+Message-ID: <CAEMqiPfz=P9DrZZNOSGCMepuG=naDak9YkU8zazQNmGYM6V=ZA@mail.gmail.com>
+
+Hi
+
+PyCon India is happening from Oct 2 - Oct 4. Call for proposals has been
+open for few months. This is the last week to submit a session.
+
+Session can be a talk or a workshop. We have already received 69 sessions,
+48 talks and 21 workshops. These sessions were from categories like Core
+Python, Embedded Python, Concurrency, Scientific Python, Data
+visualization, Web development, Security, Testing, Infrastructure etc ...
+
+If you're working on Python for fun and profit, you should consider
+submitting a session. PyCon India accepts sessions from first timers to
+experienced veterans.
+
+What are you waiting for? Go ahead and submit a session [1].
+
+Please share the Email/URL with your friends, colleagues and social media.
+Help us conduct an awesome event :-)
+
+[1]: https://goo.gl/dDP3dj
+
+P.S: PyCon India is volunteer driven event and it is made by people like
+you and me.
+
+Regards
+Deep Sukhwani
+?
+
+From aneesh.reghu at gmail.com  Thu May 28 16:27:32 2015
+From: aneesh.reghu at gmail.com (aneesh reghu)
+Date: Thu, 28 May 2015 16:27:32 +0530
+Subject: [Ilugc] Pxe boot unattended install
+Message-ID: <CAHe+QBt3YGarmOsgdciU7kyZbKKZpfMX-uMT5NTynurfbXm--A@mail.gmail.com>
+
+Hi
+
+pxe boot unattended install any one have idea please help me
+
+
+My requirement is
+
+install ubuntu  12.04
+
+
+
+
+
+
+
+
+Thanks & Regards
+Aneesh Reghu
+MOB:+919789982220
+
+From bala150985 at gmail.com  Fri May 29 10:45:17 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Fri, 29 May 2015 10:45:17 +0530
+Subject: [Ilugc] Changing mouse button settings
+Message-ID: <CAFHFDAmmRv-ABuF+qszDB_6ZiihOHP=STwS38sNd_PpdkGNKiw@mail.gmail.com>
+
+Today I made a small blog post and though of sharing it with the
+community.  If you have better suggestion do let me know.
+Changing mouse button settings
+ I have a wireless mouse which works partially.  When I say partially the
+left click alone does not work in it.  It could be due to the fact that it
+was used for many years.  However other aspects of the mouse works, like
+the scroll wheel, middle click, right click and the pointer moves smoothly
+across the screen.
+
+The GUI based mouse setting in ubuntu could only allow you to choose
+between a right handed mouse or a left handed mouse.  I wanted more, I
+wanted the ability to say what button was left click and what button was
+right click.  The idea was I need to make my middle click act as left
+click.  If this could be accomplished I could again have a working mouse
+with left, right click and scroll wheel.
+
+The site mentioned below [1] came to the rescue.
+
+[1]
+https://wiki.ubuntu.com/X/Config/Input
+
+This pictures shows that when I try to reterive the button settings for my
+mouse it shows 1 2 3 4 all the way up to 13.  We are interested in 1 2 and
+3 which corresponds to Left, Middle and Right.
+
+So in the next xinput set-button-map command I replaced 1 2 3 with 1 1 3.
+So this effectively made my left button and middle button do the work of
+left click.
+
+
+<http://2.bp.blogspot.com/-5s4OS1I-1aA/VWfzywvfPsI/AAAAAAAABOc/wptiAs7ctTY/s1600/xinput.jpeg>
+
+
+
+http://bullet-bala.blogspot.in/2015/05/change-mouse-button-settings.html
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From shakthimaan at gmail.com  Fri May 29 11:24:06 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 29 May 2015 11:24:06 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+Message-ID: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+
+Hi,
+
+I am planning to organize another Installfest [1], on Saturday, June
+20, 2015 at the Manufacturing System Insights office in Chennai
+between 0800 and 1500 IST to help people in installing any GNU/Linux
+distribution (Ubuntu, Debian, Fedora, etc.), and also assist in
+configuring their systems and services.
+
+Entry is free, but, limited to twenty-five participants. If you are
+interested in participating, please reply at the earliest with the
+following details:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.) do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+Regards,
+
+SK
+
+[1] Installfest. http://en.wikipedia.org/wiki/Linux_user_group#Installfests
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From kanagaraj.rk at gmail.com  Fri May 29 11:33:23 2015
+From: kanagaraj.rk at gmail.com (RK RK)
+Date: Fri, 29 May 2015 11:33:23 +0530
+Subject: [Ilugc] Pxe boot unattended install
+In-Reply-To: <CAHe+QBt3YGarmOsgdciU7kyZbKKZpfMX-uMT5NTynurfbXm--A@mail.gmail.com>
+References: <CAHe+QBt3YGarmOsgdciU7kyZbKKZpfMX-uMT5NTynurfbXm--A@mail.gmail.com>
+Message-ID: <CALVLwtaTMU+Q+S+LTbgKrqbpow8=06dcGAZm426Sb_4cwxVbsQ@mail.gmail.com>
+
+What you tried and where you stuck?
+
+Just a simple google search will give you tons of result.
+
+Try your best and then come back here with your findings.
+
+Go through this link before posting here,
+http://mattgemmell.com/what-have-you-tried/
+
+-- 
+
+With Regards,
+RK,
++91 9840483044
+
+From shakthimaan at gmail.com  Fri May 29 11:57:13 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 29 May 2015 11:57:13 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+Message-ID: <CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+
+Hi,
+
+Updated list of participants:
+
+* Senthilkumar R
+  Laptop
+  Ubuntu
+  Web development (LAMP)
+  Package Installation basics
+
+* Shakthi Kannan
+  Laptop/Desktop
+  Ubuntu/Guix
+  Installation and configuration
+
+23 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From prasmailme at gmail.com  Fri May 29 20:23:15 2015
+From: prasmailme at gmail.com (Prasanna Venkadesh)
+Date: Fri, 29 May 2015 20:23:15 +0530
+Subject: [Ilugc] Ibus-m17n Tamil Input & Java Applications
+Message-ID: <CACm7z1Z-=HH7ah0jxDU-QXs69gYM6M-3EFBnjcQRkkhkz=qqKA@mail.gmail.com>
+
+Hello people,
+
+I Installed ibus-m17n (tamil - inscript, typewriter & phonetic) in one of
+my friend's laptop running LinuxMint.
+
+He uses a Free Software called OmegaT for translation purposes. It runs on
+JRE.
+The application works, but typing in tamil using ibus is not working with
+any Java based application. He also uses another mind mapping free software
+called FreeMind which is also an Java application.
+
+Here is the actual issue, Ibus daemon is running on background and the icon
+is visible in the task bar. Activating any one of the above (inscript,
+typewriter or phonetic) method and typing on gedit, firefox, libreoffice or
+any gtk based applications works, but nothing is getting typed on OmegaT or
+Freemind except 'f' and 'g' when the respective keys are pressed.
+
+How do I go about resolving this? I did an online search nothing worked,
+there are probably lot of such issues for Chinese language, but that
+doesn't work tamil input.
+
+-- 
+Thanks & Regards,
+Prasanna Venkadesh.
+
+From citizenofgnu at gmail.com  Fri May 29 20:24:22 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Fri, 29 May 2015 20:24:22 +0530
+Subject: [Ilugc] is out site www.ilugc.in domain expired or is it me who not
+ able to access it
+Message-ID: <CAEdr4A7W=Nv0fqbGCMyxmhvCjo0RDO+k8MvTHcEvWO-vPDAypQ@mail.gmail.com>
+
+Hello Friends,
+
+
+I am not able to access www.ilugc.in, request you to confirm any one have
+problem in accessing that!?
+
+
+regards,
+
+Thyagarajan Shanmugham
+
+From vinothtronics at gmail.com  Fri May 29 21:10:43 2015
+From: vinothtronics at gmail.com (Vinoth Marimuthu)
+Date: Fri, 29 May 2015 11:40:43 -0400
+Subject: [Ilugc] is out site www.ilugc.in domain expired or is it me who
+ not able to access it
+In-Reply-To: <CAEdr4A7W=Nv0fqbGCMyxmhvCjo0RDO+k8MvTHcEvWO-vPDAypQ@mail.gmail.com>
+References: <CAEdr4A7W=Nv0fqbGCMyxmhvCjo0RDO+k8MvTHcEvWO-vPDAypQ@mail.gmail.com>
+Message-ID: <CAHoi8=jcAA5SnUUY-KwvEnjvvkNx2JkKuWcfoZiJ=_zE=+1oqA@mail.gmail.com>
+
+it too have problem in accessing and getting domain expired message
+
+On Fri, May 29, 2015 at 10:54 AM, Thyagarajan ?????????? <
+citizenofgnu at gmail.com> wrote:
+
+> Hello Friends,
+>
+>
+> I am not able to access www.ilugc.in, request you to confirm any one have
+> problem in accessing that!?
+>
+>
+> regards,
+>
+> Thyagarajan Shanmugham
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From 77minds at gmail.com  Fri May 29 23:51:10 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Fri, 29 May 2015 23:51:10 +0530
+Subject: [Ilugc] Ibus-m17n Tamil Input & Java Applications
+In-Reply-To: <CACm7z1Z-=HH7ah0jxDU-QXs69gYM6M-3EFBnjcQRkkhkz=qqKA@mail.gmail.com>
+References: <CACm7z1Z-=HH7ah0jxDU-QXs69gYM6M-3EFBnjcQRkkhkz=qqKA@mail.gmail.com>
+Message-ID: <CAJR+9kYLFc9+xA7ibom3E2Hc66AVc7n0qti5eV_EyZZ=75MYJg@mail.gmail.com>
+
+Its exactly for this reason I ported some of my Point of Sale apps
+developed in Java to PyGTK for my clients. I couldn't work it out either.
+Any way PyGobjects is more powerful and am happy about it :)
+
+But if any one do find a solution, I would love to hear about it.
+
+On Fri, May 29, 2015 at 8:23 PM, Prasanna Venkadesh <prasmailme at gmail.com>
+wrote:
+
+> Hello people,
+>
+> I Installed ibus-m17n (tamil - inscript, typewriter & phonetic) in one of
+> my friend's laptop running LinuxMint.
+>
+> He uses a Free Software called OmegaT for translation purposes. It runs on
+> JRE.
+> The application works, but typing in tamil using ibus is not working with
+> any Java based application. He also uses another mind mapping free software
+> called FreeMind which is also an Java application.
+>
+> Here is the actual issue, Ibus daemon is running on background and the icon
+> is visible in the task bar. Activating any one of the above (inscript,
+> typewriter or phonetic) method and typing on gedit, firefox, libreoffice or
+> any gtk based applications works, but nothing is getting typed on OmegaT or
+> Freemind except 'f' and 'g' when the respective keys are pressed.
+>
+> How do I go about resolving this? I did an online search nothing worked,
+> there are probably lot of such issues for Chinese language, but that
+> doesn't work tamil input.
+>
+> --
+> Thanks & Regards,
+> Prasanna Venkadesh.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Sat May 30 00:49:39 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sat, 30 May 2015 00:49:39 +0530
+Subject: [Ilugc] is out site www.ilugc.in domain expired or is it me who
+ not able to access it
+In-Reply-To: <CAEdr4A7W=Nv0fqbGCMyxmhvCjo0RDO+k8MvTHcEvWO-vPDAypQ@mail.gmail.com>
+References: <CAEdr4A7W=Nv0fqbGCMyxmhvCjo0RDO+k8MvTHcEvWO-vPDAypQ@mail.gmail.com>
+Message-ID: <CAND2797A3o0B6GmA0mRwE_WV3XR+5nV+eybXJvOLqnH3wdXJEA@mail.gmail.com>
+
+> I am not able to access www.ilugc.in, request you to confirm any one have
+> problem in accessing that!?
+>
+
+Thanks for the find.
+
+Requested balachandar to renew it.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From thetfg.cosmos at gmail.com  Sat May 30 07:58:12 2015
+From: thetfg.cosmos at gmail.com (Ashwani Kumar Singh)
+Date: Sat, 30 May 2015 07:58:12 +0530
+Subject: [Ilugc] pxe boot unattended install
+In-Reply-To: <mailman.1.1432881001.2240.ilugc@ae.iitm.ac.in>
+References: <mailman.1.1432881001.2240.ilugc@ae.iitm.ac.in>
+Message-ID: <5569203C.8040103@gmail.com>
+
+this should help; would help more if you be a little more descriptive 
+and specific.
+http://www.routereflector.com/2014/01/unattended-vmware-esxi-installation-via-pxe-boot-and-kickstart/
+
+Regards
+Ashwani Kumar Singh
+
+On 05/29/2015 12:00 PM, ilugc-request at ae.iitm.ac.in wrote:
+> pxe boot unattended install a
+
+
+From deepsukhwani at gmail.com  Sun May 31 11:10:35 2015
+From: deepsukhwani at gmail.com (Deep Sukhwani)
+Date: Sun, 31 May 2015 11:10:35 +0530
+Subject: [Ilugc] Last Day to submit your proposal for PyCon India 2015
+Message-ID: <CAEMqiPfLuep+xWtW3_PLhK8CJ+7HK0mCc7QCVaYwsZpepYxbyA@mail.gmail.com>
+
+Hi,
+
+Call for Proposal for PyCon India 2015 closes today.
+
+Don't miss the opportunity to deliver a talk/workshop on your Python
+expertise in PyCon India 2015.
+Hurry! Submit your proposal today!
+You can submit your proposals here
+https://in.pycon.org/cfp/pycon-india-2015/proposals/
+
+Thanks,
+PyCon India Team
+
+?
+
+From professionalgraam at gmail.com  Sun May 31 13:35:57 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Sun, 31 May 2015 13:35:57 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+Message-ID: <556AC0E5.70708@gmail.com>
+
+
+On 29-05-2015 11:24, Shakthi Kannan wrote:
+> Hi,
+>
+> I am planning to organize another Installfest [1], on Saturday, June
+> 20, 2015 at the Manufacturing System Insights office in Chennai
+> between 0800 and 1500 IST to help people in installing any GNU/Linux
+> distribution (Ubuntu, Debian, Fedora, etc.), and also assist in
+> configuring their systems and services.
+>
+> Entry is free, but, limited to twenty-five participants. If you are
+> interested in participating, please reply at the earliest with the
+> following details:
+>
+>   * Full name
+>   * What hardware do you plan to bring (laptop/PC and accessories)?
+>   * What GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.) do you need?
+>   * What you intend to work on?
+>   * Anything else you require during the installfest?
+>
+> Regards,
+>
+> SK
+>
+> [1] Installfest. http://en.wikipedia.org/wiki/Linux_user_group#Installfests
+>
+Hi Shakthi,
+
+Gowtham Raam.J
+Laptop
+slackware
+Multimedia
+An introduction to create a distro on our own.
+
+
+
+-- 
+With Regards,
+Gowtham Raam.J 
+
+From professionalgraam at gmail.com  Sun May 31 19:11:02 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Sun, 31 May 2015 19:11:02 +0530
+Subject: [Ilugc] Call for speakers - June Month Meet
+Message-ID: <556B0F6E.20400@gmail.com>
+
+Hi All,
+
+We can have our monthly meet on June 13(Saturday), You can share your
+Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+Contribution  related to Linux and open source free software or Community.
+
+Reply here if you are interested in giving a talk.
+
+Provide with the following details.
+Topic
+Description
+Links
+Duration
+About Yourself
+
+-- With Regards, Gowtham Raam.J Drop your Mail to :
+professionalgraam at gmail.com Give a call by : (+91)-9443284989
+
+

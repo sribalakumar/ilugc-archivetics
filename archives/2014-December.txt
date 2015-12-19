@@ -1,0 +1,3500 @@
+From tshrinivasan at gmail.com  Mon Dec  1 10:49:50 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 1 Dec 2014 10:49:50 +0530
+Subject: [Ilugc] Fwd: [chennai.rb] [CHENNAI RUBY] [JOB] Looking for Ruby On
+ Rails Web Developer at Moorem Technologies, Bangalore
+In-Reply-To: <CANbB2CMvruD=kZN6R=stJ9FEv0KErpnBb3Wce27bsvHVrZSoQA@mail.gmail.com>
+References: <CANbB2CMvruD=kZN6R=stJ9FEv0KErpnBb3Wce27bsvHVrZSoQA@mail.gmail.com>
+Message-ID: <CAND2797G8vUEYYw58ki_sa4WsSaOqBuZzoHr80epRC_Ne2hiaA@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Thiyagarajan Veluchamy <thiyagarajannv at gmail.com>
+Date: Mon, 1 Dec 2014 10:32:13 +0530
+Subject: [chennai.rb] [CHENNAI RUBY] [JOB] Looking for Ruby On Rails
+Web Developer at Moorem Technologies, Bangalore
+To: chennairb at googlegroups.com
+
+Hi All,
+
+We are on the lookout for a passionate, Ruby on Rails Developer who is
+looking to join a growing team of developers who are engaged in a wide
+variety of web projects. You will become part of a growing team with
+responsibility for maintaining and further developing the company's
+products in an agile environment from defining the initial specification
+through to delivery and testing.
+
+The ideal candidates will have a passion for all things Ruby and Ruby on
+Rails, with ideally 1-3 years experience.
+
+To be successful for this Ruby on Rails role you must have:
+
+
+   -   Over 1-3 years experience of web development
+   -   1 - 2 years experience of Ruby on Rails
+   -   Proven experience of creating user interfaces
+   -   Strong technical skills
+   -   Experience of working as part of a team
+   -   Knowledge of Rails framework
+   -   Frontend exposure with JavaScript, Jquey, Backbone.js, Angular.js
+   -   Experience in MYSQL/Postgres/NOSQL
+   -   Using Git as part of the daily development workflow
+   -   Knowledge of Linux
+
+
+    If anyone interests, please send us your resume to contact at moorem.com
+
+Thanks & Regards,
+Thiyagarajan Veluchamy
+
+-- 
+
+---
+You received this message because you are subscribed to the Google
+Groups "chennai.rb" group.
+To unsubscribe from this group and stop receiving emails from it, send
+an email to chennairb+unsubscribe at googlegroups.com.
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From asprakash_83 at rediffmail.com  Mon Dec  1 13:38:10 2014
+From: asprakash_83 at rediffmail.com (prakash srinivasan)
+Date: 1 Dec 2014 08:08:10 -0000
+Subject: [Ilugc] =?utf-8?q?=5BOT=5D=5BJOBS=5D_Freshers=2C_Linux_Developers?=
+Message-ID: <20141201080810.31148.qmail@f4mail-235-121.rediffmail.com>
+
+
+We, EthicsTech (P) Ltd [1], hiring FRESHERS for the post of Linux Developers to join with our Wearable Ubuntu product development team. Freshers, passionate in Linux/Open Source and having the following skillsets can apply. 
+
+Key Responsibilities ::
+
+- Understanding the project requirement.
+- Developing Wearable Ubuntu Linux OS and companion applications by using Python/Qt/Gtk languages.
+- Testing and debugging the applications.
+
+
+Expected skillsets ::
+
+- Good programming knowledge from any one, Python/Qt/Gtk or equivalent.
+- Good programming knowledge of Javascript, Jquery, HTML & CSS.
+- Excellent knowledge of using any one of Linux operating systems like Ubuntu.
+- Virtualization knowledge is preferable.
+- Knowledge of building Linux OS from scratch, UCK tools or equivalent should be added advantage. 
+- Passionate in open source softwares.
+- Excellent communication skills.
+- Passionate in self learning.
+- Cooperate with team members.
+
+Job location : Chennai
+Job type : Full time
+
+If you are the right candidate, kindly send your resume to me or jobs_AT_ethicstech_DOT_in Add "Application for the post of Linux Developers" in the subject line.
+
+
+All the best,
+Prakash.
+[1]http://ethicstech.in
+
+From tshrinivasan at gmail.com  Mon Dec  1 14:51:30 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 1 Dec 2014 14:51:30 +0530
+Subject: [Ilugc] [job] Fwd: Selenium test automation engineer required
+Message-ID: <CAND2796Ynu05S7AdG11KM6N+pzdjc3iOJ_dksaFSrGH5aUgaNg@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mayur Shah <mayur at kagrana.com>
+Date: 2014-11-24 21:22 GMT+05:30
+Subject: Selenium test automation engineer required
+To: chennai-testing at googlegroups.com
+
+
+Hi,
+
+We are looking for 2-4 years exp selenium test automation engineer.
+
+To apply follow the link below.
+http://kagrana.com/company/career/
+
+--
+You received this message because you are subscribed to the Google
+Groups "Chennai Software Testing" group.
+To unsubscribe from this group and stop receiving emails from it, send
+an email to chennai-testing+unsubscribe at googlegroups.com.
+To post to this group, send email to chennai-testing at googlegroups.com.
+Visit this group at http://groups.google.com/group/chennai-testing.
+For more options, visit https://groups.google.com/d/optout.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From nareshsx09 at gmail.com  Tue Dec  2 10:49:17 2014
+From: nareshsx09 at gmail.com (Naresh Tharun)
+Date: Tue, 2 Dec 2014 10:49:17 +0530
+Subject: [Ilugc] REG: learning Linux server
+In-Reply-To: <CAHFTyBok1C7Y9PdNbEkjzXO1Fruos4EYR_yYz32AOhXs2BxYWQ@mail.gmail.com>
+References: <CAB3pmzsr1HS6so=FwnX_rjLRGxOfYakAtxOsFBr3YYUahqAm4g@mail.gmail.com>
+	<CAHFTyBok1C7Y9PdNbEkjzXO1Fruos4EYR_yYz32AOhXs2BxYWQ@mail.gmail.com>
+Message-ID: <CAEDB-kGPKw4-xdDDova4-e5TdnUmcbEY7-ktd8yvXVonQBQ7JA@mail.gmail.com>
+
+Hi kavin,
+
+self learning is good option..
+
+But if you need more knowledge on linux administration . you can prefer
+redhat linux courses to study basic and later you can work any linux
+distros with that concepts you learned ... i learned it and working in
+debian... so this would be fine option...
+
+
+Regards
+Naresh Kumar .v
+RH{CSA,CE,CVA},JBADMIN,MCITP
+9677037217
+
+
+On Tue, Nov 25, 2014 at 6:52 PM, Kumar <send4kumar at gmail.com> wrote:
+
+> Hi Kavin,
+>
+> Self learning is the best option.
+>
+> http://developer.ubuntu.com/start/
+> http://howtoubuntu.org/
+> There are several material in net to help you.
+>
+>
+>
+> With Thanks and Regards,
+> Kumar
+> m: +91 94434 55374
+> im: send4kumar [ skype ]
+>
+> On Tue, Nov 25, 2014 at 7:23 AM, kavin raj <sikavinraj at gmail.com> wrote:
+>
+> > Dear readers of ILUG,
+> >
+> >     Myself Kavinraj working in a small frame company of web development
+> for
+> > 2 months as a web developer and windows system admin. We had planned to
+> > build new office based on Linux, but I'm not aware of working in Ubuntu
+> > server and Debian server. I would like to have details about a tutorial
+> or
+> > best training center
+> > *===================================*
+> > *-By Kavinraj. S.I*
+> > *Website:* Kavinraj S.I <http://sikavinraj.tk>
+> > *Group: LORE Group [ Open TECH ] <http://www.loregroup.in>*
+> > Phone: 7811811767
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From karthikthanikai at gmail.com  Tue Dec  2 11:27:54 2014
+From: karthikthanikai at gmail.com (karthik dorairaj)
+Date: Tue, 2 Dec 2014 11:27:54 +0530
+Subject: [Ilugc] Computer Vision / Speech Recognition
+Message-ID: <CABkrtXJ_WFh-uP9TWOnuUAqt-tqm7NttnE0GKOi1LeDayx+vdA@mail.gmail.com>
+
+Hi
+Why don't you try to implement Computer Vision using opencv. Moreover lot
+of research going on in this field already. If your are good in programming
+and have knowledge of DSP/ Image processing then it will be added advantage.
+Don't worry about which department it falls.
+
+Regards,
+Karthik.
+
+From yaminicontact at gmail.com  Tue Dec  2 11:39:46 2014
+From: yaminicontact at gmail.com (yamini parthasarathy)
+Date: Tue, 2 Dec 2014 11:39:46 +0530
+Subject: [Ilugc] Regd....workshop
+Message-ID: <CAKEY6qoKXFrc56E7DEZyL=3BCf3b_-1a8yCisHM++bH-cHW-Bg@mail.gmail.com>
+
+Hello everyone....
+
+I m planning to do a project with the PSOC 5 LP (Cypress semiconductor
+product)....
+I m looking for students who can help me out in this process...
+Plss let me know if anyone is interested....
+
+Looking forward for ur reply...
+
+Regards,
+
+[image: --]
+YAMINI PARTHASARATHY
+[image: http://]about.me/yamini_parthasarathy
+<http://about.me/yamini_parthasarathy?promo=email_sig>
+
+From yaminicontact at gmail.com  Tue Dec  2 13:00:38 2014
+From: yaminicontact at gmail.com (yamini parthasarathy)
+Date: Tue, 2 Dec 2014 13:00:38 +0530
+Subject: [Ilugc] Project
+Message-ID: <CAKEY6qprBJziwtGyAwCsDKbwuw=EOtxaXapP0QVpLWYaHcRETA@mail.gmail.com>
+
+Yet to finalise on the project title....
+I have plans of doing something with Low power consumption or increasing
+the battery life.....if u have anyother ideas plss do comment....PSOC is
+basically a processor....
+
+Regards,
+
+[image: --]
+YAMINI PARTHASARATHY
+[image: http://]about.me/yamini_parthasarathy
+<http://about.me/yamini_parthasarathy?promo=email_sig>
+
+From msrarun22 at gmail.com  Tue Dec  2 18:49:50 2014
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Tue, 2 Dec 2014 18:49:50 +0530
+Subject: [Ilugc] Creating image of my centos with openstack
+Message-ID: <CALHF9_H0BWs61yBt1GXWgTVRFZBd9HiJr0vNyVkfz8S92cdfDA@mail.gmail.com>
+
+Dear Team,
+
+
+
+    I have installed centos and openstack in one of our pc and we need to
+create
+ghost image of it and need to restore after installing esxi.I have got some
+ideas
+using DD command.Is any other ways i can create image and restore .
+
+
+Thanks
+Sundar
+
+From smartsheyam at gmail.com  Tue Dec  2 18:53:56 2014
+From: smartsheyam at gmail.com (Sheyam Selvaraj)
+Date: Tue, 2 Dec 2014 18:53:56 +0530
+Subject: [Ilugc] Creating image of my centos with openstack
+In-Reply-To: <CALHF9_H0BWs61yBt1GXWgTVRFZBd9HiJr0vNyVkfz8S92cdfDA@mail.gmail.com>
+References: <CALHF9_H0BWs61yBt1GXWgTVRFZBd9HiJr0vNyVkfz8S92cdfDA@mail.gmail.com>
+Message-ID: <CANJ0g+MAR0s1ou3Z+8EQtY_17PBpzPXb2k-uWod+0oGzFEp5oQ@mail.gmail.com>
+
+You can try clonezilla its one of the best method.
+
+On Tue, Dec 2, 2014 at 6:49 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+
+> Dear Team,
+>
+>
+>
+>     I have installed centos and openstack in one of our pc and we need to
+> create
+> ghost image of it and need to restore after installing esxi.I have got some
+> ideas
+> using DD command.Is any other ways i can create image and restore .
+>
+>
+> Thanks
+> Sundar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+
+*Thanks & Regards*
+
+*    Sheyam*
+
+From professionalgraam at gmail.com  Wed Dec  3 20:03:08 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Wed, 03 Dec 2014 20:03:08 +0530
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <54746D86.3020502@gmail.com>
+References: <54746D86.3020502@gmail.com>
+Message-ID: <547F1F24.9010504@gmail.com>
+
+
+On 25-11-2014 17:22, Gowtham Raam wrote:
+> Hi All,
+>
+>
+> We can have our monthly meet on Decmeber 13(Saturday), You can share your
+> Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> Contribution  related to Linux and open source free software or
+> Community. Reply here if you are interested in giving a talk.
+>
+>
+>
+> Provide with the following details.
+> Topic
+> Description
+> Links
+> Duration
+> About Yourself
+>
+Hi All,
+
+A gentle remainder in regard. Please give the details before 8th 
+December 2014.
+
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From mailzico at gmail.com  Thu Dec  4 20:40:52 2014
+From: mailzico at gmail.com (Zico)
+Date: Thu, 4 Dec 2014 09:10:52 -0600
+Subject: [Ilugc] Disabling ETag in httpd
+Message-ID: <CA+1bt6QEv8+EDFapFC4uG1s3cRAtATndB0T-Jt5Xi1fK04667A@mail.gmail.com>
+
+Hello Gurus,
+
+Can you please help me anyhow on how it's possible to disable ETag in httpd
+of CentOS6.x? I tried this (**) but nothing is happening.
+
+(**)
+http://www.linuxask.com/questions/turn-off-etag-in-apache
+
+-- 
+Best,
+Zico
+
+From vikneshwaren.u at gmail.com  Thu Dec  4 23:15:20 2014
+From: vikneshwaren.u at gmail.com (Vikneshwaren)
+Date: Thu, 4 Dec 2014 23:15:20 +0530
+Subject: [Ilugc] Fwd: [Fsmk-discuss] Fwd: [Wikimedia-in-mum] Community
+ Participation Support at Swatantra 2014
+In-Reply-To: <CAPYgbuNcx01RGecWg50vTn3MDH_AWQuyu2KZ-jVLM7aHGQrVtA@mail.gmail.com>
+References: <548083BE.4090000@cis-india.org>
+	<CAPYgbuNcx01RGecWg50vTn3MDH_AWQuyu2KZ-jVLM7aHGQrVtA@mail.gmail.com>
+Message-ID: <CAAyiP1YDDz7-ZDneCacy40oQrqRkwXwZFZ08GEzK2_kM45iXhg@mail.gmail.com>
+
+--
+Vikneshwaren
+Free Software Foundation, Tamil Nadu
+
+---------- Forwarded message ----------
+From: Nikita Belavate <niki8891 at gmail.com>
+Date: Thu, Dec 4, 2014 at 10:25 PM
+Subject: [Fsmk-discuss] Fwd: [Wikimedia-in-mum] Community Participation
+Support at Swatantra 2014
+To: Discussion list of FSMM <fsmm-discuss at fsmm.in>, Discussions related to
+Free Software and the Movement <fsmk-discuss at lists.fsmk.in>
+
+
+*FYI:*
+
+*-- *
+*Warm Regards,*
+*Nikita Belavate.*
+
+*+91 99-20-30-9661*
+
+
+---------- Forwarded message ----------
+From: Rahmanuddin <rahim at cis-india.org>
+Date: Thu, Dec 4, 2014 at 9:24 PM
+Subject: [Wikimedia-in-mum] Community Participation Support at Swatantra
+2014
+To: wikimedia-in-mum at lists.wikimedia.org
+
+
+ Dear Wikimedians,
+
+ICFOSS, Govt of Kerala in collaboration with FSF-India, CIS, SFLC.in,
+Swatantra Malayalam Computing and other like minded organisations is
+celebrating Swtantra-2014, fifth international free software confrence of
+Kerala. This is scheduled during 18-20 December 2014 at Thiruvananthapuram.
+More details about the event can be seen at : http://icfoss.in/fs2014/ .
+
+CIS-A2K will be providing limited travel and stay scholarships to
+interested Wikimedians from various language communities to attend this
+event and benefit from it. Upto 10 scholarships are available for
+Wikimiedians applying from Kerala. Upto 3 scholarships will be considered
+from other Indic Wikimedians and India based English Wikipedians. If you
+are interested please register your name here on Meta
+<
+https://meta.wikimedia.org/wiki/India_Access_To_Knowledge/Requests/Swatantra
+>
+.
+
+*Eligibility*: You should have been a Wikimedian with a minimum of 200
+edits on Wikimedia projects as on June 1, 2014.
+
+*Important dates*: Nominate yourself by *December 8*, 2014 (many apologies
+for this delay and short notice). We will confirm support by December 9,
+2014.
+
+*Travel & Stay information*: (applicable only once the support is
+confirmed)
+
+  * Low fare flight costs will be considered if your travel by bus/train is
+more than 24 hours to Thiruvananthapuram.
+  * Stay in budget hotels, preferably on twin sharing basis.
+  * All costs of the selected Wikimedians will be reimbursed on actual
+basis upon submission of original bills to CIS Office in Bangalore within
+10 days of receipt.
+  * It is essential to submit boarding passes along with tickets if you
+travel by a flight.
+  * CIS could help book flight tickets upon request. Those interested to
+avail this support need to fill a form that we will circulate
+
+*Queries and correspondence*:
+
+  * For all queries, please write to rahim{at}cis-india.org and vishnu{at}
+cis-india.org
+
+*Expectations from selected Wikimedians*:
+
+  * Please see if you could utilize this opportunity to find solutions to
+some of the technical/other problems your community may be facing.
+  * Do consider giving back the learning to your respective communities.
+  * We would appreciate if you could share your experience and learning
+publicly. CIS-A2K will be happy to publish your write-up on our blog
+
+If you know of a Wikimedian in your community who could benefit from this
+event and also could bring back learning to benefit your community, please
+encourage them to apply.
+
+Thank you
+Rahmanuddin Shaik
+Program Officer
+CIS-A2K
+
+_______________________________________________
+Wikimedia-in-mum mailing list
+Wikimedia-in-mum at lists.wikimedia.org
+https://lists.wikimedia.org/mailman/listinfo/wikimedia-in-mum
+_______________________________________________
+fsmk-discuss mailing list
+fsmk-discuss at lists.fsmk.in
+http://lists.fsmk.in/listinfo.cgi/fsmk-discuss-fsmk.in
+
+From netwebsteps at gmail.com  Sun Dec  7 10:11:27 2014
+From: netwebsteps at gmail.com (G.T.RAO)
+Date: Sun, 7 Dec 2014 10:11:27 +0530
+Subject: [Ilugc] [ RMS ] Free Software And Your Freedom Talk By Dr. Richard
+	Matthew Stallman
+Message-ID: <CANx6DUN_1bAB_Wi0uPDknDT5zahyGqOu4dY3cSXFKr5rVb7nXA@mail.gmail.com>
+
+Greetings All,
+
+Dr. Richard Matthew Stallman
+[software freedom activist and computer programmer]  in jaipur,
+Rajasthan,India on 15th Dec, 2014
+
+
+
+http://www.fsf.org/events/rms-speeches.html
+
+
+OPEN EVENT
+
+
+
+
+VENUE : MAHARANA PRATAP AUDITORIUM
+               VIDYA ASHARAM SCHOOL,JAIPUR
+               RAJSTHAN,INDIA
+TIME  :   3.00 PM
+DATE  :  15th December,2014
+
+
+
+
+
+
+*Regards,*
+*G.T.RAOA free software fund-a-mentaL-isT.*
+http://fossyatra.wordpress.com
+http://paper.li/GTRao/1342070958
+??????: ??:????? ?? ???? ????? ????????? ?? ?? ??? ?? ?????? ??
+??? ????? ??.?? ??? adware,?? ??? spyware, ????? ????? ?????????.
+* Please don't print this e-mail unless you really need to.*
+Sent with MailTrack
+<https://mailtrack.io/install?source=signature&lang=en&referral=netwebsteps at gmail.com&idSignature=22>
+
+From prasmailme at gmail.com  Sun Dec  7 21:13:47 2014
+From: prasmailme at gmail.com (Prasanna Venkadesh)
+Date: Sun, 7 Dec 2014 21:13:47 +0530
+Subject: [Ilugc] [[Doubts]] Privacy and Surveillance (Govt. Snooping)
+In-Reply-To: <CANc+2y6oP75GdztyzSnoS6_v3=OdeBVcBPtum4MoUeABcGiFPg@mail.gmail.com>
+References: <CAP6xenm2WZ2P1o43O0WYS_qTvY6dBN-nxn8kXG3cLTAqeZpMfw@mail.gmail.com>
+	<CANc+2y6oP75GdztyzSnoS6_v3=OdeBVcBPtum4MoUeABcGiFPg@mail.gmail.com>
+Message-ID: <CACm7z1acu_pukeJvg4RNMv-OsckxB252wwqw3jR3Gy9ibCZ8Gw@mail.gmail.com>
+
+On Sun, Nov 30, 2014 at 3:03 PM, PrasannaKumar Muralidharan <
+prasannatsmkumar at gmail.com> wrote:
+
+> If Indian governmnet needs my data to protect me and others I am okay with
+> that. But with some conditions - I should know which data is taken, it
+> should be protected in such a way that no human / non-human can access it
+> directly without a court order and the data should be used only for the
+> above mentioned purpose. Data collected has to be destroyed properly if the
+> person wants so (may be with a court order or some other legal procedure).
+> Also I need to see what data is available if I wish.
+>
+> I am not okay with US government doing this. Why should it need to have
+> access to my data? I don't want that. I feel US government is using and
+> will use my data for undue commercial advantage. I want that to be stopped.
+>
+
+Irony is that, saying this from a gmail address. Firstly it's the US
+private corporations like Google, Facebook, Amazon, Yahoo, Microsoft (this
+isn't accident that American corporates have penetrated world-wide: Modern
+Imperialism) are collecting data / metadata which is used by US Government
+& when the government understood the benefits they are reaping out of mass
+surveillance they encourages the activity by sanctioning projects and
+funding for Private corporates.
+
+Government controls the people (that's not democracy) and Corporates reaps
+profits. The state of people in this picture?
+I cannot and will not trust a government or political party backed by
+Corporates.
+
+We can stop the mass surveillance. Mass Surveillance is possible because of
+two reasons.
+
+   1. Plain data without Encryption. We should start to encrypt everything
+   or atleast as far as possible (
+   https://www.encrypteverything.ca/index.php?title=Main_Page) (
+   https://ssd.eff.org/)
+   2. Centralized Architecture: Corporations and governments are collecting
+   large amounts of data because the centralized architecture allows to do so.
+   We should evolve into De-centralized, community driven architecture much
+   like Torrents and even something like Magnetic links. There is a discussion
+   here, (
+   http://discuss.fsftn.org/t/is-internets-centralized-architecture-a-problem/133).
+   Also do take a look at this interesting conversation
+   https://www.youtube.com/watch?v=i85fX9-sKYo
+
+
+The book "When Google met Wikileaks" unmasks the true nature of Corporates
+like Google. When we speak about corporates, it is wholly the Executive
+persons (Venture Capitalists, CEO, Chairman, etc.,) of that corporation
+responsible for all of its activities since they are those who are enjoying
+the profits. Audio book is available here for free
+http://wikileaks.org/Transcript-Meeting-Assange-Schmidt
+
+Also this talk on Tor provides a very good insight and counter-arguments
+for those who claim anonymity is bad
+https://www.youtube.com/watch?v=8NxTFDDdjd4
+
+
+
+
+
+>
+> This is my personal opinion.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards,
+Prasanna Venkadesh.
+
+From knura9 at gmail.com  Sun Dec  7 23:36:03 2014
+From: knura9 at gmail.com (Arun Khan)
+Date: Sun, 7 Dec 2014 23:36:03 +0530
+Subject: [Ilugc] [HELP] Extracting directory names using sed
+In-Reply-To: <CACtiFJboyFSa46j7j=Mv1fbSyARj4EEVtbK8VLSuFhPzrJ4Zug@mail.gmail.com>
+References: <CACtiFJY5+S4X==tycqB6MDTEFCR5EguGFetB0AWRDxXJp0t0kw@mail.gmail.com>
+	<CABG-yt0aSWT2=hSAZq_U_AQR5Z5acJOxs=NVzy3eWzgX7eRt3w@mail.gmail.com>
+	<CACtiFJanFymC2znV5AZGygfq6NSOg2XszitwH0FVE=Rhz7Xivw@mail.gmail.com>
+	<CACtiFJboyFSa46j7j=Mv1fbSyARj4EEVtbK8VLSuFhPzrJ4Zug@mail.gmail.com>
+Message-ID: <CAHhM8gCnihHB9ob9cne=T+1mBG4fdeE27zm2HL6Z4fOONRfZdg@mail.gmail.com>
+
+On Fri, Nov 28, 2014 at 1:08 PM, Baskar Selvaraj <baskar at linuxpert.in> wrote:
+>>>   $ echo "/pub/videos/nptel/Computer Science and Engineering/Data Structures And
+>>> Algorithms" | awk '{print $(NF - 1), $NF}' FS='/' OFS='/'
+>>
+>> It works, but however I could not store the output in a variable
+>> because of long file name in the output.
+>>
+>> echo $PWD | awk '{print $(NF-1), $NF}' FS='/' OFS='/'
+>
+> Ok now.
+>
+> subject=$(echo $PWD | awk '{print $(NF - 1), $NF}' FS='/' OFS='/')
+>
+
+Been away from the list for a while.
+
+FWIW, command dirname will return the directory portion of a full
+pathname, basename returns the last part of a full pathname.
+
+-- Arun Khan
+
+From vijai.ganapathy at gmail.com  Tue Dec  9 23:26:18 2014
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Tue, 9 Dec 2014 23:26:18 +0530
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <547F1F24.9010504@gmail.com>
+References: <54746D86.3020502@gmail.com>
+	<547F1F24.9010504@gmail.com>
+Message-ID: <CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+
+On Wed, Dec 3, 2014 at 8:03 PM, Gowtham Raam <professionalgraam at gmail.com>
+wrote:
+
+>
+> On 25-11-2014 17:22, Gowtham Raam wrote:
+> > Hi All,
+> >
+> >
+> > We can have our monthly meet on Decmeber 13(Saturday), You can share your
+> > Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> > Contribution  related to Linux and open source free software or
+> > Community. Reply here if you are interested in giving a talk.
+> >
+> >
+> >
+> > Provide with the following details.
+> > Topic
+> > Description
+> > Links
+> > Duration
+> > About Yourself
+> >
+> Hi All,
+>
+> A gentle remainder in regard. Please give the details before 8th
+> December 2014.
+>
+> --
+> With Regards,
+> Gowtham Raam.J
+> Drop your Mail to : professionalgraam at gmail.com
+> Give a call by : (+91)-9443284989
+> Visit My blog : http://pacesettergraam.wordpress.com
+> /*FOSS gives you freedom It is a philosophy Open source is a development
+> model just to improve quality of code */
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+I can talk about  the open source ITIL based software ITOP , used for our
+service desk operations.
+It will be informal talk, to share our implementation sucess, issues and
+gaps.
+
+
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From professionalgraam at gmail.com  Tue Dec  9 23:43:41 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Tue, 09 Dec 2014 23:43:41 +0530
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+References: <54746D86.3020502@gmail.com>	<547F1F24.9010504@gmail.com>
+	<CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+Message-ID: <54873BD5.3040208@gmail.com>
+
+
+On 09-12-2014 23:26, Vijai Ganapathy wrote:
+> On Wed, Dec 3, 2014 at 8:03 PM, Gowtham Raam <professionalgraam at gmail.com>
+> wrote:
+>
+>> On 25-11-2014 17:22, Gowtham Raam wrote:
+>>> Hi All,
+>>>
+>>>
+>>> We can have our monthly meet on Decmeber 13(Saturday), You can share your
+>>> Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+>>> Contribution  related to Linux and open source free software or
+>>> Community. Reply here if you are interested in giving a talk.
+>>>
+>>>
+>>>
+>>> Provide with the following details.
+>>> Topic
+>>> Description
+>>> Links
+>>> Duration
+>>> About Yourself
+>>>
+>> Hi All,
+>>
+>> A gentle remainder in regard. Please give the details before 8th
+>> December 2014.
+>>
+>> --
+>> With Regards,
+>> Gowtham Raam.J
+>> Drop your Mail to : professionalgraam at gmail.com
+>> Give a call by : (+91)-9443284989
+>> Visit My blog : http://pacesettergraam.wordpress.com
+>> /*FOSS gives you freedom It is a philosophy Open source is a development
+>> model just to improve quality of code */
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+> I can talk about  the open source ITIL based software ITOP , used for our
+> service desk operations.
+> It will be informal talk, to share our implementation sucess, issues and
+> gaps.
+>
+>
+>
+
+
+Hi Vijay,
+
+That great.
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From claudia.mcintyre5 at gmail.com  Tue Dec  9 23:47:18 2014
+From: claudia.mcintyre5 at gmail.com (Claudia McIntyre)
+Date: Tue, 9 Dec 2014 13:17:18 -0500
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+References: <54746D86.3020502@gmail.com> <547F1F24.9010504@gmail.com>
+	<CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+Message-ID: <CANGk6XdiF7hs0J=JkFHkGHajP1=4DTzry1s-GZustRwDSC-c1Q@mail.gmail.com>
+
+Please remove me from your email list.
+
+On Tuesday, December 9, 2014, Vijai Ganapathy <vijai.ganapathy at gmail.com>
+wrote:
+
+> On Wed, Dec 3, 2014 at 8:03 PM, Gowtham Raam <professionalgraam at gmail.com
+> <javascript:;>>
+> wrote:
+>
+> >
+> > On 25-11-2014 17:22, Gowtham Raam wrote:
+> > > Hi All,
+> > >
+> > >
+> > > We can have our monthly meet on Decmeber 13(Saturday), You can share
+> your
+> > > Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> > > Contribution  related to Linux and open source free software or
+> > > Community. Reply here if you are interested in giving a talk.
+> > >
+> > >
+> > >
+> > > Provide with the following details.
+> > > Topic
+> > > Description
+> > > Links
+> > > Duration
+> > > About Yourself
+> > >
+> > Hi All,
+> >
+> > A gentle remainder in regard. Please give the details before 8th
+> > December 2014.
+> >
+> > --
+> > With Regards,
+> > Gowtham Raam.J
+> > Drop your Mail to : professionalgraam at gmail.com <javascript:;>
+> > Give a call by : (+91)-9443284989
+> > Visit My blog : http://pacesettergraam.wordpress.com
+> > /*FOSS gives you freedom It is a philosophy Open source is a development
+> > model just to improve quality of code */
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+> I can talk about  the open source ITIL based software ITOP , used for our
+> service desk operations.
+> It will be informal talk, to share our implementation sucess, issues and
+> gaps.
+>
+>
+>
+> --
+> Vijai Ganapathy
+> Mailto: Vijai.Ganapathy at gmail.com <javascript:;>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From manokaran at gmail.com  Wed Dec 10 00:15:17 2014
+From: manokaran at gmail.com (Manokaran K)
+Date: Tue, 09 Dec 2014 18:45:17 +0000
+Subject: [Ilugc] Call for speakers -December Month Meet
+References: <54746D86.3020502@gmail.com> <547F1F24.9010504@gmail.com>
+	<CACahg4E35B2xji1XTjgb4m4wva6RrffweEhFnXCBoea1Fme1Aw@mail.gmail.com>
+	<CANGk6XdiF7hs0J=JkFHkGHajP1=4DTzry1s-GZustRwDSC-c1Q@mail.gmail.com>
+Message-ID: <CAKGmkL3eb7N=wKL_GCJRa3_oaA768=qzed903nZSBGLYKuEA3g@mail.gmail.com>
+
+On Tue Dec 09 2014 at 11:47:35 PM Claudia McIntyre <
+claudia.mcintyre5 at gmail.com> wrote:
+
+> Please remove me from your email list.
+>
+
+Pls go here: http://www.ae.iitm.ac.in/mailman/listinfo/ilugc and scroll to
+the bottom of the page.
+
+Cheers,
+mano
+
+From frey4u at gmail.com  Wed Dec 10 11:59:12 2014
+From: frey4u at gmail.com (Godfrey Reuben Paul)
+Date: Wed, 10 Dec 2014 11:59:12 +0530
+Subject: [Ilugc] Django / flask Python developers needed
+Message-ID: <CAFH=F8QPo4Lx=YZzAXtuQrUtH+Jibw3Eyn-cH5MX1_c6unwntw@mail.gmail.com>
+
+Hi friends,
+
+A opportunity for flask/Django python in our concern.
+
+
+Eligibility : 3 - 4 years experienced in the above mentioned platform
+                Ready to take the interview with our clients
+                Ready to travel in B1 visa.
+
+
+Please contact me for further details - 9962525127
+
+Thanks,
+
+-- 
+Regards,
+Godfrey.P
+Chennai
+
+From vijaykumar at bravegnu.org  Wed Dec 10 22:32:44 2014
+From: vijaykumar at bravegnu.org (Vijay Kumar B)
+Date: Wed, 10 Dec 2014 17:02:44 +0000 (UTC)
+Subject: [Ilugc] Chennai Python User Group, December Meetup
+Message-ID: <loom.20141210T175328-906@post.gmane.org>
+
+# December Meetup
+
+## Date & Time
+
+  * 20th December
+  * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+  * Lightning Talks (40 min)
+  * Networking over Tea sponsored by Kagrana Software (20 min)
+  * Lightning Talks (40 min)
+  * Discussions (20 min)
+
+## Talks
+
+  * "Python and its Functions" by Shrayas Rajagopal
+  * "How Python Changed My View of Programming" by Rengaraj
+  * "Contributing to Shaape" by Babu Subash Chandar
+  * "Breaking Free with Rope" by Vijay Kumar
+  * "Introduction to Sage" by Amritanshu Prasad
+  * "Sentiment Analysis using Python" by Venkatesh
+  * "Decorators" by Shrayas Rajagopal
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/219031098/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/219031098/
+
+## New to Python?
+
+If you are new to Python, the tutorial at
+http://learnxinyminutes.com/docs/python/ will give you a quick
+overview of what Python is all about. 
+
+
+From shakthimaan at gmail.com  Fri Dec 12 08:36:35 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Dec 2014 08:36:35 +0530
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <54746D86.3020502@gmail.com>
+References: <54746D86.3020502@gmail.com>
+Message-ID: <CABG-yt0ZS3fn5wj=MW=_d4m8qAHTkiFo23PYowRW8RiRWUmZQg@mail.gmail.com>
+
+Hi,
+
+Sorry for the late update, as I was not sure if I will make it to the
+meet. Now, that I am going to attend, here are my talk details:
+
+Topic: Introduction to Emacs Haskell mode
+
+Description: A tutorial on using the haskell-mode in Emacs for
+development and testing.
+
+Links: https://www.haskell.org/haskellwiki/Emacs#Haskell-mode
+
+Duration: 30 minutes
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Fri Dec 12 09:58:03 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 12 Dec 2014 09:58:03 +0530
+Subject: [Ilugc] Fwd: [Chennaipy] [Jobs] Openings for full-time Interns,
+ entry-, mid- and expert-level Python programmers.
+In-Reply-To: <CAPbKEUp=iEvTO8DzzcdQt3OV5Otwy1avZDWbPT81CqTm1bFy3A@mail.gmail.com>
+References: <CAPbKEUp=iEvTO8DzzcdQt3OV5Otwy1avZDWbPT81CqTm1bFy3A@mail.gmail.com>
+Message-ID: <CAND2795QhN2KV=FaWB-6a-_esvbTWhmt3tvqkxqkCT56Xm1X=g@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Sangeeth Saravanaraj <sangeeth.saravanaraj at gmail.com>
+Date: 2014-12-12 9:33 GMT+05:30
+Subject: [Chennaipy] [Jobs] Openings for full-time Interns, entry-, mid-
+and expert-level Python programmers.
+To: bangpypers at python.org, chennaipy at python.org
+
+
+?Riptide IO <http://riptideio.com/> has multiple openings for Python
+programmers. We are looking for full-time Interns, entry-, mid- and
+expert-level Python programmers.? You could apply here -
+https://www.linkedin.com/jobs2/view/13795011
+
+We are also looking for Python developers in test -
+https://www.linkedin.com/jobs2/view/28208583
+
+You could also send us your resume and/or github link to jobs at riptideio.com
+
+Thank you,
+
+Sangeeth
+
+
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From mail2marikkannan at gmail.com  Fri Dec 12 16:38:11 2014
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Fri, 12 Dec 2014 16:38:11 +0530
+Subject: [Ilugc] Configuration of "Same Host Name" for my all LAN Machines
+	under squid proxy
+Message-ID: <CAJ=JFUn3Uz685BxKQU-JN6PH_75Y86DQ7O2CmO2oCsCJuYiKRQ@mail.gmail.com>
+
+Hi All..,
+
+          I am having the network model as
+
+                        Modem                                      N/w
+Switch
+    ISDN (Airtel) ----------->  Server(Centos) [Squid] ----------------->
+Client Machines.
+
+ Now I will plan to set the same host name(localdev.com) to all my windows
+client machines.
+
+ So I put an entry in windows "/etc/hosts" file as "192.168.2.42
+localdev.com",but this setup is working fine in without squid proxy(direct
+connection).
+
+ While I am connecting through proxy.it doesn't work any more.,I changed
+the settings in Server hostfile ("/etc/hosts").,that is working for single
+machine.,but my requirement is to make the entire working environment (all
+machines) with same hostname.
+
+      What should be the changes I should made to make this as
+successful..,please suggest me if you have any ideas..,
+
+
+   "Thanks in Advance"
+
+
+
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From rkrajeshkumar87 at gmail.com  Fri Dec 12 16:40:27 2014
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Fri, 12 Dec 2014 16:40:27 +0530
+Subject: [Ilugc] [Jobs] Opening For Drupal, linux and Android developer
+Message-ID: <CAAKbJMLh4QJNs3ibYiRJcrMTwAUohkRdn5V4xL0K1i03OcB3WQ@mail.gmail.com>
+
+Dear Guys,
+
+We have opening for drupal, android and linux developers. Experience must
+be from 6 month to 2 years. Interested candidates please do send your
+resumes to
+rajeshkumar.k at igts.in / hr.tag at igts.in
+
+
+--
+regards
+Rajesh Kumar R.K
+
+From priyacst at gmail.com  Fri Dec 12 17:24:04 2014
+From: priyacst at gmail.com (Priya K)
+Date: Fri, 12 Dec 2014 17:24:04 +0530
+Subject: [Ilugc] [OT] Regarding reviewing git tutorials
+Message-ID: <CAEw0Hbu=gPGpEmGBDz=1P=hJPtiYDwGqJ6ahjJuswV59jJWN3g@mail.gmail.com>
+
+Dear Friends,
+
+Greetings from Spoken Tutorial Project at IIT Bombay.
+
+The Spoken Tutorial project is the initiative of the "Talk to a Teacher"
+project of the National Mission on Education through Information
+Communication through Technology, launched by MHRD, Govt of India.
+
+Spoken Tutorials team creates tutorial on various Free and Open Source
+Software (FOSS) in various Indian regional languages. Please visit
+http://www.spoken-tutorial.org for more details.
+
+We are looking for a reviewer to review the outline, scripts and video
+tutorials on *git* (version control system).  Reviewer should be either a
+faculty member of an institution/university or a person with 2-3 years of
+working experience in *git*.
+
+A reasonable honorarium will be paid to the reviewer.
+
+Those who are interested, please get back to us at the earliest.  Pls write
+to me or *contact at spoken-tutorial.org <contact at spoken-tutorial.org>*
+expressing your interest.
+
+Regards,
+K. Priya
+
+From vijai.ganapathy at gmail.com  Fri Dec 12 18:31:57 2014
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Fri, 12 Dec 2014 18:31:57 +0530
+Subject: [Ilugc] Call for speakers -December Month Meet
+In-Reply-To: <CABG-yt0ZS3fn5wj=MW=_d4m8qAHTkiFo23PYowRW8RiRWUmZQg@mail.gmail.com>
+References: <54746D86.3020502@gmail.com>
+	<CABG-yt0ZS3fn5wj=MW=_d4m8qAHTkiFo23PYowRW8RiRWUmZQg@mail.gmail.com>
+Message-ID: <CACahg4H8GWT6ttNrMjULT_8-ushx4oYcgCS7p26nZ8ZSio+AaA@mail.gmail.com>
+
+On Fri, Dec 12, 2014 at 8:36 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> Sorry for the late update, as I was not sure if I will make it to the
+> meet. Now, that I am going to attend, here are my talk details:
+>
+> Topic: Introduction to Emacs Haskell mode
+>
+> Description: A tutorial on using the haskell-mode in Emacs for
+> development and testing.
+>
+> Links: https://www.haskell.org/haskellwiki/Emacs#Haskell-mode
+>
+> Duration: 30 minutes
+>
+> About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+> at shakthimaan.com.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+I have meeting scheduled at customer place t'row. I am not sure whether I
+will make it to the meeting.
+
+
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From mycert83 at gmail.com  Fri Dec 12 18:43:17 2014
+From: mycert83 at gmail.com (Sathya Narayanan)
+Date: Fri, 12 Dec 2014 18:43:17 +0530
+Subject: [Ilugc] AWS inventory
+Message-ID: <CACqv84h6y4mEjUSw-RL927AaeG1yhv1nw17-D8qMABep9YyB_g@mail.gmail.com>
+
+Hi Team,
+
+Can some one help me on how to take a server inventory (list of running and
+non-running) instance from AWS console.
+
+Are there any tools available which can tell me the running and non-running
+instance in an account (including all the regions)?
+
+There is a CLI tool (ec2ds),but we have almost 30 accounts and each account
+have more than 35 instance/region,taking a manual inventory will take at
+least a week,which I don't want to do.
+
+Please suggest.
+
+Regards,
+R.Sathya
+
+From shakthimaan at gmail.com  Fri Dec 12 21:13:02 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Dec 2014 21:13:02 +0530
+Subject: [Ilugc] AWS inventory
+In-Reply-To: <CACqv84h6y4mEjUSw-RL927AaeG1yhv1nw17-D8qMABep9YyB_g@mail.gmail.com>
+References: <CACqv84h6y4mEjUSw-RL927AaeG1yhv1nw17-D8qMABep9YyB_g@mail.gmail.com>
+Message-ID: <CABG-yt0vZ+Ve2_0L_5knAzn-OYgHWmO3yLidYA3prGe-uXNfMA@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Dec 12, 2014 at 6:43 PM, Sathya Narayanan
+<mycert83 at gmail.com> wrote:
+| Can some one help me on how to take a server inventory (list of running and
+| non-running) instance from AWS console.
+\--
+
+This mailing list for free and open source software discussions. You
+might want to ask Amazon.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Fri Dec 12 22:07:57 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Dec 2014 22:07:57 +0530
+Subject: [Ilugc] Fwd:  Call for speakers -December Month Meet
+In-Reply-To: <CABG-yt02DaWHzgHrNEX7bH-h7qHD_SYyN0zBdQNyS-g5rWCZSA@mail.gmail.com>
+References: <54746D86.3020502@gmail.com> <547F1F24.9010504@gmail.com>
+	<CABG-yt02DaWHzgHrNEX7bH-h7qHD_SYyN0zBdQNyS-g5rWCZSA@mail.gmail.com>
+Message-ID: <CABG-yt2sxq+u7RdCRtu7afhdWry+GUbYMAHK1dHrnPg=9HyE6Q@mail.gmail.com>
+
+Hi,
+
+I didn't see an announcement for tomorrow's ILUG-C meet.
+
+@Gautham
+Can you please confirm the same?
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From professionalgraam at gmail.com  Fri Dec 12 23:29:58 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 12 Dec 2014 23:29:58 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_December_14_2014?=
+Message-ID: <548B2D1E.5030008@gmail.com>
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+We have our Meet on December 14, 2014
+
+Check the details below.
+
+ILUGC Monthly Meet :-
+
+Time : Sat December 14, 2014 (3.00 ? 6.00 PM)
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+*Talk - 1. *
+
+Topic ?:?
+
+Food, Freedom, Decentralization
+
+
+Description ?:?
+
+A research based on Food, Freedom, Decentralization.
+
+Duration ?:? 30  mins
+
+About Yourself ?:?
+
+Ganesh  a philosophist and Researcher.
+
+*Talk - 2. *
+
+Topic ?:?
+
+Open source ITIL based software ITOP
+
+
+Description ?:?
+
+Used for our service desk operations.
+
+   Duration ?:? 30  mins
+
+About Yourself ?:?
+
+Vijai Ganapathy Mailto: Vijai.Ganapathy at gmail.com
+
+
+*Talk - 3.*
+
+Topic: Introduction to Emacs Haskell mode
+
+Description: A tutorial on using the haskell-mode in Emacs for
+development and testing.
+
+Links:https://www.haskell.org/haskellwiki/Emacs#Haskell-mode
+
+Duration: 30 minutes
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+*4.*
+
+
+General group discussions on any queries, doubts, announcements, events 
+related to Free and Open Source Software and community.
+
+CDs/DVDs can be shared on prior request.
+Announce this to all your friends, social network sites etc.
+
+All are welcome. Entry Free
+
+Note to the Speakers : Please do not bring proprietary OS. If possible 
+bring your laptop so we can conduct a short hackathon.
+
+Regards, T.Shrinivasan & Gowtham Raam.J
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+*FOSS gives you freedom It is a philosophy; Open source is a development 
+model just to improve quality of code; There is a difference*/ ty of 
+code */
+
+From professionalgraam at gmail.com  Fri Dec 12 23:37:53 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 12 Dec 2014 23:37:53 +0530
+Subject: [Ilugc] Fwd:  Call for speakers -December Month Meet
+In-Reply-To: <CABG-yt2sxq+u7RdCRtu7afhdWry+GUbYMAHK1dHrnPg=9HyE6Q@mail.gmail.com>
+References: <54746D86.3020502@gmail.com>
+	<547F1F24.9010504@gmail.com>	<CABG-yt02DaWHzgHrNEX7bH-h7qHD_SYyN0zBdQNyS-g5rWCZSA@mail.gmail.com>
+	<CABG-yt2sxq+u7RdCRtu7afhdWry+GUbYMAHK1dHrnPg=9HyE6Q@mail.gmail.com>
+Message-ID: <548B2EF9.2090305@gmail.com>
+
+
+On 12-12-2014 22:07, Shakthi Kannan wrote:
+> Hi,
+>
+> I didn't see an announcement for tomorrow's ILUG-C meet.
+>
+> @Gautham
+> Can you please confirm the same?
+>
+> Thanks!
+>
+> SK
+>
+
+Hi Shankthi Kannan,
+
+Thank you for reminding me. Actually there might be some technical 
+problem while I was sending the monthly meet to mailing list.
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From shrayasr at gmail.com  Fri Dec 12 23:37:49 2014
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Sat, 13 Dec 2014 01:07:49 +0700
+Subject: [Ilugc]
+	=?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_December_14_2014?=
+In-Reply-To: <548B2D1E.5030008@gmail.com>
+References: <548B2D1E.5030008@gmail.com>
+Message-ID: <CAEkH89PbPK=+AUHT1TUNwFuQdw8i9ZUV5wnLo2PkW9kp=327ag@mail.gmail.com>
+
+On Sat, Dec 13, 2014 at 12:59 AM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+> We have our Meet on December 14, 2014
+
+Can't make it this time. I'm travelling.
+
+Some really great talks lined up! We should really figure out how best
+to record these talks :(
+
+From tummaladilip1994 at gmail.com  Sat Dec 13 07:40:10 2014
+From: tummaladilip1994 at gmail.com (Tummala Dilip)
+Date: Sat, 13 Dec 2014 07:40:10 +0530
+Subject: [Ilugc]
+ =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_December_14_2014?=
+In-Reply-To: <548B2D1E.5030008@gmail.com>
+References: <548B2D1E.5030008@gmail.com>
+Message-ID: <174658FE-C528-4485-9730-AD09ACA3140F@gmail.com>
+
+
+Hi 
+> On 12-Dec-2014, at 23:29, Gowtham Raam <professionalgraam at gmail.com> 
+> 
+> Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+Hi goutham, 
+
+  Whether the meet is today or tomorrow as you mentioned Saturday but the date 
+14th December is Sunday.  Kindly ensure it. 
+
+Dilip.
+
+> 
+> We have our Meet on December 14, 2014
+> 
+> Check the details below.
+> 
+> ILUGC Monthly Meet :-
+> 
+> Time : Sat December 14, 2014 (3.00 ? 6.00 PM)
+> 
+> Venue: Classroom No 1,
+> Aero Space Engineering,
+> Near Gajendra Circle,
+> IIT Madras.
+> 
+> 
+> Link for the Map: http://bit.ly/iit-aero
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From shakthimaan at gmail.com  Sat Dec 13 22:45:18 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Dec 2014 22:45:18 +0530
+Subject: [Ilugc]
+	=?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_December_14_2014?=
+In-Reply-To: <548B2D1E.5030008@gmail.com>
+References: <548B2D1E.5030008@gmail.com>
+Message-ID: <CABG-yt0EGQxR_Rbqf6dEM6=CNv-V+-Wk3+vzetg0UJUTs9GuEg@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Dec 12, 2014 at 11:29 PM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+| *Talk - 3.*
+|
+| Topic: Introduction to Emacs Haskell mode
+\--
+
+The links that I mentioned during the talk, and in our discussions are
+listed below:
+
+* NixOS
+  http://nixos.org/
+
+* NixOS contributors
+  https://www.openhub.net/p/nixos/contributors/summary
+
+* Haskell
+  https://www.haskell.org/haskellwiki/Haskell
+
+* Cask
+  https://github.com/cask/cask
+
+* shakthimaan's ~/.emacs.d using Cask
+  https://gitorious.org/shakthimaan-dot-emacs/cask-dot-emacs/
+
+* emacs-haskell-mode
+  https://github.com/haskell/haskell-mode
+
+* Using Emacs for Haskell development
+  https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
+
+* PureScript
+  http://purescript.readthedocs.org/en/latest/
+
+* Haskell implementations
+  https://www.haskell.org/haskellwiki/Implementations
+
+* Which functional programming should I start with?
+  http://www.reddit.com/r/compsci/comments/1m8dhg/which_functional_programming_language_should_i/
+
+* Does anyone have any recommendations for starting out in functional
+programming?
+
+  http://stackoverflow.com/questions/432295/does-anyone-have-any-recommendations-for-starting-out-in-functional-programming
+
+* How to Design Programs
+  http://htdp.org/
+
+* The Racket language
+  http://racket-lang.org/
+
+* RacketCon: 20 September 2014
+  http://con.racket-lang.org/
+
+* Introduction to Systematic Program Design (Coursera)
+  https://www.coursera.org/course/programdesign
+
+* Hackage
+  https://hackage.haskell.org/
+
+* Haskell packages by category
+  https://hackage.haskell.org/packages/
+
+* Programming Clojure (2nd edition)
+  https://pragprog.com/book/shcloj2/programming-clojure
+
+* Project Euler
+  https://projecteuler.net/problems
+
+* core.typed - an optional type system for Clojure
+  https://github.com/clojure/core.typed
+
+* Write Yourself a Scheme in 48 hours
+  http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+
+* Idris
+  http://www.idris-lang.org/
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shrayasr at gmail.com  Sun Dec 14 15:26:05 2014
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Sun, 14 Dec 2014 16:56:05 +0700
+Subject: [Ilugc]
+	=?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_December_14_2014?=
+In-Reply-To: <CABG-yt0EGQxR_Rbqf6dEM6=CNv-V+-Wk3+vzetg0UJUTs9GuEg@mail.gmail.com>
+References: <548B2D1E.5030008@gmail.com>
+	<CABG-yt0EGQxR_Rbqf6dEM6=CNv-V+-Wk3+vzetg0UJUTs9GuEg@mail.gmail.com>
+Message-ID: <CAEkH89NUbR02MyM_UOBcwZMajX9kzuU6vFYLfDg68TRf1h1rCg@mail.gmail.com>
+
+On Sun, Dec 14, 2014 at 12:15 AM, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> The links that I mentioned during the talk, and in our discussions are
+> listed below:
+>
+> * NixOS
+>   http://nixos.org/
+>
+> * NixOS contributors
+>   https://www.openhub.net/p/nixos/contributors/summary
+>
+> * Haskell
+>   https://www.haskell.org/haskellwiki/Haskell
+>
+> * Cask
+>   https://github.com/cask/cask
+>
+> * shakthimaan's ~/.emacs.d using Cask
+>   https://gitorious.org/shakthimaan-dot-emacs/cask-dot-emacs/
+>
+> * emacs-haskell-mode
+>   https://github.com/haskell/haskell-mode
+>
+> * Using Emacs for Haskell development
+>   https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
+>
+> * PureScript
+>   http://purescript.readthedocs.org/en/latest/
+>
+> * Haskell implementations
+>   https://www.haskell.org/haskellwiki/Implementations
+>
+> * Which functional programming should I start with?
+>   http://www.reddit.com/r/compsci/comments/1m8dhg/which_functional_programming_language_should_i/
+>
+> * Does anyone have any recommendations for starting out in functional
+> programming?
+>
+>   http://stackoverflow.com/questions/432295/does-anyone-have-any-recommendations-for-starting-out-in-functional-programming
+>
+> * How to Design Programs
+>   http://htdp.org/
+>
+> * The Racket language
+>   http://racket-lang.org/
+>
+> * RacketCon: 20 September 2014
+>   http://con.racket-lang.org/
+>
+> * Introduction to Systematic Program Design (Coursera)
+>   https://www.coursera.org/course/programdesign
+>
+> * Hackage
+>   https://hackage.haskell.org/
+>
+> * Haskell packages by category
+>   https://hackage.haskell.org/packages/
+>
+> * Programming Clojure (2nd edition)
+>   https://pragprog.com/book/shcloj2/programming-clojure
+>
+> * Project Euler
+>   https://projecteuler.net/problems
+>
+> * core.typed - an optional type system for Clojure
+>   https://github.com/clojure/core.typed
+>
+> * Write Yourself a Scheme in 48 hours
+>   http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+>
+> * Idris
+>   http://www.idris-lang.org/
+
+I'm going to spend some time right now and cry for missing this
+session. That sounds like so much fun! Wow.
+
+damn!
+
+From tshamlikt at gmail.com  Sun Dec 14 18:10:25 2014
+From: tshamlikt at gmail.com (shamlik t)
+Date: Sun, 14 Dec 2014 18:10:25 +0530
+Subject: [Ilugc] awareness class about FOSS
+Message-ID: <CAL4AEh8Y7wW9kT-eygVZ=9OAB4JGw4h24s19KH6N=3PtbdbBgA@mail.gmail.com>
+
+I got a chance to introduce about  FOSS . it will be like 3 hour section .
+i need some more material to do a good  presentation  .somebody please
+forward some links
+
+From shakthimaan at gmail.com  Sun Dec 14 19:55:32 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 14 Dec 2014 19:55:32 +0530
+Subject: [Ilugc] awareness class about FOSS
+In-Reply-To: <CAL4AEh8Y7wW9kT-eygVZ=9OAB4JGw4h24s19KH6N=3PtbdbBgA@mail.gmail.com>
+References: <CAL4AEh8Y7wW9kT-eygVZ=9OAB4JGw4h24s19KH6N=3PtbdbBgA@mail.gmail.com>
+Message-ID: <CABG-yt3s4TccWOf3Ynbisha9reHateupNwRChMBLAO34K1dTtg@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Dec 14, 2014 at 6:10 PM, shamlik t <tshamlikt at gmail.com> wrote:
+| I got a chance to introduce about  FOSS . it will be like 3 hour section .
+| i need some more material to do a good  presentation  .somebody please
+| forward some links
+\--
+
+You can re-use my presentations giving credit to my work.
+
+  http://shakthimaan.com/downloads.html
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From srini.it at gmail.com  Mon Dec 15 07:16:10 2014
+From: srini.it at gmail.com (Srinivasan Sundararajan)
+Date: Sun, 14 Dec 2014 17:46:10 -0800
+Subject: [Ilugc] awareness class about FOSS
+In-Reply-To: <CABG-yt3s4TccWOf3Ynbisha9reHateupNwRChMBLAO34K1dTtg@mail.gmail.com>
+References: <CAL4AEh8Y7wW9kT-eygVZ=9OAB4JGw4h24s19KH6N=3PtbdbBgA@mail.gmail.com>
+	<CABG-yt3s4TccWOf3Ynbisha9reHateupNwRChMBLAO34K1dTtg@mail.gmail.com>
+Message-ID: <CACqthKGyLPjwfGr=SZD9ZSLBP3Y8Rx=jTg_NwcREWTTDhggnbw@mail.gmail.com>
+
+>
+>
+> --- On Sun, Dec 14, 2014 at 6:10 PM, shamlik t <tshamlikt at gmail.com>
+> wrote:
+> | I got a chance to introduce about  FOSS . it will be like 3 hour section
+> .
+> | i need some more material to do a good  presentation  .somebody please
+> | forward some links
+
+If you can give some idea about the type of audience, some more useful
+links/materials/suggestions could be given.
+[e.g., the appropriate FOSS equivalents for the proprietary software that
+they use]
+
+Srinivasan
+
+From tshamlikt at gmail.com  Mon Dec 15 07:26:32 2014
+From: tshamlikt at gmail.com (shamlik t)
+Date: Mon, 15 Dec 2014 07:26:32 +0530
+Subject: [Ilugc] awareness class about FOSS
+In-Reply-To: <CACqthKGyLPjwfGr=SZD9ZSLBP3Y8Rx=jTg_NwcREWTTDhggnbw@mail.gmail.com>
+References: <CAL4AEh8Y7wW9kT-eygVZ=9OAB4JGw4h24s19KH6N=3PtbdbBgA@mail.gmail.com>
+	<CABG-yt3s4TccWOf3Ynbisha9reHateupNwRChMBLAO34K1dTtg@mail.gmail.com>
+	<CACqthKGyLPjwfGr=SZD9ZSLBP3Y8Rx=jTg_NwcREWTTDhggnbw@mail.gmail.com>
+Message-ID: <CAL4AEh_4ZkS9LEpOK=G=2eOgbjiEnba4Y8WwVqbrZ5JqLkddHw@mail.gmail.com>
+
+Students audience.. Generally Btech 1st years..
+On 15-Dec-2014 7:16 am, "Srinivasan Sundararajan" <srini.it at gmail.com>
+wrote:
+
+> >
+> >
+> > --- On Sun, Dec 14, 2014 at 6:10 PM, shamlik t <tshamlikt at gmail.com>
+> > wrote:
+> > | I got a chance to introduce about  FOSS . it will be like 3 hour
+> section
+> > .
+> > | i need some more material to do a good  presentation  .somebody please
+> > | forward some links
+>
+> If you can give some idea about the type of audience, some more useful
+> links/materials/suggestions could be given.
+> [e.g., the appropriate FOSS equivalents for the proprietary software that
+> they use]
+>
+> Srinivasan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From linuxbaskar at gmail.com  Mon Dec 15 08:02:16 2014
+From: linuxbaskar at gmail.com (Baskar Selvaraj)
+Date: Mon, 15 Dec 2014 08:02:16 +0530
+Subject: [Ilugc] [Event Report] DSpace Workshop conducted in Dr. MCET,
+	Pollachi
+Message-ID: <CACtiFJZB60QiMJ9qjyyLNmRr8tF4bG4ACmHBsDC89AOKV49sJQ@mail.gmail.com>
+
+Dear all,
+
+Myself conducted a one day hands-on workshop on 'Implementing DSpace
+in Institutions' in Dr. Mahalingam College of Engineering and
+Technology, Pollachi on 13/12/2014.
+
+Library Professionals, Technical Assistants and Teaching faculties
+from the following institutions attended the workshop.
+
+Alagappa University, Karaikudi, Sivagangai Dt.
+Arulmurugan Polytechnic College, Karur Dt.
+CARE Group of Institutions, Trichy Dt.
+Dr. Mahalingam College of Engineering and Technology (Autonomous),
+Pollachi, Coimbatore Dt.
+Erode Sengunthar Engineering College, Erode Dt.
+Excel Engineering College, Namakkal Dt.
+Government Arts College, Udumalpet, Thiruppur Dt.
+Gandhigram Rural Institute (Deemed University), Dindugal Dt.
+Knowledge Institute of Technology, Kakapalayam, Salem Dt.
+KPR Institute of Engineering and Technology, Coimbatore Dt.
+K.L.N College of Information Technology, Sivagangai Dt.
+Kumaraguru College of Technology (Autonomous), Coimbatore Dt.
+Kongu Engineering College, Perundurai (Autonomous), Erode Dt.
+K.S. Rangasamy College of Technology (Autonomous), Thiruchengode, Namakkal Dt.
+Mahath Amma Institute of Engineering and Technology, Pudukottai Dt.
+Mailam Engineering College, Villupuram Dt.
+Mepco Schlenk Engineering College (Autonomous), Sivakasi, Virudhunagar Dt.
+Nightingale Institute of Technology, Coimbatore Dt.
+National Engineering College (Autonomous), Kovilpatti, Thoothukudi Dt.
+N.S.N College of Engineering and Technology, Karur Dt.
+Pollachi Institute of Engineering and Technology, Pollachi, Coimbatore Dt.
+Ramco Institute of Technology, Rajapalayam, Virudhunagar Dt.
+Sri Krishna College of Technology (Autonomous), Coimbatore Dt.
+Sri Venkateswara Institute of Information Technology and Management,
+Coimbatore Dt.
+Sri Eshwar College of Engineering, Coimbatore Dt.
+SSM Institute of Engineering and Technology, Dindigul Dt.
+SNS College of Engineering, Coimbatore Dt.
+Velalar College of Engineering and Technology, Thindal, Erode Dt.
+Veterinary College and Research Institute, Namakkal Dt.
+
+I would like to thank the college management and the following persons
+for the opportunity.
+
+Dr.Ramakrishnan - HOD/IT
+Mr. Krishna Raj - AP/IT
+Mr. Ramprakash - AP/IT
+
+S. Baskar
+
+From satyaprakash.prasad at gmail.com  Mon Dec 15 14:28:59 2014
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Mon, 15 Dec 2014 00:58:59 -0800
+Subject: [Ilugc] Free and Open Source License
+Message-ID: <CACX5wciyDK0a1gJsxutd8TiQXcDk0+bicc6WA1Zx5KSZJ2awCw@mail.gmail.com>
+
+Is anyone allowed to make use of free and open source software? What are
+the licensing issue and others that one has to take care?
+
+Can we change the logo / code of the original software to ours? Is there
+any monetary depedenc involved back to the owner?
+
+Any other points that I might missed
+
+From linuxplate at gmail.com  Mon Dec 15 15:12:12 2014
+From: linuxplate at gmail.com (Linux Plate)
+Date: Mon, 15 Dec 2014 15:12:12 +0530
+Subject: [Ilugc] Free and Open Source License
+In-Reply-To: <CACX5wciyDK0a1gJsxutd8TiQXcDk0+bicc6WA1Zx5KSZJ2awCw@mail.gmail.com>
+References: <CACX5wciyDK0a1gJsxutd8TiQXcDk0+bicc6WA1Zx5KSZJ2awCw@mail.gmail.com>
+Message-ID: <CADWo9=Y2o0qEtnSvMgbm+27Kg_PypNN+98NPU1mTAM1P-JL4LA@mail.gmail.com>
+
+Hey Satya.
+Please go through this website you will learn everything about opensource
+initiative
+http://opensource.org/
+
+
+Thanks,
+LinuxPlate
+
+On Mon, Dec 15, 2014 at 2:28 PM, Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+>
+> Is anyone allowed to make use of free and open source software? What are
+> the licensing issue and others that one has to take care?
+>
+> Can we change the logo / code of the original software to ours? Is there
+> any monetary depedenc involved back to the owner?
+>
+> Any other points that I might missed
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From support.radhikagb at gmail.com  Mon Dec 15 15:14:49 2014
+From: support.radhikagb at gmail.com (RadhikaGB GB)
+Date: Mon, 15 Dec 2014 15:14:49 +0530
+Subject: [Ilugc] Free and Open Source License
+In-Reply-To: <CADWo9=Y2o0qEtnSvMgbm+27Kg_PypNN+98NPU1mTAM1P-JL4LA@mail.gmail.com>
+References: <CACX5wciyDK0a1gJsxutd8TiQXcDk0+bicc6WA1Zx5KSZJ2awCw@mail.gmail.com>
+	<CADWo9=Y2o0qEtnSvMgbm+27Kg_PypNN+98NPU1mTAM1P-JL4LA@mail.gmail.com>
+Message-ID: <CAOwXn6K=LaPDtt8D0zw_3vbX58iohoAgrOrBdHR7=+OAT2KiMQ@mail.gmail.com>
+
+Good informative site
+
+--
+Radhika
+
+On Mon, Dec 15, 2014 at 3:12 PM, Linux Plate <linuxplate at gmail.com> wrote:
+>
+> Hey Satya.
+> Please go through this website you will learn everything about opensource
+> initiative
+> http://opensource.org/
+>
+>
+> Thanks,
+> LinuxPlate
+>
+> On Mon, Dec 15, 2014 at 2:28 PM, Satya Prakash Prasad <
+> satyaprakash.prasad at gmail.com> wrote:
+> >
+> > Is anyone allowed to make use of free and open source software? What are
+> > the licensing issue and others that one has to take care?
+> >
+> > Can we change the logo / code of the original software to ours? Is there
+> > any monetary depedenc involved back to the owner?
+> >
+> > Any other points that I might missed
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vramachandran86 at gmail.com  Mon Dec 15 17:24:06 2014
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Mon, 15 Dec 2014 17:24:06 +0530
+Subject: [Ilugc] [JOB] Required Experienced Rails Dev for Startup in Chennai
+Message-ID: <CAPVR=qNwOV=TEUmeOOu2bV8C_9LzGdjPDMePdh=Wt1NsQkYt9w@mail.gmail.com>
+
+Hi,
+
+Required experienced Rails dev for a growing startup.
+
+Find more details from here : https://hasjob.co/view/yp757
+
+-- 
+Regards
+Ramachandran
+
+From prasmailme at gmail.com  Tue Dec 16 12:28:07 2014
+From: prasmailme at gmail.com (Prasanna Venkadesh)
+Date: Tue, 16 Dec 2014 12:28:07 +0530
+Subject: [Ilugc] List of Books on Free Software, Free Culture & Commons
+Message-ID: <CACm7z1a+yHxL4H3bLQn2EKwJrV1F9Do3kNyWFXJeE4C6nMQdTA@mail.gmail.com>
+
+Dear all,
+
+In effort of creating a list of books that are available on "Freedom of
+Knowledge, Free Software, Free Culture & all other ideas associated with
+Commons", I have come up with a list of 15 books.
+
+http://discuss.fsftn.org/t/list-of-books-on-free-software-free-culture-commons/231
+
+If you think, there are other books out there that goes with above
+mentioned principles or philosophies, feel free to suggest or add.
+
+-- 
+Thanks & Regards,
+Prasanna Venkadesh.
+
+From balu.lists at gmail.com  Tue Dec 16 14:19:30 2014
+From: balu.lists at gmail.com (Balu)
+Date: Tue, 16 Dec 2014 14:19:30 +0530
+Subject: [Ilugc] List of Books on Free Software, Free Culture & Commons
+In-Reply-To: <CACm7z1a+yHxL4H3bLQn2EKwJrV1F9Do3kNyWFXJeE4C6nMQdTA@mail.gmail.com>
+References: <CACm7z1a+yHxL4H3bLQn2EKwJrV1F9Do3kNyWFXJeE4C6nMQdTA@mail.gmail.com>
+Message-ID: <548FF21A.1030002@gmail.com>
+
+please refer to flosshub.org/biblio for a huge compilation of books and 
+journal articles.
+
+On 16/12/14 12:28, Prasanna Venkadesh wrote:
+> Dear all,
+>
+> In effort of creating a list of books that are available on "Freedom of
+> Knowledge, Free Software, Free Culture & all other ideas associated with
+> Commons", I have come up with a list of 15 books.
+>
+> http://discuss.fsftn.org/t/list-of-books-on-free-software-free-culture-commons/231
+>
+> If you think, there are other books out there that goes with above
+> mentioned principles or philosophies, feel free to suggest or add.
+>
+
+From professionalgraam at gmail.com  Wed Dec 17 20:11:07 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Wed, 17 Dec 2014 20:11:07 +0530
+Subject: [Ilugc] Mini Meetup
+Message-ID: <54919603.4000207@gmail.com>
+
+Hi All,
+
+Can we have a mini meetup. It will be a informal meeting and we can meet 
+in any public place. Share your thoughts.
+
+-- 
+With Regards, Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From professionalgraam at gmail.com  Wed Dec 17 20:16:44 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Wed, 17 Dec 2014 20:16:44 +0530
+Subject: [Ilugc] [OT]Ilugc Tour
+Message-ID: <54919754.7050103@gmail.com>
+
+Hi All,
+
+Can we have a day tour to a nearby place. Give your suggestions.
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From professionalgraam at gmail.com  Wed Dec 17 23:33:55 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Wed, 17 Dec 2014 23:33:55 +0530
+Subject: [Ilugc] [OT]Ilugc Tour
+Message-ID: <5491C58B.1020301@gmail.com>
+
+Hi All,
+
+Can we have a day tour to a nearby place. Give your suggestions.
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From professionalgraam at gmail.com  Wed Dec 17 23:34:37 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Wed, 17 Dec 2014 23:34:37 +0530
+Subject: [Ilugc] Mini Meetup
+Message-ID: <5491C5B5.2080503@gmail.com>
+
+Hi All,
+
+Can we have a mini meetup. It will be a informal meeting and we can meet 
+in any public place. Share your thoughts.
+
+-- 
+With Regards, Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From send4kumar at gmail.com  Thu Dec 18 00:42:54 2014
+From: send4kumar at gmail.com (Kumar)
+Date: Thu, 18 Dec 2014 00:42:54 +0530
+Subject: [Ilugc] Mini Meetup
+In-Reply-To: <5491C5B5.2080503@gmail.com>
+References: <5491C5B5.2080503@gmail.com>
+Message-ID: <CAHFTyBo=-4O0kz4vjQC4SKEuUwJtCp5Cj3uFwP+_qqCCHeHyJg@mail.gmail.com>
+
+Sure Gopi.
+
+
+
+With Thanks and Regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Wed, Dec 17, 2014 at 11:34 PM, Gowtham Raam <professionalgraam at gmail.com>
+wrote:
+>
+> Hi All,
+>
+> Can we have a mini meetup. It will be a informal meeting and we can meet
+> in any public place. Share your thoughts.
+>
+> --
+> With Regards, Gowtham Raam.J
+> Drop your Mail to : professionalgraam at gmail.com
+> Give a call by : (+91)-9443284989
+> Visit My blog : http://pacesettergraam.wordpress.com
+> /*FOSS gives you freedom It is a philosophy Open source is a development
+> model just to improve quality of code */
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From send4kumar at gmail.com  Thu Dec 18 00:44:12 2014
+From: send4kumar at gmail.com (Kumar)
+Date: Thu, 18 Dec 2014 00:44:12 +0530
+Subject: [Ilugc] Mini Meetup
+In-Reply-To: <CAHFTyBo=-4O0kz4vjQC4SKEuUwJtCp5Cj3uFwP+_qqCCHeHyJg@mail.gmail.com>
+References: <5491C5B5.2080503@gmail.com>
+	<CAHFTyBo=-4O0kz4vjQC4SKEuUwJtCp5Cj3uFwP+_qqCCHeHyJg@mail.gmail.com>
+Message-ID: <CAHFTyBosDZKxk-82DV8kYxfcz82Ozvma48scBi4qmijG_g-2+g@mail.gmail.com>
+
+Sure Gowtham.
+
+
+
+With Thanks and Regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Thu, Dec 18, 2014 at 12:42 AM, Kumar <send4kumar at gmail.com> wrote:
+>
+> Sure Gopi.
+>
+>
+>
+> With Thanks and Regards,
+> Kumar
+> m: +91 94434 55374
+> im: send4kumar [ skype ]
+>
+> On Wed, Dec 17, 2014 at 11:34 PM, Gowtham Raam <
+> professionalgraam at gmail.com> wrote:
+>>
+>> Hi All,
+>>
+>> Can we have a mini meetup. It will be a informal meeting and we can meet
+>> in any public place. Share your thoughts.
+>>
+>> --
+>> With Regards, Gowtham Raam.J
+>> Drop your Mail to : professionalgraam at gmail.com
+>> Give a call by : (+91)-9443284989
+>> Visit My blog : http://pacesettergraam.wordpress.com
+>> /*FOSS gives you freedom It is a philosophy Open source is a development
+>> model just to improve quality of code */
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+
+From tshrinivasan at gmail.com  Thu Dec 18 13:25:41 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 18 Dec 2014 13:25:41 +0530
+Subject: [Ilugc] [OT] Free Research Accounts via the Wikipedia Library (New
+	in December)
+Message-ID: <CAND27948Z5hOJQhqYQ3K5Ka=-=S5ADgyQtAWYmcKBJKaRVRTvQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Vishnu <visdaviva at gmail.com>
+Date: 2014-12-18 11:00 GMT+05:30
+Subject: [Wikimediaindia-l] Fwd: [Wikimedia-l] Free Research Accounts via
+the Wikipedia Library (New in December)
+To: wikimediaindia-l at lists.wikimedia.org
+
+ Dear Wikimedians,
+
+Very useful information.
+
+Best,
+Vishnu
+
+
+-------- Forwarded Message --------
+Subject: [Wikimedia-l] Free Research Accounts via the Wikipedia Library
+(New in December)
+Date: Wed, 17 Dec 2014 16:25:46 -0800
+From: Jake Orlowitz <jorlowitz at gmail.com> <jorlowitz at gmail.com>
+Reply-To: Wikimedia Mailing List <wikimedia-l at lists.wikimedia.org>
+<wikimedia-l at lists.wikimedia.org>
+To: wikipedia-library at lists.wikimedia.org
+
+Hi!
+The Wikipedia Library has new, free research donations available this month:
+
+*Elsevier - science and medicine journals and books
+<https://en.wikipedia.org/wiki/Wikipedia:Elsevier_ScienceDirect>
+<https://en.wikipedia.org/wiki/Wikipedia:Elsevier_ScienceDirect>
+
+*Royal Society of Chemistry Gold Access - chemistry journals
+<https://en.wikipedia.org/wiki/Wikipedia:RSC_Gold>
+<https://en.wikipedia.org/wiki/Wikipedia:RSC_Gold>
+
+*Pelican Books - ebook monographs
+<https://en.wikipedia.org/wiki/Wikipedia:Pelican_Books>
+<https://en.wikipedia.org/wiki/Wikipedia:Pelican_Books>
+
+*Public Catalogue Foundation - art books
+<https://en.wikipedia.org/wiki/Wikipedia:Public_Catalogue_Foundation>
+<https://en.wikipedia.org/wiki/Wikipedia:Public_Catalogue_Foundation>
+
+Many other partnerships are still available too...
+<https://en.wikipedia.org/wiki/Wikipedia:The_Wikipedia_Library/Journals>
+<https://en.wikipedia.org/wiki/Wikipedia:The_Wikipedia_Library/Journals>
+
+Please notify your local community about the signups.
+
+Accounts are open to ALL global editors with a 1 year old account and
+1000 edits. Signups mostly happen on English Wikipedia, UNLESS a local
+Wikipedia Library branch has been started, like we've done on Arabic,
+Chinese, and German. To get started, please contact Ocaasi at
+[[m:User:Ocaasi (WMF)]] or ocaasi at wikimedia.org
+
+Thanks!
+
+The Wikipedia Library Team
+<http://meta.wikimedia.org/wiki/The_Wikipedia_Library>
+<http://meta.wikimedia.org/wiki/The_Wikipedia_Library>
+
+_______________________________________________
+Wikimedia-l mailing list, guidelines at:
+https://meta.wikimedia.org/wiki/Mailing_lists/Guidelines
+Wikimedia-l at lists.wikimedia.org
+Unsubscribe: https://lists.wikimedia.org/mailman/listinfo/wikimedia-l,
+<mailto:wikimedia-l-request at lists.wikimedia.org?subject=unsubscribe>
+<wikimedia-l-request at lists.wikimedia.org?subject=unsubscribe>
+
+
+
+_______________________________________________
+Wikimediaindia-l mailing list
+Wikimediaindia-l at lists.wikimedia.org
+To unsubscribe from the list / change mailing preferences visit
+https://lists.wikimedia.org/mailman/listinfo/wikimediaindia-l
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From abhiramasundram2007 at gmail.com  Thu Dec 18 16:20:05 2014
+From: abhiramasundram2007 at gmail.com (Abhiram)
+Date: Thu, 18 Dec 2014 16:20:05 +0530
+Subject: [Ilugc] Require RubyonRails and UI developer
+Message-ID: <CANyKVwLauh4nCYx6fDBTrpfixf_fjAUm_rThCH2a+8Lwuxufsw@mail.gmail.com>
+
+We are in need of cool developers to join us, for upcoming and ongoing
+projects.
+
+We require,
+3 Ruby on Rails developers with 0 to 3 years of experience.
+
+2 UI Developer with 1 to 3 years of experience. Should be proficient and
+mastered front-end technologies including: HTML5/CSS3/JavaScript/JQuery,
+responsive design in media queries or bootstrap framework
+
+Salary: 8000 to 40,000 /month
+
+Interested Candidates please post your resume.
+
+Web: www.udproducts.in
+Phone: 9003086996
+Email: abhiram at udproducts.in
+
+We guarantee Industry standard salary and awesome learning experience in a
+pressure free environment.
+
+--
+Thanks
+Abhirama sundaram
+9003086996
+www.udproducts.in
+
+From thangam.arunx at gmail.com  Thu Dec 18 17:34:09 2014
+From: thangam.arunx at gmail.com (=?UTF-8?B?4K6F4K6w4K+B4K6j4K+NIOCuleCvgeCuruCuvuCusOCvjSAtIEFydW4gS3VtYXI=?=)
+Date: Thu, 18 Dec 2014 17:34:09 +0530
+Subject: [Ilugc] [JOB] Fresher - Diploma ECE(2013/2014) with 70% - 19th
+ December 2014 @ 09:30.am - SRM Tech Chennai !
+Message-ID: <CAJghqqb3aXL1ZqQPtUApCsL45ki6ArE=sXjP40SjagwVwwcMXg@mail.gmail.com>
+
+*Entry Level (Fresher) **Walk**-in Drive through Employee Referral Program*
+
+*Eligibility:  *Diploma ECE with  70%  aggregate throughout  academics*.  *
+
+*Year of passing*: 2013/ 2014
+
+*Interview Date and Time:  19**th** December 2014 @ 09:30.am <http://30.am>*
+
+* Contact Person:  *Sijala G / Siva S
+
+* Venue:  *SRM Technologies Pvt Ltd
+Pullamma Building, First Floor, Ekkaduthangal, Chennai 600 032.
+Landmark - Behind Puthiyathalamurai office .
+
+Reference: ARUN KUMAR M
+
+Thanks & Regards
+Arun
+
+??????????????????????????????????????
+????????
+?????
+??????? ??????????? ???????? ????????
+http://thangamaniarun.wordpress.com
+??????????????????????????????????????
+
+From thangam.arunx at gmail.com  Thu Dec 18 17:34:41 2014
+From: thangam.arunx at gmail.com (=?UTF-8?B?4K6F4K6w4K+B4K6j4K+NIOCuleCvgeCuruCuvuCusOCvjSAtIEFydW4gS3VtYXI=?=)
+Date: Thu, 18 Dec 2014 17:34:41 +0530
+Subject: [Ilugc] [JOB] Fresher - BE / B.Tech (ECE,
+ 2013/ 2014) with 70% - 20th December 2014 @ 09:30.am - SRM Tech
+ Chennai !
+Message-ID: <CAJghqqbm5wRRt=ma0A38UyWxjAm9wU1VD-z7FNJVKS6FR_Zj1A@mail.gmail.com>
+
+*Entry Level (Fresher) **Walk**-in Drive through Employee Referral Program*
+
+*Eligibility:  *BE / B.Tech (ECE) with 70% aggregate throughout academics*.
+*
+
+*Year of passing*: 2013/ 2014
+
+*Interview Date and Time:  20**th** December 2014 @ 09:30.am <http://30.am>*
+
+* Contact Person:  *Sijala G / Siva S
+
+* Venue:  *SRM Technologies Pvt Ltd
+Pullamma Building, First Floor, Ekkaduthangal, Chennai 600 032.
+Landmark - Behind Puthiyathalamurai office .
+
+Reference: ARUN KUMAR M
+
+
+Thanks & Regards
+Arun
+
+??????????????????????????????????????
+????????
+?????
+??????? ??????????? ???????? ????????
+http://thangamaniarun.wordpress.com
+??????????????????????????????????????
+
+From tshrinivasan at gmail.com  Fri Dec 19 00:47:22 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 19 Dec 2014 00:47:22 +0530
+Subject: [Ilugc] [OT] Thinking on a Hacker Space in Chennai
+Message-ID: <CAND27953XZKzu2w=nz7sYXGP7E0RrEFZaEs71w8fHm_w4Amh1Q@mail.gmail.com>
+
+Chennai is becoming the hub of events.
+
+There are many tech communities, meetup groups, social friends group etc
+conducting regular events.
+
+Check the Event calendar of Chennai
+https://chennaieventscalendar.wordpress.com/calendar/
+
+All the weekends are filled with events.
+
+Once meetup.com became free, there are groups started for most of the
+software in the industry.
+
+But, many groups cannot make the events as they could not find the venue.
+
+Option A:
+=======
+
+Thinking a Hacker Space kind of venue, where any user group can conduct
+their events.
+
+https://en.wikipedia.org/wiki/Hackerspace
+
+The following are the ideas :
+
+1. A small home in a accessible venue in chennai
+2. Any user group can conduct the events for free
+
+
+How to generate money?
+
+1. Donations should be collected to give the rent
+2. Startups/Individuals can be use this venue as co-working space in the
+week days for a very lower cost
+3. or one or two persons can stay there to share the major part of the
+rent/expenses.
+4. Paid workshops can be conducted with cheaper cost.
+
+
+
+Option B :
+=======
+
+There may be some startups/organizations who may be willing to give free
+space conducting events.
+
+We can collect their details and share in a public site.
+Any community that wants a venue can contact them and use the space.
+
+
+Please share your inputs on this.
+
+
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From vik at hamaralinux.org  Fri Dec 19 19:57:39 2014
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 19 Dec 2014 14:27:39 +0000
+Subject: [Ilugc] [OT] Thinking on a Hacker Space in Chennai
+In-Reply-To: <CAND27953XZKzu2w=nz7sYXGP7E0RrEFZaEs71w8fHm_w4Amh1Q@mail.gmail.com>
+References: <CAND27953XZKzu2w=nz7sYXGP7E0RrEFZaEs71w8fHm_w4Amh1Q@mail.gmail.com>
+Message-ID: <549435DB.20600@hamaralinux.org>
+
+On 18/12/14 19:17, Shrinivasan T wrote:
+>
+>
+> Please share your inputs on this.
+Great idea - one of the biggest challenges for anyone stepping out into 
+the business world is dealing with your overheads.
+
+Having the benefit of a cheap / low commitment work space might be of 
+great benefit to start ups / people with ideas.
+
+Hacker spaces elsewhere tend to be quite connected with the DIY 
+electronics / make space - so I hope you would consider that
+too?
+
+I would be happy to contribute something.
+
+Regards
+
+
+
+Vik
+
+From chidambasakthi at gmail.com  Sun Dec 21 00:25:33 2014
+From: chidambasakthi at gmail.com (chidambaresan ananthan)
+Date: Sun, 21 Dec 2014 00:25:33 +0530
+Subject: [Ilugc] [Education] Host your Courses
+Message-ID: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+
+Dear Luggies,
+
+We Plan to offer Open Source Courses online using our platform
+www.courseeplus.com to spread the FOSS to the world of social
+Learners.Interested Luggies Host your Courses for Free and Spread the word.
+
+-- 
+Be Open.. Be Innovative...
+
+Chidambaresan Ananthan CEO/Opennovus
+CEO/Technovus
+Director/courseeplus.com
++91-9944236897
+
+From rkrajeshkumar87 at gmail.com  Sun Dec 21 00:28:02 2014
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Sun, 21 Dec 2014 00:28:02 +0530
+Subject: [Ilugc] [Commercial] I need Manpower on Mobile App and Drupal
+	Development.
+Message-ID: <CAAKbJM+-a8PaoZ9Hq6DSkM+VWAMkmyjmEV_gTLmg5=tR2+c3WQ@mail.gmail.com>
+
+Dear All,
+
+We need manpower for Mobile app and drupal development for our project. The
+project duration is 2 months. Any one having the resource for the above
+mentioned technology please do contact me on the below email and numbers.
+
+Any freelancer who is willing to work will be good.
+
+--
+regards
+Rajesh Kumar
+rajeshkumar.k at igts.in
+9962566657 / 9444566657 / 8939714234
+
+From gnanamcool2k10 at gmail.com  Sun Dec 21 23:10:03 2014
+From: gnanamcool2k10 at gmail.com (GNANA DESIGAN)
+Date: Sun, 21 Dec 2014 23:10:03 +0530
+Subject: [Ilugc] [OT]Ilugc Tour
+In-Reply-To: <5491C58B.1020301@gmail.com>
+References: <5491C58B.1020301@gmail.com>
+Message-ID: <CAJ0wDO4M+piyRYx9ZvTcGBwygC3DsG9ixQ34WSj+dCxAS27M0w@mail.gmail.com>
+
+within chennai..?
+
+On Wed, Dec 17, 2014 at 11:33 PM, Gowtham Raam <professionalgraam at gmail.com>
+wrote:
+
+> Hi All,
+>
+> Can we have a day tour to a nearby place. Give your suggestions.
+>
+>
+> --
+> With Regards,
+> Gowtham Raam.J
+> Drop your Mail to : professionalgraam at gmail.com
+> Give a call by : (+91)-9443284989
+> Visit My blog : http://pacesettergraam.wordpress.com
+> /*FOSS gives you freedom It is a philosophy Open source is a development
+> model just to improve quality of code */
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+S.Gnanadesigan
+Communication Engineer
+National institute of Ocean Technology | Chennai | India |
+Mobile: +91-9944382004,9487802348
+E-mail: gnanamcool2k10 at gmail.com, sgnanadesigan at hotmail.com
+Website : www.niot.res.in
+
+From professionalgraam at gmail.com  Mon Dec 22 23:25:41 2014
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 22 Dec 2014 23:25:41 +0530
+Subject: [Ilugc] [OT]Ilugc Tour
+In-Reply-To: <CAJ0wDO4M+piyRYx9ZvTcGBwygC3DsG9ixQ34WSj+dCxAS27M0w@mail.gmail.com>
+References: <5491C58B.1020301@gmail.com>
+	<CAJ0wDO4M+piyRYx9ZvTcGBwygC3DsG9ixQ34WSj+dCxAS27M0w@mail.gmail.com>
+Message-ID: <54985B1D.4070103@gmail.com>
+
+
+On 21-12-2014 23:10, GNANA DESIGAN wrote:
+> within chennai..?
+>
+> On Wed, Dec 17, 2014 at 11:33 PM, Gowtham Raam <professionalgraam at gmail.com>
+> wrote:
+>
+>> Hi All,
+>>
+>> Can we have a day tour to a nearby place. Give your suggestions.
+>>
+>>
+>> --
+>> With Regards,
+>> Gowtham Raam.J
+>> Drop your Mail to : professionalgraam at gmail.com
+>> Give a call by : (+91)-9443284989
+>> Visit My blog : http://pacesettergraam.wordpress.com
+>> /*FOSS gives you freedom It is a philosophy Open source is a development
+>> model just to improve quality of code */
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+Hi Gnana desigan,
+
+It can be a place inside inside or nearby chennai. You can suggest a 
+good place where you feel that our community will have a good time. I 
+suggest we can go to Mahabalipuram. Kindly give your suggestions and 
+your inputs regarding place, time and arrangements for tour.
+
+-- 
+With Regards,
+Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+  Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development 
+model just to improve quality of code */
+
+From naresh at globalsoftlab.com  Tue Dec 23 11:21:11 2014
+From: naresh at globalsoftlab.com (Naresh Aravindh)
+Date: Tue, 23 Dec 2014 11:21:11 +0530
+Subject: [Ilugc] Job HTML/CSS Web Developer
+Message-ID: <CAP1LYDRbiaBT3TUX+U8tkBFeZ13xtUoQgvrsO6mzgkEUmiWM=w@mail.gmail.com>
+
+Hi folks,
+
+We are looking for HTML/CSS Web Developer with two plus years of
+experience. Send in your resume to naresh at globalsoftlab.com
+
+Regards,
+N.Naresh Aravindh
++91-9944987997.
+
+-- 
+
+*4/10, Buddhar colony, Porur, Chennai, India. Pincode 600116.*
+*T*: +91 (0)44 24766552 | *W*: http://www.globalsoftlab.com
+*F*: https://www.facebook.com/GlobalSoftlab *t*: @GlobalSoftLab 
+<https://twitter.com/GlobalSoftLab>
+
+From ezhillang at gmail.com  Tue Dec 23 11:28:23 2014
+From: ezhillang at gmail.com (Muthu A)
+Date: Mon, 22 Dec 2014 21:58:23 -0800
+Subject: [Ilugc] Ezhil Language - Write Code in Tamil (since 2008)
+Message-ID: <CAHwtB4YLgiOrMgai04rzF8m5MxCWaaCUMERGiYgsPk7c0TA_fg@mail.gmail.com>
+
+Hello Developers, and FOSS enthusiasts,
+
+I'm happy to share with you some news about revamped ezhillang.org website,
+and press coverage for Tamil programming language.
+
+Check: http://www.thehindu.com/features/education/school/making-computing-in-tamil-easy/article6713408.ece
+
+
+GitHub repo is https://github.com/arcturusannamalai/Ezhil-Lang
+
+Comments welcome. I'm always wearing my fire-retardant suit.
+-Muthu
+
+From codeshepherd at gmail.com  Tue Dec 23 12:47:40 2014
+From: codeshepherd at gmail.com (Deepan Chakravarthy)
+Date: Tue, 23 Dec 2014 12:47:40 +0530
+Subject: [Ilugc] [OT] Jobs - Developers & Interns
+Message-ID: <CAES9T=K-upQYrd7vT5YUVVKAz3Yad5hO8EkP1TXorrwz-fKfpQ@mail.gmail.com>
+
+Hi All,
+
+HashCube is looking to hire Javascript Developers and Interns. If you are
+interested please apply at http://hashcube.com/careers.php
+
+There are many geeks at our office - some of them are very active on LUGs -
+so if you want to work with other like minded folks - talk to us.
+
+Regards
+Deepan
+
+iOS App <https://itunes.apple.com/us/app/sudoku-quest+/id671755288?mt=8>
+| Android
+App
+<https://play.google.com/store/apps/details?id=com.hashcube.sudokuquest&hl=en>
+ | Amazon App
+<http://www.amazon.com/HashCube-Technologies-Pvt-Ltd-Sudoku/dp/B00ECIKGYG>
+ | Facebook App <http://apps.facebook.com/sudokuquest>
+
+From scorpionking.sahil at gmail.com  Tue Dec 23 22:00:14 2014
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 23 Dec 2014 22:00:14 +0530
+Subject: [Ilugc] [[Video Link]] We are Linux: by TheLinuxFoundation
+Message-ID: <CAP6xennVR4gsFrS-mKKzjm=PgMGzmPbeW-6u1uNN1yHdScO=5Q@mail.gmail.com>
+
+Namaste everyone,
+
+Sharing a video link:
+
+https://www.youtube.com/watch?v=11VGDAOVEag&list=UUfX55Sx5hEFjoC3cNs6mCUQ
+
+It's good to watch this.
+
+Thanks.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From vijai.ganapathy at gmail.com  Wed Dec 24 14:21:39 2014
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Wed, 24 Dec 2014 14:21:39 +0530
+Subject: [Ilugc] [Commercial] Intern / Developer PHP / Sugarcrm
+Message-ID: <CACahg4HP6qXLcVCjkUiHVBz7WJ4P5pABKt5TTGcryAZL9sfzsQ@mail.gmail.com>
+
+Dear All,
+
+We looking for enthusiastic PHP developer for our project.
+
+Interested candidates please send me email with details.
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From arunpalaniappan.mek at gmail.com  Wed Dec 24 22:40:00 2014
+From: arunpalaniappan.mek at gmail.com (ARUN PALANIAPPAN)
+Date: Wed, 24 Dec 2014 22:40:00 +0530
+Subject: [Ilugc] [ILGUC] [HELP] Extraction of Data and Plotting
+In-Reply-To: <CANSdqMqGoDvShXYzBUxtHjmM-a7T5HoRqbx98O_pUDDGwYZVBA@mail.gmail.com>
+References: <CANSdqMqGoDvShXYzBUxtHjmM-a7T5HoRqbx98O_pUDDGwYZVBA@mail.gmail.com>
+Message-ID: <CANSdqMr2-AGBTGW-QPA63ZcntKC9ffWSt8bULTb0q0z8tPD9ZQ@mail.gmail.com>
+
+2012-07-26 21:33 GMT+05:30 ARUN PALANIAPPAN <arunpalaniappan.mek at gmail.com>:
+
+> Hi all,
+>
+> We have data acquisition system which works in Windows. After acquisition,
+> the data automatically gets plotted (I think so!!) in a software called
+> Easy Plot.
+> ....
+> Easy Plot works well with Windows but, not  in Linux (as Expected!!) .
+> Opening  it using some Virtual mode also is more cumbersome.
+>
+> Now the problem is the Data can be viewed or copied only if I open it
+> using Easy Plot. When I try to open the file using either Note Pad
+> (WIndows) or using Gedit (Linux), I just get a cluster of symbols!!
+>
+> ...
+
+Is there any alternative means?
+> Or is there any means to extract the Data and paste it into a Note atleast?
+>
+
+
+Update:
+After a quite long time, after detailed search (using google) and thinking,
+finally I found out how to crack it by myself!!
+
+The file is in binary format, coded as 32 bit float, with Little endian.
+Data is represented by 4 bytes.
+
+Thank you all
+
+-- 
+Regards,
+ARUN P
+
+*A Tailor?s mistake is a Fashion But, An Engineer?s mistake is a Disaster.*
+
+"Preserve the earth; Else we will perish"
+
+From arunpalaniappan.mek at gmail.com  Wed Dec 24 22:45:04 2014
+From: arunpalaniappan.mek at gmail.com (ARUN PALANIAPPAN)
+Date: Wed, 24 Dec 2014 22:45:04 +0530
+Subject: [Ilugc] [ILGUC] [HELP] Extraction of Data and Plotting
+In-Reply-To: <CAEOiR2rV+wkcnzDbwrqSV95MQLpsusGo_CSuwJ3eTxzN9gNeuQ@mail.gmail.com>
+References: <CANSdqMqGoDvShXYzBUxtHjmM-a7T5HoRqbx98O_pUDDGwYZVBA@mail.gmail.com>
+	<CAND2796SohaaQbRUmqs4OjJTzkEsKNM8x0vtap886qAe6j0Bzw@mail.gmail.com>
+	<CANSdqMp8rMEwBJH6=6rdi40dNArm0D1=UYG6QfGqmV7e9yb+0A@mail.gmail.com>
+	<CAEOiR2rV+wkcnzDbwrqSV95MQLpsusGo_CSuwJ3eTxzN9gNeuQ@mail.gmail.com>
+Message-ID: <CANSdqMoMsq2XbzytDOcP+AtVrmR1k2-7W+TALFkOq2ByOFq8iw@mail.gmail.com>
+
+2012-07-28 18:42 GMT+05:30 Narendiran <a.narendiran at gmail.com>:
+
+> Most programs will have an option to export data into
+> other formats.
+>
+
+Thank you for the vital clue!!
+
+Also, thank you all  for your advices on spoon feeding / search.
+
+Had I got an solution in an easier mode, I would have never learned this :)
+-- 
+Regards,
+ARUN P
+
+*A Tailor?s mistake is a Fashion But, An Engineer?s mistake is a Disaster.*
+
+"Preserve the earth; Else we will perish"
+
+From 757694819 at qq.com  Sun Dec 28 07:39:19 2014
+From: 757694819 at qq.com (=?gb18030?B?wMu8o8zs0cQ=?=)
+Date: Sun, 28 Dec 2014 10:09:19 +0800
+Subject: [Ilugc] =?gb18030?b?vLDKsbvjsai5pNf3?=
+Message-ID: <tencent_3C750EAF24B1217064E463BB@qq.com>
+
+???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+
+????iPhone
+
+From kanagaraj.rk at gmail.com  Sun Dec 28 13:27:17 2014
+From: kanagaraj.rk at gmail.com (RK RK)
+Date: Sun, 28 Dec 2014 13:27:17 +0530
+Subject: [Ilugc] raspbery pi
+In-Reply-To: <CAPV1RACpn=X+7641auEZCH-W0jHMx8YMsOPbb+X03V+utpfENQ@mail.gmail.com>
+References: <CAMoCvv3J=JBkacsYAZq3pTvef60gJvPOK8aCa8jV3KxxZO4A5w@mail.gmail.com>
+	<CAPV1RACpn=X+7641auEZCH-W0jHMx8YMsOPbb+X03V+utpfENQ@mail.gmail.com>
+Message-ID: <CALVLwtZZn=OrOFRo+YQgQOPYQ6WDAux-f6qRQkx2tpszqW6C_A@mail.gmail.com>
+
+My friend just bought a Raspberry board from an electronics store in
+Tambaram. He said they are the dealer for the products from Element 14.
+
+Will publish the details soon.
+
+
+-- 
+
+With Regards,
+RK,
++91 9840483044
+
+From vishnuguruswamy at gmail.com  Sun Dec 28 15:09:43 2014
+From: vishnuguruswamy at gmail.com (Vishnu Guruswamy)
+Date: Sun, 28 Dec 2014 15:09:43 +0530
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+Message-ID: <CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+
+Hi,
+
+If it's possible to make it https link, that will be more helpful.
+
+On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+chidambasakthi at gmail.com> wrote:
+
+> Dear Luggies,
+>
+> We Plan to offer Open Source Courses online using our platform
+> www.courseeplus.com to spread the FOSS to the world of social
+> Learners.Interested Luggies Host your Courses for Free and Spread the word.
+>
+> --
+> Be Open.. Be Innovative...
+>
+> Chidambaresan Ananthan CEO/Opennovus
+> CEO/Technovus
+> Director/courseeplus.com
+> +91-9944236897
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+
+*????????,*
+
+
+* ????. ?????? +918939231907*
+"?????? ????? ????, ???????? ??????" - ???????
+  Known is a drop, Unknown is an ocean
+-----------------------------------------------------------------------
+????? ??????????? ????? ????
+?????? ?????????? ????????????
+-----------------------------------------------------------------------
+
+From send4kumar at gmail.com  Sun Dec 28 18:11:10 2014
+From: send4kumar at gmail.com (Kumar)
+Date: Sun, 28 Dec 2014 18:11:10 +0530
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+	<CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+Message-ID: <CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+
+site is not working for me
+
+
+
+With Thanks and Regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Sun, Dec 28, 2014 at 3:09 PM, Vishnu Guruswamy <vishnuguruswamy at gmail.com
+> wrote:
+
+> Hi,
+>
+> If it's possible to make it https link, that will be more helpful.
+>
+> On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+> chidambasakthi at gmail.com> wrote:
+>
+> > Dear Luggies,
+> >
+> > We Plan to offer Open Source Courses online using our platform
+> > www.courseeplus.com to spread the FOSS to the world of social
+> > Learners.Interested Luggies Host your Courses for Free and Spread the
+> word.
+> >
+> > --
+> > Be Open.. Be Innovative...
+> >
+> > Chidambaresan Ananthan CEO/Opennovus
+> > CEO/Technovus
+> > Director/courseeplus.com
+> > +91-9944236897
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+>
+> --
+>
+> *????????,*
+>
+>
+> * ????. ?????? +918939231907*
+> "?????? ????? ????, ???????? ??????" - ???????
+>   Known is a drop, Unknown is an ocean
+> -----------------------------------------------------------------------
+> ????? ??????????? ????? ????
+> ?????? ?????????? ????????????
+> -----------------------------------------------------------------------
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vishnuguruswamy at gmail.com  Sun Dec 28 18:50:33 2014
+From: vishnuguruswamy at gmail.com (Vishnu Guruswamy)
+Date: Sun, 28 Dec 2014 18:50:33 +0530
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+	<CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+	<CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+Message-ID: <CAPRA386scGTF3dK=FZYMMzC3PXFKv6R-U9CdyqPY_3ai_pF1cA@mail.gmail.com>
+
+Hi,
+
+I2 facing the same thing....
+ On 28 Dec 2014 18:11, "Kumar" <send4kumar at gmail.com> wrote:
+
+> site is not working for me
+>
+>
+>
+> With Thanks and Regards,
+> Kumar
+> m: +91 94434 55374
+> im: send4kumar [ skype ]
+>
+> On Sun, Dec 28, 2014 at 3:09 PM, Vishnu Guruswamy <
+> vishnuguruswamy at gmail.com
+> > wrote:
+>
+> > Hi,
+> >
+> > If it's possible to make it https link, that will be more helpful.
+> >
+> > On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+> > chidambasakthi at gmail.com> wrote:
+> >
+> > > Dear Luggies,
+> > >
+> > > We Plan to offer Open Source Courses online using our platform
+> > > www.courseeplus.com to spread the FOSS to the world of social
+> > > Learners.Interested Luggies Host your Courses for Free and Spread the
+> > word.
+> > >
+> > > --
+> > > Be Open.. Be Innovative...
+> > >
+> > > Chidambaresan Ananthan CEO/Opennovus
+> > > CEO/Technovus
+> > > Director/courseeplus.com
+> > > +91-9944236897
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> >
+> >
+> >
+> > --
+> >
+> > *????????,*
+> >
+> >
+> > * ????. ?????? +918939231907*
+> > "?????? ????? ????, ???????? ??????" - ???????
+> >   Known is a drop, Unknown is an ocean
+> > -----------------------------------------------------------------------
+> > ????? ??????????? ????? ????
+> > ?????? ?????????? ????????????
+> > -----------------------------------------------------------------------
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From 757694819 at qq.com  Sun Dec 28 20:10:19 2014
+From: 757694819 at qq.com (=?gb18030?B?wMu8o8zs0cQ=?=)
+Date: Sun, 28 Dec 2014 22:40:19 +0800
+Subject: [Ilugc] =?gb18030?b?xOO4+sut0ae1xKO/?=
+Message-ID: <tencent_1A46F7F735A522F3713DBBAE@qq.com>
+
+?????????????????????????????????
+
+????iPhone
+
+From tshrinivasan at gmail.com  Sun Dec 28 21:46:58 2014
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sun, 28 Dec 2014 21:46:58 +0530
+Subject: [Ilugc] =?utf-8?b?5L2g6Lef6LCB5a2m55qE77yf?=
+In-Reply-To: <tencent_1A46F7F735A522F3713DBBAE@qq.com>
+References: <tencent_1A46F7F735A522F3713DBBAE@qq.com>
+Message-ID: <CAND2795gue015s_EWMB8FVrhMFALtxSGyOhaxx5yVgQZS3y6Vg@mail.gmail.com>
+
+Sent mail to bharathi to ban this user.
+
+Shrini
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From 77minds at gmail.com  Sun Dec 28 22:49:57 2014
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 28 Dec 2014 22:49:57 +0530
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAPRA386scGTF3dK=FZYMMzC3PXFKv6R-U9CdyqPY_3ai_pF1cA@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+	<CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+	<CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+	<CAPRA386scGTF3dK=FZYMMzC3PXFKv6R-U9CdyqPY_3ai_pF1cA@mail.gmail.com>
+Message-ID: <CAJR+9kbbqPwf3ca_AyEGMA3nM2PyYu_aWcsWRcKMVd6Ax3dzjg@mail.gmail.com>
+
+Says some database error.
+
+On Sun, Dec 28, 2014 at 6:50 PM, Vishnu Guruswamy <vishnuguruswamy at gmail.com
+> wrote:
+
+> Hi,
+>
+> I2 facing the same thing....
+>  On 28 Dec 2014 18:11, "Kumar" <send4kumar at gmail.com> wrote:
+>
+> > site is not working for me
+> >
+> >
+> >
+> > With Thanks and Regards,
+> > Kumar
+> > m: +91 94434 55374
+> > im: send4kumar [ skype ]
+> >
+> > On Sun, Dec 28, 2014 at 3:09 PM, Vishnu Guruswamy <
+> > vishnuguruswamy at gmail.com
+> > > wrote:
+> >
+> > > Hi,
+> > >
+> > > If it's possible to make it https link, that will be more helpful.
+> > >
+> > > On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+> > > chidambasakthi at gmail.com> wrote:
+> > >
+> > > > Dear Luggies,
+> > > >
+> > > > We Plan to offer Open Source Courses online using our platform
+> > > > www.courseeplus.com to spread the FOSS to the world of social
+> > > > Learners.Interested Luggies Host your Courses for Free and Spread the
+> > > word.
+> > > >
+> > > > --
+> > > > Be Open.. Be Innovative...
+> > > >
+> > > > Chidambaresan Ananthan CEO/Opennovus
+> > > > CEO/Technovus
+> > > > Director/courseeplus.com
+> > > > +91-9944236897
+> > > > _______________________________________________
+> > > > ILUGC Mailing List:
+> > > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > > ILUGC Mailing List Guidelines:
+> > > > http://ilugc.in/mailinglist-guidelines
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > >
+> > > *????????,*
+> > >
+> > >
+> > > * ????. ?????? +918939231907*
+> > > "?????? ????? ????, ???????? ??????" - ???????
+> > >   Known is a drop, Unknown is an ocean
+> > > -----------------------------------------------------------------------
+> > > ????? ??????????? ????? ????
+> > > ?????? ?????????? ????????????
+> > > -----------------------------------------------------------------------
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From chidambasakthi at gmail.com  Mon Dec 29 02:15:07 2014
+From: chidambasakthi at gmail.com (chidambaresan ananthan)
+Date: Mon, 29 Dec 2014 02:15:07 +0530
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAJR+9kbbqPwf3ca_AyEGMA3nM2PyYu_aWcsWRcKMVd6Ax3dzjg@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+	<CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+	<CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+	<CAPRA386scGTF3dK=FZYMMzC3PXFKv6R-U9CdyqPY_3ai_pF1cA@mail.gmail.com>
+	<CAJR+9kbbqPwf3ca_AyEGMA3nM2PyYu_aWcsWRcKMVd6Ax3dzjg@mail.gmail.com>
+Message-ID: <CAHRa3=YWXBcV36iau_PmDC+aQKaPMV-ykBkJ4CxiJn4sVc2fVg@mail.gmail.com>
+
+Scheduled maintenance is going on.please have a look at 10  am.please mail
+me @ chidambaresan at courseeplus.com to host your courses.
+
+On Sunday, December 28, 2014, Karthikeyan A K <77minds at gmail.com> wrote:
+> Says some database error.
+>
+> On Sun, Dec 28, 2014 at 6:50 PM, Vishnu Guruswamy <
+vishnuguruswamy at gmail.com
+>> wrote:
+>
+>> Hi,
+>>
+>> I2 facing the same thing....
+>>  On 28 Dec 2014 18:11, "Kumar" <send4kumar at gmail.com> wrote:
+>>
+>> > site is not working for me
+>> >
+>> >
+>> >
+>> > With Thanks and Regards,
+>> > Kumar
+>> > m: +91 94434 55374
+>> > im: send4kumar [ skype ]
+>> >
+>> > On Sun, Dec 28, 2014 at 3:09 PM, Vishnu Guruswamy <
+>> > vishnuguruswamy at gmail.com
+>> > > wrote:
+>> >
+>> > > Hi,
+>> > >
+>> > > If it's possible to make it https link, that will be more helpful.
+>> > >
+>> > > On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+>> > > chidambasakthi at gmail.com> wrote:
+>> > >
+>> > > > Dear Luggies,
+>> > > >
+>> > > > We Plan to offer Open Source Courses online using our platform
+>> > > > www.courseeplus.com to spread the FOSS to the world of social
+>> > > > Learners.Interested Luggies Host your Courses for Free and Spread
+the
+>> > > word.
+>> > > >
+>> > > > --
+>> > > > Be Open.. Be Innovative...
+>> > > >
+>> > > > Chidambaresan Ananthan CEO/Opennovus
+>> > > > CEO/Technovus
+>> > > > Director/courseeplus.com
+>> > > > +91-9944236897
+>> > > > _______________________________________________
+>> > > > ILUGC Mailing List:
+>> > > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> > > > ILUGC Mailing List Guidelines:
+>> > > > http://ilugc.in/mailinglist-guidelines
+>> > > >
+>> > >
+>> > >
+>> > >
+>> > > --
+>> > >
+>> > > *????????,*
+>> > >
+>> > >
+>> > > * ????. ?????? +918939231907*
+>> > > "?????? ????? ????, ???????? ??????" - ???????
+>> > >   Known is a drop, Unknown is an ocean
+>> > >
+-----------------------------------------------------------------------
+>> > > ????? ??????????? ????? ????
+>> > > ?????? ?????????? ????????????
+>> > >
+-----------------------------------------------------------------------
+>> > > _______________________________________________
+>> > > ILUGC Mailing List:
+>> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> > > ILUGC Mailing List Guidelines:
+>> > > http://ilugc.in/mailinglist-guidelines
+>> > >
+>> > _______________________________________________
+>> > ILUGC Mailing List:
+>> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> > ILUGC Mailing List Guidelines:
+>> > http://ilugc.in/mailinglist-guidelines
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+-- 
+Be Open.. Be Innovative...
+
+Chidambaresan Ananthan CEO/Opennovus
+CEO/Technovus
+Director/courseeplus.com
++91-9944236897
+
+From prakash_prasad at yahoo.com  Mon Dec 29 10:00:40 2014
+From: prakash_prasad at yahoo.com (Prakash Prasad)
+Date: Mon, 29 Dec 2014 04:30:40 +0000 (UTC)
+Subject: [Ilugc] [Education] Host your Courses
+In-Reply-To: <CAJR+9kbbqPwf3ca_AyEGMA3nM2PyYu_aWcsWRcKMVd6Ax3dzjg@mail.gmail.com>
+References: <CAHRa3=bxRfYCFJ0-8NRdSFEEYGtrCYh_OJFgGgWKZTH6KjPH6w@mail.gmail.com>
+	<CAPRA386SFKfWG_Ypf3cXRtZ01GNjt6JoPfTLO_0WGfJ06BV9cQ@mail.gmail.com>
+	<CAHFTyBpjWc89Q5q3COkJcT+ZvgD4sYrJpZcUZPGB44daX=NM0A@mail.gmail.com>
+	<CAPRA386scGTF3dK=FZYMMzC3PXFKv6R-U9CdyqPY_3ai_pF1cA@mail.gmail.com>
+	<CAJR+9kbbqPwf3ca_AyEGMA3nM2PyYu_aWcsWRcKMVd6Ax3dzjg@mail.gmail.com>
+Message-ID: <1985844591.1435758.1419827440702.JavaMail.yahoo@jws10959.mail.sg3.yahoo.com>
+
+I am in seriously ...
+Regards,Prakash
+ 
+
+     On Sunday, 28 December 2014 10:50 PM, Karthikeyan A K <77minds at gmail.com> wrote:
+   
+
+ Says some database error.
+
+On Sun, Dec 28, 2014 at 6:50 PM, Vishnu Guruswamy <vishnuguruswamy at gmail.com
+> wrote:
+
+> Hi,
+>
+> I2 facing the same thing....
+>? On 28 Dec 2014 18:11, "Kumar" <send4kumar at gmail.com> wrote:
+>
+> > site is not working for me
+> >
+> >
+> >
+> > With Thanks and Regards,
+> > Kumar
+> > m: +91 94434 55374
+> > im: send4kumar [ skype ]
+> >
+> > On Sun, Dec 28, 2014 at 3:09 PM, Vishnu Guruswamy <
+> > vishnuguruswamy at gmail.com
+> > > wrote:
+> >
+> > > Hi,
+> > >
+> > > If it's possible to make it https link, that will be more helpful.
+> > >
+> > > On Sun, Dec 21, 2014 at 12:25 AM, chidambaresan ananthan <
+> > > chidambasakthi at gmail.com> wrote:
+> > >
+> > > > Dear Luggies,
+> > > >
+> > > > We Plan to offer Open Source Courses online using our platform
+> > > > www.courseeplus.com to spread the FOSS to the world of social
+> > > > Learners.Interested Luggies Host your Courses for Free and Spread the
+> > > word.
+> > > >
+> > > > --
+> > > > Be Open.. Be Innovative...
+> > > >
+> > > > Chidambaresan Ananthan CEO/Opennovus
+> > > > CEO/Technovus
+> > > > Director/courseeplus.com
+> > > > +91-9944236897
+> > > > _______________________________________________
+> > > > ILUGC Mailing List:
+> > > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > > ILUGC Mailing List Guidelines:
+> > > > http://ilugc.in/mailinglist-guidelines
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > >
+> > > *????????,*
+> > >
+> > >
+> > > * ????. ?????? +918939231907*
+> > > "?????? ????? ????, ???????? ??????" - ???????
+> > >? Known is a drop, Unknown is an ocean
+> > > -----------------------------------------------------------------------
+> > > ????? ??????????? ????? ????
+> > > ?????? ?????????? ????????????
+> > > -----------------------------------------------------------------------
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+   
+
+From sankarmahadevan69 at gmail.com  Tue Dec 30 06:42:59 2014
+From: sankarmahadevan69 at gmail.com (Sankara Mahadevan)
+Date: Tue, 30 Dec 2014 06:42:59 +0530
+Subject: [Ilugc] Asking About the chennai meet date?
+Message-ID: <CAA4Os0N-E6mCPQR22qjGCqpxGVx53NQuenK2KnjFjnB6CugnAA@mail.gmail.com>
+
+SIr,
+This is Sankara Mahadevan. May I know the date of chennai meet in IIT ?
+please let us know.
+
+From shakthimaan at gmail.com  Tue Dec 30 09:04:58 2014
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 30 Dec 2014 09:04:58 +0530
+Subject: [Ilugc] Asking About the chennai meet date?
+In-Reply-To: <CAA4Os0N-E6mCPQR22qjGCqpxGVx53NQuenK2KnjFjnB6CugnAA@mail.gmail.com>
+References: <CAA4Os0N-E6mCPQR22qjGCqpxGVx53NQuenK2KnjFjnB6CugnAA@mail.gmail.com>
+Message-ID: <CABG-yt0rURhdabYenx6-RwVNgmx6X0Yyne1DGPwKUzP1=W64fg@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Dec 30, 2014 at 6:42 AM, Sankara Mahadevan
+<sankarmahadevan69 at gmail.com> wrote:
+| May I know the date of chennai meet in IIT ?
+\--
+
+It is usually the second Saturday of every month.
+
+  http://ilugc.in/contact-us/
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From msrarun22 at gmail.com  Wed Dec 31 12:59:08 2014
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Wed, 31 Dec 2014 12:59:08 +0530
+Subject: [Ilugc] Puppet
+Message-ID: <CALHF9_EnnE2kyrPcq0v2cpSKnppOE=aLAXah65au1D3_tzHgxg@mail.gmail.com>
+
+Dear Friends,
+
+
+    Trying to configure dashboard in my puppet master(opensource).
+Searching for more documents and not getting the exact one.Need
+prerequisite for dashboard configuration and further proceedings
+
+
+Thanks in advance
+sundar
+
+From bala150985 at gmail.com  Wed Dec 31 13:01:30 2014
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Wed, 31 Dec 2014 13:01:30 +0530
+Subject: [Ilugc] Puppet
+In-Reply-To: <CALHF9_EnnE2kyrPcq0v2cpSKnppOE=aLAXah65au1D3_tzHgxg@mail.gmail.com>
+References: <CALHF9_EnnE2kyrPcq0v2cpSKnppOE=aLAXah65au1D3_tzHgxg@mail.gmail.com>
+Message-ID: <CAFHFDAmyVBR-JDo3VsX225RHL0-PkGZaX5O+1sFAXR=EtPP6dw@mail.gmail.com>
+
+>     Trying to configure dashboard in my puppet master(opensource).
+> Searching for more documents and not getting the exact one.Need
+> prerequisite for dashboard configuration and further proceedings
+>
+>
+Would opensource puppet master supports the dashboard option ?
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From msrarun22 at gmail.com  Wed Dec 31 13:05:20 2014
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Wed, 31 Dec 2014 13:05:20 +0530
+Subject: [Ilugc] Puppet
+In-Reply-To: <CAFHFDAmyVBR-JDo3VsX225RHL0-PkGZaX5O+1sFAXR=EtPP6dw@mail.gmail.com>
+References: <CALHF9_EnnE2kyrPcq0v2cpSKnppOE=aLAXah65au1D3_tzHgxg@mail.gmail.com>
+	<CAFHFDAmyVBR-JDo3VsX225RHL0-PkGZaX5O+1sFAXR=EtPP6dw@mail.gmail.com>
+Message-ID: <CALHF9_GgR9zhUXfDkAH_xy9EDvdFRi-eQnZAfGNoKxTp=s20rw@mail.gmail.com>
+
+Dear team,
+
+     I am not sure . hope option should be there ..
+
+
+sundar
+
+On Wed, Dec 31, 2014 at 1:01 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> >     Trying to configure dashboard in my puppet master(opensource).
+> > Searching for more documents and not getting the exact one.Need
+> > prerequisite for dashboard configuration and further proceedings
+> >
+> >
+> Would opensource puppet master supports the dashboard option ?
+>
+> --
+> Regards,
+> Balasubramaniam Natarajan
+> http://blog.etutorshop.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From bala150985 at gmail.com  Wed Dec 31 13:05:31 2014
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Wed, 31 Dec 2014 13:05:31 +0530
+Subject: [Ilugc] Mysql SSL segmentation fault
+Message-ID: <CAFHFDA=O34Ooc+TWBZtXgxYX9jgL6NisF8aeXrwxwLK3EEmPWw@mail.gmail.com>
+
+Hi
+
+Has any one had success with configuring these from stalk.
+
+Mysqld server which supports SSL on a Redhat box (Santiago) and then have
+mysql client from a debian (Wheezy) connect in over SSL without any problem
+?
+
+When I tried doing it I ended up with Segmentation fault on my debian
+machine.  However when I used another Redhat box(Santiago) for mysql client
+I was successful in establishing the connection over SSL.  Could someone in
+the group pour their SME opinion on this issue ?
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From bala150985 at gmail.com  Wed Dec 31 13:07:11 2014
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Wed, 31 Dec 2014 13:07:11 +0530
+Subject: [Ilugc] Puppet
+In-Reply-To: <CALHF9_GgR9zhUXfDkAH_xy9EDvdFRi-eQnZAfGNoKxTp=s20rw@mail.gmail.com>
+References: <CALHF9_EnnE2kyrPcq0v2cpSKnppOE=aLAXah65au1D3_tzHgxg@mail.gmail.com>
+	<CAFHFDAmyVBR-JDo3VsX225RHL0-PkGZaX5O+1sFAXR=EtPP6dw@mail.gmail.com>
+	<CALHF9_GgR9zhUXfDkAH_xy9EDvdFRi-eQnZAfGNoKxTp=s20rw@mail.gmail.com>
+Message-ID: <CAFHFDAkgeTEgW3oYnhK2xJwuJ1rbt5yScmo-NE6HLcT_G3Ma6A@mail.gmail.com>
+
+On Wed, Dec 31, 2014 at 1:05 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+
+> Dear team,
+>
+>      I am not sure . hope option should be there ..
+>
+>
+
+I was under the impression that it was rolled only into their commercial
+version.
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+

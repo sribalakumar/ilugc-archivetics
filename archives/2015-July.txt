@@ -1,0 +1,3956 @@
+From shihan.viswa at gmail.com  Wed Jul  1 12:37:49 2015
+From: shihan.viswa at gmail.com (viswaprasath)
+Date: Wed, 1 Jul 2015 12:37:49 +0530
+Subject: [Ilugc] OS doubt
+Message-ID: <CAHuPp2nLn=XrWhqgpOnpnX80g0nN=Nev=Sq4yvpy4FFYTwRUOg@mail.gmail.com>
+
+Dear Contributors,
+
+I had doubt, OS like deepin and Elementary say they are based on Ubuntu.
+
+Will all the features and software working on Ubuntu properly work on the
+above mentioned both.
+
+Thank you
+
+-- 
+Web is open so Code is poetry
+
+Firefox for Deskop <https://affiliates.mozilla.org/referral/63354/>
+Firefox Marketplace <https://affiliates.mozilla.org/referral/63355/> App
+Reviewer
+Firefox for Android <http://affiliates.mozilla.org/link/banner/3166>
+
+<http://about.me/viswaprasathks>
+
+[image: Viswaprasath Ks on about.me]
+
+Viswaprasath Ks
+about.me/viswaprasathks
+
+From shakthimaan at gmail.com  Wed Jul  1 13:51:08 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 1 Jul 2015 13:51:08 +0530
+Subject: [Ilugc] os installation help
+In-Reply-To: <CA+PS5Y00KUywmBZ9nw2MeN5L7+Gr8EdyKMHAZgvZyg8QOx60Tw@mail.gmail.com>
+References: <CA+PS5Y00KUywmBZ9nw2MeN5L7+Gr8EdyKMHAZgvZyg8QOx60Tw@mail.gmail.com>
+Message-ID: <CABG-yt0y-9K62aHToGuRt4KK2z9T7-oAvKTwBLerQR6sDd9sFQ@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Jun 30, 2015 at 4:02 PM, Mayilvahanan Jothivel
+<mayilvahananjothivel at gmail.com> wrote:
+|  Sir i need to install zorin os instead of window without loss of data in
+| other drives expect C drive
+\--
+
+Please follow their installation guide:
+
+  http://zorin-os.com/installguide.html
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Wed Jul  1 13:52:58 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 1 Jul 2015 13:52:58 +0530
+Subject: [Ilugc] OS doubt
+In-Reply-To: <CAHuPp2nLn=XrWhqgpOnpnX80g0nN=Nev=Sq4yvpy4FFYTwRUOg@mail.gmail.com>
+References: <CAHuPp2nLn=XrWhqgpOnpnX80g0nN=Nev=Sq4yvpy4FFYTwRUOg@mail.gmail.com>
+Message-ID: <CABG-yt2CKVqStUS35WEDvr=i0X_yfShoD789WZkcmggDrCYAjQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Jul 1, 2015 at 12:37 PM, viswaprasath
+<shihan.viswa at gmail.com> wrote:
+| I had doubt, OS like deepin and Elementary say they are based on Ubuntu.
+|
+| Will all the features and software working on Ubuntu properly work on the
+| above mentioned both.
+\--
+
+It depends on what customization changes the above distros have made
+when building their software.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vik at hamaralinux.org  Wed Jul  1 14:12:05 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Wed, 01 Jul 2015 09:42:05 +0100
+Subject: [Ilugc] OS doubt
+In-Reply-To: <CAHuPp2nLn=XrWhqgpOnpnX80g0nN=Nev=Sq4yvpy4FFYTwRUOg@mail.gmail.com>
+References: <CAHuPp2nLn=XrWhqgpOnpnX80g0nN=Nev=Sq4yvpy4FFYTwRUOg@mail.gmail.com>
+Message-ID: <5593A7DD.7050902@hamaralinux.org>
+
+On 01/07/15 08:07, viswaprasath wrote:
+> Dear Contributors,
+>
+> I had doubt, OS like deepin and Elementary say they are based on Ubuntu.
+>
+> Will all the features and software working on Ubuntu properly work on the
+> above mentioned both.
+One fairly important issue you will find is that ubuntu ppa's won't work 
+using apt-add-repository
+
+It's easy to workaround however. I had a similar issue with using ubuntu 
+ppa's in hamara linux:
+https://blogs.hamaralinux.org/2015/05/xbmc-kodi-on-hamara-linux/
+>
+hth
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From ajeeshbkannan at gmail.com  Wed Jul  1 21:25:29 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 1 Jul 2015 21:25:29 +0530
+Subject: [Ilugc] known vulnerability with TLS v1.0
+Message-ID: <CA+ark-qf-t_Q7uT=c+HNwxQsNUrSO8bnyFaxeuRFd9OshQ0eeA@mail.gmail.com>
+
+Hi,
+
+Is there a known vulnerability with TLS v1.0 ?
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From ajeeshbkannan at gmail.com  Thu Jul  2 14:13:54 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Thu, 2 Jul 2015 14:13:54 +0530
+Subject: [Ilugc] known vulnerability with TLS v1.0
+In-Reply-To: <CA+ark-qf-t_Q7uT=c+HNwxQsNUrSO8bnyFaxeuRFd9OshQ0eeA@mail.gmail.com>
+References: <CA+ark-qf-t_Q7uT=c+HNwxQsNUrSO8bnyFaxeuRFd9OshQ0eeA@mail.gmail.com>
+Message-ID: <CA+ark-qet3JJFLhNqvtjPR8wKv34eOAQmsePhAw0QOwYthCG6w@mail.gmail.com>
+
+On Wed, Jul 1, 2015 at 9:25 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hi,
+>
+> Is there a known vulnerability with TLS v1.0 ?
+>
+
+I have listed some of the following  vulnerabilities against TLS v1.0
+
+
+1POODLE2BEAST3CBC vulnerability4FREAK (before version 1.0.1k)5ePN is
+discontinuing all communication protocols using TLS v1.0 and TLS v1.1
+effective June 30th, 2015
+
+>
+>
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From shakthimaan at gmail.com  Thu Jul  2 17:46:28 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 2 Jul 2015 17:46:28 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+Message-ID: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+
+Hi,
+
+Installfest II is scheduled for Saturday, July 18, 2015 at the
+Manufacturing System Insights office in Chennai between 0800 and 1500
+IST to help people in installing any GNU/Linux distribution (Ubuntu,
+Debian, Fedora, etc.), and also assist in configuring their systems
+and services.
+
+Entry is free, but, limited to twenty-five participants. If you are
+interested in participating, please reply at the earliest with the
+following details:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.) do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+Regards,
+
+SK
+
+[1] Installfest. http://en.wikipedia.org/wiki/Linux_user_group#Installfests
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From aabraham at hcl.com  Thu Jul  2 18:32:57 2015
+From: aabraham at hcl.com (Anil Abraham, Chennai)
+Date: Thu, 2 Jul 2015 13:02:57 +0000
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+Message-ID: <C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+
+Hi Shakthi 
+
+  * Full name :ANIL ABRAHAM
+  * What hardware do you plan to bring (laptop/PC and accessories)? LAPTOP
+  * What GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.) do you need? : UBUNTU latest 
+  * What you intend to work on?  : Mobile development 
+  * Anything else you require during the installfest?  Iam a begineer and want to learn from experts on installation procedures 
+
+PL confirm the address is 
+
+Manufacturing System Insights India Pvt Ltd., #237/1A & 2C, VENGAIVASAL MAIN ROAD, MADAMBAKKAM POST, SELAIYUR, Chennai - 600073, Tamil Nadu, India
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On Behalf Of Shakthi Kannan
+Sent: Thursday, July 02, 2015 5:46 PM
+To: ILUG-C
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+
+Hi,
+
+Installfest II is scheduled for Saturday, July 18, 2015 at the Manufacturing System Insights office in Chennai between 0800 and 1500 IST to help people in installing any GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.), and also assist in configuring their systems and services.
+
+Entry is free, but, limited to twenty-five participants. If you are interested in participating, please reply at the earliest with the following details:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution (Ubuntu, Debian, Fedora, etc.) do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+Regards,
+
+SK
+
+[1] Installfest. http://en.wikipedia.org/wiki/Linux_user_group#Installfests
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+::DISCLAIMER::
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+The contents of this e-mail and any attachment(s) are confidential and intended for the named recipient(s) only.
+E-mail transmission is not guaranteed to be secure or error-free as information could be intercepted, corrupted,
+lost, destroyed, arrive late or incomplete, or may contain viruses in transmission. The e mail and its contents
+(with or without referred errors) shall therefore not attach any liability on the originator or HCL or its affiliates.
+Views or opinions, if any, presented in this email are solely those of the author and may not necessarily reflect the
+views or opinions of HCL or its affiliates. Any form of reproduction, dissemination, copying, disclosure, modification,
+distribution and / or publication of this message without the prior written consent of authorized representative of
+HCL is strictly prohibited. If you have received this email in error please delete it and notify the sender immediately.
+Before opening any email and/or attachments, please check them for viruses and other defects.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+From shakthimaan at gmail.com  Fri Jul  3 13:41:16 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 3 Jul 2015 13:41:16 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+Message-ID: <CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Jul 2, 2015 at 6:32 PM, Anil Abraham, Chennai
+<aabraham at hcl.com> wrote:
+| PL confirm the address is
+\--
+
+It is:
+
+Manufacturing System Insights India Pvt Ltd
+506 Velachery Main Road
+East Tambaram
+Chennai 600059, India
+Main: +91 44 4287 2130
+
+See: http://www.systeminsights.com/contact-us/
+
+Please don't use your corporate e-mail address to send e-mails to this
+list. The disclaimers that are attached are very opposed to free and
+open source software discussions. Instead, use a personal e-mail
+account.
+
+Updated participants list:
+
+* Anil Abraham
+  Laptop
+  Ubuntu
+  Mobile development
+
+* Shakthi Kannan
+  Laptop/Desktop
+  Ubuntu/Guix
+  Installation and configuration
+
+23 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From balu.manyam at gmail.com  Fri Jul  3 18:23:42 2015
+From: balu.manyam at gmail.com (Balu manyam)
+Date: Fri, 3 Jul 2015 18:23:42 +0530
+Subject: [Ilugc] openldap and Microsoft active directory
+In-Reply-To: <CAHhM8gC6RuPSAA2=O32bxQD35HT_R1D4pX+Wq4=yNoWo1AmBqQ@mail.gmail.com>
+References: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+	<CAHhM8gC6RuPSAA2=O32bxQD35HT_R1D4pX+Wq4=yNoWo1AmBqQ@mail.gmail.com>
+Message-ID: <CADHE0DpROpTk1P9zQMSO=vyRj8BV3bg+yHftpPOhUmgh1ZcgCw@mail.gmail.com>
+
+thanks for sharing
+
+On Wed, Jun 24, 2015 at 9:12 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Fri, May 15, 2015 at 1:24 AM, Balu manyam <balu.manyam at gmail.com>
+> wrote:
+> > Namaste all -- Has anyone worked on openldap with Microsoft AD ? I am
+> > searching for a way where Microsoft AD will forward the requests to
+> > openldap for specific domain ?
+> >
+> > Ideas?
+>
+> I was looking for the same a couple of years ago.
+> Search keywords "openldap proxy active directory" will give you links
+> to start your research on the implementation.
+>
+> Best,
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From dayalsaravanan at gmail.com  Sun Jul  5 21:23:04 2015
+From: dayalsaravanan at gmail.com (Saravanan Dayalan)
+Date: Sun, 5 Jul 2015 21:23:04 +0530
+Subject: [Ilugc] Installfest II
+Message-ID: <CAMxoz6O0tr+zgc61Q0YbJe_kDbVr=Qyqdd236fpSnVDuiM1d9A@mail.gmail.com>
+
+Name: D.Saravanan
+Hardware: hp pavilion g6 - 2231TX (Laptop)
+GNU/LINUX distribution: Debian
+Intend to work on : learn to maintain and update the distribution
+Anything else: to install all Science - Debian packages.
+
+From a.mani.cms at gmail.com  Sun Jul  5 23:12:09 2015
+From: a.mani.cms at gmail.com (A. Mani)
+Date: Sun, 5 Jul 2015 23:12:09 +0530
+Subject: [Ilugc] GNU/Linux-Women
+Message-ID: <CADDQFRuLoGiLTAprbjUpGm-23LjHp7UX3xSaGrdQUb_6d4vkMg@mail.gmail.com>
+
+A Google+ Community for discussions on free software and experience of
+women in free software by women:
+
+https://plus.google.com/u/0/communities/116724551469739970001
+
+It is a women only space.
+
+Best
+
+A. Mani
+
+
+
+Prof(Miss) A. Mani
+CU, ASL, AMS, ISRS, CLC, CMS
+HomePage: http://www.logicamani.in
+Blog: http://logicamani.blogspot.in/
+http://about.me/logicamani
+sip:girlprofessor at ekiga.net
+
+From mbchandar at gmail.com  Sun Jul  5 23:34:19 2015
+From: mbchandar at gmail.com (balachandar muruganantham)
+Date: Sun, 5 Jul 2015 23:34:19 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+Message-ID: <CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+
+may be this is little Out of topic.
+
+FSFTN as a community form, what did it achieve? i am curious to know.
+
+Google says fsftn.org - This site may be hacked. Timeline of events are
+upto 2013 from the menu.
+
+i am not here to pin point.
+
+whether its a committee or community, its the individual contribution that
+matters.
+
+
+
+- balachandar muruganantham
+???? ????? ????????? - http://www.balachandar.net/pakkangal
+????? ?????? ??????? ?????? - http://www.chennaishopping.com/ - 450?? ????
+???? ?????????????, ???? ????????.
+??????? ???? ???????? -
+https://addons.mozilla.org/en-US/firefox/addon/tamil-spell-checker-for-firefo/
+
+2GB space + 20 GB B/W + cPanel, LAMP Hosting http://www.vazhangi.com/
+
+On Sat, Jun 13, 2015 at 9:45 PM, Alagunambi Welkin <
+alagunambiwelkin at gmail.com> wrote:
+
+> Dear All,
+>
+> Let me clarify my proposal again,
+>
+> *Short-Term-Goals*:
+> Let community decide collectively what is the goal as a community which we
+> are trying to achieve for a year.
+>
+> *Why?* By adopting this process we create a great scope to involve
+> interested people from community, who otherwise remained dormant or just a
+> spectator, to give suggestion on what they feel as necessary and what can
+> we as a community to be done for a year. *Isnt it involving individual
+> contributors?*
+>
+> *Co-ordination Committee:*
+> A team of volunteers, who come forward to implement the collectively
+> decided short-term-goal. With following basic qualities,
+>
+> 1) Co-ordination Committee should not have hierarchy.
+> 2) Co-ordination Committee should have physical volunteers.
+> 3) Co-ordination Committee members should be accountable.
+> 4) Co-ordination Committee should be changed periodically, say once a year.
+>
+> *Why?*
+> 1) No hierarchy: is because of the practice of community model.
+> 2) Necessary of physical volunteers: is because we need people on the
+> ground to organize anything to reach public.
+> 3) Need for accountability: it is to make sure, there are no one sitting
+> inside committee and just give suggestion.
+> 4) Periodical Change: it is to make sure, we give opportunity for new
+> people, through which they learn organizing events.
+>
+> *More:*
+> 1) Already guiding team( Raman, Bharathi, Shakthi, Baskar, Thyagarajan, and
+> others) are doing great in community. Can they do it eternally?
+> 2) I hope there is already an external co-ordination happening to guide
+> co-ordinator outside malinglist, why not formalize it?
+> 3) having co-ordinator never stopped any individual from contributing, how
+> come having a team of co-ordinators will affect individual contributions?
+>
+> *Core point:* Defining short-term-goals will make a mailinglist a action
+> oriented community. Individual co-ordinator as a model has short comings,
+> which we have experienced, let us try a team of co-ordinators without
+> hindering the community principles.
+>
+> If there people feel discomfort in my proposal, please do question it.
+>
+> --
+> Alagunambi Welkin
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From citizenofgnu at gmail.com  Mon Jul  6 04:24:51 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Mon, 6 Jul 2015 04:24:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+	<CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+Message-ID: <CAEdr4A5zRc9cyUE1-PiH0TDm5wKPyHn_Av-jaRkSWNJzTQU=Tg@mail.gmail.com>
+
+Hi,
+
+>>whether its a committee or community, its the individual contribution that
+matters.
+
+True, having said so, I see quick decision making ability on
+discrepancies,goal setting,transparency can be additional advantage of a
+committee than to have a kind of 'pseudo' FBDL in subtle title 'office boy'.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From shakthimaan at gmail.com  Mon Jul  6 08:39:51 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 6 Jul 2015 08:39:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+	<CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+Message-ID: <CABG-yt1bvBKFL3z+2Y2M3jOwurCXhf-A6XJ1h9RRg2Z4bV2u8Q@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Jul 5, 2015 at 11:34 PM, balachandar muruganantham
+<mbchandar at gmail.com> wrote:
+| FSFTN as a community form, what did it achieve?
+\--
+
+Please take these questions to their respective forums.
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Mon Jul  6 08:54:58 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 6 Jul 2015 08:54:58 +0530
+Subject: [Ilugc] Installfest II
+In-Reply-To: <CAMxoz6O0tr+zgc61Q0YbJe_kDbVr=Qyqdd236fpSnVDuiM1d9A@mail.gmail.com>
+References: <CAMxoz6O0tr+zgc61Q0YbJe_kDbVr=Qyqdd236fpSnVDuiM1d9A@mail.gmail.com>
+Message-ID: <CABG-yt3Wa+X-L-t_bSaAZDrzFAH5v09OGMDtxvgSAftuPjYROw@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Jul 5, 2015 at 9:23 PM, Saravanan Dayalan
+<dayalsaravanan at gmail.com> wrote:
+| Name: D.Saravanan
+| Hardware: hp pavilion g6 - 2231TX (Laptop)
+| GNU/LINUX distribution: Debian
+| Intend to work on : learn to maintain and update the distribution
+| Anything else: to install all Science - Debian packages.
+\--
+
+  22 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From madanus at gmail.com  Mon Jul  6 09:26:32 2015
+From: madanus at gmail.com (Madan U Sreenivasan)
+Date: Mon, 6 Jul 2015 09:26:32 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+	<CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+Message-ID: <CAOdw4WsuNw4Z40-jDKHFkaSzq94=-jfA1ty7P6a4+7RSeQkbvg@mail.gmail.com>
+
+On Tue, Jun 30, 2015 at 3:45 PM, Manokaran K <manokaran at gmail.com> wrote:
+
+> I feel the list members need not be included. The election exercise should
+> be restricted to those who physically attend the LUG events.
+>
+
++100
+
+Not only electing the coordinator - Any official activities should be
+handled only by people who are actively involved, and a discussion should
+ensue in person. Anybody using the ILUGC name should take permission from
+this core group. The names in  this group might vary over time, but there
+should be a core group made of people who show positive interest.
+
+Am really wondering if this list has lost its relevance. We are not
+pursuing technical discussions of the latest technologies - instead we
+spend more time worrying about who is facilitating the meetings. If we
+split this list into administrative and technical, there would be more
+administrative mails than technical ones.
+
+Maybe more young blood is required.
+
+Regards,
+Madan
+
+From shakthimaan at gmail.com  Mon Jul  6 09:29:23 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 6 Jul 2015 09:29:23 +0530
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+Message-ID: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+
+Hi,
+
+My proposed session for our monthly meet on Saturday, July 11, 2015:
+
+Topic:          Emacs Dired mode
+Description: A demo on using Dired mode in GNU Emacs to work on files
+and directories.
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From aabraham at hcl.com  Mon Jul  6 12:13:02 2015
+From: aabraham at hcl.com (Anil Abraham, Chennai)
+Date: Mon, 6 Jul 2015 06:43:02 +0000
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+In-Reply-To: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+References: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+Message-ID: <C3A25786D9D08D44B03F62390940CB3F227C6FDB@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+
+Thanks for the update. Where is the meeting place and time ?
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On Behalf Of Shakthi Kannan
+Sent: Monday, July 06, 2015 9:29 AM
+To: ILUG-C
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+
+Hi,
+
+My proposed session for our monthly meet on Saturday, July 11, 2015:
+
+Topic:          Emacs Dired mode
+Description: A demo on using Dired mode in GNU Emacs to work on files and directories.
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs at shakthimaan.com.
+
+Regards,
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+::DISCLAIMER::
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+The contents of this e-mail and any attachment(s) are confidential and intended for the named recipient(s) only.
+E-mail transmission is not guaranteed to be secure or error-free as information could be intercepted, corrupted,
+lost, destroyed, arrive late or incomplete, or may contain viruses in transmission. The e mail and its contents
+(with or without referred errors) shall therefore not attach any liability on the originator or HCL or its affiliates.
+Views or opinions, if any, presented in this email are solely those of the author and may not necessarily reflect the
+views or opinions of HCL or its affiliates. Any form of reproduction, dissemination, copying, disclosure, modification,
+distribution and / or publication of this message without the prior written consent of authorized representative of
+HCL is strictly prohibited. If you have received this email in error please delete it and notify the sender immediately.
+Before opening any email and/or attachments, please check them for viruses and other defects.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+From shakthimaan at gmail.com  Mon Jul  6 13:08:01 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 6 Jul 2015 13:08:01 +0530
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+In-Reply-To: <C3A25786D9D08D44B03F62390940CB3F227C6FDB@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+References: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C6FDB@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+Message-ID: <CABG-yt3sgk1wUNsWm6aJxJwa4Ygkmr6kjnAvRRv1=M7W-H28nA@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Jul 6, 2015 at 12:13 PM, Anil Abraham, Chennai
+<aabraham at hcl.com> wrote:
+| Thanks for the update. Where is the meeting place and time ?
+\--
+
+It is the second Saturday of every month.
+
+Venue:
+
+Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+Link for the Map: http://bit.ly/iitm-aero
+
+Source: http://ilugc.in/contact-us/
+
+Please don't use your corporate e-mail address to send e-mails to this
+list, and instead use a personal e-mail account. The company that you
+work are attaching disclaimers that are not inline with F/OSS
+discussions.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vramachandran86 at gmail.com  Mon Jul  6 14:51:09 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Mon, 6 Jul 2015 14:51:09 +0530
+Subject: [Ilugc] [Blog] - Compressing Large video files
+In-Reply-To: <CAFHFDAkdwEVeje0WKg6A0jgLbNj5jn81z2ogyDqt1zKjnHTOSQ@mail.gmail.com>
+References: <CAFHFDAkdwEVeje0WKg6A0jgLbNj5jn81z2ogyDqt1zKjnHTOSQ@mail.gmail.com>
+Message-ID: <CAPVR=qNgJuhQc9N1s-=KPNPB78XkEJ0D49ki6h-MYsEwif1R_g@mail.gmail.com>
+
+Hi,
+
+On Sun, Jun 28, 2015 at 10:12 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> I wrote a recent blog[2] and though that I could share it with the
+> community to get their feedback.  To avoid people telling me that I am
+> making others going to my blog I have copy pasted the contents here except
+> for the code.
+> Compressing Large video files
+>  My phone records video in HD nothing new here.  However the file size of
+> each and every video is enormous.  So like any other person I started
+> googling to see how I can compress the video files.  I came up with this
+> following bash script [1].  This script will basically list all MP4 files
+> in our directory.  Then use VLC command line parameters to compress the
+> file.   Oh and one more thing it can also rotate the video automatically to
+> Landscape mode if it was taken in Portrait mode.
+>
+> [1]
+> http://pastebin.com/5VTBWkG5
+>
+> I was able to get pretty good compression.  My file size which was 24.7 MB
+> got compressed to ~8 MB.
+>
+>
+> http://bullet-bala.blogspot.in/2015/06/compressing-large-video-files.html
+
+
+    Thanks for sharing.:)
+
+>
+>
+> --
+> Regards,
+> Balasubramaniam Natarajan
+> http://blog.etutorshop.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards
+Ramachandran
+
+From bala150985 at gmail.com  Mon Jul  6 17:04:07 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 6 Jul 2015 17:04:07 +0530
+Subject: [Ilugc] [Blog] - Compressing Large video files
+In-Reply-To: <CAPVR=qNgJuhQc9N1s-=KPNPB78XkEJ0D49ki6h-MYsEwif1R_g@mail.gmail.com>
+References: <CAFHFDAkdwEVeje0WKg6A0jgLbNj5jn81z2ogyDqt1zKjnHTOSQ@mail.gmail.com>
+	<CAPVR=qNgJuhQc9N1s-=KPNPB78XkEJ0D49ki6h-MYsEwif1R_g@mail.gmail.com>
+Message-ID: <CAFHFDAnmXmaoPnkriOqU_e-GPgoBhoyjsddgREv2QNeAhpNKvQ@mail.gmail.com>
+
+On Mon, Jul 6, 2015 at 2:51 PM, Ramachandran V <vramachandran86 at gmail.com>
+wrote:
+
+>
+>
+>     Thanks for sharing.:)
+>
+>
+Was it useful to you ?  If you make any improvements I would love to konw.
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From baskar910 at gmail.com  Tue Jul  7 07:18:27 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Tue, 7 Jul 2015 07:18:27 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - July 11-2015
+Message-ID: <CACq+3bsZNFA5=7M7=LXWvB4VTSwEFBtNLDepGWiCfkebUV3m+g@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+
+Talk 1
+Topic:          Emacs Dired mode
+Description: A demo on using Dired mode in GNU Emacs to work on files
+and directories.
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From vramachandran86 at gmail.com  Tue Jul  7 12:49:47 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Tue, 7 Jul 2015 12:49:47 +0530
+Subject: [Ilugc] [Blog] - Compressing Large video files
+In-Reply-To: <CAFHFDAnmXmaoPnkriOqU_e-GPgoBhoyjsddgREv2QNeAhpNKvQ@mail.gmail.com>
+References: <CAFHFDAkdwEVeje0WKg6A0jgLbNj5jn81z2ogyDqt1zKjnHTOSQ@mail.gmail.com>
+	<CAPVR=qNgJuhQc9N1s-=KPNPB78XkEJ0D49ki6h-MYsEwif1R_g@mail.gmail.com>
+	<CAFHFDAnmXmaoPnkriOqU_e-GPgoBhoyjsddgREv2QNeAhpNKvQ@mail.gmail.com>
+Message-ID: <CAPVR=qPG--ZiVsaZdvOLuKWUfOS9PxRLJLvZd=D5d6eXCn8MCQ@mail.gmail.com>
+
+On Mon, Jul 6, 2015 at 5:04 PM, Balasubramaniam Natarajan <
+bala150985 at gmail.com> wrote:
+
+> On Mon, Jul 6, 2015 at 2:51 PM, Ramachandran V <vramachandran86 at gmail.com>
+> wrote:
+>
+> >
+> >
+> >     Thanks for sharing.:)
+> >
+> >
+> Was it useful to you ?  If you make any improvements I would love to konw.
+>
+
+     I haven't tried yet. I will let you know. Thanks.
+
+>
+> --
+> Regards,
+> Balasubramaniam Natarajan
+> http://blog.etutorshop.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards
+Ramachandran
+
+From pm.nitttr at gmail.com  Tue Jul  7 14:37:57 2015
+From: pm.nitttr at gmail.com (Malliga P)
+Date: Tue, 7 Jul 2015 14:37:57 +0530
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+In-Reply-To: <CABG-yt3sgk1wUNsWm6aJxJwa4Ygkmr6kjnAvRRv1=M7W-H28nA@mail.gmail.com>
+References: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C6FDB@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3sgk1wUNsWm6aJxJwa4Ygkmr6kjnAvRRv1=M7W-H28nA@mail.gmail.com>
+Message-ID: <CADRK=1GAPstF9iCQgv0sq3jbwkthUN+rp2-eMOrQiquYCY3zzQ@mail.gmail.com>
+
+I would like to know the timings
+
+Malliga
+
+
+On Mon, Jul 6, 2015 at 1:08 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Mon, Jul 6, 2015 at 12:13 PM, Anil Abraham, Chennai
+> <aabraham at hcl.com> wrote:
+> | Thanks for the update. Where is the meeting place and time ?
+> \--
+>
+> It is the second Saturday of every month.
+>
+> Venue:
+>
+> Classroom No 1,
+> Aero Space Engineering,
+> Near Gajendra Circle,
+> IIT Madras.
+> Link for the Map: http://bit.ly/iitm-aero
+>
+> Source: http://ilugc.in/contact-us/
+>
+> Please don't use your corporate e-mail address to send e-mails to this
+> list, and instead use a personal e-mail account. The company that you
+> work are attaching disclaimers that are not inline with F/OSS
+> discussions.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+*Dr. P. Malliga*
+
+
+
+
+
+
+*Asso. Professor / Sr. System AnalystComputer CentreNational Institute of
+Technical Teacher's Training and Research(NITTTR)[Min.of HRD, Govt.of
+India]Taramani, Chennai -600 113Off : 044 - 22545433Mob: 09380342066*
+
+From shakthimaan at gmail.com  Tue Jul  7 16:08:01 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 7 Jul 2015 16:08:01 +0530
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+In-Reply-To: <CADRK=1GAPstF9iCQgv0sq3jbwkthUN+rp2-eMOrQiquYCY3zzQ@mail.gmail.com>
+References: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C6FDB@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3sgk1wUNsWm6aJxJwa4Ygkmr6kjnAvRRv1=M7W-H28nA@mail.gmail.com>
+	<CADRK=1GAPstF9iCQgv0sq3jbwkthUN+rp2-eMOrQiquYCY3zzQ@mail.gmail.com>
+Message-ID: <CABG-yt3p0DJDurB7-QuddCb+nL7Rn4Xdqd80JhHPnFqnc5jPGQ@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Jul 7, 2015 at 2:37 PM, Malliga P <pm.nitttr at gmail.com> wrote:
+| I would like to know the timings
+\--
+
+It is between 1500 and 1800 IST.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From pavithran.s at gmail.com  Wed Jul  8 20:31:30 2015
+From: pavithran.s at gmail.com (pavithran)
+Date: Wed, 8 Jul 2015 17:01:30 +0200
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAOdw4WsuNw4Z40-jDKHFkaSzq94=-jfA1ty7P6a4+7RSeQkbvg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+	<CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+	<CAOdw4WsuNw4Z40-jDKHFkaSzq94=-jfA1ty7P6a4+7RSeQkbvg@mail.gmail.com>
+Message-ID: <CABJBktH8hzU+C4jf+HOKgBYA23SJEh-JjTG3fPLogwCxm_K1aw@mail.gmail.com>
+
+On 6 July 2015 at 05:56, Madan U Sreenivasan <madanus at gmail.com> wrote:
+> Am really wondering if this list has lost its relevance. We are not
+> pursuing technical discussions of the latest technologies - instead we
+> spend more time worrying about who is facilitating the meetings. If we
+> split this list into administrative and technical, there would be more
+> administrative mails than technical ones.
+
+NO please no split and in case you are thinking that we are spending
+"MORE" time about administration you are completely mistaken as an old
+( relatively) silent member who doesnt live in chennai anymore I feel
+that there is not even administration activity going on.
+
+For example if these were the days of KG (lawgon) and this is the same
+mail I am sure you would see bharati ,raman ,thyagu , raja su ,
+srinivasan ( academic and devel ) etc actively discussing even this
+same topic with more passion than now , the 23 mails in the thread is
+just nothing compared to those good old days.
+---
+Speaking on topic :
+I agree with thyagu about young blood. When t shrini was appointed I
+was very happy and energetically he played a key role in the glug. And
+yes this LUG needs really a kick start but I am not sure how !
+
+Regards,
+Pavithran
+
+From pavithran.s at gmail.com  Wed Jul  8 20:41:17 2015
+From: pavithran.s at gmail.com (pavithran)
+Date: Wed, 8 Jul 2015 17:11:17 +0200
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+Message-ID: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+
+I was reading this post from a friend Shirish agarwall from pune who
+is a member of debian community and a key participant in community
+events in pune and also an organiser for many debian events across the
+country.
+
+Here are some points about community problems
+a. Factionalism
+b. Cabalism (or simply Cabals)
+As have been part of both parts do understand that both factions and
+cabals start with good intentions but sometimes later warp beyond
+recognition.
+Next he goes on to say
+
+c. No communication, Mis-communication
+d. Fragmented content with contradictory messages.
+The above two I have also seen time and again as a ?feature? of the
+Indian FOSS community at large where most communities in India don?t
+really communicate to other FOSS communities or world at large or are
+pretty bad at things.
+
+Read more at https://flossexperiences.wordpress.com/2015/06/22/indian-foss-communities-closed-source/
+its quite interesting and is relevant to ILUGC also !
+PS : As of now I am just posting this to ILUGC as I believe this
+community is one of the few strong ones left in India.
+Regards,
+Pavithran
+
+-- 
+pavithran sakamuri
+http://look-pavi.blogspot.com
+
+From nani1only at gmail.com  Wed Jul  8 21:11:02 2015
+From: nani1only at gmail.com (=?UTF-8?B?4LCw4LC54LGN4LCu4LC+4LCo4LGB4LCm4LGN4LCm4LGA4LCo4LGNIOCwt+Cxh+CwleCxjQ==?=)
+Date: Wed, 8 Jul 2015 21:11:02 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+Message-ID: <CAHRpNu0j91665M9QHTDUSpa_nAkpyGWqtZmu1N7zOg0p4YNQMw@mail.gmail.com>
+
+I dont exactly buy into this argument.
+
+2015-07-08 20:41 GMT+05:30 pavithran <pavithran.s at gmail.com>:
+
+> I was reading this post from a friend Shirish agarwall from pune who
+> is a member of debian community and a key participant in community
+> events in pune and also an organiser for many debian events across the
+> country.
+>
+> Here are some points about community problems
+> a. Factionalism
+> b. Cabalism (or simply Cabals)
+> As have been part of both parts do understand that both factions and
+> cabals start with good intentions but sometimes later warp beyond
+> recognition.
+> Next he goes on to say
+>
+> c. No communication, Mis-communication
+> d. Fragmented content with contradictory messages.
+> The above two I have also seen time and again as a ?feature? of the
+> Indian FOSS community at large where most communities in India don?t
+> really communicate to other FOSS communities or world at large or are
+> pretty bad at things.
+>
+> Read more at
+> https://flossexperiences.wordpress.com/2015/06/22/indian-foss-communities-closed-source/
+> its quite interesting and is relevant to ILUGC also !
+> PS : As of now I am just posting this to ILUGC as I believe this
+> community is one of the few strong ones left in India.
+> Regards,
+> Pavithran
+>
+> --
+> pavithran sakamuri
+> http://look-pavi.blogspot.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+
+
+
+-- 
+With thanks & regards
+*Rahimanuddin Shaik*
+????
+[image:
+http://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png]
+
+reachout
+
+?? ?????????? ????????, ????????? ????? ????? ?? ??????? ??????????????????
+??????? ??????????, ? ?????????? ????????. *??????? ?????????? ???????????
+?? ???????.*
+?????? ?????????? : http://te.wikipedia.org
+CIS-A2K Program : http://meta.wikimedia.org/wiki/India_Access_To_Knowledge
+CIS-INDIA : http://cis-india.org
+A new address for ebooks : http://kinige.com
+*???????????? ???????? ????? - http://techsetu.com <http://techsetu.com/>*
+
+From shirish at hamaralinux.org  Wed Jul  8 21:48:58 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Wed, 8 Jul 2015 21:48:58 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CAHRpNu0j91665M9QHTDUSpa_nAkpyGWqtZmu1N7zOg0p4YNQMw@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAHRpNu0j91665M9QHTDUSpa_nAkpyGWqtZmu1N7zOg0p4YNQMw@mail.gmail.com>
+Message-ID: <559D4D72.5030207@hamaralinux.org>
+
+at bottom :-
+
+On 07/08/2015 09:11 PM, ????????????? ???? wrote:
+> I dont exactly buy into this argument.
+>
+> 2015-07-08 20:41 GMT+05:30 pavithran <pavithran.s at gmail.com>:
+>
+>> I was reading this post from a friend Shirish agarwall from pune who
+>> is a member of debian community and a key participant in community
+>> events in pune and also an organiser for many debian events across the
+>> country.
+>>
+>> Here are some points about community problems
+>> a. Factionalism
+>> b. Cabalism (or simply Cabals)
+>> As have been part of both parts do understand that both factions and
+>> cabals start with good intentions but sometimes later warp beyond
+>> recognition.
+>> Next he goes on to say
+>>
+>> c. No communication, Mis-communication
+>> d. Fragmented content with contradictory messages.
+>> The above two I have also seen time and again as a ?feature? of the
+>> Indian FOSS community at large where most communities in India don?t
+>> really communicate to other FOSS communities or world at large or are
+>> pretty bad at things.
+>>
+>> Read more at
+>> https://flossexperiences.wordpress.com/2015/06/22/indian-foss-communities-closed-source/
+>> its quite interesting and is relevant to ILUGC also !
+>> PS : As of now I am just posting this to ILUGC as I believe this
+>> community is one of the few strong ones left in India.
+>> Regards,
+>> Pavithran
+>>
+>> --
+>> pavithran sakamuri
+>> http://look-pavi.blogspot.com
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>
+>
+>
+>
+
+Hi all,
+Could you elaborate a bit rather than just saying you don't buy into the 
+argument. I will be able to give at least 1 example of each which are 
+public, there are many more for sure.
+
+But would like to hear what you have to say/share before saying anything 
+else.
+
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From madanus at gmail.com  Wed Jul  8 22:26:06 2015
+From: madanus at gmail.com (Madan U Sreenivasan)
+Date: Wed, 8 Jul 2015 22:26:06 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABJBktH8hzU+C4jf+HOKgBYA23SJEh-JjTG3fPLogwCxm_K1aw@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+	<CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+	<CAOdw4WsuNw4Z40-jDKHFkaSzq94=-jfA1ty7P6a4+7RSeQkbvg@mail.gmail.com>
+	<CABJBktH8hzU+C4jf+HOKgBYA23SJEh-JjTG3fPLogwCxm_K1aw@mail.gmail.com>
+Message-ID: <CAOdw4Wu6J-u7nQKRQn3jdqEgeW9pXzBXiqE2fqrcuJEw_ZXROg@mail.gmail.com>
+
+Hi Pavithran,
+
+   PFB my comments inline
+
+On Wed, Jul 8, 2015 at 8:31 PM, pavithran <pavithran.s at gmail.com> wrote:
+
+> On 6 July 2015 at 05:56, Madan U Sreenivasan <madanus at gmail.com> wrote:
+> > If we
+> > split this list into administrative and technical, there would be more
+> > administrative mails than technical ones.
+>
+> NO please no split and in case you are thinking that we are spending
+> "MORE" time about administration you are completely mistaken as an old
+> ( relatively) silent member who doesnt live in chennai anymore I feel
+> that there is not even administration activity going on.
+>
+
+I did not say split - I said *If* we split. Ignore me, am just ranting from
+utopia
+
+Regards,
+Madan
+
+From vik at hamaralinux.org  Thu Jul  9 01:57:06 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Wed, 08 Jul 2015 21:27:06 +0100
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <559D4D72.5030207@hamaralinux.org>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>	<CAHRpNu0j91665M9QHTDUSpa_nAkpyGWqtZmu1N7zOg0p4YNQMw@mail.gmail.com>
+	<559D4D72.5030207@hamaralinux.org>
+Message-ID: <559D879A.3040207@hamaralinux.org>
+
+On 08/07/15 17:18, shirish wrote:
+> at bottom :-
+>
+> On 07/08/2015 09:11 PM, ????????????? ???? wrote:
+>> I dont exactly buy into this argument.
+>>
+>> 2015-07-08 20:41 GMT+05:30 pavithran <pavithran.s at gmail.com>:
+>>
+>>> I was reading this post from a friend Shirish agarwall from pune who
+>>> is a member of debian community and a key participant in community
+>>> events in pune and also an organiser for many debian events across the
+>>> country.
+>>>
+>>> Here are some points about community problems
+>>> a. Factionalism
+>>> b. Cabalism (or simply Cabals)
+>>> As have been part of both parts do understand that both factions and
+>>> cabals start with good intentions but sometimes later warp beyond
+>>> recognition.
+>>> Next he goes on to say
+>>>
+>>> c. No communication, Mis-communication
+>>> d. Fragmented content with contradictory messages.
+>>> The above two I have also seen time and again as a ?feature? of the
+>>> Indian FOSS community at large where most communities in India don?t
+>>> really communicate to other FOSS communities or world at large or are
+>>> pretty bad at things.
+>>>
+>>> Read more at
+>>> https://flossexperiences.wordpress.com/2015/06/22/indian-foss-communities-closed-source/
+>>> its quite interesting and is relevant to ILUGC also !
+>>> PS : As of now I am just posting this to ILUGC as I believe this
+>>> community is one of the few strong ones left in India.
+>>> Regards,
+>>> Pavithran
+>>>
+>>> --
+>>> pavithran sakamuri
+>>> http://look-pavi.blogspot.com
+>>> _______________________________________________
+>>> ILUGC Mailing List:
+>>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>>> ILUGC Mailing List Guidelines:
+>>> http://ilugc.in/mailinglist-guidelines
+>>
+>>
+>>
+> Hi all,
+> Could you elaborate a bit rather than just saying you don't buy into the
+> argument. I will be able to give at least 1 example of each which are
+> public, there are many more for sure.
+>
+> But would like to hear what you have to say/share before saying anything
+> else.
+>
+I find foss communities in India very similar to those that I have 
+interacted with in other countries.
+
+I also find some differences across generations - with younger / newer 
+communities being more liberal / open and less
+fixated around rules.
+
+I think you can see something similar in licensing. The vast majority of 
+FOSS projects used to be GPL, things are much
+more liberal these days.
+
+
+
+From chidambasakthi at gmail.com  Thu Jul  9 08:51:38 2015
+From: chidambasakthi at gmail.com (chidambaresan ananthan)
+Date: Thu, 9 Jul 2015 08:51:38 +0530
+Subject: [Ilugc] Hosting Fossconf2015 on September
+Message-ID: <CAHRa3=b-Nz_+9ytBwCPkcuPxugZoOjEV3UMRhdOs0enDWhv9Rw@mail.gmail.com>
+
+Dear luggies,
+Vels University,Pallavaram is willing to host the Fossconf 2015 and shall
+we coordinate with them to  host it on September along with Software
+freedom day.Will bring the people to this Monthly meet.In the mean
+time,Need all your suggestions and ideas to host it.
+
+From ajeyaajeya at gmail.com  Thu Jul  9 09:49:58 2015
+From: ajeyaajeya at gmail.com (Ajeya Anand)
+Date: Thu, 9 Jul 2015 09:49:58 +0530
+Subject: [Ilugc] Hosting Fossconf2015 on September
+In-Reply-To: <CAHRa3=b-Nz_+9ytBwCPkcuPxugZoOjEV3UMRhdOs0enDWhv9Rw@mail.gmail.com>
+References: <CAHRa3=b-Nz_+9ytBwCPkcuPxugZoOjEV3UMRhdOs0enDWhv9Rw@mail.gmail.com>
+Message-ID: <CAFRzf1ojRqb3r6TTjOpdnA_gy37-fBJ_etkSsbv7Ng5gWKzhLw@mail.gmail.com>
+
+Have they invited ILUG C ?
+
+2015-07-09 8:51 GMT+05:30 chidambaresan ananthan <chidambasakthi at gmail.com>:
+
+> Dear luggies,
+> Vels University,Pallavaram is willing to host the Fossconf 2015 and shall
+> we coordinate with them to  host it on September along with Software
+> freedom day.Will bring the people to this Monthly meet.In the mean
+> time,Need all your suggestions and ideas to host it.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks and Regards, | ????
+
+Ajeya Anand | ???? ?????
+
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+
+[image: http://twitter.com/ajeyaajeya] <http://twitter.com/ajeyaajeya>
+[image: http://www.linkedin.com/in/ajeyaanand]
+<http://www.linkedin.com/in/ajeyaanand>
+
+From baskar910 at gmail.com  Thu Jul  9 10:01:14 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Thu, 9 Jul 2015 10:01:14 +0530
+Subject: [Ilugc] Hosting Fossconf2015 on September
+In-Reply-To: <CAHRa3=b-Nz_+9ytBwCPkcuPxugZoOjEV3UMRhdOs0enDWhv9Rw@mail.gmail.com>
+References: <CAHRa3=b-Nz_+9ytBwCPkcuPxugZoOjEV3UMRhdOs0enDWhv9Rw@mail.gmail.com>
+Message-ID: <CACq+3bti-V89iDN-QD43ALrnVVRByQz6J52Z+hFSQDrbmZm6Ww@mail.gmail.com>
+
+On Thu, Jul 9, 2015 at 8:51 AM, chidambaresan ananthan <
+chidambasakthi at gmail.com> wrote:
+
+> Dear luggies,
+> Vels University,Pallavaram is willing to host the Fossconf 2015 and shall
+> we coordinate with them to  host it on September along with Software
+> freedom day.Will bring the people to this Monthly meet.In the mean
+> time,Need all your suggestions and ideas to host it.
+>
+>
+We wiil be happy to do that  You can as well co-ordinate the event and
+share the updates to mailing list.
+We will join hands with you to make it a success
+
+Thanks
+baskar
+
+From prasmailme at gmail.com  Thu Jul  9 13:43:16 2015
+From: prasmailme at gmail.com (Prasanna Venkadesh)
+Date: Thu, 9 Jul 2015 13:43:16 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+	<CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+Message-ID: <CACm7z1ZdBRaSq_z-PZLmEWqKGMJqqsQ0S1rdUDR8j1PjQX8Yeg@mail.gmail.com>
+
+On Sun, Jul 5, 2015 at 11:34 PM, balachandar muruganantham <
+mbchandar at gmail.com> wrote:
+
+> may be this is little Out of topic.
+>
+> FSFTN as a community form, what did it achieve? i am curious to know.
+>
+
+Since 2014,  FSFTN has started to use discourse as a platform to engage,
+discuss and organize. You can find the public events and campaigns here
+http://discuss.fsftn.org/category/public-events-campaigns
+
+FSFTN is very actively engaged in building Free Software, Free Culture &
+Free Infrastructure communities around TamilNadu and Pondicherry. FSFTN
+organizes Summer Camp every year (Last month Summer Camp for 2015 was
+organized at IIT Madras), it has also some College / regional level GLUG's
+affiliated with it, it took the issue of violation of Net Neutrality
+offline through public campaigns at Chennai and Puducherry, Documentary
+Screening, organize workshops for general public like Cryptoparty,
+Initiating community projects, etc.,
+
+Few of which you can find below,
+1. https://www.facebook.com/fsftn/posts/1060442120649800
+2.
+https://www.facebook.com/media/set/?set=a.950599848318271.1073741843.248993515145578&type=3
+3.
+http://www.thehindu.com/news/cities/puducherry/activists-campaign-for-net-neutrality/article7145478.ece?ref=tpnews
+4.
+http://discuss.fsftn.org/t/building-a-low-cost-community-weather-station/360/3
+5.
+http://timesofindia.indiatimes.com/city/chennai/Chennaiites-rally-for-Net-Neutrality/articleshow/47033687.cms
+
+Google says fsftn.org - This site may be hacked. Timeline of events are
+> upto 2013 from the menu.
+>
+
+The site was compromised months back due to this vulnerability (
+www.engadget.com/2015/05/07/wordpress-xss-bug/) in Wordpress. Thanks for
+pointing out, the sites needs to be updated and activists at FSFTN have
+already started to work on it.
+
+
+-- 
+Thanks & Regards,
+Prasanna Venkadesh.
+
+From sankarshan.mukhopadhyay at gmail.com  Thu Jul  9 14:57:58 2015
+From: sankarshan.mukhopadhyay at gmail.com (Sankarshan Mukhopadhyay)
+Date: Thu, 9 Jul 2015 14:57:58 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+Message-ID: <CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+
+On Wed, Jul 8, 2015 at 8:41 PM, pavithran <pavithran.s at gmail.com> wrote:
+> Here are some points about community problems
+> a. Factionalism
+> b. Cabalism (or simply Cabals)
+> As have been part of both parts do understand that both factions and
+> cabals start with good intentions but sometimes later warp beyond
+> recognition.
+> Next he goes on to say
+>
+> c. No communication, Mis-communication
+> d. Fragmented content with contradictory messages.
+> The above two I have also seen time and again as a ?feature? of the
+> Indian FOSS community at large where most communities in India don?t
+> really communicate to other FOSS communities or world at large or are
+> pretty bad at things.
+
+At the time this post was originally circulated on a list I had
+reached out to the author with a request to provide a set of examples
+which illustrate the problems he perceives. The pair of instances
+cited in the post [(a) no calendaring and (b) not enough developer
+interest in defect reports] do not seem to add up to the specific
+problems that are being drawn. In fact, it is egregious to pass off an
+anecdote_of_one as a general perception.
+
+The author has been a participant in various communities over a period
+of time. And is well aware that the question of "calendar for FOSS
+events" comes up in a cyclical manner. However, it is also somewhat
+painfully obvious that no one has taken the time to publish a set of
+requirements such a calendar/system would have. That single act (of
+'product management') would have provided the jump-off point for
+college students or, similar (recall that PLUG generally organizes the
+monthly meetings at SICSR) to consider a prototype implementation.
+Having said that, the author also chooses to ignore that across Pune
+and other cities, the general purpose (user) groups viz. LUGs and like
+are being supplanted by niche/specialized meetups. One can see this
+trend in the increasing number of groups being lit up on services like
+meetup.com. An oft quoted statement around the FOSS model of software
+development is "scratch your own itch". I am somewhat bewildered that
+the author has chosen to not consider putting the absence of a
+calendar in that context and attempted to devise an understanding of
+what it means in terms of a "maker approach".
+
+Without specific example of "cabals", it would be somewhat difficult
+to paint an entire generation/group of participants to be prolific
+members of secret coteries. To the last point of "no communication" I
+would put forward that this is an orthogonal comprehension of
+community growth and the model around community formation. Communities
+do not talk with communities, people do. And across India there are
+enough examples of individuals (participants and contributors) who
+work within the upstreams of their projects, laterally across projects
+of their own interest and within their own community around the
+geographical location.
+
+This discussion can be of material interest only if there is enough
+specific examples discussed (with names redacted, if required) and
+thereafter conclusions drawn.
+
+
+-- 
+sankarshan mukhopadhyay
+<https://about.me/sankarshan.mukhopadhyay>
+
+From shirish at hamaralinux.org  Thu Jul  9 15:48:02 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Thu, 9 Jul 2015 15:48:02 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+Message-ID: <559E4A5A.7000006@hamaralinux.org>
+
+in-line :-
+
+On 07/09/2015 02:57 PM, Sankarshan Mukhopadhyay wrote:
+> On Wed, Jul 8, 2015 at 8:41 PM, pavithran <pavithran.s at gmail.com> wrote:
+>> Here are some points about community problems
+>> a. Factionalism
+>> b. Cabalism (or simply Cabals)
+>> As have been part of both parts do understand that both factions and
+>> cabals start with good intentions but sometimes later warp beyond
+>> recognition.
+>> Next he goes on to say
+>>
+>> c. No communication, Mis-communication
+>> d. Fragmented content with contradictory messages.
+>> The above two I have also seen time and again as a ?feature? of the
+>> Indian FOSS community at large where most communities in India don?t
+>> really communicate to other FOSS communities or world at large or are
+>> pretty bad at things.
+>
+> At the time this post was originally circulated on a list I had
+> reached out to the author with a request to provide a set of examples
+> which illustrate the problems he perceives. The pair of instances
+> cited in the post [(a) no calendaring and (b) not enough developer
+> interest in defect reports] do not seem to add up to the specific
+> problems that are being drawn. In fact, it is egregious to pass off an
+> anecdote_of_one as a general perception.
+
+That was just one part of it. What would you say then about issue in 
+wikipedia India where there were two forks? And the issue is not limited 
+to wikipedia alone, for some - it comes to the fore, in others it just 
+below the surface. The problem is it's easy to be shot as the messenger 
+when you say something like that. Also any example or examples can 
+easily be construed to be straw man examples as well.
+
+The specific example that I shared with you was for another community 
+but the point is/was these kind of issues are prevalent in most 
+communities.
+
+Even if you take calendaring, I doubt that most of the LUGs either have 
+their own calendar or even attempt to reach out to various other LUGs 
+when events happen on some common calendaring system, the same could be 
+said for special interest groups as well.
+
+And I wouldn't even go into the sort of moderation some of the 
+communities apply for something basic as mailing lists although it was 
+heartening to see PLUG change its tactics, although somewhat too little, 
+too late :( .
+
+> The author has been a participant in various communities over a period
+> of time. And is well aware that the question of "calendar for FOSS
+> events" comes up in a cyclical manner. However, it is also somewhat
+> painfully obvious that no one has taken the time to publish a set of
+> requirements such a calendar/system would have. That single act (of
+> 'product management') would have provided the jump-off point for
+> college students or, similar (recall that PLUG generally organizes the
+> monthly meetings at SICSR) to consider a prototype implementation.
+> Having said that, the author also chooses to ignore that across Pune
+> and other cities, the general purpose (user) groups viz. LUGs and like
+> are being supplanted by niche/specialized meetups. One can see this
+> trend in the increasing number of groups being lit up on services like
+> meetup.com. An oft quoted statement around the FOSS model of software
+> development is "scratch your own itch". I am somewhat bewildered that
+> the author has chosen to not consider putting the absence of a
+> calendar in that context and attempted to devise an understanding of
+> what it means in terms of a "maker approach".
+
+Meetup.com is not a solution for the problem per-se. And it is not an 
+issue of "maker approach" only, if you look at meetup.com as a probable 
+solution, it is a jungle because all sorts of communities are meeting.
+
+For instance, while it would be somewhat easy to know of SIG's, but if I 
+wanted to have a list of all FOSS groups (which include SIG's) all over 
+India, that's a sort of next to impossible task.
+
+I wish there was a way to hack meetup to get info. on even all tech 
+meetups in India but that's also not possible. I have to give a city 
+name to get some listing happening :(
+
+Also not all the communities either know or have persons who could 
+manage meetup.com because it becomes another site to look at for events 
+apart from facebook,lwn.net, twitter.com, mailing lists etc. etc.
+
+There are communities which use both facebook and meetup as a dumping 
+ground for events and there is nobody to answer even simple queries.
+
+I wish there was something like lwn.net for India which would be neutral 
+place where people could post event stuff and be able to gather intel on 
+all FOSS events happening in the country, do accept that don't have any 
+ideas on the subject other than to have something similar like that 
+albeit on the regional (India) scale.
+
+> Without specific example of "cabals", it would be somewhat difficult
+> to paint an entire generation/group of participants to be prolific
+> members of secret coteries. To the last point of "no communication" I
+> would put forward that this is an orthogonal comprehension of
+> community growth and the model around community formation. Communities
+> do not talk with communities, people do. And across India there are
+> enough examples of individuals (participants and contributors) who
+> work within the upstreams of their projects, laterally across projects
+> of their own interest and within their own community around the
+> geographical location.
+
+I was not talking about the upstreams of projects, I was talking more of 
+lateral integration as in getting more people in your community as well 
+as talking to other communities per-se.
+
+> This discussion can be of material interest only if there is enough
+> specific examples discussed (with names redacted, if required) and
+> thereafter conclusions drawn.
+>
+
+I don't want to go there as this will just in-flame the issue more.
+
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From mbchandar at gmail.com  Fri Jul 10 13:06:13 2015
+From: mbchandar at gmail.com (balachandar muruganantham)
+Date: Fri, 10 Jul 2015 13:06:13 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CACm7z1ZdBRaSq_z-PZLmEWqKGMJqqsQ0S1rdUDR8j1PjQX8Yeg@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+	<CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+	<CACm7z1ZdBRaSq_z-PZLmEWqKGMJqqsQ0S1rdUDR8j1PjQX8Yeg@mail.gmail.com>
+Message-ID: <CAPCsXg6VYE-r-RDXTdGZiG1972gk72LdVp3O6DMoEnMbixsMaQ@mail.gmail.com>
+
+On Thu, Jul 9, 2015 at 1:43 PM, Prasanna Venkadesh <prasmailme at gmail.com>
+wrote:
+
+> On Sun, Jul 5, 2015 at 11:34 PM, balachandar muruganantham <
+> mbchandar at gmail.com> wrote:
+>
+> > may be this is little Out of topic.
+> >
+> > FSFTN as a community form, what did it achieve? i am curious to know.
+> >
+>
+> Since 2014,  FSFTN has started to use discourse as a platform to engage,
+> discuss and organize. You can find the public events and campaigns here
+> http://discuss.fsftn.org/category/public-events-campaigns
+>
+>
+Looking at the campaigns, i rarely see that FSFTN encourages in
+contribution to the community in terms of code or manual or bug fixing etc.
+
+most of them are related to consumption or installation.
+
+
+
+> FSFTN is very actively engaged in building Free Software, Free Culture &
+> Free Infrastructure communities around TamilNadu and Pondicherry.
+
+
+why the need for  Free Culture & Free Infrastructure communities  ?
+
+
+> FSFTN organizes Summer Camp every year (Last month Summer Camp for 2015
+> was organized at IIT Madras), it has also some College / regional level
+> GLUG's affiliated with it, it took the issue of violation of Net Neutrality
+> offline through public campaigns at Chennai and Puducherry, Documentary
+> Screening, organize workshops for general public like Cryptoparty,
+> Initiating community projects, etc.,
+>
+>
+Nice.
+
+
+> Few of which you can find below,
+> 1. https://www.facebook.com/fsftn/posts/1060442120649800
+> 2.
+>
+> https://www.facebook.com/media/set/?set=a.950599848318271.1073741843.248993515145578&type=3
+> 3.
+>
+> http://www.thehindu.com/news/cities/puducherry/activists-campaign-for-net-neutrality/article7145478.ece?ref=tpnews
+> 4.
+>
+> http://discuss.fsftn.org/t/building-a-low-cost-community-weather-station/360/3
+> 5.
+>
+> http://timesofindia.indiatimes.com/city/chennai/Chennaiites-rally-for-Net-Neutrality/articleshow/47033687.cms
+>
+>
+Most of them are related to Net Neutrality :) .
+
+I most of the time see that ILUGC promotes  installation, usages etc but
+never influence people to write / contribute free software. (including
+myself)
+
+One question to all ILUGC members:
+
+Out of all the members in ILUGC, how many of them are real contributors in
+terms of code, testing, manuals to the GNU / LINUX or any Free Software
+projects etc?
+
+Just curious to know. i may be wrong too.
+
+- balachandar muruganantham
+
+From sankarshan.mukhopadhyay at gmail.com  Fri Jul 10 14:55:07 2015
+From: sankarshan.mukhopadhyay at gmail.com (Sankarshan Mukhopadhyay)
+Date: Fri, 10 Jul 2015 14:55:07 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <559E4A5A.7000006@hamaralinux.org>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+Message-ID: <CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+
+On Thu, Jul 9, 2015 at 3:48 PM, shirish <shirish at hamaralinux.org> wrote:
+
+> That was just one part of it. What would you say then about issue in
+> wikipedia India where there were two forks? And the issue is not limited
+> to wikipedia alone, for some - it comes to the fore, in others it just
+> below the surface. The problem is it's easy to be shot as the messenger
+> when you say something like that. Also any example or examples can
+> easily be construed to be straw man examples as well.
+
+I am not sure where the messenger is being shot at. I am asking the
+messenger to pass along specifics of the message unbiased by personal
+anecdotes. With regards to the Wikipedia situation you call out - have
+you asked on the relevant lists about what it means to have "forks"?
+Also, why do you term these as 'forks'?
+
+Straw-man examples wouldn't buttress your hypothesis, would they? As
+much as I appreciate the fact that you took time to write this up, I
+am perplexed that you continue to respond in "I do have more context
+but that is not in share-ready form" manner through the post and this
+response.
+
+> The specific example that I shared with you was for another community
+> but the point is/was these kind of issues are prevalent in most
+> communities.
+>
+> Even if you take calendaring, I doubt that most of the LUGs either have
+> their own calendar or even attempt to reach out to various other LUGs
+> when events happen on some common calendaring system, the same could be
+> said for special interest groups as well.
+
+Calendaring is an utility (in both the colloquial form of the word and
+the economic interpretation). And it is somewhat of a stretch to
+consider the LUGs across the country to be decision driven bodies. At
+best they have some legal structure, at worst these are continually
+ad-hoc formations around a small nucleus of individuals.
+
+> And I wouldn't even go into the sort of moderation some of the
+> communities apply for something basic as mailing lists although it was
+> heartening to see PLUG change its tactics, although somewhat too little,
+> too late :( .
+
+I am not very sure how PLUG's moderation is relevant to this
+discussion. If it is, please explain.
+
+> Meetup.com is not a solution for the problem per-se. And it is not an
+> issue of "maker approach" only, if you look at meetup.com as a probable
+> solution, it is a jungle because all sorts of communities are meeting.
+
+You have chosen to selectively respond to the paragraph. However, why
+is meetup.com not a solution to the problem?
+
+>
+> For instance, while it would be somewhat easy to know of SIG's, but if I
+> wanted to have a list of all FOSS groups (which include SIG's) all over
+> India, that's a sort of next to impossible task.
+
+The idea that there will be a directory of SIGs which would be off
+immense interest to an individual does have merit. However, your
+statement seems to be from the perspective of a potential consumer of
+such a service and not the maintainer of one. There are enough such
+problem statements formulated around "Oh! I wish we had this ..." and
+often they are translated into a business/revenue opportunity.
+
+> I wish there was a way to hack meetup to get info. on even all tech
+> meetups in India but that's also not possible. I have to give a city
+> name to get some listing happening :(
+
+And what is wrong with that? A monster directly of all meetups
+happening today across India seems like an interesting exercise but
+not something which would benefit one individual (you aren't expected
+to be at all places at the same time). A stretched analogy would be
+that you don't get the availability of all cabs across all the cities
+when you use any particular operator's mobile device.
+
+Meetups are local and even hyper-local. It isn't a mart.
+
+> Also not all the communities either know or have persons who could
+> manage meetup.com because it becomes another site to look at for events
+> apart from facebook,lwn.net, twitter.com, mailing lists etc. etc.
+>
+> There are communities which use both facebook and meetup as a dumping
+> ground for events and there is nobody to answer even simple queries.
+
+Examples would help. I keep repeating this and you seem to choose to
+ignore this point. Hand-wavy statements often lead to conclusions one
+wishes to reach.
+
+> I wish there was something like lwn.net for India which would be neutral
+> place where people could post event stuff and be able to gather intel on
+> all FOSS events happening in the country, do accept that don't have any
+> ideas on the subject other than to have something similar like that
+> albeit on the regional (India) scale.
+
+I am amused with this "for India" thing. At one point you seem to
+indicate that "for India" communities are worse places than the "other
+than India" ones. At other instances you prefer a "for India"
+implementation. LWN.net would not be averse to listing the events. It
+requires actual people to do the listing. They do not happen by
+sprinkling magic pixie dust in air. The catch is that there aren't
+actual people willing to do this.
+
+> I was not talking about the upstreams of projects, I was talking more of
+> lateral integration as in getting more people in your community as well
+> as talking to other communities per-se.
+
+Please provide an example to demonstrate what is it that you see as a gap.
+
+>
+>> This discussion can be of material interest only if there is enough
+>> specific examples discussed (with names redacted, if required) and
+>> thereafter conclusions drawn.
+>>
+>
+> I don't want to go there as this will just in-flame the issue more.
+
+Then don't make statements which you don't want to back up with
+citations. It would help in more ways than you can imagine.
+
+
+-- 
+sankarshan mukhopadhyay
+<https://about.me/sankarshan.mukhopadhyay>
+
+From vik at hamaralinux.org  Sat Jul 11 02:04:38 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Fri, 10 Jul 2015 21:34:38 +0100
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+Message-ID: <55A02C5E.3010702@hamaralinux.org>
+
+On 10/07/15 10:25, Sankarshan Mukhopadhyay wrote:
+>   They do not happen by
+> sprinkling magic pixie dust in air
+Shame that, I really love that magic pixie dust, it's amazing.
+
+From satyaakam at gmail.com  Sat Jul 11 07:06:00 2015
+From: satyaakam at gmail.com (satyaakam goswami)
+Date: Sat, 11 Jul 2015 07:06:00 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <55A02C5E.3010702@hamaralinux.org>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+	<55A02C5E.3010702@hamaralinux.org>
+Message-ID: <CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+
+On Sat, Jul 11, 2015 at 2:04 AM, Vikas Tara <vik at hamaralinux.org> wrote:
+
+> On 10/07/15 10:25, Sankarshan Mukhopadhyay wrote:
+> >   They do not happen by
+> > sprinkling magic pixie dust in air
+> Shame that, I really love that magic pixie dust, it's amazing.
+>
+
+?i read all the threads and kept my reply for the weekend ;-) since i find
+some value in the arguments at the same time do not agree with OP's
+sweeping statements about communities at large.
+
+ Sinking feelings and dejections are part of community living .This happens
+more when you try to do something and you do not have buy in from
+collective on  your ideas  as an individual .The way i deal with it is
+"Just do it" i mean if i feel there is something to be done if i can do it
+i just do it do not try to take permissions consents etc.... others will
+follow if they like the idea  or the idea will die its own natural death if
+people did not like it.
+
+if there are somethings which involves some resources then i go back to the
+group and ask and wait for sometime for traction . This is the stage we
+find more people joining you and then go ahead and try to do with whatever
+resources we have .
+
+I still do understand where the discontent is coming from , i am living
+happily in communities after communities for past 23+ years in India .
+Today i will be going to two meetups with large numbers
+some of them i curate some of them i be just  part of it as spectator and
+give support.
+
+Communities have a life and ways of there own ,This is one reason i love it
+ as a  collective . I still feel the discontent is coming from somewhere
+for the system .i for one  cannot be judging people unless i meet that
+person in person  and talk about specifics otherwise i think this thread
+has no more value and is never going to end on the mailing list .
+
+
+cheers
+-Satya
+Satyaakam.net <http://satyaakam.net/> | fossevents.in |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+
+
+
+
+
+
+-Satya
+Satyaakam.net <http://satyaakam.net/> | fossevents.in |
+
+From 77minds at gmail.com  Sat Jul 11 19:30:06 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 11 Jul 2015 19:30:06 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+Message-ID: <CAJR+9kaTDuE3WcTATiBH4F50QY9w_z7h7wt9A79Ji3t1tPZT4A@mail.gmail.com>
+
+I had real bad experience with ChennaiRb, the ruby community for Chennai. I
+wrote a book which had a cover of a beautiful woman, and like the Talibans
+people were up in arms against me for that. I fought back, that irritated
+them and they found a silly reason to chuck me out. I have created my own
+group Chennai Ruy programmers as alternative where it has no rules, but
+none knows about it.
+
+Ii find Ilugc far far better than those groups (thanks to good admins like
+Shrinivasan T, and Madan US who really loves this group and was my boss
+before), but Indian groups are for propaganda, power and mob mobilization
+than about real technology.
+
+The book on non Indian forum had earned me praises. Believe it or not many
+women has liked it on facebook!! Indian men have weak and inflexible mind I
+suppose.
+
+
+On Wed, Jul 8, 2015 at 8:41 PM, pavithran <pavithran.s at gmail.com> wrote:
+
+> I was reading this post from a friend Shirish agarwall from pune who
+> is a member of debian community and a key participant in community
+> events in pune and also an organiser for many debian events across the
+> country.
+>
+> Here are some points about community problems
+> a. Factionalism
+> b. Cabalism (or simply Cabals)
+> As have been part of both parts do understand that both factions and
+> cabals start with good intentions but sometimes later warp beyond
+> recognition.
+> Next he goes on to say
+>
+> c. No communication, Mis-communication
+> d. Fragmented content with contradictory messages.
+> The above two I have also seen time and again as a ?feature? of the
+> Indian FOSS community at large where most communities in India don?t
+> really communicate to other FOSS communities or world at large or are
+> pretty bad at things.
+>
+> Read more at
+> https://flossexperiences.wordpress.com/2015/06/22/indian-foss-communities-closed-source/
+> its quite interesting and is relevant to ILUGC also !
+> PS : As of now I am just posting this to ILUGC as I believe this
+> community is one of the few strong ones left in India.
+> Regards,
+> Pavithran
+>
+> --
+> pavithran sakamuri
+> http://look-pavi.blogspot.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From 77minds at gmail.com  Sat Jul 11 19:45:08 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 11 Jul 2015 19:45:08 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAPCsXg6VYE-r-RDXTdGZiG1972gk72LdVp3O6DMoEnMbixsMaQ@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+	<CAPCsXg7=qBzUWQWqO3CH7gwxNq++1aFAKwsMVKSBf6te+prAhQ@mail.gmail.com>
+	<CACm7z1ZdBRaSq_z-PZLmEWqKGMJqqsQ0S1rdUDR8j1PjQX8Yeg@mail.gmail.com>
+	<CAPCsXg6VYE-r-RDXTdGZiG1972gk72LdVp3O6DMoEnMbixsMaQ@mail.gmail.com>
+Message-ID: <CAJR+9kb3EgBMWK+n-3GZa6wh6kjQFsTxy2QBFtxZ=jZAC9wVWA@mail.gmail.com>
+
+>
+> Out of all the members in ILUGC, how many of them are real contributors in
+> terms of code, testing, manuals to the GNU / LINUX or any Free Software
+> projects etc?
+
+
+Contributors are busy coding and we are busy talking :D
+
+On Fri, Jul 10, 2015 at 1:06 PM, balachandar muruganantham <
+mbchandar at gmail.com> wrote:
+
+> On Thu, Jul 9, 2015 at 1:43 PM, Prasanna Venkadesh <prasmailme at gmail.com>
+> wrote:
+>
+> > On Sun, Jul 5, 2015 at 11:34 PM, balachandar muruganantham <
+> > mbchandar at gmail.com> wrote:
+> >
+> > > may be this is little Out of topic.
+> > >
+> > > FSFTN as a community form, what did it achieve? i am curious to know.
+> > >
+> >
+> > Since 2014,  FSFTN has started to use discourse as a platform to engage,
+> > discuss and organize. You can find the public events and campaigns here
+> > http://discuss.fsftn.org/category/public-events-campaigns
+> >
+> >
+> Looking at the campaigns, i rarely see that FSFTN encourages in
+> contribution to the community in terms of code or manual or bug fixing etc.
+>
+> most of them are related to consumption or installation.
+>
+>
+>
+> > FSFTN is very actively engaged in building Free Software, Free Culture &
+> > Free Infrastructure communities around TamilNadu and Pondicherry.
+>
+>
+> why the need for  Free Culture & Free Infrastructure communities  ?
+>
+>
+> > FSFTN organizes Summer Camp every year (Last month Summer Camp for 2015
+> > was organized at IIT Madras), it has also some College / regional level
+> > GLUG's affiliated with it, it took the issue of violation of Net
+> Neutrality
+> > offline through public campaigns at Chennai and Puducherry, Documentary
+> > Screening, organize workshops for general public like Cryptoparty,
+> > Initiating community projects, etc.,
+> >
+> >
+> Nice.
+>
+>
+> > Few of which you can find below,
+> > 1. https://www.facebook.com/fsftn/posts/1060442120649800
+> > 2.
+> >
+> >
+> https://www.facebook.com/media/set/?set=a.950599848318271.1073741843.248993515145578&type=3
+> > 3.
+> >
+> >
+> http://www.thehindu.com/news/cities/puducherry/activists-campaign-for-net-neutrality/article7145478.ece?ref=tpnews
+> > 4.
+> >
+> >
+> http://discuss.fsftn.org/t/building-a-low-cost-community-weather-station/360/3
+> > 5.
+> >
+> >
+> http://timesofindia.indiatimes.com/city/chennai/Chennaiites-rally-for-Net-Neutrality/articleshow/47033687.cms
+> >
+> >
+> Most of them are related to Net Neutrality :) .
+>
+> I most of the time see that ILUGC promotes  installation, usages etc but
+> never influence people to write / contribute free software. (including
+> myself)
+>
+> One question to all ILUGC members:
+>
+> Out of all the members in ILUGC, how many of them are real contributors in
+> terms of code, testing, manuals to the GNU / LINUX or any Free Software
+> projects etc?
+>
+> Just curious to know. i may be wrong too.
+>
+> - balachandar muruganantham
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vik at hamaralinux.org  Sat Jul 11 19:47:03 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Sat, 11 Jul 2015 15:17:03 +0100
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CAJR+9kaTDuE3WcTATiBH4F50QY9w_z7h7wt9A79Ji3t1tPZT4A@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJR+9kaTDuE3WcTATiBH4F50QY9w_z7h7wt9A79Ji3t1tPZT4A@mail.gmail.com>
+Message-ID: <55A1255F.2030401@hamaralinux.org>
+
+On 11/07/15 15:00, Karthikeyan A K wrote:
+> I had real bad experience with ChennaiRb, the ruby community for Chennai. I
+> wrote a book which had a cover of a beautiful woman, and like the Talibans
+> people were up in arms against me for that.
+Man, that's harsh - but it seems quite widespread in India. People have 
+forgotten the more ancient history which celebrates both the male and 
+female form.
+> I fought back, that irritated
+> them and they found a silly reason to chuck me out. I have created my own
+> group Chennai Ruy programmers as alternative where it has no rules, but
+> none knows about it.
+>
+> Ii find Ilugc far far better than those groups (thanks to good admins like
+> Shrinivasan T
+After interacting with a few Indian Lug's I have to concur - this one is 
+particularly well moderated, there seem some really decent people here.
+>   but Indian groups are for propaganda, power and mob mobilization
+> than about real technology.
+I have noticed that there does seem to be a bit of a mob / power 
+mentality in some groups - but I guess it's up to people to challenge 
+that or just let the lugs fail. There seem to be quite a few failed / 
+dormant groups too!
+
+Personally, I will keep posting to try to "do something about it" with 
+whatever time I manage to spare!
+
+
+From vik at hamaralinux.org  Sat Jul 11 19:48:50 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Sat, 11 Jul 2015 15:18:50 +0100
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>	<559E4A5A.7000006@hamaralinux.org>	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>	<55A02C5E.3010702@hamaralinux.org>
+	<CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+Message-ID: <55A125CA.5000208@hamaralinux.org>
+
+On 11/07/15 02:36, satyaakam goswami wrote:
+> On Sat, Jul 11, 2015 at 2:04 AM, Vikas Tara <vik at hamaralinux.org> wrote:
+>
+>> On 10/07/15 10:25, Sankarshan Mukhopadhyay wrote:
+>>>    They do not happen by
+>>> sprinkling magic pixie dust in air
+>> Shame that, I really love that magic pixie dust, it's amazing.
+>>
+> ?i read all the threads and kept my reply for the weekend ;-) since i find
+> some value in the arguments at the same time do not agree with OP's
+> sweeping statements about communities at large.
+>
+>   Sinking feelings and dejections are part of community living .This happens
+> more when you try to do something and you do not have buy in from
+> collective on  your ideas  as an individual .The way i deal with it is
+> "Just do it" i mean if i feel there is something to be done if i can do it
+> i just do it do not try to take permissions consents etc.... others will
+> follow if they like the idea  or the idea will die its own natural death if
+> people did not like it.
+>
+> if there are somethings which involves some resources then i go back to the
+> group and ask and wait for sometime for traction . This is the stage we
+> find more people joining you and then go ahead and try to do with whatever
+> resources we have .
+>
+> I still do understand where the discontent is coming from , i am living
+> happily in communities after communities for past 23+ years in India .
+> Today i will be going to two meetups with large numbers
+> some of them i curate some of them i be just  part of it as spectator and
+> give support.
+>
+> Communities have a life and ways of there own ,This is one reason i love it
+>   as a  collective . I still feel the discontent is coming from somewhere
+> for the system .i for one  cannot be judging people unless i meet that
+> person in person  and talk about specifics otherwise i think this thread
+> has no more value and is never going to end on the mailing list .
+>
+much more reasoned and valid than my rather churlish response, sorry - I 
+just couldn't resist :)
+
+From shakthimaan at gmail.com  Sat Jul 11 22:21:09 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 11 Jul 2015 22:21:09 +0530
+Subject: [Ilugc] Talk: Saturday, July 11, 2015
+In-Reply-To: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+References: <CABG-yt3MjNiMPG0xPitwbCMJ=kLfx5bbU_RQTz_M9MYOX1-iyA@mail.gmail.com>
+Message-ID: <CABG-yt1eX0vyeLZnSyEgei+k1thtx2iKCwky8jO0Bzsfjm=nVQ@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Jul 6, 2015 at 9:29 AM, Shakthi Kannan
+<shakthimaan at gmail.com> wrote:
+| Topic:          Emacs Dired mode
+\--
+
+A follow-up to the questions raised during the talk:
+
+* The quick reference card is at:
+
+  http://www.gnu.org/software/emacs/refcards/pdf/dired-ref.pdf
+
+* The steps to search and replace text in multiple files is described at:
+
+  http://stackoverflow.com/a/271136
+
+* The help menu ("?") has both "d-elete" and "x-punge". 'd' marks
+files for deletion, and 'x' actually deletes the files.
+
+HTH,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From 77minds at gmail.com  Sat Jul 11 22:23:59 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 11 Jul 2015 22:23:59 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <55A125CA.5000208@hamaralinux.org>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+	<55A02C5E.3010702@hamaralinux.org>
+	<CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+	<55A125CA.5000208@hamaralinux.org>
+Message-ID: <CAJR+9kbtxHk9WUT7iLxq=G_sb4+CGkr7iDeJGgTRt1Mx6K0uoQ@mail.gmail.com>
+
+There is a solution though. One can use federated network like Diaspora,
+all one has to do is to log in to a pod (server), type his / her post, add
+a tag like #ilug or #chennaipython and hit send.
+
+This will be sent to many other pods which has users listening to it.
+Though one can delete comments of others in his post, he can't stop one say
+posting message with tags say #chennairb
+
+The only way to stop some one dissenting is to request every other one to
+stop listening to that person, and the other one can do the same to the
+person who claims he is the leader of the group. Thats true democracy
+(well, a kind of).
+
+I do have great ideas for diaspora project, if students are willing to beat
+the evil social network Facebook, please do contact me. Lets change the
+future.
+
+
+
+On Sat, Jul 11, 2015 at 7:48 PM, Vikas Tara <vik at hamaralinux.org> wrote:
+
+> On 11/07/15 02:36, satyaakam goswami wrote:
+> > On Sat, Jul 11, 2015 at 2:04 AM, Vikas Tara <vik at hamaralinux.org> wrote:
+> >
+> >> On 10/07/15 10:25, Sankarshan Mukhopadhyay wrote:
+> >>>    They do not happen by
+> >>> sprinkling magic pixie dust in air
+> >> Shame that, I really love that magic pixie dust, it's amazing.
+> >>
+> > ?i read all the threads and kept my reply for the weekend ;-) since i
+> find
+> > some value in the arguments at the same time do not agree with OP's
+> > sweeping statements about communities at large.
+> >
+> >   Sinking feelings and dejections are part of community living .This
+> happens
+> > more when you try to do something and you do not have buy in from
+> > collective on  your ideas  as an individual .The way i deal with it is
+> > "Just do it" i mean if i feel there is something to be done if i can do
+> it
+> > i just do it do not try to take permissions consents etc.... others will
+> > follow if they like the idea  or the idea will die its own natural death
+> if
+> > people did not like it.
+> >
+> > if there are somethings which involves some resources then i go back to
+> the
+> > group and ask and wait for sometime for traction . This is the stage we
+> > find more people joining you and then go ahead and try to do with
+> whatever
+> > resources we have .
+> >
+> > I still do understand where the discontent is coming from , i am living
+> > happily in communities after communities for past 23+ years in India .
+> > Today i will be going to two meetups with large numbers
+> > some of them i curate some of them i be just  part of it as spectator and
+> > give support.
+> >
+> > Communities have a life and ways of there own ,This is one reason i love
+> it
+> >   as a  collective . I still feel the discontent is coming from somewhere
+> > for the system .i for one  cannot be judging people unless i meet that
+> > person in person  and talk about specifics otherwise i think this thread
+> > has no more value and is never going to end on the mailing list .
+> >
+> much more reasoned and valid than my rather churlish response, sorry - I
+> just couldn't resist :)
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From rajkamalloyola at gmail.com  Sun Jul 12 16:19:29 2015
+From: rajkamalloyola at gmail.com (Raj kamal)
+Date: Sun, 12 Jul 2015 16:19:29 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CAJR+9kbtxHk9WUT7iLxq=G_sb4+CGkr7iDeJGgTRt1Mx6K0uoQ@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+	<55A02C5E.3010702@hamaralinux.org>
+	<CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+	<55A125CA.5000208@hamaralinux.org>
+	<CAJR+9kbtxHk9WUT7iLxq=G_sb4+CGkr7iDeJGgTRt1Mx6K0uoQ@mail.gmail.com>
+Message-ID: <CABb51f7SnNLM5=y3iGK_vnshzSOuQSto4soiqZGfdZmd8Z4Y1g@mail.gmail.com>
+
+please anyone tell me how to unsuscribe from this forum.
+
+
+On Sat, Jul 11, 2015 at 10:23 PM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> There is a solution though. One can use federated network like Diaspora,
+> all one has to do is to log in to a pod (server), type his / her post, add
+> a tag like #ilug or #chennaipython and hit send.
+>
+> This will be sent to many other pods which has users listening to it.
+> Though one can delete comments of others in his post, he can't stop one say
+> posting message with tags say #chennairb
+>
+> The only way to stop some one dissenting is to request every other one to
+> stop listening to that person, and the other one can do the same to the
+> person who claims he is the leader of the group. Thats true democracy
+> (well, a kind of).
+>
+> I do have great ideas for diaspora project, if students are willing to beat
+> the evil social network Facebook, please do contact me. Lets change the
+> future.
+>
+>
+>
+> On Sat, Jul 11, 2015 at 7:48 PM, Vikas Tara <vik at hamaralinux.org> wrote:
+>
+> > On 11/07/15 02:36, satyaakam goswami wrote:
+> > > On Sat, Jul 11, 2015 at 2:04 AM, Vikas Tara <vik at hamaralinux.org>
+> wrote:
+> > >
+> > >> On 10/07/15 10:25, Sankarshan Mukhopadhyay wrote:
+> > >>>    They do not happen by
+> > >>> sprinkling magic pixie dust in air
+> > >> Shame that, I really love that magic pixie dust, it's amazing.
+> > >>
+> > > ?i read all the threads and kept my reply for the weekend ;-) since i
+> > find
+> > > some value in the arguments at the same time do not agree with OP's
+> > > sweeping statements about communities at large.
+> > >
+> > >   Sinking feelings and dejections are part of community living .This
+> > happens
+> > > more when you try to do something and you do not have buy in from
+> > > collective on  your ideas  as an individual .The way i deal with it is
+> > > "Just do it" i mean if i feel there is something to be done if i can do
+> > it
+> > > i just do it do not try to take permissions consents etc.... others
+> will
+> > > follow if they like the idea  or the idea will die its own natural
+> death
+> > if
+> > > people did not like it.
+> > >
+> > > if there are somethings which involves some resources then i go back to
+> > the
+> > > group and ask and wait for sometime for traction . This is the stage we
+> > > find more people joining you and then go ahead and try to do with
+> > whatever
+> > > resources we have .
+> > >
+> > > I still do understand where the discontent is coming from , i am living
+> > > happily in communities after communities for past 23+ years in India .
+> > > Today i will be going to two meetups with large numbers
+> > > some of them i curate some of them i be just  part of it as spectator
+> and
+> > > give support.
+> > >
+> > > Communities have a life and ways of there own ,This is one reason i
+> love
+> > it
+> > >   as a  collective . I still feel the discontent is coming from
+> somewhere
+> > > for the system .i for one  cannot be judging people unless i meet that
+> > > person in person  and talk about specifics otherwise i think this
+> thread
+> > > has no more value and is never going to end on the mailing list .
+> > >
+> > much more reasoned and valid than my rather churlish response, sorry - I
+> > just couldn't resist :)
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+*BEST REGARDS,*
+*RAJKAMAL.A.*
+*RS,(SRM UNIV).*
+
+From l.mohanphy at gmail.com  Sun Jul 12 16:28:17 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Sun, 12 Jul 2015 16:28:17 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CABb51f7SnNLM5=y3iGK_vnshzSOuQSto4soiqZGfdZmd8Z4Y1g@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+	<55A02C5E.3010702@hamaralinux.org>
+	<CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+	<55A125CA.5000208@hamaralinux.org>
+	<CAJR+9kbtxHk9WUT7iLxq=G_sb4+CGkr7iDeJGgTRt1Mx6K0uoQ@mail.gmail.com>
+	<CABb51f7SnNLM5=y3iGK_vnshzSOuQSto4soiqZGfdZmd8Z4Y1g@mail.gmail.com>
+Message-ID: <CADiHtmv9FfbPkx2yQuuJxBp_9MtfwoZ8U5djvkru9r-189LxFQ@mail.gmail.com>
+
+On Sun, Jul 12, 2015 at 4:19 PM, Raj kamal <rajkamalloyola at gmail.com> wrote:
+
+> please anyone tell me how to
+> ??
+> unsuscribe from this forum.
+
+
+?You can do your self in the below page:?
+
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc?
+
+
+?Thanks
+Mohan L?
+
+From satyaakam at gmail.com  Sun Jul 12 16:31:30 2015
+From: satyaakam at gmail.com (satyaakam goswami)
+Date: Sun, 12 Jul 2015 16:31:30 +0530
+Subject: [Ilugc] Are Indian FOSS communities closed-source ?
+In-Reply-To: <CABb51f7SnNLM5=y3iGK_vnshzSOuQSto4soiqZGfdZmd8Z4Y1g@mail.gmail.com>
+References: <CABJBktFDD1ENXaGj7WGHpo0aSSDQSS0irXtw+Xo=gGTTP3_wsw@mail.gmail.com>
+	<CAJWA-5bgS9OYRfEphuhJ51Q3GxDWmgS2ND8_Z-8Y+2r5+_kE0w@mail.gmail.com>
+	<559E4A5A.7000006@hamaralinux.org>
+	<CAJWA-5aC-TUMr+yRn1DqiiLS+neJBHjEBjaCWc9sBv2V0yE0-w@mail.gmail.com>
+	<55A02C5E.3010702@hamaralinux.org>
+	<CALre89=J_-qZKFt7rKZgomOT0MKxkMhV5gR3JN6xR_DL7OMpOQ@mail.gmail.com>
+	<55A125CA.5000208@hamaralinux.org>
+	<CAJR+9kbtxHk9WUT7iLxq=G_sb4+CGkr7iDeJGgTRt1Mx6K0uoQ@mail.gmail.com>
+	<CABb51f7SnNLM5=y3iGK_vnshzSOuQSto4soiqZGfdZmd8Z4Y1g@mail.gmail.com>
+Message-ID: <CALre89=C283vWmtVfLT4h6Y=HWdgegaSDLBPAwkGbGmxZ7=jFg@mail.gmail.com>
+
+Go here http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+And unsubscribe from this  list , all the mails carry this info as footer .
+
+-Satya
+
+From baskar910 at gmail.com  Mon Jul 13 06:34:03 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Mon, 13 Jul 2015 06:34:03 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - July 11-2015 - Minutes of Meeting
+Message-ID: <CACq+3bs=e=VFmZ9i=6xi92POeGJNx-nQPQa+c5=E8fHSK6yWRQ@mail.gmail.com>
+
+Hi All,
+
+The meeting was started by Shakthi Kannan with his topic on Emacs Dired
+mode and he completed his talk by around 4pm.
+
+Around 10 participants were present. 4 of them from MCA (Final Year) Vels
+University, Pallavaram.
+We had a discussion on FOSS conf and the preliminary steps required etc.,
+Students from Vels university wanted to have workshops on open source
+topics during the month of August-2015. It was suggested to them to send
+some select topics and tentative dates for these workshop to the mailing
+list.
+
+There was a discussion on pulling crowd to the meeting and also updating
+meeting agenda in advance.
+
+A decision was made to update the topics for the meeting before a week.
+
+Thats all for update for now.
+
+Thanks
+baskar
++919940024492
+
+From baskar910 at gmail.com  Mon Jul 13 06:50:12 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Mon, 13 Jul 2015 06:50:12 +0530
+Subject: [Ilugc] List of suggested topics for Monthly meeting
+Message-ID: <CACq+3bsDr8TkN66TrbZgAq+QG0i4kqqrHJSn3CtdHECjX312AQ@mail.gmail.com>
+
+Hi All,
+I am proposing list of topics for monthly meeting, you can also propose as
+well.
+Linux Fundamentals
+Linux for system administrators
+gcc
+g++
+make
+shell scripting
+perl
+python
+ruby
+php
+frameworks in php
+content management systems (drupal, joomla etc.,)
+python fraeworks (django, turbogears etc.,)
+Ruby on Rails
+Version control systems (subversion ,git etc.,)
+qt
+gtk
+numby
+scipy
+mysql
+postgresl
+clustering (RHCS, pacemaker etc)
+openldap, samba4
+
+Thanks
+baskar
++919940024492
+
+From baskar at linuxpert.in  Mon Jul 13 07:10:27 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Mon, 13 Jul 2015 07:10:27 +0530
+Subject: [Ilugc] List of suggested topics for Monthly meeting
+In-Reply-To: <CACq+3bsDr8TkN66TrbZgAq+QG0i4kqqrHJSn3CtdHECjX312AQ@mail.gmail.com>
+References: <CACq+3bsDr8TkN66TrbZgAq+QG0i4kqqrHJSn3CtdHECjX312AQ@mail.gmail.com>
+Message-ID: <CACtiFJZCdg+O6vkx+yTyhuqo=osYxfS=F-gq4Ld5GNsypOB2cw@mail.gmail.com>
+
+On 7/13/15, Baskar K <baskar910 at gmail.com> wrote:
+> Hi All,
+> I am proposing list of topics for monthly meeting, you can also propose as
+> well.
+> Linux Fundamentals
+> Linux for system administrators
+> gcc
+> g++
+> make
+> shell scripting
+> perl
+> python
+> ruby
+> php
+> frameworks in php
+> content management systems (drupal, joomla etc.,)
+> python fraeworks (django, turbogears etc.,)
+> Ruby on Rails
+> Version control systems (subversion ,git etc.,)
+> qt
+> gtk
+> numby
+> scipy
+> mysql
+> postgresl
+> clustering (RHCS, pacemaker etc)
+> openldap, samba4
+
+Adding few more
+
+sed/awk (powerful Text processing / Report generation tools)
+dspace/koha/eprints (related to Digital Library/Library Automation)
+mediagoblin (media publishing platform)
+bigbluebutton (Web conferencing / Online Learning)
+ARM based (Raspberry Pi, Banana Pi, BeagleBone Black, Odroid, Cubox,
+Cubietruck etc.)
+
+S. Baskar
+
+From tshrinivasan at gmail.com  Tue Jul 14 07:22:54 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 14 Jul 2015 07:22:54 +0530
+Subject: [Ilugc] Fwd: [Wikimediaindia-l] Open Kannada Maps
+In-Reply-To: <CA+GKQr0_FO7_4JP6n=7CxwpV=_VoQ+TwmzTMS-A-5R-7n+0D5A@mail.gmail.com>
+References: <CA+GKQr0_FO7_4JP6n=7CxwpV=_VoQ+TwmzTMS-A-5R-7n+0D5A@mail.gmail.com>
+Message-ID: <CAND2794ayvbseQwvbXc743QqZ=cBz_cEZir=T0B6Zmu_n4DAmg@mail.gmail.com>
+
+Will be good, if we can do like this in tamil too.
+
+
+---------- Forwarded message ----------
+From: Arun Ganesh <arun.planemad at gmail.com>
+Date: 2015-06-10 20:21 GMT+05:30
+Subject: [Wikimediaindia-l] Open Kannada Maps
+To: "Discussion list on Indian language projects of Wikimedia." <
+wikimediaindia-l at lists.wikimedia.org>
+Cc: Yogesh K S <yogesh at karnatakaeducation.org.in>
+
+
+An article from TOI today on how the Bengaluru tech community has been
+active at creating openstreetmaps in Kannada [1] and uploading localized
+maps to Wikipedia [2]. Those interested in similar initiatives in their
+language should get in touch with Yogesh [3]
+
+The full Bengaluru Kannada streetmap is available here:
+http://yogiks.github.io/osm-kn/map/
+
+[1]
+http://epaperbeta.timesofindia.com/NasData//PUBLICATIONS/THEECONOMICTIMES/BANGALORE/2015/06/10/PagePrint/10_06_2015_002_978f81cf7c9a4f624a8f8fba64e43b4e.pdf
+[2] https://commons.wikimedia.org/wiki/File:Hassan_map_kannada.svg
+[3] https://commons.wikimedia.org/wiki/User:Csyogi
+
+-- 
+ Arun Ganesh
+(planemad) <http://en.wikipedia.org/wiki/User:Planemad>
+ <http://j.mp/ArunGanesh>
+
+_______________________________________________
+Wikimediaindia-l mailing list
+Wikimediaindia-l at lists.wikimedia.org
+To unsubscribe from the list / change mailing preferences visit
+https://lists.wikimedia.org/mailman/listinfo/wikimediaindia-l
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From shakthimaan at gmail.com  Wed Jul 15 09:08:27 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 15 Jul 2015 09:08:27 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+Message-ID: <CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+
+Hi,
+
+This is a confirmation on the installfest to be held this Saturday,
+July 18, 2015 between 0800 and 1500 IST at Manufacturing System
+Insights India Pvt Ltd premises located at:
+
+506 Velachery Main Road
+East Tambaram
+Chennai 600059, India
+Main: +91 44 4287 2130
+
+See: http://www.systeminsights.com/contact-us/
+
+Regards,
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tuxuday at gmail.com  Wed Jul 15 11:48:16 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Wed, 15 Jul 2015 11:48:16 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+	<CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+Message-ID: <CANODOzvdby87caoiF6zmuv26pDLDU-sZC4iLS4MMAtVMQ2wtzA@mail.gmail.com>
+
+Participant details
+
+Udaya Kumar
+Laptop
+Ubuntu
+Upgrade Ubuntu & Setup LAMP
+
+On Wed, Jul 15, 2015 at 9:08 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> This is a confirmation on the installfest to be held this Saturday,
+> July 18, 2015 between 0800 and 1500 IST at Manufacturing System
+> Insights India Pvt Ltd premises located at:
+>
+> 506 Velachery Main Road
+> East Tambaram
+> Chennai 600059, India
+> Main: +91 44 4287 2130
+>
+> See: http://www.systeminsights.com/contact-us/
+>
+> Regards,
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Cheers
+Uday.
+
+From shakthimaan at gmail.com  Wed Jul 15 11:54:20 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 15 Jul 2015 11:54:20 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CANODOzvdby87caoiF6zmuv26pDLDU-sZC4iLS4MMAtVMQ2wtzA@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+	<CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+	<CANODOzvdby87caoiF6zmuv26pDLDU-sZC4iLS4MMAtVMQ2wtzA@mail.gmail.com>
+Message-ID: <CABG-yt3rdtPjjMyyfka=jSXjRka6KhEYtR5bgOV6aUSQvNKZBQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Jul 15, 2015 at 11:48 AM, Udaya Kumar <tuxuday at gmail.com> wrote:
+| Udaya Kumar
+| Laptop
+| Ubuntu
+| Upgrade Ubuntu & Setup LAMP
+\--
+
+Ack. 21 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Thu Jul 16 11:05:48 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 16 Jul 2015 11:05:48 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CABG-yt3rdtPjjMyyfka=jSXjRka6KhEYtR5bgOV6aUSQvNKZBQ@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+	<CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+	<CANODOzvdby87caoiF6zmuv26pDLDU-sZC4iLS4MMAtVMQ2wtzA@mail.gmail.com>
+	<CABG-yt3rdtPjjMyyfka=jSXjRka6KhEYtR5bgOV6aUSQvNKZBQ@mail.gmail.com>
+Message-ID: <CABG-yt3QO8AHn+xpGgT3Nst7nu05Pgb6S3qdcQaZszGi9XTkLQ@mail.gmail.com>
+
+Hi,
+
+* V S Nagasayanam
+  Laptop
+  LFS and BLFS
+  Cross-compiler for Raspberry Pi.
+
+20 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vijayakumarnkdr at gmail.com  Thu Jul 16 12:37:22 2015
+From: vijayakumarnkdr at gmail.com (Vijay Kumar)
+Date: Thu, 16 Jul 2015 12:37:22 +0530
+Subject: [Ilugc] M Sc (CS-FOSS) Online Program - Anna University
+In-Reply-To: <CA+q5_6Y4BzjAVi2erVXiPs7BmezGyD5W22H=UB5-Me+m3+mk6w@mail.gmail.com>
+References: <CAND2797Q3=u0Gxswsz1VUERAkXLE8RR=qh9bb1XVoXMsA_je+w@mail.gmail.com>
+	<CAHv1ki3k+7+gk_MhMnrmx5ffRQYJCduAOHm02ka8voFsyG+wpA@mail.gmail.com>
+	<CAJJ+ErxgnR1CeMfTnozO8QizJo0xFM4_6muxBs3h6631_esAaQ@mail.gmail.com>
+	<4F511343.4020508@gmail.com>
+	<CAHv1ki0-0j=71CY7joPQyaVc0VWe4QCjoOh02jiqDfOtkoF3PQ@mail.gmail.com>
+	<CA+q5_6Y4BzjAVi2erVXiPs7BmezGyD5W22H=UB5-Me+m3+mk6w@mail.gmail.com>
+Message-ID: <CALARHWafPNr8qX35qDXtUdnsfRdzHO2PbVbR=NZpasU8pfWH6w@mail.gmail.com>
+
+Anna University Flouts UGC Fiat on Distance Education Courses
+http://www.newindianexpress.com/states/tamil_nadu/Anna-University-Flouts-UGC-Fiat-on-Distance-Education-Courses/2015/06/12/article2861991.ece
+
+On Sat, Oct 6, 2012 at 4:03 PM, Mohan K <kmohangda at gmail.com> wrote:
+
+> Hi All,
+>
+> Does anyone knows whether the MSc(FOSS) course is approved by Distance
+> Education Council?
+>
+> Thanks & Regards,
+> Mohan
+>
+> On Sat, Mar 3, 2012 at 2:29 AM, senthilraja P <technocraze at gmail.com>
+> wrote:
+> >> I have been closely watching the syllabus and course details of anna
+> >> university. In this new course.. I think only the first semeter has new
+> >> topics. rest of them are taken from the MCA and MSC course syllabus.
+> >> Though course seems to be demanding Univerisity has no idea about how to
+> >> go after the first semester.I was happy to hear about the course but
+> >> become sad when I looked at the fees tab. I feel there is no difference
+> >> when you compare the price with a commercial institiute course fee..
+> >>
+> >
+> > Does NRC-FOSS has any role in framing the syllabus?  If NOT, then who
+> > exactly is framing the syllabus?
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>
+
+From shakthimaan at gmail.com  Thu Jul 16 17:52:26 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 16 Jul 2015 17:52:26 +0530
+Subject: [Ilugc] Installfest II on Saturday, July 18, 2015
+In-Reply-To: <CABG-yt3QO8AHn+xpGgT3Nst7nu05Pgb6S3qdcQaZszGi9XTkLQ@mail.gmail.com>
+References: <CABG-yt3SmpU=rCdfUiQxHWXURUQ2U4GcSX7GD8E6ttn1zVZJ_w@mail.gmail.com>
+	<C3A25786D9D08D44B03F62390940CB3F227C3FC9@chn-hclt-mbs05.HCLT.CORP.HCL.IN>
+	<CABG-yt3FC9frVt7qzNO02QanUo17u23zHVpkO7hJLJvp5Qe6fA@mail.gmail.com>
+	<CABG-yt1qNWhexP1OmGEkcQNtpuoKNC+ANjx9Va3zPtXg_TsZhQ@mail.gmail.com>
+	<CANODOzvdby87caoiF6zmuv26pDLDU-sZC4iLS4MMAtVMQ2wtzA@mail.gmail.com>
+	<CABG-yt3rdtPjjMyyfka=jSXjRka6KhEYtR5bgOV6aUSQvNKZBQ@mail.gmail.com>
+	<CABG-yt3QO8AHn+xpGgT3Nst7nu05Pgb6S3qdcQaZszGi9XTkLQ@mail.gmail.com>
+Message-ID: <CABG-yt02yvn6higff06LqNVLgf34aAMwZd1Xo6DE6G674p5VLg@mail.gmail.com>
+
+Hi,
+
+*  Dilip Kumar Tummala
+   Laptop
+   Debian, Fedora
+   Installation and configuration
+
+19 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From deepsukhwani at gmail.com  Sat Jul 18 17:51:59 2015
+From: deepsukhwani at gmail.com (Deep Sukhwani)
+Date: Sat, 18 Jul 2015 17:51:59 +0530
+Subject: [Ilugc] Nominations for Kenneth Gonsalves Award
+Message-ID: <CAEMqiPeG0nQDtF3AZEH6-i+yh7QYs_WbrVzJ5xZ1fNAWUPDE1Q@mail.gmail.com>
+
+Its time of the year to nominate for the prestigious Kenneth Gonsalves
+award.
+
+This award is instituted by PSSI and PSF in the name of our late friend and
+mentor, Kenneth Gonsalves who passed away in August 2012. KG, as he is
+fondly known in the community, was the founder of the Indian Python
+Software Society. This award is for the ones who are doing exemplary work
+in Python programming language, its development/adoption/advocacy in India.
+
+You can read more about it on PyConIndia blog:
+https://in.pycon.org/blog/2015/kenneth-gonsalves-2015.html
+
+We Pythonistas, strongly encourage you, to come forward and nominate a
+worthy candidate for this year's Kenneth Gonsalves award. The nominations
+are open now.
+
+If you know someone who has played a key role in the Indian Python
+community's development, please nominate their name through the link below:
+https://pssi.org.in/nomination/KG2015/
+
+Do your part to help us find a deserving personality to accept the award
+this year.
+
+Thanks
+Deep S
+?
+
+From gsivaprabu at gmail.com  Wed Jul 22 14:56:56 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Wed, 22 Jul 2015 14:56:56 +0530
+Subject: [Ilugc] File & folder comparing open source software
+Message-ID: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+
+??
+?
+Hi Friends,
+
+Please suggest best file & folder comparing open source software for
+Windows 8 and Ubuntu 12.04.
+
+?
+
+regards,
+
+   [image: --]
+Sivaprabu Ganesan
+[image: http://]about.me/gsivaprabu
+     <http://about.me/gsivaprabu?promo=email_sig>
+
+ <http://about.me/gsivaprabu>
+
+From shakthimaan at gmail.com  Wed Jul 22 15:07:52 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 22 Jul 2015 15:07:52 +0530
+Subject: [Ilugc] File & folder comparing open source software
+In-Reply-To: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+References: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+Message-ID: <CABG-yt15DuwtiHV+8RYgfUjs6QK=k8Yp4xSOAwe-b5ji8_v1WA@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Jul 22, 2015 at 2:56 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+| Please suggest best file & folder comparing open source software
+\--
+
+There is no best, but, only a favourite. Try different file browsers,
+and choose the one that suits your needs.
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From lakindia89 at gmail.com  Wed Jul 22 15:17:42 2015
+From: lakindia89 at gmail.com (lakshmanan ganapathy)
+Date: Wed, 22 Jul 2015 15:17:42 +0530
+Subject: [Ilugc] File & folder comparing open source software
+In-Reply-To: <CABG-yt15DuwtiHV+8RYgfUjs6QK=k8Yp4xSOAwe-b5ji8_v1WA@mail.gmail.com>
+References: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+	<CABG-yt15DuwtiHV+8RYgfUjs6QK=k8Yp4xSOAwe-b5ji8_v1WA@mail.gmail.com>
+Message-ID: <CAMx6C7eHZ=T+fE+u5ER_Fo_Vv3rJg1g68xtLj0FP=EaBVR-2_w@mail.gmail.com>
+
+Try meld I use it and found helpful...
+On 22-Jul-2015 15:08, "Shakthi Kannan" <shakthimaan at gmail.com> wrote:
+
+> Hi,
+>
+> --- On Wed, Jul 22, 2015 at 2:56 PM, Siva prabu <gsivaprabu at gmail.com>
+> wrote:
+> | Please suggest best file & folder comparing open source software
+> \--
+>
+> There is no best, but, only a favourite. Try different file browsers,
+> and choose the one that suits your needs.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sivachandran.p at gmail.com  Wed Jul 22 16:52:51 2015
+From: sivachandran.p at gmail.com (Sivachandran P)
+Date: Wed, 22 Jul 2015 16:52:51 +0530
+Subject: [Ilugc] File & folder comparing open source software
+In-Reply-To: <CAMx6C7eHZ=T+fE+u5ER_Fo_Vv3rJg1g68xtLj0FP=EaBVR-2_w@mail.gmail.com>
+References: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+	<CABG-yt15DuwtiHV+8RYgfUjs6QK=k8Yp4xSOAwe-b5ji8_v1WA@mail.gmail.com>
+	<CAMx6C7eHZ=T+fE+u5ER_Fo_Vv3rJg1g68xtLj0FP=EaBVR-2_w@mail.gmail.com>
+Message-ID: <CA+zg-Y69eyS0jbwGtG2kt0OKRW-7mfFQueu3GEmr9t-dq-cSDQ@mail.gmail.com>
+
++1 for meld. You can use WinMerge in Windows.
+
+Thanks,
+Sivachandran Paramasivam
+
+From jkrishh at gmail.com  Wed Jul 22 17:26:48 2015
+From: jkrishh at gmail.com (Jayakrishnan Karthikeyan)
+Date: Wed, 22 Jul 2015 17:26:48 +0530
+Subject: [Ilugc] File & folder comparing open source software
+In-Reply-To: <CA+zg-Y69eyS0jbwGtG2kt0OKRW-7mfFQueu3GEmr9t-dq-cSDQ@mail.gmail.com>
+References: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+	<CABG-yt15DuwtiHV+8RYgfUjs6QK=k8Yp4xSOAwe-b5ji8_v1WA@mail.gmail.com>
+	<CAMx6C7eHZ=T+fE+u5ER_Fo_Vv3rJg1g68xtLj0FP=EaBVR-2_w@mail.gmail.com>
+	<CA+zg-Y69eyS0jbwGtG2kt0OKRW-7mfFQueu3GEmr9t-dq-cSDQ@mail.gmail.com>
+Message-ID: <CANmRqO6iGTwoBFp+eGsETrpQOX=umupvBA8rL491-FxcZ7tAbg@mail.gmail.com>
+
+Hi,
+You can use Meld Diff in Ubuntu.
+
+Thanks,
+Jayakrishnan k
+On Jul 22, 2015 4:53 PM, "Sivachandran P" <sivachandran.p at gmail.com> wrote:
+
+> +1 for meld. You can use WinMerge in Windows.
+>
+> Thanks,
+> Sivachandran Paramasivam
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From benignbala at gmail.com  Wed Jul 22 18:28:16 2015
+From: benignbala at gmail.com (Balachandran Sivakumar)
+Date: Wed, 22 Jul 2015 18:28:16 +0530
+Subject: [Ilugc] File & folder comparing open source software
+In-Reply-To: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+References: <CALp7xkAWkYZtLgyH6gXAzOhnsJvYMFwFPtH7DRhLf7FyqDv7rg@mail.gmail.com>
+Message-ID: <CAMbkTgJFfWpNPTrBL0NxT1u2dvVUyQ4Pfd5xaOYUHYbBq0wSOw@mail.gmail.com>
+
+Hi,
+
+On Wed, Jul 22, 2015 at 2:56 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> ??
+> ?
+> Hi Friends,
+>
+> Please suggest best file & folder comparing open source software for
+> Windows 8 and Ubuntu 12.04.
+>
+>
+    In Ubuntu, for folder comparison, you can use mc (midnight commander).
+For file comparison, meld or if you want to do it from editors,
+ediff(emacs) and vimdiff(vim). Thanks
+
+
+-- 
+Thank you
+Balachandran Sivakumar
+
+From tshrinivasan at gmail.com  Wed Jul 22 20:46:09 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 22 Jul 2015 20:46:09 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+Message-ID: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+
+When I print to PDF from html files, using Firefox, "Bold" formatting is
+missed in the result PDF.
+
+I have ubuntu 15.04
+Firefox 39
+
+Example - http://freetamilebooks.com/htmlbooks/oru-vasagam/oru-vasagam.html
+
+Can anyone test this and share your thoughts.
+
+Thanks.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From shakthimaan at gmail.com  Wed Jul 22 21:29:01 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 22 Jul 2015 21:29:01 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+Message-ID: <CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+
+Hi Shrini,
+
+--- On Wed, Jul 22, 2015 at 8:46 PM, Shrinivasan T
+<tshrinivasan at gmail.com> wrote:
+| When I print to PDF from html files
+\--
+
+How are the HTML files generated in the first place?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vik at hamaralinux.org  Wed Jul 22 22:07:35 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Wed, 22 Jul 2015 17:37:35 +0100
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+Message-ID: <55AFC6CF.3030607@hamaralinux.org>
+
+On 22/07/15 16:16, Shrinivasan T wrote:
+> Can anyone test this and share your thoughts.
+Same here in hamara linux.
+
+The print preview shows it in bold - but the resulting pdf doesn't seem 
+bold anymore.
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From vijaykumar at bravegnu.org  Wed Jul 22 22:47:54 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Wed, 22 Jul 2015 17:17:54 +0000 (UTC)
+Subject: [Ilugc] Python User Group, July Meetup
+Message-ID: <loom.20150722T191608-566@post.gmane.org>
+
+# July Meetup
+
+## Date & Time
+
+   * 25th July (Saturday)
+   * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+  * Automating things using Selenium (20 min)
+    by Vengatesh
+
+  * Data Science 101  (20 min)
+    by Gaurav
+
+  * Networking Tea sponsored by Zilogic Systems (30 min)
+
+  * Building Git from Scratch (20 min)
+    by Vijay Kumar
+
+  * The beauty that is PostgreSQL - Part 1 (20 min)
+    by Shrayas & Karthik
+
+  * Discussions (30 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/223800671/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/223800671/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+   * Invent Your Own Computer Games with Python, Chapters 1 - 9
+     http://inventwithpython.com/chapters/
+
+   * Google's Python Course (with Lecture Videos)
+     https://developers.google.com/edu/python/
+
+   * How to Think Like a Computer Scientist, Chapters 1 - 12
+     http://www.greenteapress.com/thinkpython/
+
+
+
+From tshrinivasan at gmail.com  Thu Jul 23 03:39:38 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 23 Jul 2015 03:39:38 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+Message-ID: <CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+
+> How are the HTML files generated in the first place?
+
+Authors send us books in Word Format.
+We save it as HTML using libreoffice 4.1
+(to get images separately. Recent libreoffice embed the images in html
+files as base64)
+
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From sahasr at naman.ms  Thu Jul 23 04:12:57 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 23 Jul 2015 04:12:57 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+Message-ID: <55B01C71.3020102@naman.ms>
+
+I think it could be a font issue.  The font suggested by the page is 
+"Uni Ila.Sundaram-10".   My computer doesn't have it.  Firefox renders 
+it with DejaVuSerif,  and Chrome renders it with FreeSans. If we save 
+the page and open with LO Writer,  it renders differently,  but it also 
+says that "Uni Ila.Sundaram-10" is not available and will be substituted.
+
+Maybe if you install the right fonts,  it will start to look as it was 
+supposed to look.
+
+Regards,
+Sahas
+
+
+From sahasr at naman.ms  Thu Jul 23 04:18:35 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 23 Jul 2015 04:18:35 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+Message-ID: <55B01DC3.6030600@naman.ms>
+
+I just exported as PDF from LO,  and although the fonts are different 
+from what Firefox uses,  the bold text remains bold in the PDF.
+
+
+
+From shakthimaan at gmail.com  Thu Jul 23 08:52:36 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 23 Jul 2015 08:52:36 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+Message-ID: <CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Jul 23, 2015 at 3:39 AM, Shrinivasan T
+<tshrinivasan at gmail.com> wrote:
+| Authors send us books in Word Format.
+| We save it as HTML using libreoffice 4.1
+\--
+
+IMO, it will be useful to convert Word to plain text, so that you can
+export it to any format in future.
+
+Separating content from presentation will help in long-term
+maintenance. Otherwise, it becomes a vendor lock-in.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From baskar at linuxpert.in  Thu Jul 23 09:22:16 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Thu, 23 Jul 2015 09:22:16 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+	<CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+Message-ID: <CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+
+On Thu, Jul 23, 2015 at 8:52 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Thu, Jul 23, 2015 at 3:39 AM, Shrinivasan T
+> <tshrinivasan at gmail.com> wrote:
+> | Authors send us books in Word Format.
+> | We save it as HTML using libreoffice 4.1
+> \--
+>
+> IMO, it will be useful to convert Word to plain text, so that you can
+> export it to any format in future.
+>
+> Separating content from presentation will help in long-term
+> maintenance. Otherwise, it becomes a vendor lock-in.
+>
+
++1
+
+I suggest 'pandoc' which can convert any type of document to several open
+formats like latex which will help in long-term preservation and
+maintenance.
+
+S. Baskar
+
+From tshrinivasan at gmail.com  Thu Jul 23 14:27:03 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 23 Jul 2015 14:27:03 +0530
+Subject: [Ilugc] New Debian Contributior - StyleSen
+Message-ID: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+
+http://stylesen.org/me_too_debian
+
+Wishes Senthil Kumaran.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From 77minds at gmail.com  Thu Jul 23 14:56:08 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Thu, 23 Jul 2015 14:56:08 +0530
+Subject: [Ilugc] New Debian Contributior - StyleSen
+In-Reply-To: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+References: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+Message-ID: <CAJR+9kai2P_ywShpGWXKEy_jGkdhj5gsEBCXKpuJmCy-jWs5bA@mail.gmail.com>
+
++1
+
+On Thu, Jul 23, 2015 at 2:27 PM, Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> http://stylesen.org/me_too_debian
+>
+> Wishes Senthil Kumaran.
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From manokaran at gmail.com  Thu Jul 23 18:11:23 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Thu, 23 Jul 2015 12:41:23 +0000
+Subject: [Ilugc] New Debian Contributior - StyleSen
+In-Reply-To: <CAJR+9kai2P_ywShpGWXKEy_jGkdhj5gsEBCXKpuJmCy-jWs5bA@mail.gmail.com>
+References: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+	<CAJR+9kai2P_ywShpGWXKEy_jGkdhj5gsEBCXKpuJmCy-jWs5bA@mail.gmail.com>
+Message-ID: <CAKGmkL2K7k2hthPwCXLe0h5sWCM2SeAt1JakaHe5OdtqHdDTjg@mail.gmail.com>
+
+Congratulations and best wishes, Senthil Kumaran
+
+On Thu, Jul 23, 2015, 2:56 PM Karthikeyan A K <77minds at gmail.com> wrote:
+
+> +1
+>
+> On Thu, Jul 23, 2015 at 2:27 PM, Shrinivasan T <tshrinivasan at gmail.com>
+> wrote:
+>
+> > http://stylesen.org/me_too_debian
+> >
+> > Wishes Senthil Kumaran.
+> >
+> > --
+> > Regards,
+> > T.Shrinivasan
+> >
+> >
+> > My Life with GNU/Linux : http://goinggnu.wordpress.com
+> > Free E-Magazine on Free Open Source Software in Tamil :
+> http://kaniyam.com
+> >
+> > Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Fri Jul 24 04:53:33 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 24 Jul 2015 04:53:33 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+	<CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+	<CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+Message-ID: <CAND27967Y3mERZ2c_D0xPvtAJe=aeEW_vWN7w37rCgSMtCDuhA@mail.gmail.com>
+
+For FreeTamilEbooks.com project, We get the content for the books as
+Word Doc from authors or as their blog/site.
+
+They will be having lot of images and bold text for heading.
+
+It is very tough to convert to plaintext and then adding images and
+bold formatting.
+
+Here is our workflow.
+
+We need to have the content with images, somewhere online for easy copy/pasting.
+
+If we get as word doc,
+1. open word doc in libreoffice 4.1
+2. save as HTML
+3. upload to http://freetamilebooks.com/htmlbooks/
+
+Now we have html content in online.
+
+we may get content from blogs also.
+
+4. copy/paste the chapters in pressbooks.com
+5. Give all metadata as cover image, author details etc.
+6. Export as epub. mobi, xhtml  (Their pdf export does not support Tamil)
+7. open Xhtml in text editor and add few CSS hacks for nice printing.
+here is the css - https://gist.github.com/tshrinivasan/95ace5882cac6a1070fe
+8. Open the same xhtml file in firefox.
+9. Print as A4 PDF and 6 inch PDF
+10. Upload and Release in FreeTamilEbooks.com site
+
+Explained in Video ( Tamil ) - https://www.youtube.com/watch?v=bXNBwGUDhRs
+As English Text -
+https://goinggnu.wordpress.com/2014/02/01/how-to-create-an-ebook-for-free-tamil-ebooks-com/
+
+When printing from Firefox as PDF, we loss Bold formatting.
+
+How to fix this?
+
+Thanks.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From baskar at linuxpert.in  Fri Jul 24 08:40:23 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Fri, 24 Jul 2015 08:40:23 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND27967Y3mERZ2c_D0xPvtAJe=aeEW_vWN7w37rCgSMtCDuhA@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+	<CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+	<CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+	<CAND27967Y3mERZ2c_D0xPvtAJe=aeEW_vWN7w37rCgSMtCDuhA@mail.gmail.com>
+Message-ID: <CACtiFJa15YjZ1n8PcVRKVDGFJaOZfA9y=DXOyA6dq1FxJmFOAg@mail.gmail.com>
+
+On 7/24/15, Shrinivasan T <tshrinivasan at gmail.com> wrote:
+> For FreeTamilEbooks.com project, We get the content for the books as
+> Word Doc from authors or as their blog/site.
+>
+> They will be having lot of images and bold text for heading.
+>
+> It is very tough to convert to plaintext and then adding images and
+> bold formatting.
+>
+> Here is our workflow.
+>
+> We need to have the content with images, somewhere online for easy
+> copy/pasting.
+>
+> If we get as word doc,
+> 1. open word doc in libreoffice 4.1
+> 2. save as HTML
+> 3. upload to http://freetamilebooks.com/htmlbooks/
+>
+> Now we have html content in online.
+>
+
+I tried converting two of the HTML books using cloudconvert.com (which
+internally uses pandoc) and in less than 5 seconds I have got a nice
+PDF e-book of
+
+http://freetamilebooks.com/htmlbooks/oru-vasagam/oru-vasagam.html  (and)
+
+http://freetamilebooks.com/htmlbooks/black-june-html/black-june.html
+
+All bold characters, Table of contents, Fonts, HTML links were nicely
+formatted and worked properly.
+
+S. Baskar
+
+From shakthimaan at gmail.com  Fri Jul 24 08:59:44 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 24 Jul 2015 08:59:44 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <CAND27967Y3mERZ2c_D0xPvtAJe=aeEW_vWN7w37rCgSMtCDuhA@mail.gmail.com>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+	<CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+	<CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+	<CAND27967Y3mERZ2c_D0xPvtAJe=aeEW_vWN7w37rCgSMtCDuhA@mail.gmail.com>
+Message-ID: <CABG-yt2pqz6kax2O8Em1po7o7wt1vb3Gg3nS7Hpv9avBb-=r7w@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Jul 24, 2015 at 4:53 AM, Shrinivasan T
+<tshrinivasan at gmail.com> wrote:
+| It is very tough to convert to plaintext and then adding images and
+| bold formatting.
+\--
+
+With markdown, you can specify the location of the images and plain
+text can be revisioned. It all comes down to how the project files are
+organized. As mentioned earlier, doing maintenance down the road is
+easier because you are separating content with presentation.
+
+How often do authors change the book contents?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From iyboobalan at gmail.com  Fri Jul 24 10:34:11 2015
+From: iyboobalan at gmail.com (Boobalan sivaprakasam)
+Date: Fri, 24 Jul 2015 10:34:11 +0530
+Subject: [Ilugc] Bold missing in PDF from Firefox
+In-Reply-To: <1437701601502.351319174@boxbe>
+References: <CAND2797=qKCzji=B_ezcu-uBWa6zffEqH+vrj8ue77iiDdUjWg@mail.gmail.com>
+	<CABG-yt0HevJHKmUkeCQyp2_qEaAjP2cy10iCy2k6MzCkz8Ampw@mail.gmail.com>
+	<CAND2796B2z-89PNFiarj+2A7bJQaSQyobiXvw5ro=C63FEn5Og@mail.gmail.com>
+	<CABG-yt3oj_gZfDVfeL54S7tPJzu4HEbOjU7hpx-QYRa=W4rg2g@mail.gmail.com>
+	<CACtiFJbsni44XYx3wFdSOD-UhHDfsaiW1kgcS=tsQ+tfugWe4Q@mail.gmail.com>
+	<1437701601502.351319174@boxbe>
+Message-ID: <CADLMYXCfoTiL_Ci+sWB65ShENAOyK8075fSy_SWG+vavb+vQVg@mail.gmail.com>
+
+thank you...
+
+
+
+
+
+*....Thanks & Regards....*
+
+
+*Mr.S.BOOBALAN+91 96267 65206*
+*[image:
+https://www.linkedin.com/pub/boobalan-sivaprakasam/78/888/504/en]Click to
+View Profile*
+<https://www.linkedin.com/pub/boobalan-sivaprakasam/78/888/504/en>
+
+On Fri, Jul 24, 2015 at 4:53 AM, Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+>  [image: Boxbe] <https://www.boxbe.com/overview> This message is eligible
+> for Automatic Cleanup! (tshrinivasan at gmail.com) Add cleanup rule
+> <https://www.boxbe.com/popup?url=https%3A%2F%2Fwww.boxbe.com%2Fcleanup%3Ftoken%3Dzu0g0MI6Dh4i1QwhYgxPt6gdRA4JBcxdelvpqONc%252BQOe%252FqTU9XDvjaVY%252Fo6EfHGeBfCD4NJa1wVpjaD3lzwB809qkqr6EMYNIsgEJwwBcmv5oE2EbflySi05UQ0BsRosMtL418%252BA06nDtUeAzxD2OQ%253D%253D%26key%3DUSt75CE0%252FIWIHfbsNLD4iGWUxsiogn39KWyOR%252BtujI8%253D&tc_serial=22065233060&tc_rand=1325995418&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001>
+> | More info
+> <http://blog.boxbe.com/general/boxbe-automatic-cleanup?tc_serial=22065233060&tc_rand=1325995418&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001>
+>
+> For FreeTamilEbooks.com project, We get the content for the books as
+> Word Doc from authors or as their blog/site.
+>
+> They will be having lot of images and bold text for heading.
+>
+> It is very tough to convert to plaintext and then adding images and
+> bold formatting.
+>
+> Here is our workflow.
+>
+> We need to have the content with images, somewhere online for easy
+> copy/pasting.
+>
+> If we get as word doc,
+> 1. open word doc in libreoffice 4.1
+> 2. save as HTML
+> 3. upload to http://freetamilebooks.com/htmlbooks/
+>
+> Now we have html content in online.
+>
+> we may get content from blogs also.
+>
+> 4. copy/paste the chapters in pressbooks.com
+> 5. Give all metadata as cover image, author details etc.
+> 6. Export as epub. mobi, xhtml  (Their pdf export does not support Tamil)
+> 7. open Xhtml in text editor and add few CSS hacks for nice printing.
+> here is the css -
+> https://gist.github.com/tshrinivasan/95ace5882cac6a1070fe
+> 8. Open the same xhtml file in firefox.
+> 9. Print as A4 PDF and 6 inch PDF
+> 10. Upload and Release in FreeTamilEbooks.com site
+>
+> Explained in Video ( Tamil ) - https://www.youtube.com/watch?v=bXNBwGUDhRs
+> As English Text -
+>
+> https://goinggnu.wordpress.com/2014/02/01/how-to-create-an-ebook-for-free-tamil-ebooks-com/
+>
+> When printing from Firefox as PDF, we loss Bold formatting.
+>
+> How to fix this?
+>
+> Thanks.
+>
+>
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+>
+
+From baskar910 at gmail.com  Fri Jul 24 18:32:59 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Fri, 24 Jul 2015 18:32:59 +0530
+Subject: [Ilugc] Follow up on monthly meet 11th-July-2015
+Message-ID: <CACq+3bsKh_UC7Okjik1SyFKD1D9ehUPqw4pAxQjzVn4zH9_5Cg@mail.gmail.com>
+
+Hi,
+
+I have sent a mail to HOD/MCA Department/Vels, pallavaram requesting time
+for personal discussion. Upon his confirmation i will send the details, who
+ever wants to be a part can update in mailing list.
+
+Mail ID: hodmca at velsuniv dot org
+
+Thanks
+baskar
++919940024492
+
+From stylesen at gmail.com  Sat Jul 25 18:44:35 2015
+From: stylesen at gmail.com (Senthil Kumaran S)
+Date: Sat, 25 Jul 2015 18:44:35 +0530
+Subject: [Ilugc] New Debian Contributior - StyleSen
+In-Reply-To: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+References: <CAND2794pmxTSzhvPYYxKHASdEsY13C_Rg1T_1FodMiWTxduodw@mail.gmail.com>
+Message-ID: <55B38BBB.1020804@gmail.com>
+
+
+
+On Thursday 23 July 2015 02:27 PM, Shrinivasan T wrote:
+> http://stylesen.org/me_too_debian
+> 
+> Wishes Senthil Kumaran.
+
+@all, thanks for your wishes both on/off the list :)
+
+Thank You.
+-- 
+Senthil Kumaran S
+http://www.stylesen.org/
+http://www.sasenthilkumaran.com/
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 819 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20150725/9d02b0eb/attachment.bin 
+
+From 77minds at gmail.com  Tue Jul 28 20:49:00 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Tue, 28 Jul 2015 20:49:00 +0530
+Subject: [Ilugc] Ruby Book beta release
+Message-ID: <CAJR+9kbEt7gES5LkVVarf_7Yu+MAk6Y297aJtWATyuv=Z5saVg@mail.gmail.com>
+
+Hello people, I love Ruby 2016 Beta edition is rolling out. Grab it here
+http://is.gd/rubybook
+
+----
+
+Karthikeyan A K
+
+From tshrinivasan at gmail.com  Thu Jul 30 04:58:07 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 30 Jul 2015 04:58:07 +0530
+Subject: [Ilugc] Fwd: Volunteers needed -- Automated Image Testing for
+	flavors
+In-Reply-To: <55B93102.5000407@canonical.com>
+References: <55B93102.5000407@canonical.com>
+Message-ID: <CAND2797SBuAhtvQmQhy+u-Qds0H6oCpb-Jaoutb_49Wnsxu4Fg@mail.gmail.com>
+
+Good opportunity to hep ubuntu.
+
+---------- Forwarded message ----------
+From: Nicholas Skaggs <nicholas.skaggs at canonical.com>
+Date: 2015-07-30 1:31 GMT+05:30
+Subject: Volunteers needed -- Automated Image Testing for flavors
+To: "ubuntu-quality at lists.ubuntu.com" <ubuntu-quality at lists.ubuntu.com>,
+xubuntu-devel at lists.ubuntu.com, "lubuntu-qa at lists.launchpad.net" <
+lubuntu-qa at lists.launchpad.net>, ubuntu-gnome <ubuntu-gnome at lists.ubuntu.com
+>
+
+
+Greetings everyone! I wanted to share some news about a renewed effort to
+restore automated installer testing of ubiquity using the daily images
+generated by cdimage. Up until last cycle, the images were being test
+automatically via a series of autopilot tests, written originally by the
+community (kudos to you Dan!). It was noticed the tests didn't run this
+cycle, and wxl accordingly filed an RT;
+https://rt.ubuntu.com/Ticket/Display.html?id=26570. In short, as part of
+some datacenter shuffling, we learned it's no longer possible for CI to run
+or maintain the tests. They recommended we host and run them ourselves as a
+community.
+
+With the directions from CI in hand, I initially asked DanChapman and
+dkessel to investigate setting up a jenkins to run these tests. But they
+need your help! The autopilot tests for ubiquity have a few bugs that need
+solving. You can see them here:
+https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bugs?field.tag=autopilot
+.
+
+To help solve these bugs or to learn more, check out this document:
+http://bazaar.launchpad.net/~ubuntu-installer/ubiquity/trunk/view/head:/autopilot/README.md.
+It will guide you through running the tests yourself locally. You should be
+able to replicate the tests following those instructions. From there,
+patches and comments on the bugs would be most welcome (as would additional
+bug reports should you find them).
+
+Even with the tests working, however, we still need to setup a jenkins to
+run them. We'll also need to maintain this server. Anyone with experience
+or desire in this area? Ideas for reporting results (on the isotracker for
+instance) also need to be explored. This is likely to involve some python,
+and potentially some web work. Is anyone interested?
+
+If you have some technical skills and want to help out, please do get in
+touch with myself, DanChapman or dkessel. The goal behind this effort is to
+see these tests be useful again this cycle for image testing and lowering
+the burden for manual testers.
+
+Thanks!
+
+Nicholas
+
+-- 
+Ubuntu-quality mailing list
+Ubuntu-quality at lists.ubuntu.com
+Modify settings or unsubscribe at:
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From raamanp at gmail.com  Fri Jul 31 09:44:11 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Fri, 31 Jul 2015 09:44:11 +0530
+Subject: [Ilugc] Talk in monthly meet- Postgresql
+Message-ID: <CAFf706yD=VYMB8gXTkOYcHZY8Jb75mp3AK6-42Y13AsULZLEBw@mail.gmail.com>
+
+Dear all
+
+I wish to give a series of talk on Postgresql from the Aug -2015
+onwards. I would like to cover important topics based on Postgresql
+manual with special emphasis on special/convenient features of Pg.
+
+Title- Postgreql  database - Series - 1 -Basics about Pg
+Duration: 20-25 minutes
+About me: Working as DBA in Railway Hospital, Perambur,Chennai
+
+
+Raman.P
+
+-- 
+blog:http://ramanchennai.wordpress.com/
+
+From sakthirengaraj at gmail.com  Fri Jul 31 13:06:44 2015
+From: sakthirengaraj at gmail.com (Rengaraj D)
+Date: Fri, 31 Jul 2015 13:06:44 +0530
+Subject: [Ilugc] Topic for the august ILUGC meetup
+Message-ID: <CANgAyd4dyQ_A0=jOeh7h0ZOTVwjj+25R5nT-ujJhfzp01s55xQ@mail.gmail.com>
+
+Hi Everyone,
+
+I like to give a Talk on Role of Page Cache and Buffer cache in GNU/Linux
+in August ILUGC meetup.
+
+The topic will cover
+   How Linux file system stack works?
+   What is File IO and Block IO?
+   Why Buffer cache or Page Cache?
+
+About Me:
+
+I am an Engineer work for a company called Zilogic Systems Pvt Ltd
+My area of interest is Embedded Systems. Embedded Linux and Testing Devices.
+My GIT Hub page is https://github.com/Rengaraj
+
+Regards
+Rengaraj
+
+From baskar910 at gmail.com  Fri Jul 31 15:36:19 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Fri, 31 Jul 2015 15:36:19 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+Message-ID: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+
+Talk 1
+Topic:          Role of Page Cache and Buffer Cache in GNU/Linux
+Description:  1. How Linux file system stack works?
+                   2. What is File IO and Block IO
+                   3. Why Buffer Cache or Page Cache
+Duration:     45 minutes
+About Yourself:  Rengaraj works at Zilogic Systems Pvt Ltd. His area of
+interest is embedded systems. His GIT hub page https://github.com/Rengaraj
+(@Rengaraj i have given an arbitrary duration. You can specify the correct
+duration)
+
+Topic 2
+Topic:          Basics of PostgreSQL
+Description:  Postgresql is a object oriented relational database mangement
+system.
+Duration:     20-25
+About Yourself:  Mr. Raman works as a DBA at Railway Hospital, Perambur.
+
+
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From sakthirengaraj at gmail.com  Fri Jul 31 15:40:30 2015
+From: sakthirengaraj at gmail.com (Rengaraj D)
+Date: Fri, 31 Jul 2015 15:40:30 +0530
+Subject: [Ilugc] ILUGC Monthly Meet - Aug 8-2015
+In-Reply-To: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+References: <CACq+3btPiJpP6w_3=AZ21AkRMiMxBw7DiD0D-wNQLbfpHc6t6A@mail.gmail.com>
+Message-ID: <CANgAyd7DNFPsGd92zpqhnCGecpjS_Vapb_G-zP_DEnrG3VRcvw@mail.gmail.com>
+
+> About Yourself:  Rengaraj works at Zilogic Systems Pvt Ltd. His area of
+> interest is embedded systems. His GIT hub page https://github.com/Rengaraj
+> (@Rengaraj i have given an arbitrary duration. You can specify the correct
+> duration)
+>
+>
+Duration : 20 mins
+

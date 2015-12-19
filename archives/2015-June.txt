@@ -1,0 +1,4642 @@
+From shakthimaan at gmail.com  Mon Jun  1 10:32:05 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 1 Jun 2015 10:32:05 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+Message-ID: <CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+
+Hi,
+
+A couple of more participants:
+
+  * S P Balamurugan
+     Dell laptop
+     Debian
+     Basics of GNU/Linux OS
+
+  * Gowtham Raam J
+     Laptop
+     Slackware
+     Multimedia, creating custom distro
+
+21 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From bala150985 at gmail.com  Mon Jun  1 19:43:03 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Mon, 1 Jun 2015 10:13:03 -0400
+Subject: [Ilugc] WiFi enabled Electric Meters suggestion ?
+Message-ID: <CAFHFDAnATh7u=edtpMJjXQ=R6=BOqkdmyzKHoQvuZqwGo_N+kA@mail.gmail.com>
+
+Has anyone in this group used WiFi enabled electric meters for retrieving
+current rate of unit consumption and what is the current unit reading ?
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From murthyraju at gmail.com  Tue Jun  2 05:06:55 2015
+From: murthyraju at gmail.com (Murthy Raju)
+Date: Tue, 2 Jun 2015 05:06:55 +0530
+Subject: [Ilugc] [OT][Commercial] MongoDB Workshop in Chennai
+Message-ID: <CAC4BoN6rbPASSn=CnL7SH2+Fsb3iou1Mui7t5w6UKqPLP5wrBA@mail.gmail.com>
+
+Hi,
+
+I am conducting a 2-day weekend workshop in Chennai on MongoDB for
+developers
+on 6th and 7th of June 2015 covering the following areas:
+
+1. Introduction to NoSQL databases
+2. Installation and Configuration of MongoDB
+3. Data Model of MongoDB
+4. Basic CRUD Operations in MongoDB
+5. MongoDB Query Language
+6. Replication/Sharding/Backup and Restore
+7. Indexing
+8. MongoDB Client Libraries for Python/PHP/Java
+9. A small hands-on project on MongoDB
+
+Participants will need to bring their laptops. Internet connectivity will
+be available.
+
+Lunch and snacks provided.
+
+This workshop is aimed at Python/Java/PHP developers/Web Developers/DBAs
+who are looking for a quick introduction to MongoDB coupled with some
+hands-on experience.
+
+Students will also benefit from this course.
+
+The course fee is Rs. 4,000 and we may be able to offer a waiver to a few
+participants, on a request from them.
+
+Please mail me offline for registering and for more details.
+
+Regards,
+Murthy Raju
+
+From shakthimaan at gmail.com  Tue Jun  2 10:02:12 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 2 Jun 2015 10:02:12 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+Message-ID: <CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+
+Hi,
+
+Updated list:
+
+  * Dilip Kumar Tummala
+     Laptop
+     Debian,Ubuntu,Fedora
+     Installation and configuration
+
+20 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Tue Jun  2 11:34:58 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 2 Jun 2015 11:34:58 +0530
+Subject: [Ilugc] Call for speakers - June Month Meet
+In-Reply-To: <556B0F6E.20400@gmail.com>
+References: <556B0F6E.20400@gmail.com>
+Message-ID: <CABG-yt0hXj=1DJk-X1h1wH3J3r5CRNwsWkBbe1LDu8g48YwT3Q@mail.gmail.com>
+
+Hi,
+
+My session details:
+
+Topic:          Emacs workgroups
+Description: An introduction on using workgroups and sessions within GNU Emacs
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From pprkannan at gmail.com  Tue Jun  2 18:16:11 2015
+From: pprkannan at gmail.com (Padmapriya Kannan)
+Date: Tue, 2 Jun 2015 18:16:11 +0530
+Subject: [Ilugc]  [OT][Commercial] PHP/MySQL Developers Required
+Message-ID: <CA++OnBxzFZXOueKFe+N_wXDoq-Pw=+mM-GouErQfaFwBRxWBUg@mail.gmail.com>
+
+Hello
+
+I am looking for PHP/MySQL developers (Freelancers/Fulltime) to work on
+some up-coming projects. Experience in LAMP stack would be an added
+advantage.
+If you fit the profile, you also have the option of working from home.
+
+Those interested can you please email me your resumes (Please do not copy
+ilugc) ?
+
+Thanks
+
+From murthyraju at gmail.com  Wed Jun  3 09:12:12 2015
+From: murthyraju at gmail.com (Murthy Raju)
+Date: Wed, 3 Jun 2015 09:12:12 +0530
+Subject: [Ilugc] [OT][Commercial] Mentoring for Fresh Engineering
+	Graduates/MCAs
+Message-ID: <CAC4BoN4_+4zBHhGXD7yDRRZsKR6VzKu+VoPtw=QRNxtVAhzJzg@mail.gmail.com>
+
+Hi,
+
+We are a bunch of IT professionals working in Chennai on various
+technologies and we provide mentoring for Engineering Graduates ( CS/IT )
+and MCAs from Chennai and surrounding areas to help them face the job
+market confidently.
+
+Participants in this program get to work on a wide range of technologies
+including Programming, Operating Systems, Networking, Web etc. with an
+emphasis on Linux and Open Source tools and technologies and will have the
+benefit of interaction with experienced Industry professionals throughout
+the program.
+
+This is a 3-month program and also includes a good coverage of
+communication and learning skills.
+
+While this is a commercial program, we can offer significant fee
+reduction/deferred payment/fee waiver to a few students who are not in a
+position to pay.
+
+Please mail your resume to me offline at murthyraju at gmail.com for more
+details about the program.
+
+Regards,
+
+Murthy Raju
+
+From tshrinivasan at gmail.com  Thu Jun  4 00:30:48 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 4 Jun 2015 00:30:48 +0530
+Subject: [Ilugc] Fwd: Weeks of Contribution - Week1
+In-Reply-To: <CAOG0kM0dR=A8p_kfqU2APVc7nVk_VDqhzMSEti2_4XzK+0+bFQ@mail.gmail.com>
+References: <CAOG0kM0dR=A8p_kfqU2APVc7nVk_VDqhzMSEti2_4XzK+0+bFQ@mail.gmail.com>
+Message-ID: <CAND2796KVW1+DgFO22jMTTYZsL1rhb4+8YfSmo4Vjuk+iWB40w@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mozilla Tamilnadu <mozchennai at gmail.com>
+Date: 2015-06-04 0:00 GMT+05:30
+Subject: Weeks of Contribution - Week1
+To:
+
+
+Dear All,
+
+It is really a great moment to share with you all about Weeks of
+Contribution Program.
+
+It is run with volunteers to bring new contributors and to share
+knowledge. This event is mainly focused for those people who love to
+learn and contribute for any of the Mozilla related products for the
+first time.
+
+Each and every week we will be taking one contribution area and share
+our knowledge with you all. Will share how to contribute on that area,
+the important regional mailing list information, IRC channels.
+
+We will be creating a leader board(s) to share who contributed on
+different areas.
+
+For this Week we are going to share some contest info with you.
+
+Mozilla Location Service
+Logo Creation
+
+
+Agenda
+
+Introduction about Weeks of Contribution
+Introduction about Mozilla Location Services
+Introduction about Logo Creation
+QA
+
+
+Date 5th June 2015 at 9.00 PM IST
+Hangouts Link: https://plus.google.com/events/cd27lgj3ssq6ui5h0i8c9itdkhg
+
+Etherpad link: https://moztn.etherpad.mozilla.org/Introduction-week
+
+Reps portal link: https://reps.mozilla.org/e/weeks-of-contribution-week-1/
+
+At the end of this program, contributors who are doing well will be
+invited to form Tamilnadu Task Force. Tamilnadu Task Force event is
+planned during August / September 2015.
+
+
+Task Force Tamilnadu (Tentative)
+
+Technical
+
+Firefox Add-ons Development
+Firefox OS app Development
+Coding & Bug Fixing
+
+Geolocation
+Creative & Social Media
+Localization
+SUMO & QA
+Documentation
+Webmaker
+WoMoz : Women in Mozilla and FOSS
+Firefox Student Ambassadors
+
+Dont forget to share with your friends, it is one of the greatest help.
+
+Thank you
+
+--
+Like Us at Facebook Page
+Follow us on Twitter
+Join on Facebook group
+Join on Google groups
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Thu Jun  4 05:21:32 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 4 Jun 2015 05:21:32 +0530
+Subject: [Ilugc] [Commercial] Python Trainers wanted
+Message-ID: <CAND2795JOzwaOPcaNvg1PuRiaB9ZREs8sv6hrMczZ8Y6D1wgAA@mail.gmail.com>
+
+JAGSOFT SOLUTIONS at velachery is looking for a Full time or Part time
+Python Trainer.
+
+Interested people can send their details to Jagsoftsolutions at gmail.com
+
+JAGSOFT SOLUTIONS
+No. 28/1, Nagendra Nagar,
+Opp. Phoenix Market City,
+Velachery Main Road,
+Velachery, Chennai - 600 042.
+
+Phone:
+9884920666 / 9884930666
+
+See more at: http://jagsoftsolutions.com/
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From professionalgraam at gmail.com  Thu Jun  4 11:20:40 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Thu, 04 Jun 2015 11:20:40 +0530
+Subject: [Ilugc] Call for speakers - June Month Meet
+In-Reply-To: <556B0F6E.20400@gmail.com>
+References: <556B0F6E.20400@gmail.com>
+Message-ID: <556FE730.9090303@gmail.com>
+
+
+On 31-05-2015 19:11, Gowtham Raam wrote:
+> Hi All,
+>
+> We can have our monthly meet on June 13(Saturday), You can share your
+> Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> Contribution  related to Linux and open source free software or Community.
+>
+> Reply here if you are interested in giving a talk.
+>
+> Provide with the following details.
+> Topic
+> Description
+> Links
+> Duration
+> About Yourself
+>
+> -- With Regards, Gowtham Raam.J Drop your Mail to :
+> professionalgraam at gmail.com Give a call by : (+91)-9443284989
+>
+Hi All,
+
+A Gentle remainder for your information.
+-- 
+With Regards,
+Gowtham Raam.J 
+
+From shakthimaan at gmail.com  Thu Jun  4 11:35:34 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 4 Jun 2015 11:35:34 +0530
+Subject: [Ilugc] Call for speakers - June Month Meet
+Message-ID: <CABG-yt22uoyFhmuj7p5msst=5hUUpVQMBmQD2O2npx8WCwpXLA@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Jun 4, 2015 at 11:20 AM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+| A Gentle remainder for your information.
+\--
+
+Why? The meet is only on Saturday, June 13, 2015.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From satyaprakash.prasad at gmail.com  Fri Jun  5 08:45:42 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Fri, 5 Jun 2015 08:45:42 +0530
+Subject: [Ilugc] FOSS
+Message-ID: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+
+Hi,
+
+Is there any person from Chennai who is experienced and practice
+promoting FOSS technology?
+
+Please reply back.
+
+Regards,
+Prakash
+
+From ezhillang at gmail.com  Fri Jun  5 09:30:12 2015
+From: ezhillang at gmail.com (Muthu A)
+Date: Fri, 5 Jun 2015 00:00:12 -0400
+Subject: [Ilugc] Call for speakers - June Month Meet
+Message-ID: <CAHwtB4ZMhKz=2J98=+tF+OjTMV3ST+jnxiboDVe4kB0JXSoRXg@mail.gmail.com>
+
+Hello Gowtham,
+
+I propose to talk about open-tamil package, via video conf, if there is
+interest in Python and Indian language processing. I'm flexible with my
+availability on weekends in June.
+
+Best Regards,
+-Muthu
+(Boston)
+
+From kinitrupti at yahoo.co.in  Fri Jun  5 10:04:47 2015
+From: kinitrupti at yahoo.co.in (trupti kini)
+Date: Fri, 5 Jun 2015 04:34:47 +0000 (UTC)
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+Message-ID: <2068911098.3226354.1433478887360.JavaMail.yahoo@mail.yahoo.com>
+
+On Friday, 5 June 2015 8:47 AM, Satya Prakash Prasad <satyaprakash.prasad at gmail.com> wrote:
+
+
+>
+>
+>Hi,
+>
+>Is there any person from Chennai who is experienced and practice
+>promoting FOSS technology?
+
+
+Hi,
+
+The faculty of AU-KBC research center, MIT, Chennai promote FOSS technology and there is a course called Masters in Computer Science(FOSS).
+
+Hope this helps.
+
+From tshrinivasan at gmail.com  Fri Jun  5 10:45:58 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 5 Jun 2015 10:45:58 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+Message-ID: <CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+
+>
+> Is there any person from Chennai who is experienced and practice
+> promoting FOSS technology?
+
+All of our list members are using FOSS and most of them are promoting.
+
+Explain your requirement in detail.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From satyaprakash.prasad at gmail.com  Fri Jun  5 15:19:56 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Fri, 5 Jun 2015 15:19:56 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+Message-ID: <CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+
+Thanks to all who replied.
+
+Actually I have a client who is interested in initiating (about to
+start) a FOSS technology development work. My side I have not done
+much development on FOSS other than teaching to needy on technology
+like Python, Arduino etc.
+
+Hence in case he gives me an option to develop a software - what are
+things I should take care - does the FOSS development is done
+completely free - making a team / space, product and functionality
+research etc.
+
+In all what are the things that one needs to do if one is venturing
+into new FOSS development software?
+
+On 6/5/15, Shrinivasan T <tshrinivasan at gmail.com> wrote:
+>>
+>> Is there any person from Chennai who is experienced and practice
+>> promoting FOSS technology?
+>
+> All of our list members are using FOSS and most of them are promoting.
+>
+> Explain your requirement in detail.
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From mail2marikkannan at gmail.com  Fri Jun  5 17:47:28 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Fri, 5 Jun 2015 17:47:28 +0530
+Subject: [Ilugc] Mail Server statistics report generator - Postfix Mail
+	Server
+Message-ID: <CAJ=JFUnajpCArtwL3Q2xagn-8o4HNSDEB6kCZOssNy=Y1+jfnA@mail.gmail.com>
+
+hi all.,
+
+      I had a mail server (postfix with squirrel mail) in centos,now I need
+some statistical report generator to analyze the mail server log file and
+provide the report in server level with some good graphical representation.
+
+      Mainly I need the report in mail user level like mail user
+incoming/outgoing mail's,response/delivery action etc
+
+     Kindly suggest any tools or software
+
+
+    Thanks in advance.
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From mohan.tux at gmail.com  Sat Jun  6 09:01:47 2015
+From: mohan.tux at gmail.com (Mohan Sundaram)
+Date: Sat, 6 Jun 2015 09:01:47 +0530
+Subject: [Ilugc] Networking - teaching
+Message-ID: <CAFum4PknZoNJSn2vR-1CcXJ7+jT1cy-YM2LWJKyWF75aqSJbBA@mail.gmail.com>
+
+A teacher in an Engg college has approached me to help make a networking
+course covering application and transport layers largely practical and
+hands on.
+
+I would like to have suggestions from the group on practicals topics, tools
+and guidance sheets for these practicals. Want to focus on using FOSS tools
+and platforms.
+
+Regards
+... Mohan Sundaram
+pardon typos, auto-correct or podgy fingers
+
+From professionalgraam at gmail.com  Sat Jun  6 14:43:37 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Sat, 06 Jun 2015 14:43:37 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+Message-ID: <5572B9C1.2000007@gmail.com>
+
+Hi All,
+
+As I am in onsite. I would be unable to continue to be the co-ordinator of ILUGC. So I kindly request you all to
+elect a new co-ordinator. Thank you all for being with me. I will be in touch with you.
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From irudayarajisawa at gmail.com  Sat Jun  6 15:12:19 2015
+From: irudayarajisawa at gmail.com (irudayaraj isawa)
+Date: Sat, 6 Jun 2015 15:12:19 +0530
+Subject: [Ilugc] Mail Server statistics report generator - Postfix Mail
+	Server.
+Message-ID: <CAE_sPqdzKmH_LEhxSGmOWM3rbVx2XGFkGSOvCJrtyEUfD+=1AQ@mail.gmail.com>
+
+Marikkannan,
+
+please give an try using mailgraph tool.
+http://www.server-world.info/en/note?os=CentOS_6&p=mail&f=8
+
+thanks
+Irudayaraj
+
+From dayalsaravanan at gmail.com  Sun Jun  7 21:09:14 2015
+From: dayalsaravanan at gmail.com (Saravanan Dayalan)
+Date: Sun, 7 Jun 2015 21:09:14 +0530
+Subject: [Ilugc] Installfest II
+Message-ID: <CAMxoz6NiQL8u126JS+RL_N2rDJc=igj21U=wRBuRa+76VvbN3Q@mail.gmail.com>
+
+Name: D.Saravanan
+Hardware: hp pavilion g6 - 2231TX (Laptop)
+GNU/LINUX distribution: Debian
+Intend to work on : learn to maintain and update the distribution
+Anything else: to install all Science - Debian packages.
+
+From shakthimaan at gmail.com  Mon Jun  8 09:11:50 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 8 Jun 2015 09:11:50 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+	<CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+Message-ID: <CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+
+Hi,
+
+Updated list:
+
+* D. Saravanan
+  Laptop
+  Debian
+  Learn maintenance, installation and upgrades of packages
+
+19 seats left.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From satyaakam at gmail.com  Mon Jun  8 20:29:54 2015
+From: satyaakam at gmail.com (satyaakam goswami)
+Date: Mon, 8 Jun 2015 20:29:54 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+Message-ID: <CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+
+>
+> Hence in case he gives me an option to develop a software - what are
+> things I should take care - does the FOSS development is done
+> completely free - making a team / space, product and functionality
+> research etc.
+
+
+?When you say completely free what do you mean Free as in Freedom or the
+Price too ??
+
+
+>  In all what are the things that one needs to do if one is venturing
+
+into new FOSS development software?
+>
+
+?you need to be more specific unless  you are bound by some legal agreement
+not to reveal the idea or the project feel free to share details.
+
+
+?cheers?
+-Satya
+Satyaakam.net <http://satyaakam.net/> | fossevents.in |?
+
+From vinukmurali at gmail.com  Tue Jun  9 01:12:36 2015
+From: vinukmurali at gmail.com (Vinod Kumar)
+Date: Tue, 9 Jun 2015 01:12:36 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+	<CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+	<CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+Message-ID: <CAPBZpVTbTpdh-2VUHXznh8BEFk1BSdNmvgmR8NazN=DOCR4WGA@mail.gmail.com>
+
+Hello
+     I wish to participate the install fest.Please give more details
+
+                                                     Vinod Kumar(ph.9142822054)
+
+On 6/8/15, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> Hi,
+>
+> Updated list:
+>
+> * D. Saravanan
+>   Laptop
+>   Debian
+>   Learn maintenance, installation and upgrades of packages
+>
+> 19 seats left.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Tue Jun  9 08:48:21 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 9 Jun 2015 08:48:21 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CAPBZpVTbTpdh-2VUHXznh8BEFk1BSdNmvgmR8NazN=DOCR4WGA@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+	<CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+	<CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+	<CAPBZpVTbTpdh-2VUHXznh8BEFk1BSdNmvgmR8NazN=DOCR4WGA@mail.gmail.com>
+Message-ID: <CABG-yt2231cXZ6CmLvh1p7GHPvWPZHfbod5ptehw1zXOd+Wgpw@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Jun 9, 2015 at 1:12 AM, Vinod Kumar <vinukmurali at gmail.com> wrote:
+| I wish to participate the install fest.Please give more details
+\--
+
+What do you want to know? Please ask specific questions.
+
+SK
+
+P.S.: Please don't top-post to the list.
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From satyaprakash.prasad at gmail.com  Tue Jun  9 12:22:30 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Tue, 9 Jun 2015 12:22:30 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+	<CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+Message-ID: <CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+
+Yes the software would be free but I have some confusion here. How do
+people working in FOSS technology make some earning out of it. I mean I am
+ready to dedicate my full time into it - but I need some fund as I would
+space / resource and hardwares.
+
+So where does money related to all this activities / expenses comes from -
+where does the monthly working capital comes in?
+
+Is it just the credibility that the team gets for developing FOSS
+technology - let us pick one example - Python - they have a huge portal /
+resource and their software is free to develop apps - in case I start
+working voluntary (to fix bugs / support) for Python team - what would I
+get in return - this just for the concern that if I leave my job and
+dedicate my work for FOSS development the basic question of survival is
+defending me to do so?
+
+On Mon, Jun 8, 2015 at 8:29 PM, satyaakam goswami <satyaakam at gmail.com>
+wrote:
+
+> >
+> > Hence in case he gives me an option to develop a software - what are
+> > things I should take care - does the FOSS development is done
+> > completely free - making a team / space, product and functionality
+> > research etc.
+>
+>
+> ?When you say completely free what do you mean Free as in Freedom or the
+> Price too ??
+>
+>
+> >  In all what are the things that one needs to do if one is venturing
+>
+> into new FOSS development software?
+> >
+>
+> ?you need to be more specific unless  you are bound by some legal agreement
+> not to reveal the idea or the project feel free to share details.
+>
+>
+> ?cheers?
+> -Satya
+> Satyaakam.net <http://satyaakam.net/> | fossevents.in |?
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Tue Jun  9 14:57:35 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 9 Jun 2015 14:57:35 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+	<CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+	<CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+Message-ID: <CABG-yt20-M0xPTPKOSi_iXnYh6bZ4WwBwWFQpjF-GJEX9F7AZg@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Jun 9, 2015 at 12:22 PM, Satya Prakash Prasad
+<satyaprakash.prasad at gmail.com> wrote:
+| How do
+| people working in FOSS technology make some earning out of it.
+\--
+
+Firstly, people work in FOSS because they like working with it -
+freedom of source code, documentation, community etc. Earning money is
+only a side-effect.
+
+You can earn through services, support and training. There are
+different business models that you can adopt. Please use a search
+engine for more info on the topic. For a start:
+
+  http://en.wikipedia.org/wiki/Business_models_for_open-source_software
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From satyaakam at gmail.com  Tue Jun  9 15:12:15 2015
+From: satyaakam at gmail.com (satyaakam goswami)
+Date: Tue, 9 Jun 2015 15:12:15 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+	<CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+	<CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+Message-ID: <CALre89nj=zNC6_+pCN6UQvobCaZ3+MJ7Vdb7WvTNW4E1B8+e_w@mail.gmail.com>
+
+On Tue, Jun 9, 2015 at 12:22 PM, Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+
+> Yes the software would be free but I have some confusion here. How do
+> people working in FOSS technology make some earning out of it. I mean I am
+> ready to dedicate my full time into it - but I need some fund as I would
+> space / resource and hardwares.
+>
+
+?Save some from the earnings you are making now like any other business.?
+
+
+
+> So where does money related to all this activities / expenses comes from -
+> where does the monthly working capital comes in?
+>
+
+?you may or may not get upfront Capital like for  other businesses since
+its ?service oriented kind of business , so its like this you can write
+free software and ask for donations or charge users for supporting your
+product .You can write custom software and  charge for the services you
+rendered etc.. these are some of the ways people make a living out here .
+If it looks like too much of risks the easy path i advice is take a day job
+in Foss technologies , the end product may or may not be Foss so it all
+depends on what you need and the company can offer.
+
+
+> Is it just the credibility that the team gets for developing FOSS
+> technology - let us pick one example - Python - they have a huge portal /
+> resource and their software is free to develop apps - in case I start
+> working voluntary (to fix bugs / support) for Python team - what would I
+> get in return - this just for the concern that if I leave my job and
+> dedicate my work for FOSS development the basic question of survival is
+> defending me to do so?
+>
+
+?these are too many forks of the same question, there is no straight answer
+to it :P ,  you need to hangout a bit longer here and thousands of groups
+and mailing lists from around the world . See how things pan out for you ,
+btw you also need to start to learn about ?
+http://ilugc.in/mailinglist-guidelines
+
+?cheers?
+-Satya
+Satyaakam.net <http://satyaakam.net/> | fossevents.in |?
+
+From baskar at linuxpert.in  Tue Jun  9 19:45:56 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Tue, 9 Jun 2015 19:45:56 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CABG-yt20-M0xPTPKOSi_iXnYh6bZ4WwBwWFQpjF-GJEX9F7AZg@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+	<CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+	<CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+	<CABG-yt20-M0xPTPKOSi_iXnYh6bZ4WwBwWFQpjF-GJEX9F7AZg@mail.gmail.com>
+Message-ID: <CACtiFJYG-o-1hej4Li7XebdhtEJTLiPckPb=SGvWGH=R+CTKUw@mail.gmail.com>
+
+> --- On Tue, Jun 9, 2015 at 12:22 PM, Satya Prakash Prasad
+> <satyaprakash.prasad at gmail.com> wrote:
+> | How do
+> | people working in FOSS technology make some earning out of it.
+> \--
+>
+> Firstly, people work in FOSS because they like working with it -
+> freedom of source code, documentation, community etc. Earning money is
+> only a side-effect.
+
+I am one who fits in the above category.  My experience might give you
+some idea about, how I am making money using FOSS business model.
+
+>
+> You can earn through services, support and training. There are
+> different business models that you can adopt.
+
+My company (LinuXpert Systems) provide support services like FOSS Lab
+setup, Training (mostly relevant to academic curriculum) and several
+other services using FOSS for most Engineering colleges in the state
+since 2003.
+
+Though, we are not doing any software development kind of work, but we
+do customization of selective FOSS software for our customers (ex.
+Koha for Library Automation, DSpace for Institutional Repository,
+OpenELEC for Media Library etc. to name a few).
+
+Now-a-days, most colleges were suffering from Proprietary Software
+licensing issues.  For them we build Custom Linux distribution (with
+all the academic relevant FOSS packages) for fulfilling their academic
+requirements.
+
+If the intention is about making money, customize existing FOSS
+software by adding features which will generate good revenue model.
+
+S. Baskar
+
+From stpmds at gmail.com  Tue Jun  9 21:03:05 2015
+From: stpmds at gmail.com (m-murali)
+Date: Tue, 9 Jun 2015 21:03:05 +0530
+Subject: [Ilugc] FOSS
+In-Reply-To: <CACtiFJYG-o-1hej4Li7XebdhtEJTLiPckPb=SGvWGH=R+CTKUw@mail.gmail.com>
+References: <CACX5wcjZ3ypNg3w4310Q310GDZzgPW3qOHZF2u18eqGqvFY14g@mail.gmail.com>
+	<CAND2797ARyAQPQjESMN-9za2bufjvYz4DPZui1vLbYRKTpBWUg@mail.gmail.com>
+	<CACX5wcg230TmRTYgZ6rpERSc_60afb-Jbc_rRCwrjrxbzbfEvQ@mail.gmail.com>
+	<CALre89kZNkTMw3mj37M+Fahu5kEwXP_LfvASNVy+UcLvooUB+Q@mail.gmail.com>
+	<CACX5wcg6k_-U53xcj4+Z1rNZ8TPUioHBdP-XUvWxojjEM_W7Qg@mail.gmail.com>
+	<CABG-yt20-M0xPTPKOSi_iXnYh6bZ4WwBwWFQpjF-GJEX9F7AZg@mail.gmail.com>
+	<CACtiFJYG-o-1hej4Li7XebdhtEJTLiPckPb=SGvWGH=R+CTKUw@mail.gmail.com>
+Message-ID: <002501d0a2c9$9642c9b0$c2c85d10$@gmail.com>
+
+interesting information mr.baskar. wish u all the success
+wish to meet one of these days.
+ 
+regards.
+
+m.murali
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On
+Behalf Of Baskar Selvaraj
+Sent: Tuesday, June 09, 2015 7:46 PM
+To: ILUG-C
+Subject: Re: [Ilugc] FOSS
+
+> --- On Tue, Jun 9, 2015 at 12:22 PM, Satya Prakash Prasad 
+> <satyaprakash.prasad at gmail.com> wrote:
+> | How do
+> | people working in FOSS technology make some earning out of it.
+> \--
+>
+> Firstly, people work in FOSS because they like working with it - 
+> freedom of source code, documentation, community etc. Earning money is 
+> only a side-effect.
+
+I am one who fits in the above category.  My experience might give you some
+idea about, how I am making money using FOSS business model.
+
+>
+> You can earn through services, support and training. There are 
+> different business models that you can adopt.
+
+My company (LinuXpert Systems) provide support services like FOSS Lab setup,
+Training (mostly relevant to academic curriculum) and several other services
+using FOSS for most Engineering colleges in the state since 2003.
+
+Though, we are not doing any software development kind of work, but we do
+customization of selective FOSS software for our customers (ex.
+Koha for Library Automation, DSpace for Institutional Repository, OpenELEC
+for Media Library etc. to name a few).
+
+Now-a-days, most colleges were suffering from Proprietary Software licensing
+issues.  For them we build Custom Linux distribution (with all the academic
+relevant FOSS packages) for fulfilling their academic requirements.
+
+If the intention is about making money, customize existing FOSS software by
+adding features which will generate good revenue model.
+
+S. Baskar
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+From tshrinivasan at gmail.com  Wed Jun 10 18:44:06 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 10 Jun 2015 14:14:06 +0100
+Subject: [Ilugc] [commercial] Wanted - PHP freelancer
+Message-ID: <CAND2797j0d2x-rmhPAbOyYHXuROrcgs94DRwbNSRSjXeZ4nOhw@mail.gmail.com>
+
+Looking for a PHP freelancer to upgrade a commercial Job portal
+software http://www.smartjobboard.com/
+
+from Version 3 to version 4.2
+
+The default upgrade process is not working as few custom changes are
+made in the software.
+
+The v3 with custom patches is hosted here http://www.bestjobsafrica.com/
+
+If you are interested in this task, contact in the below details.
+
+Name : Alfred Sunder
+Email : sunderalfred at yahoo.com
+Phone : 979029754 ONE
+
+
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From satyaprakash.prasad at gmail.com  Thu Jun 11 14:34:29 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Thu, 11 Jun 2015 14:34:29 +0530
+Subject: [Ilugc] Legal Advising for Entrepreneurs
+Message-ID: <CACX5wcifVx17JH5gTUupDaGas_n+8g=T-EwgY_rYtBZnfJRAhg@mail.gmail.com>
+
+Is there any facility for young or just start-up Entrepreneurs to get free
+and good legal advising at Chennai?
+
+I am in need of same for branding a product and get legal details related
+to its dealership.
+
+From shakthimaan at gmail.com  Fri Jun 12 09:02:21 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Jun 2015 09:02:21 +0530
+Subject: [Ilugc] Legal Advising for Entrepreneurs
+In-Reply-To: <CACX5wcifVx17JH5gTUupDaGas_n+8g=T-EwgY_rYtBZnfJRAhg@mail.gmail.com>
+References: <CACX5wcifVx17JH5gTUupDaGas_n+8g=T-EwgY_rYtBZnfJRAhg@mail.gmail.com>
+Message-ID: <CABG-yt1ZziUz0SCN3qLFpNg9ZgbeNeB70eDr94XvGZGu6+zR5Q@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Jun 11, 2015 at 2:34 PM, Satya Prakash Prasad
+<satyaprakash.prasad at gmail.com> wrote:
+| Is there any facility for young or just start-up Entrepreneurs to get free
+| and good legal advising at Chennai?
+\--
+
+This is not the mailing list for such discussions!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From stpmds at gmail.com  Fri Jun 12 09:11:05 2015
+From: stpmds at gmail.com (m-murali)
+Date: Fri, 12 Jun 2015 09:11:05 +0530
+Subject: [Ilugc] Legal Advising for Entrepreneurs
+In-Reply-To: <CABG-yt1ZziUz0SCN3qLFpNg9ZgbeNeB70eDr94XvGZGu6+zR5Q@mail.gmail.com>
+References: <CACX5wcifVx17JH5gTUupDaGas_n+8g=T-EwgY_rYtBZnfJRAhg@mail.gmail.com>
+	<CABG-yt1ZziUz0SCN3qLFpNg9ZgbeNeB70eDr94XvGZGu6+zR5Q@mail.gmail.com>
+Message-ID: <002a01d0a4c1$9e707d40$db5177c0$@gmail.com>
+
+I guess I could be of help. why not discuss with me. can call me at
+9840320036
+m.murali.
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On
+Behalf Of Shakthi Kannan
+Sent: Friday, June 12, 2015 9:02 AM
+To: ILUG-C
+Subject: Re: [Ilugc] Legal Advising for Entrepreneurs
+
+Hi,
+
+--- On Thu, Jun 11, 2015 at 2:34 PM, Satya Prakash Prasad
+<satyaprakash.prasad at gmail.com> wrote:
+| Is there any facility for young or just start-up Entrepreneurs to get 
+| free and good legal advising at Chennai?
+\--
+
+This is not the mailing list for such discussions!
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+From raamanp at gmail.com  Fri Jun 12 09:58:55 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Fri, 12 Jun 2015 09:58:55 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <5572B9C1.2000007@gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+Message-ID: <CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+
+On 6/6/15, Gowtham Raam <professionalgraam at gmail.com> wrote:
+> Hi All,
+>
+> As I am in onsite. I would be unable to continue to be the co-ordinator of
+> ILUGC. So I kindly request you all to
+> elect a new co-ordinator. Thank you all for being with me. I will be in
+> touch with you.
+
+I propose Shri K.Baskar for the co-ordinator post. He has been with
+ILUGC for well over a decade, a fulltime FOSS enthusiast and
+entrepreneur. He has actively participated, lead and volunteered in
+many events.
+
+Raman.P
+-- 
+blog:http://ramanchennai.wordpress.com/
+
+From professionalgraam at gmail.com  Fri Jun 12 13:01:03 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 12 Jun 2015 13:01:03 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_June_13-_2015?=
+Message-ID: <557A8AB7.1030607@gmail.com>
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+We have our Meet on June 13, 2015
+
+Check the details below.
+
+ILUGC Monthly Meet :-
+
+Time : Sat June 13, 2015 (3.00 ? 6.00 PM)
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+*Talk - 1. *
+ 
+
+Topic:          Emacs workgroups
+Description: An introduction on using workgroups and sessions within GNU Emacs
+Duration:     45 minutes
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+*2*
+
+Discussion about InstallFEST and things to be done. 
+
+
+ *3*
+
+General group discussions on any queries, doubts, announcements, events
+related to Free and Open Source Software and community.
+
+CDs/DVDs, Files, OS, Community related documents, Projects can be shared
+on prior request.
+Announce this to all your friends, social network sites etc.
+
+All are welcome. Entry Free
+
+Note : Events and talks are not yet restricted. People can give talk or
+conduct event till ILUGC Meeting starts.
+
+Note to the Speakers : Please do not bring proprietary OS.
+
+-- With Regards, Gowtham Raam.J
+
+
+From citizenofgnu at gmail.com  Fri Jun 12 14:00:11 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Fri, 12 Jun 2015 14:00:11 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+Message-ID: <CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+
+Hi
+
+>>I propose Shri K.Baskar for the co-ordinator post. He has been with
+ILUGC for well over a decade, a fulltime FOSS enthusiast and
+entrepreneur. He has actively participated, lead and volunteered in
+many events.
+
+With due respects to K Baskar, I would suggest this position can be
+consider for younger people.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From professionalgraam at gmail.com  Fri Jun 12 14:04:36 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 12 Jun 2015 14:04:36 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+Message-ID: <557A999C.3080001@gmail.com>
+
+
+On 12-06-2015 14:00, Thyagarajan ?????????? wrote:
+> Hi
+>
+>>> I propose Shri K.Baskar for the co-ordinator post. He has been with
+> ILUGC for well over a decade, a fulltime FOSS enthusiast and
+> entrepreneur. He has actively participated, lead and volunteered in
+> many events.
+>
+> With due respects to K Baskar, I would suggest this position can be
+> consider for younger people.
+>
+> regards,
+>
+> Thyagarajan Shanmugham.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+Hi All,
+
+I too feel as Thyagarajan that we would suggest this position can be
+considered for younger people...
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From raamanp at gmail.com  Fri Jun 12 14:43:42 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Fri, 12 Jun 2015 14:43:42 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <557A999C.3080001@gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+Message-ID: <CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+
+On 6/12/15, Gowtham Raam <professionalgraam at gmail.com> wrote:
+> Hi All,
+>
+> I too feel as Thyagarajan that we would suggest this position can be
+> considered for younger people...
+
+Please identify and propose whoever  you recommend and let  members
+select/elect  one. Let us have a person whom most members agree.
+
+Raman.P
+-- 
+blog:http://ramanchennai.wordpress.com/
+
+From tshrinivasan at gmail.com  Fri Jun 12 15:00:52 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 12 Jun 2015 10:30:52 +0100
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+Message-ID: <CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+
+Choosing young people is great.
+
+If we can not find anyone, let Baskar take the role.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From welkin at fsftn.org  Fri Jun 12 16:33:40 2015
+From: welkin at fsftn.org (Alagunambi Welkin)
+Date: Fri, 12 Jun 2015 16:33:40 +0530
+Subject: [Ilugc]  Co-ordinator for Ilugc
+Message-ID: <CAMgfUVzOa9b9-Nojg9w-er0iiQTF89pFgNJbL9S_hoyCfLeaHw@mail.gmail.com>
+
+Dear All,
+
+Since the suggestion for younger people came, I would suggest Shantha
+Kumar, Final Year, studying at Panimalar. He has been actively
+participating in meetups. More over in Chennai there are few working
+professionals who were part of college level GLUGs which were mentored by
+FSFTN. We can form a co-ordination team comprising of these working
+professionals and students and give them responsibility to drive activities.
+
+Probably in coming meeting we can call these people and constitute a
+co-ordination team and give them guidelines for activities.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From shakthimaan at gmail.com  Fri Jun 12 17:16:29 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Jun 2015 17:16:29 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVzOa9b9-Nojg9w-er0iiQTF89pFgNJbL9S_hoyCfLeaHw@mail.gmail.com>
+References: <CAMgfUVzOa9b9-Nojg9w-er0iiQTF89pFgNJbL9S_hoyCfLeaHw@mail.gmail.com>
+Message-ID: <CABG-yt2ePqahARb9gv8mMvBWy5ByG0wT3G7v4SqFLykzKENYNw@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Jun 12, 2015 at 4:33 PM, Alagunambi Welkin <welkin at fsftn.org> wrote:
+| More over in Chennai there are few working
+| professionals who were part of college level GLUGs which were mentored by
+| FSFTN.
+\--
+
+LUGs and GLUGs are not the same!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From manokaran at gmail.com  Fri Jun 12 18:36:59 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Fri, 12 Jun 2015 13:06:59 +0000
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+Message-ID: <CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+
+Agree with Raman. If you feel the proposed person is not appropriate,
+propose another name.
+
+IMO, discriminating on age is bad!
+
+On Fri, Jun 12, 2015 at 3:02 PM Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> Choosing young people is great.
+>
+> If we can not find anyone, let Baskar take the role.
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From citizenofgnu at gmail.com  Fri Jun 12 19:45:12 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Fri, 12 Jun 2015 19:45:12 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+Message-ID: <CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+
+Hi,
+
+Alagunambi welkin has proposed shantha kumar, I do give a +1 for him.
+I support the choice of the mass of ilugc.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From citizenofgnu at gmail.com  Fri Jun 12 20:04:51 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Fri, 12 Jun 2015 20:04:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+Message-ID: <CAEdr4A6cbZ2oO1wkoYa59bGL8GM_0_yfiVV+voDxHjzFENBtjg@mail.gmail.com>
+
+Hi
+>>I support the choice of the mass of ilugc.
+who ever ilugc elects, i support..
+
+regards,
+
+Thyagarajan Shanmugham
+
+From bharathi.list at gmail.com  Fri Jun 12 20:33:59 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Fri, 12 Jun 2015 23:03:59 +0800
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+Message-ID: <CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+
+Hi All,
+
+I agree with Raman.
+
+I hope, few might remember about the discussion during May 2010[1]. When I
+step down from the ILUGC Office Boy post, Alagunambi name was also
+suggested for the post. At that time, he was in the final year. That is the
+main reason for me, not to support him. Final year is important time,
+student need to spend time with course, project, job search etc. Now for
+the same reason, I am not supporting Shantha Kumar.
+
+I suggest, Baskar to be an in-charge for a year. Next year, if Shantha
+Kumar interested, he can take over from Baskar. I am sure, Baskar will be
+happy to do that.
+
+[1] http://www.ae.iitm.ac.in/pipermail/ilugc/2010-May/057200.html
+
+Bye :)
+--
+Bharathi Subramanian
+
+From professionalgraam at gmail.com  Fri Jun 12 20:42:37 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 12 Jun 2015 20:42:37 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>	<557A999C.3080001@gmail.com>	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+Message-ID: <557AF6E5.60003@gmail.com>
+
+
+On 12-06-2015 19:45, Thyagarajan ?????????? wrote:
+> mbi welkin has proposed shantha kumar, I do give a +1 for him.
+> I support the choice of the mass of ilugc.
+
+Hi All,
+
+
+I too give my vote to Shantha Kumar for the ILUGC co-ordinator. I feel
+that when a student is co-ordinator he will be able to speak and it will
+be more easily to spread the freedom and linux to future generation. We
+have a standing example as Alaghunambi welkin and many others in this case.
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From shakthimaan at gmail.com  Fri Jun 12 21:22:17 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 12 Jun 2015 21:22:17 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+Message-ID: <CABG-yt1RXtF2D-2DhZm=0fdVa6Uc_v7Uh05xmmeWg82mRhQrkQ@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Jun 12, 2015 at 8:33 PM, Bharathi Subramanian
+<bharathi.list at gmail.com> wrote:
+| I agree with Raman.
+\--
+
+I am fine with Baskar as long as he draws a clear line between his
+company work, and ILUG-C meet-ups.
+
+I'd prefer that GLUG members use their own platform for their
+activities. A LUG has both free and open source folks, but, GLUGs are,
+by definition, strong proponents of Free Software. I am surprised that
+they are even participating and posting to a LUG list!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From welkin at fsftn.org  Fri Jun 12 22:12:50 2015
+From: welkin at fsftn.org (Alagunambi Welkin)
+Date: Fri, 12 Jun 2015 22:12:50 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+Message-ID: <CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+
+Dear Shakthi Kannan,
+
+I'd prefer that GLUG members use their own platform for their
+> activities. A LUG has both free and open source folks, but, GLUGs are,
+> by definition, strong proponents of Free Software. I am surprised that
+> they are even participating and posting to a LUG list!
+>
+> We are here for promoting Free Software and Knowledge Freedom. GLUGs, LUGs, Users Groups, Clubs, or Any group irrespective of name, which has like minded agenda is our friends, we do go without invitation and support them.
+
+If there is any objection do raise here, I am sure we can clarify
+that, and work for the common cause.
+
+-- 
+
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From welkin at fsftn.org  Fri Jun 12 22:53:23 2015
+From: welkin at fsftn.org (Alagunambi Welkin)
+Date: Fri, 12 Jun 2015 22:53:23 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+Message-ID: <CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+
+Dear All,
+
+For any individual there would always be hurdles in working consistently.
+That is why then(last time co-ordinator change) and now I am proposing to
+form a collective/committee, which can drive the activities inspite of
+single person's absence, activities should continue, and it should be
+restricted only monthly meetups which are happening more or like tokenism.
+
+To come out of this stagnation mode, as a community we should discuss and
+finalize short term goals which we as community would be aiming to achieve
+in 6months or in a year.
+
+Shantha Kumar, Baskar, and even few more interested people can be part of
+it, with commitment by each one to take responsibility and volunteer
+physically & virtually to fulfill community short-term goals.
+
+I can think of following criteria's as basic needs of this committee,
+
+   - The committee should be changed periodically, say once a year.
+   - There should be accountability for the responsibility each committee
+   member take.
+   - There should not be hierarchy inside this committee.
+   - There should not be one who could just give suggestions and expect
+   others should execute inside this committee.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From raamanp at gmail.com  Sat Jun 13 06:11:34 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Sat, 13 Jun 2015 06:11:34 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+Message-ID: <CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+
+On Fri, Jun 12, 2015 at 10:53 PM, Alagunambi Welkin <welkin at fsftn.org> wrote:
+> Dear All,
+>
+>
+> I can think of following criteria's as basic needs of this committee,
+>
+>    - The committee should be changed periodically, say once a year.
+>    - There should be accountability for the responsibility each committee
+>    member take.
+>    - There should not be hierarchy inside this committee.
+>    - There should not be one who could just give suggestions and expect
+>    others should execute inside this committee.
+>
+As far as ILUGC is concerned there  is no hierarchy. As Bharathi used
+to say repeatedly co-ordinator is office-boy, let us not complicate
+this simple system. All of us me, Shakthi, Thyagu and many others are
+always doing things similar to what the proposed committee members do.
+In ILUGC every member is in the committee.
+
+Raman.P
+
+From a.mani.cms at gmail.com  Sat Jun 13 06:19:11 2015
+From: a.mani.cms at gmail.com (A. Mani)
+Date: Sat, 13 Jun 2015 06:19:11 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+Message-ID: <CADDQFRsCi_Op8HA42wtDo2+HQOETEM-9U_V5LM2jyAMPy-VzaQ@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 6:11 AM, Raman Pandarinathan <raamanp at gmail.com> wrote:
+> As Bharathi used
+> to say repeatedly co-ordinator is office-boy, let us not complicate
+> this simple system.
+
+
+That is sexism!
+
+
+Best
+
+A. Mani
+
+
+
+Prof(Miss) A. Mani
+CU, ASL, AMS, ISRS, CLC, CMS
+HomePage: http://www.logicamani.in
+Blog: http://logicamani.blogspot.in/
+http://about.me/logicamani
+sip:girlprofessor at ekiga.net
+
+From a.mani.cms at gmail.com  Sat Jun 13 06:31:29 2015
+From: a.mani.cms at gmail.com (A. Mani)
+Date: Sat, 13 Jun 2015 06:31:29 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt1RXtF2D-2DhZm=0fdVa6Uc_v7Uh05xmmeWg82mRhQrkQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+	<CABG-yt1RXtF2D-2DhZm=0fdVa6Uc_v7Uh05xmmeWg82mRhQrkQ@mail.gmail.com>
+Message-ID: <CADDQFRuGt7O6sWJLRL4a5yhbBLLcH5LsGwMBxmqnB42vM9GzMg@mail.gmail.com>
+
+On Fri, Jun 12, 2015 at 9:22 PM, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> I'd prefer that GLUG members use their own platform for their
+> activities. A LUG has both free and open source folks, but, GLUGs are,
+> by definition, strong proponents of Free Software. I am surprised that
+> they are even participating and posting to a LUG list!
+
+
+GLUG people get more teaching opportunities that way :-)
+
+
+Best
+
+A. Mani
+
+
+
+Prof(Miss) A. Mani
+CU, ASL, AMS, ISRS, CLC, CMS
+HomePage: http://www.logicamani.in
+Blog: http://logicamani.blogspot.in/
+http://about.me/logicamani
+sip:girlprofessor at ekiga.net
+
+From shakthimaan at gmail.com  Sat Jun 13 08:05:19 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 08:05:19 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+Message-ID: <CABG-yt2bBgn4JTfpRSQmmWhd-5WvkQBmd1ZmkU=v7Zd0So0ZxA@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Jun 12, 2015 at 10:53 PM, Alagunambi Welkin
+<welkin at fsftn.org> wrote:
+| now I am proposing to
+| form a collective/committee
+\--
+
+This is not a place for office politics.
+
+Everyone is an individual contributor, and that is the only thing that matters.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From l.mohanphy at gmail.com  Sat Jun 13 08:42:20 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Sat, 13 Jun 2015 08:42:20 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+Message-ID: <CADiHtmtNP8KbDw5J2XB5=QQFJYvZ8SzXHjFP6cb=yT+7xkSVMA@mail.gmail.com>
+
+On Fri, Jun 12, 2015 at 8:33 PM, Bharathi Subramanian <
+bharathi.list at gmail.com> wrote:
+
+> Hi All,
+>
+> I agree with Raman.
+>
+
+
+>  Final year is important time,
+> student need to spend time with course, project, job search etc. Now for
+> the same reason, I am not supporting Shantha Kumar.
+>
+>
+?+1
+
+I suggest, Baskar to be an in-charge for a year. Next year, if Shantha
+> Kumar interested, he can take over from Baskar. I am sure, Baskar will be
+> happy to do that.
+
+
++1
+
+I too give my vote to Baskar if he is fine.
+
+Thanks
+Mohan L
+
+From baskar at linuxpert.in  Sat Jun 13 08:44:09 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sat, 13 Jun 2015 08:44:09 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+Message-ID: <CACtiFJbzcjowBQ=4HN8fxXFUfevCKXZmHhhc8kBHo-iJLUc4fg@mail.gmail.com>
+
+On Fri, Jun 12, 2015 at 8:33 PM, Bharathi Subramanian
+<bharathi.list at gmail.com> wrote:
+
+> I suggest, Baskar to be an in-charge for a year. Next year, if Shantha
+> Kumar interested, he can take over from Baskar. I am sure, Baskar will be
+> happy to do that.
+
+I do agree with Bharathi Subramanian.
+
+There is not much physical community activities in ILUG-C for the past
+few years.  I hope if Mr. K. Baskar be an in-charge, he might organise
+physical events.
+
+S. Baskar
+
+From benignbala at gmail.com  Sat Jun 13 08:44:51 2015
+From: benignbala at gmail.com (Balachandran Sivakumar)
+Date: Sat, 13 Jun 2015 08:44:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CADDQFRsCi_Op8HA42wtDo2+HQOETEM-9U_V5LM2jyAMPy-VzaQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CADDQFRsCi_Op8HA42wtDo2+HQOETEM-9U_V5LM2jyAMPy-VzaQ@mail.gmail.com>
+Message-ID: <CAMbkTg+U_+59WEiVWh+0xMr9+x0f3JZ_XmcDM0cemAFdiHDFJA@mail.gmail.com>
+
+Hi,
+
+On Sat, Jun 13, 2015 at 6:19 AM, A. Mani <a.mani.cms at gmail.com> wrote:
+
+> On Sat, Jun 13, 2015 at 6:11 AM, Raman Pandarinathan <raamanp at gmail.com>
+> wrote:
+> > As Bharathi used
+> > to say repeatedly co-ordinator is office-boy, let us not complicate
+> > this simple system.
+>
+>
+> That is sexism!
+>
+>
+             It is a figure of speech, and in the very literal sense in
+this context, when Bharathi was the co-ordinator, he called the role(his
+role) "Office-boy", no sexism there. In my opinion, we don't have to be
+politically correct here - Technical correctness is sufficient.
+Concentrating on Political correctness and the use of gender neutral words,
+in a language that is not the first language, can interrupt the flow of
+thought for the actual message that is being conveyed. No one wants to
+discriminate against anyone in this lug. Thanks.
+
+
+> Best
+>
+> A. Mani
+>
+>
+>
+> Prof(Miss) A. Mani
+> CU, ASL, AMS, ISRS, CLC, CMS
+> HomePage: http://www.logicamani.in
+> Blog: http://logicamani.blogspot.in/
+> http://about.me/logicamani
+> sip:girlprofessor at ekiga.net
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thank you
+Balachandran Sivakumar
+
+From send4kumar at gmail.com  Sat Jun 13 08:50:47 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Sat, 13 Jun 2015 08:50:47 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CACtiFJbzcjowBQ=4HN8fxXFUfevCKXZmHhhc8kBHo-iJLUc4fg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+	<CACtiFJbzcjowBQ=4HN8fxXFUfevCKXZmHhhc8kBHo-iJLUc4fg@mail.gmail.com>
+Message-ID: <CAHFTyBoZA1azO8o7skrsAx=F5ycrEayUt9Z00ZvEvSfw2mwU3w@mail.gmail.com>
+
+I give my vote to Baskar. If found support and response in Ilugc group was
+good.
+
+
+
+With Thanks and Regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Sat, Jun 13, 2015 at 8:44 AM, Baskar Selvaraj <baskar at linuxpert.in>
+wrote:
+
+> On Fri, Jun 12, 2015 at 8:33 PM, Bharathi Subramanian
+> <bharathi.list at gmail.com> wrote:
+>
+> > I suggest, Baskar to be an in-charge for a year. Next year, if Shantha
+> > Kumar interested, he can take over from Baskar. I am sure, Baskar will be
+> > happy to do that.
+>
+> I do agree with Bharathi Subramanian.
+>
+> There is not much physical community activities in ILUG-C for the past
+> few years.  I hope if Mr. K. Baskar be an in-charge, he might organise
+> physical events.
+>
+> S. Baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From bharathi.list at gmail.com  Sat Jun 13 09:41:41 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Sat, 13 Jun 2015 12:11:41 +0800
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt2bBgn4JTfpRSQmmWhd-5WvkQBmd1ZmkU=v7Zd0So0ZxA@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CABG-yt2bBgn4JTfpRSQmmWhd-5WvkQBmd1ZmkU=v7Zd0So0ZxA@mail.gmail.com>
+Message-ID: <CAAeEhqvipK77tVYqSG+jNCXBCCD5WxNEJQxy-KLvbpgPwtNAeQ@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 10:35 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> This is not a place for office politics.
+> Everyone is an individual contributor, and that is the only thing that
+> matters.
+>
+
+Rightly said by Shakthi. Individual contribution is the core of ILUGC. If
+anyone say, I will contribute only if I am the co-ordinator, then we need
+to make every one as a co-ordinator (office boy).
+
+Why Co-ordinator Post == Office Boy/ Girl [I hope, now Mani will be happy
+;) ]
+
+If you take any typical office, the actual work done by the officers. The
+office boy's work is opening/ closing of the office, assemble file, remind
+everyone about meetings, arranging stuff for the meeting and assist
+everyone in the office. And importantly, office boy is the 1st friendly
+person, who will talk to you in the new office. If you closely look at the
+functionality of co-ordinator, is very similar to the above :)
+
+Regards,
+--
+Bharathi Subramanian
+
+From welkin at fsftn.org  Sat Jun 13 09:45:46 2015
+From: welkin at fsftn.org (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 09:45:46 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+Message-ID: <CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+
+> All of us me, Shakthi, Thyagu and many others are
+> always doing things similar to what the proposed committee members do.
+> In ILUGC every member is in the committee.
+
+
+If this is what being practiced, and I hope it is also true that, community
+is in a stagnation mode, no activity other than monthly meetups, which
+turned into tokenism taking place.
+
+Lets try to change it, what is the problem in giving new people
+responsibilities and experienced members of community guiding them?
+
+A single person co-ordination has its limitation, he/she has family,
+studies, work, and entertainments, with all these I am sure he/she can
+organize a meetup monthly, but is that enough? what happened to FOSS Conf?
+dont we need to increase community and reach of community owned
+technologies?
+
+Single person will again lead to stagnation, form a committee officially
+and give responsibilities to it, allow new people to be active and make
+them drive community collectively.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From raamanp at gmail.com  Sat Jun 13 09:51:20 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Sat, 13 Jun 2015 09:51:20 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+Message-ID: <CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+
+On 6/13/15, Alagunambi Welkin <welkin at fsftn.org> wrote:
+>
+> A single person co-ordination has its limitation, he/she has family,
+> studies, work, and entertainments, with all these I am sure he/she can
+> organize a meetup monthly, but is that enough? what happened to FOSS Conf?
+> dont we need to increase community and reach of community owned
+> technologies?
+
+Please take lead to organise FOSS conf, I will support you as much as
+I can. There is no need for you to be in any committee. I am sure all
+others in ILUGC will help you.
+
+I you start planning now we can probably organise in December/Jan 16.
+Please go ahead.
+
+Raman.P
+-- 
+blog:http://ramanchennai.wordpress.com/
+
+From shakthimaan at gmail.com  Sat Jun 13 10:01:12 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 10:01:12 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CADDQFRuGt7O6sWJLRL4a5yhbBLLcH5LsGwMBxmqnB42vM9GzMg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+	<CABG-yt1RXtF2D-2DhZm=0fdVa6Uc_v7Uh05xmmeWg82mRhQrkQ@mail.gmail.com>
+	<CADDQFRuGt7O6sWJLRL4a5yhbBLLcH5LsGwMBxmqnB42vM9GzMg@mail.gmail.com>
+Message-ID: <CABG-yt3+pAP_GTSz_VuaHZSWMoczfgkKTK=iKJ_Wb98ycGchyQ@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 6:31 AM, A. Mani <a.mani.cms at gmail.com> wrote:
+| GLUG people get more teaching opportunities that way :-)
+\--
+
+Nobody wants to give a talk and teach at the meet-ups, but, everyone
+wants to have a say on the co-ordinator :)
+
+If only there was Fair Play Award ...
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 10:11:19 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 10:11:19 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+Message-ID: <CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+
+Dear Raman,
+
+I think there is a mis-understanding, I am not here to place myself in any
+committee of ILUGC. I am here as Executive Committee Member of FSFTN, who
+is keen on taking forward Free Software & Free Knowledge to as many people
+as possible and in that motive, I see my birth community ILUGC is
+stagnating and not helping for the common cause. FSFTN will provide any
+support necessary when ever needed, without invitation.
+
+I am proposing a system to make community more useful for a common cause.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 10:22:49 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 10:22:49 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+Message-ID: <CAMgfUVxsrJcmW76GtkSHiB1+H8UwanvKsxR5+7DzSSuV08ZTJw@mail.gmail.com>
+
+>Nobody wants to give a talk and teach at the meet-ups, but, everyone
+>wants to have a say on the co-ordinator :)
+
+That is community, so as a community, any one can discuss and involve
+in setting goals, and let the active, working, physical volunteers
+drive it with the people who come forward to support them.
+
+Support to,
+1) Setting Goals for Community and
+2) Forming a Team to Execute the Goals with community and as a community.
+
+
+-- 
+
+Alagunambi Welkin
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 10:39:20 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 10:39:20 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAAeEhqvipK77tVYqSG+jNCXBCCD5WxNEJQxy-KLvbpgPwtNAeQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CABG-yt2bBgn4JTfpRSQmmWhd-5WvkQBmd1ZmkU=v7Zd0So0ZxA@mail.gmail.com>
+	<CAAeEhqvipK77tVYqSG+jNCXBCCD5WxNEJQxy-KLvbpgPwtNAeQ@mail.gmail.com>
+Message-ID: <CAMgfUVxyz_TX8ZXALKYXP4smj5qRyfbJD2_dYE8dqdhi4ZXySQ@mail.gmail.com>
+
+> If you take any typical office, the actual work done by the officers. The
+> office boy's work is opening/ closing of the office, assemble file, remind
+> everyone about meetings, arranging stuff for the meeting and assist
+> everyone in the office. And importantly, office boy is the 1st friendly
+> If you closely look at the functionality of co-ordinator, is very similar
+to the above :)
+
+Lets change this and make co-ordination more than office-boy work, by
+enabling more responsibilities to increase community activity.
+
+Support to,
+1) Setting Goals for Community and
+2) Forming a Team to Execute the Goals with community and as a community.
+
+--
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From a.mani.cms at gmail.com  Sat Jun 13 10:42:26 2015
+From: a.mani.cms at gmail.com (A. Mani)
+Date: Sat, 13 Jun 2015 10:42:26 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVxsrJcmW76GtkSHiB1+H8UwanvKsxR5+7DzSSuV08ZTJw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CAMgfUVxsrJcmW76GtkSHiB1+H8UwanvKsxR5+7DzSSuV08ZTJw@mail.gmail.com>
+Message-ID: <CADDQFRtz70F=Wt9J+J-iqODTv3KEOhycU-_T7GOKQt0dKwu9Dw@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 10:22 AM, Alagunambi Welkin
+<alagunambiwelkin at gmail.com> wrote:
+> Support to,
+> 1) Setting Goals for Community and
+> 2) Forming a Team to Execute the Goals with community and as a community.
+
+
+
+Available resources tend to fluctuate a lot. More so when
+collaboration is involved.
+IMO, the model will work only if a minimum amount of resources can be
+guaranteed over a suitable period of time.
+
+The other part is sustainability. Usually in a FOSS community, we want
+our model to be self-sustaining - the details are important.
+
+It will be nice if you can work out a draft model for more detailed discussion.
+
+
+
+Best
+
+A. Mani
+
+
+
+Prof(Miss) A. Mani
+CU, ASL, AMS, ISRS, CLC, CMS
+HomePage: http://www.logicamani.in
+Blog: http://logicamani.blogspot.in/
+http://about.me/logicamani
+sip:girlprofessor at ekiga.net
+
+From welkin at fsftn.org  Sat Jun 13 10:01:19 2015
+From: welkin at fsftn.org (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 10:01:19 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+Message-ID: <CAMgfUVxNc62HnN9JueTqqoYHUxFU-5DchU-=+FR=5cJsJxFcLA@mail.gmail.com>
+
+Dear Raman,
+
+I think there is a mis-understanding, I am not here to place myself in a
+committee, I am here as Executive Committee Member of FSFTN, who is keen on
+taking forward Free Software & Free Knowledge to as many people as possible
+and in that motive, I see my birth community ILUGC is stagnating and not
+helping for the common cause. FSFTN will provide any support necessary when
+ever needed, without invitation.
+
+I am proposing a system to make community more useful for a common cause.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 11:13:15 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 11:13:15 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CADDQFRtz70F=Wt9J+J-iqODTv3KEOhycU-_T7GOKQt0dKwu9Dw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CAMgfUVxsrJcmW76GtkSHiB1+H8UwanvKsxR5+7DzSSuV08ZTJw@mail.gmail.com>
+	<CADDQFRtz70F=Wt9J+J-iqODTv3KEOhycU-_T7GOKQt0dKwu9Dw@mail.gmail.com>
+Message-ID: <CAMgfUVyLwDWMtxibUD_awfQ=127HaPLcUybNDK1wG5PBFQiQoQ@mail.gmail.com>
+
+> It will be nice if you can work out a draft model for more detailed
+> discussion.
+
+
+If there is a consensus among community members to explore my proposal, we
+can collectively draft a model.
+
+-- 
+Alagunambi Welkin
+Executive Committee Member,
+Free Software Foundation Tamil Nadu,
+part of Free Software Movement of India.
+www.fsftn.org | @FSFTamilnadu
+
+From bharathi.list at gmail.com  Sat Jun 13 11:23:59 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Sat, 13 Jun 2015 13:53:59 +0800
+Subject: [Ilugc] Networking - teaching
+In-Reply-To: <CAFum4PknZoNJSn2vR-1CcXJ7+jT1cy-YM2LWJKyWF75aqSJbBA@mail.gmail.com>
+References: <CAFum4PknZoNJSn2vR-1CcXJ7+jT1cy-YM2LWJKyWF75aqSJbBA@mail.gmail.com>
+Message-ID: <CAAeEhqvvRgVYFZDQ8qgjP=ecC1C7MEWOmid7fKi8tYVgOWUyhw@mail.gmail.com>
+
+On Sat, Jun 6, 2015 at 11:31 AM, Mohan Sundaram wrote:
+
+> A teacher in an Engg college has approached me to help make a networking
+> course covering application and transport layers largely practical and
+> hands on.
+>
+
+I conducted classes in similar angle.
+
+For transport layer, I used simple (TCP and UDP) socket code to cover the
+basics
+For application layer,  I used simple web server (http and https) setup.
+You can touch REST API example also.
+Other tools Ping (for ICMP), arping (for ARP) and netcat. Of course,
+wireshark used to show packet traces.
+
+Few other tools (don't remember the name) to send TCP SYC and FIN packets
+also can be used. Always setup own network with separate switch/hub and 2/3
+nodes. Otherwise, we need to handle the noises from other nodes/network.
+
+Bye :)
+-- 
+Bharathi Subramanian
+
+From vikneshwaren.u at gmail.com  Sat Jun 13 12:00:36 2015
+From: vikneshwaren.u at gmail.com (Vikneshwaren)
+Date: Sat, 13 Jun 2015 06:30:36 +0000
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVyLwDWMtxibUD_awfQ=127HaPLcUybNDK1wG5PBFQiQoQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CAMgfUVxsrJcmW76GtkSHiB1+H8UwanvKsxR5+7DzSSuV08ZTJw@mail.gmail.com>
+	<CADDQFRtz70F=Wt9J+J-iqODTv3KEOhycU-_T7GOKQt0dKwu9Dw@mail.gmail.com>
+	<CAMgfUVyLwDWMtxibUD_awfQ=127HaPLcUybNDK1wG5PBFQiQoQ@mail.gmail.com>
+Message-ID: <CAAyiP1aTJaB_kngdmZeG7bpL85G4G6dd+9oN0K5EFRk3VO0o+A@mail.gmail.com>
+
++1 for Welkin's proposal on constituting a
+co-ordination team.
+
+On Sat, Jun 13, 2015, 11:13 AM Alagunambi Welkin <alagunambiwelkin at gmail.com>
+wrote:
+
+> > It will be nice if you can work out a draft model for more detailed
+> > discussion.
+>
+>
+> If there is a consensus among community members to explore my proposal, we
+> can collectively draft a model.
+>
+> --
+> Alagunambi Welkin
+> Executive Committee Member,
+> Free Software Foundation Tamil Nadu,
+> part of Free Software Movement of India.
+> www.fsftn.org | @FSFTamilnadu
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Sat Jun 13 13:24:30 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 13:24:30 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+Message-ID: <CABG-yt3AX=UR6DOAynxjWvBSaQnM=nki_U4qcWOvgoi2EvFDWQ@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 10:11 AM, Alagunambi Welkin
+<alagunambiwelkin at gmail.com> wrote:
+| I am here as Executive Committee Member of FSFTN
+\--
+
+That is where the problem is :)
+
+Your designation is within the organization that you represent, not outside.
+
+When you come to ILUG-C, you come as an individual contributor. It
+doesn't matter whether you are President or Prime Minister or what
+not.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Sat Jun 13 13:30:33 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 13:30:33 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+Message-ID: <CABG-yt3oTkZOS11p13A6Lg8AzSvraYyCUq3juusWu4G9aKP_Ng@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 9:45 AM, Alagunambi Welkin <welkin at fsftn.org> wrote:
+| form a committee officially
+| and give responsibilities to it, allow new people to be active and make
+| them drive community collectively.
+\--
+
+Thanks, but no thanks!
+
+  http://www.ae.iitm.ac.in/pipermail/ilugc/2008-September/043525.html
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 14:29:03 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 14:29:03 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt3AX=UR6DOAynxjWvBSaQnM=nki_U4qcWOvgoi2EvFDWQ@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CABG-yt3AX=UR6DOAynxjWvBSaQnM=nki_U4qcWOvgoi2EvFDWQ@mail.gmail.com>
+Message-ID: <CAMgfUVy0fqw2MpXw7yq_uZk6AEt1=pjyQJOS0_GGroY+fpsTJw@mail.gmail.com>
+
+My point is to reiterate that I dont have intention to be part of the
+proposed committee and have a responsibility already.
+
+I am no where talking against individual contributors, but to amplify the
+individual contribution which is no where present except from a certain few
+old members.
+
+I dont understand how that is a problem. can you please explain?
+
+On Sat, Jun 13, 2015 at 1:24 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Sat, Jun 13, 2015 at 10:11 AM, Alagunambi Welkin
+> <alagunambiwelkin at gmail.com> wrote:
+> | I am here as Executive Committee Member of FSFTN
+> \--
+>
+> That is where the problem is :)
+>
+> Your designation is within the organization that you represent, not
+> outside.
+>
+> When you come to ILUG-C, you come as an individual contributor. It
+> doesn't matter whether you are President or Prime Minister or what
+> not.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Alagunambi Welkin
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 14:32:33 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 14:32:33 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt3oTkZOS11p13A6Lg8AzSvraYyCUq3juusWu4G9aKP_Ng@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CABG-yt3oTkZOS11p13A6Lg8AzSvraYyCUq3juusWu4G9aKP_Ng@mail.gmail.com>
+Message-ID: <CAMgfUVyLKmDvYfD9rfo9SPBShSEp4HsxesaJW3kohs9KRmnZ3A@mail.gmail.com>
+
+> Thanks, but no thanks!
+>
+>   http://www.ae.iitm.ac.in/pipermail/ilugc/2008-September/043525.html
+>
+
+My association was after 2009 FOSS Conf. with ILUGC and later towards
+FSFTN, so kindly explain me the point you are trying to convey by quoting
+this?
+
+--
+Alagunambi Welkin
+
+From gsivaprabu at gmail.com  Sat Jun 13 16:21:37 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Sat, 13 Jun 2015 16:21:37 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+Message-ID: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+
+Hi friends,
+
+Please suggest good tutorial or book for Python [Beginner to advanced level
+].
+??
+regards,
+@gsivaprabu?
+
+
+   [image: --]
+
+[image: http://]
+
+
+
+ <http://about.me/gsivaprabu>
+
+From jagannathante at gmail.com  Sat Jun 13 16:27:18 2015
+From: jagannathante at gmail.com (Jagannathan Tiruvallur Eachambadi)
+Date: Sat, 13 Jun 2015 10:57:18 +0000
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+Message-ID: <CABzJUX5imTzEKVQ0v+yBOd7Rf5bVDb7CHpe7Q6KcWXtdFm7xNQ@mail.gmail.com>
+
+On Sat, 13 Jun 2015 at 16:22 Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> Hi friends,
+>
+> Please suggest good tutorial or book for Python [Beginner to advanced level
+> ].
+
+
+I used the Think Python book. You can get it at
+https://upload.wikimedia.org/wikipedia/commons/1/1b/Think_Python.pdf
+
+Regards
+
+Jagannathan T E
+
+From shakthimaan at gmail.com  Sat Jun 13 17:55:39 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 17:55:39 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy0fqw2MpXw7yq_uZk6AEt1=pjyQJOS0_GGroY+fpsTJw@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CABG-yt3AX=UR6DOAynxjWvBSaQnM=nki_U4qcWOvgoi2EvFDWQ@mail.gmail.com>
+	<CAMgfUVy0fqw2MpXw7yq_uZk6AEt1=pjyQJOS0_GGroY+fpsTJw@mail.gmail.com>
+Message-ID: <CABG-yt1Mc3x3Qa9S8T5mfFoTMfiiTZ4bVPG9NaZc4LDbYB_-Ug@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 2:29 PM, Alagunambi Welkin
+<alagunambiwelkin at gmail.com> wrote:
+| My point is to reiterate that I dont have intention to be part of the
+| proposed committee
+\--
+
+This is not the place for "FSFTN" activities. Please use your own
+platform and forum for the same.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From l.mohanphy at gmail.com  Sat Jun 13 20:13:24 2015
+From: l.mohanphy at gmail.com (Mohan L)
+Date: Sat, 13 Jun 2015 20:13:24 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+Message-ID: <CADiHtmvjPQcET2udSybTWLVt31YJpJW9dktJB8HbmWwk-uEDDQ@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 4:21 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> Hi friends,
+>
+> Please suggest good tutorial or book for Python [Beginner to advanced level
+> ].
+> ??
+>
+
+?Try
+?
+Head First. It is good for beginner especially if you are new to
+programming world.
+
+??
+Head First Programming: http://www.headfirstlabs.com/books/hfprog/
+
+Head First Python: http://www.headfirstlabs.com/books/hfpython/
+
+You can search google. There are so many tutorials and books available.
+
+Thanks
+Mohan L?
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 20:21:16 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 20:21:16 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt1Mc3x3Qa9S8T5mfFoTMfiiTZ4bVPG9NaZc4LDbYB_-Ug@mail.gmail.com>
+References: <CAMgfUVxgfWNVOZGmUxeEKZ2n-bPiYuD3hZ2kmdTL1iX0J8tUgw@mail.gmail.com>
+	<CAMgfUVxzNPhu99aiUf=gadTpdr55LTkKe4NqKSB=vabnv_6c1g@mail.gmail.com>
+	<CAMgfUVynXXRpyqmn_rFGNDJrBQFGPRu1=Ekh=2bC-LqkK3rxdg@mail.gmail.com>
+	<CAFf706yHD_dxvPOphP3qY3WdKTbB63T3ontLT_CY849tq-cB6A@mail.gmail.com>
+	<CAMgfUVy+nWm=+xgRWRqYv8FJq5axSxLjdwobKoDJiQHDZBwOrw@mail.gmail.com>
+	<CAFf706xuf59B_GD3v6_Hwo4MsVvKpvocYfOjpBbX_pw7r3eqrA@mail.gmail.com>
+	<CAMgfUVy8nvne1+ts_wx0p_wmYrnfqZPXCBcGqARVe5SGxJTSEQ@mail.gmail.com>
+	<CABG-yt3AX=UR6DOAynxjWvBSaQnM=nki_U4qcWOvgoi2EvFDWQ@mail.gmail.com>
+	<CAMgfUVy0fqw2MpXw7yq_uZk6AEt1=pjyQJOS0_GGroY+fpsTJw@mail.gmail.com>
+	<CABG-yt1Mc3x3Qa9S8T5mfFoTMfiiTZ4bVPG9NaZc4LDbYB_-Ug@mail.gmail.com>
+Message-ID: <CAMgfUVz0m_Ys0eVVYveFYMB3OV7JeN8KBQ0CVudqnCzVde+gTA@mail.gmail.com>
+
+>
+> This is not the place for "FSFTN" activities. Please use your own
+> platform and forum for the same.
+>
+
+Sorry if I have created a wrong impression. It is my personal interest to
+be part of here, more than organizational need. Please ignore my footer, if
+that is what makes you think I speak from organizational authority. I speak
+as a one of this community member, who got introduced to the world of
+GNU/Linux and Knowledge Freedom through the event FOSS Conf 2009, and to
+the betterment of community.
+
+I have great respect to you, I am puzzled why you have hatred towards
+FSFTN, care to clarify?
+
+If it is a valid criticism, FSFTN as an organization will accept it and
+work towards rectifying it, if not at least mis-understandings would get
+clear.
+
+To make my intention clear, the proposal for forming a committee, and
+community deciding short term goal no incentive to FSFTN, than helping the
+fellow communities work effectively towards the common goals.
+
+-- 
+Alagunambi Welkin
+
+From shakthimaan at gmail.com  Sat Jun 13 20:35:04 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 20:35:04 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+Message-ID: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 8:21 PM, Alagunambi Welkin
+<alagunambiwelkin at gmail.com> wrote:
+| If it is a valid criticism, FSFTN as an organization will accept it and
+| work towards rectifying it, if not at least mis-understandings would get
+| clear.
+\--
+
+I have already answered that earlier. This is not the place to talk
+about FSFTN, or its agenda.
+
+Everyone is an individual contributor here, and your designation doesn't matter.
+
+Please attend meet-ups to know what ILUG-C is, before proposing
+changes. Just shooting an e-mail for the sake of it doesn't work!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From abhi12ravi at gmail.com  Sat Jun 13 20:44:38 2015
+From: abhi12ravi at gmail.com (Abhiram Ravikumar)
+Date: Sat, 13 Jun 2015 20:44:38 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CADiHtmvjPQcET2udSybTWLVt31YJpJW9dktJB8HbmWwk-uEDDQ@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+	<CADiHtmvjPQcET2udSybTWLVt31YJpJW9dktJB8HbmWwk-uEDDQ@mail.gmail.com>
+Message-ID: <CAJXECwED1XQr8WoHkpkCo18u8=DpW9Hz_WLzoKFBT+Mrk+ANrg@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 8:13 PM, Mohan L <l.mohanphy at gmail.com> wrote:
+
+> On Sat, Jun 13, 2015 at 4:21 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+>
+> > Hi friends,
+> >
+> > Please suggest good tutorial or book for Python [Beginner to advanced
+> level
+> > ].
+> > ??
+> >
+>
+> ?Try
+> ?
+> Head First. It is good for beginner especially if you are new to
+> programming world.
+>
+> ??
+> Head First Programming: http://www.headfirstlabs.com/books/hfprog/
+>
+> Head First Python: http://www.headfirstlabs.com/books/hfpython/
+>
+> You can search google. There are so many tutorials and books available.
+>
+> Thanks
+> Mohan L?
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+Hi all,
+
+For Python, this the best collection of resources:
+https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md . Make the
+most of it!
+
+
+
+
+-- 
+Regards,
+Abhiram Ravikumar
+Regional Ambassador Lead, Mozilla
+http://abhiramrk.com/
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 21:37:44 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 21:37:44 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+Message-ID: <CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+
+Dear All,
+
+Sorry to drag this thread this long, I personally feel, it is important
+moment, and a proper discussion should be done. It is not my fault for this
+drag.
+
+Dear Shakthi Kannan,
+
+I have already answered that earlier. This is not the place to talk
+> about FSFTN, or its agenda.
+>
+
+Thank you for giving clear impression that you will not understand, I hope
+it is of useless to discuss to you about your prejudice about FSFTN, which
+is creating a wrong impression and dragging this thread.
+
+Everyone is an individual contributor here
+>
+
+If having a co-ordinator has not affected individual contributors, how come
+having a team of co-ordinators will affect individual contributors?
+
+Detailed explanation will put in another mail.
+
+
+> Please attend meet-ups to know what ILUG-C is, before proposing
+> changes. Just shooting an e-mail for the sake of it doesn't work!
+>
+
+If it is a criteria to share opinion, I would have done so, considering the
+importance of this subject. Please tell me how many meetings should I
+attend to speak here?
+
+FYI, I have been attending few years of ILUGC meetings and let me know if
+my presence has any advantage for community, I would happily do so.
+
+Having a single co-ordinator is an idea, and I am contesting it with
+another idea of having a team instead of single person. Without contesting
+it with valid reasons bashing at FSFTN, and creating baseless accusations
+is what I feel, emailing for the sake of it.
+
+-- 
+Alagunambi Welkin
+
+From shakthimaan at gmail.com  Sat Jun 13 21:43:18 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 21:43:18 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_June_13-_2015?=
+In-Reply-To: <557A8AB7.1030607@gmail.com>
+References: <557A8AB7.1030607@gmail.com>
+Message-ID: <CABG-yt0=zoEiZN92hC53mAmxWcDXx9LeOhKY-cFk1Am9SWJk5A@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Jun 12, 2015 at 1:01 PM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+|Topic:          Emacs workgroups
+\--
+
+The list of Emacs tiling links that I mentioned in today's talk are given below:
+
+* http://www.emacswiki.org/emacs/WinnerMode
+
+* http://www.emacswiki.org/emacs/QuickTiling
+
+* http://www.emacswiki.org/emacs/WindowsAndRegisters
+
+* http://www.emacswiki.org/emacs/ThreeWindows
+
+* https://github.com/tlh/workgroups.el
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From alagunambiwelkin at gmail.com  Sat Jun 13 21:45:00 2015
+From: alagunambiwelkin at gmail.com (Alagunambi Welkin)
+Date: Sat, 13 Jun 2015 21:45:00 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+Message-ID: <CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+
+Dear All,
+
+Let me clarify my proposal again,
+
+*Short-Term-Goals*:
+Let community decide collectively what is the goal as a community which we
+are trying to achieve for a year.
+
+*Why?* By adopting this process we create a great scope to involve
+interested people from community, who otherwise remained dormant or just a
+spectator, to give suggestion on what they feel as necessary and what can
+we as a community to be done for a year. *Isnt it involving individual
+contributors?*
+
+*Co-ordination Committee:*
+A team of volunteers, who come forward to implement the collectively
+decided short-term-goal. With following basic qualities,
+
+1) Co-ordination Committee should not have hierarchy.
+2) Co-ordination Committee should have physical volunteers.
+3) Co-ordination Committee members should be accountable.
+4) Co-ordination Committee should be changed periodically, say once a year.
+
+*Why?*
+1) No hierarchy: is because of the practice of community model.
+2) Necessary of physical volunteers: is because we need people on the
+ground to organize anything to reach public.
+3) Need for accountability: it is to make sure, there are no one sitting
+inside committee and just give suggestion.
+4) Periodical Change: it is to make sure, we give opportunity for new
+people, through which they learn organizing events.
+
+*More:*
+1) Already guiding team( Raman, Bharathi, Shakthi, Baskar, Thyagarajan, and
+others) are doing great in community. Can they do it eternally?
+2) I hope there is already an external co-ordination happening to guide
+co-ordinator outside malinglist, why not formalize it?
+3) having co-ordinator never stopped any individual from contributing, how
+come having a team of co-ordinators will affect individual contributions?
+
+*Core point:* Defining short-term-goals will make a mailinglist a action
+oriented community. Individual co-ordinator as a model has short comings,
+which we have experienced, let us try a team of co-ordinators without
+hindering the community principles.
+
+If there people feel discomfort in my proposal, please do question it.
+
+--
+Alagunambi Welkin
+
+From shakthimaan at gmail.com  Sat Jun 13 21:52:09 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 13 Jun 2015 21:52:09 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+Message-ID: <CABG-yt0JLgS7DSa+YcNAsS6DfMbW04GQvPCQ3Gv7afS1Yo7__Q@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 13, 2015 at 4:21 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+| Please suggest good tutorial or book for Python [Beginner to advanced level ].
+\--
+
+Try "Welcome to Python for you and me":
+
+  http://pymbook.readthedocs.org/en/latest/
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From 77minds at gmail.com  Sat Jun 13 23:24:11 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sat, 13 Jun 2015 23:24:11 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CABG-yt3+pAP_GTSz_VuaHZSWMoczfgkKTK=iKJ_Wb98ycGchyQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<CAFf706yX2SJN7RqBEShRiDuKsr=4WWouqyosrQQ3U_ryB60a8Q@mail.gmail.com>
+	<CAEdr4A6bDGtR7nr8nhdZxLzTAMBw8KosRwxbDx_3T5mVbZNVDw@mail.gmail.com>
+	<557A999C.3080001@gmail.com>
+	<CAFf706wDLMYdPUqAS+nAUnFBZ3ga42d9JcKKA=5XhC7ir+Qi9A@mail.gmail.com>
+	<CAND27946h66TLW50282LJsOdMhukOdAN+0VLxY=70z_9tBWi8g@mail.gmail.com>
+	<CAKGmkL3W-Vf-PGMxyxxao20bOkG0UCO15v2ABnkyKXO8r=4obw@mail.gmail.com>
+	<CAEdr4A6AoKHAQ4jxbR3do-Z4_U-nuw9kx9HpR9LOsKpK5zoKig@mail.gmail.com>
+	<CAAeEhqvvUwpxbgyC2njJ3wrabYB7LkLRTN+zT8s295-TikotOg@mail.gmail.com>
+	<CABG-yt1RXtF2D-2DhZm=0fdVa6Uc_v7Uh05xmmeWg82mRhQrkQ@mail.gmail.com>
+	<CADDQFRuGt7O6sWJLRL4a5yhbBLLcH5LsGwMBxmqnB42vM9GzMg@mail.gmail.com>
+	<CABG-yt3+pAP_GTSz_VuaHZSWMoczfgkKTK=iKJ_Wb98ycGchyQ@mail.gmail.com>
+Message-ID: <CAJR+9kYWO1jCdCTF9CAPkP8dUpHpOF6gnQ5SoFAMJ6KGMm13pg@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 10:01 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Sat, Jun 13, 2015 at 6:31 AM, A. Mani <a.mani.cms at gmail.com> wrote:
+> | GLUG people get more teaching opportunities that way :-)
+> \--
+>
+> Nobody wants to give a talk and teach at the meet-ups, but, everyone
+> wants to have a say on the co-ordinator :)
+>
+> If only there was Fair Play Award ...
+>
+> SK
+
+
+In that case many haven't contributed as a coder to free software and are
+writing in this forum. Strange! If only there was Fair Play Award ...
+
++1 for Shantha Kumar
+
+-------
+
+Karthikeyan A K
+
+From tshrinivasan at gmail.com  Sun Jun 14 06:24:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sun, 14 Jun 2015 06:24:37 +0530
+Subject: [Ilugc] On selecting co-ordinator
+Message-ID: <CAND27953Qx6+fFQXbaP1HP8NjMn5CX_e+7kBoV7pjTnZtrZkYw@mail.gmail.com>
+
+Friends.
+
+In chennai, there are many tech communities are doing excellent works
+like ilugc, fsftn, chennaipy, chennaigeeks, chennai.rb, etc.
+
+Each have their own goals and volunteer team to move further.
+
+All the communities are run only by volunteers. When the number of
+volunteers goes to zero, that community goes to pause mode. Example,
+kanchilug.
+
+To run ilugc meets and other activities we need volunteers.
+To get volunteers, we have to run more events.
+
+As welkin told, it will be good if we have a volunteer team to
+co-ordinate the events.
+
+we tried it few years ago. But, it failed.
+http://ilugc.in/content/new-volunteer-team-for-ilugc/
+
+But running meetings is the only regular activity, we do. It was
+handled by single co-ordinator.
+
+Other activities did not happened, as the volunteers could not make them.
+
+As all the activities are based on volunteers and their time,
+it is good, if something happens.
+It is okey, if something not happens.
+
+As meetings are the only regular events, those can be co-ordinated by
+a single person. We dont need a team.
+
+Anyone can propose extra events and call for volunteers, like shakthi
+is doing for installfests.
+
+All other historical events like SFD, FossConf were initiated by some
+member in the list, as proposing the idea and calling for volunteers.
+The people whoever could volunteer for the events, they contributed
+and executed the events.
+
+There was not a regular team to co-ordinate/volunteer for the event.
+
+What we miss nowadays are the proposal for the events.
+
+Some expect that o-ordinator should initiate the proposals and call
+for volunteers, which wont happen.
+
+If we have a co-ordinating team, people will think that they only
+should initiate the things.
+
+ILUGC is a non-structured group of volunteers. All the members are
+equal and volunteers.
+
+co-ordinaor is an office boy to help people to run the events and meetings.
+This role can be played by any interested person regardless of the
+age, job or year of the college.
+
+We can form ad-hoc volunteer team for any event and execute it.
+
+The real factor is we dont have volunteers even to give talks on the meetings.
+See the history of past few meetings. Shakthi is the only regular speaker.
+Most of the times, we dont get speakers till the previous day of the event.
+
+Many times, I made calls and wrote personal emails to friends, to give
+a talk, and just make sure that the meetings are happening regularly.
+
+It will be good, if we form a speaker team on various topics, so that
+the meetings are planned well, announced at least one week before, so
+that we can announce the events on various media/lists.
+
+We have to collaborate with other communities like FSFTN, ChennaiPy so
+that we can share speakers and volunteers for the meetings and events.
+
+We can do more events like InstallFests, hackathons, workshops,
+seminars, FossConf. I request members to propose for their desired
+events, call for volunteers and initiate the discussions.
+
+The child projects of ilugc like kaniyam.com, freetamilebooks.com are
+doing good and growing well, with volunteers from around the globe.
+
+i request K.Baskar and Shanthakumar to discuss with themself and
+select one among themself or share their roles as primary/backup
+co-ordinators and announce to the list soon.
+
+Let us help them to run the meetings by giving talks, attending the meetings.
+
+Propose for something, start doing it and call for assistance.
+People will join, if they feel it is something worth contributing.
+
+
+Let us celebrate the volunteers, who make the movements.
+
+http://www.ted.com/talks/derek_sivers_how_to_start_a_movement/transcript?language=en
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From ksukanya91 at gmail.com  Sun Jun 14 12:55:44 2015
+From: ksukanya91 at gmail.com (Sukanya K)
+Date: Sun, 14 Jun 2015 12:55:44 +0530
+Subject: [Ilugc] Contents of ilugc digest
+Message-ID: <CAB=xY1BnURGNhKfXgwfNf+TnNb44oae+VtBnCW==g9fr+kkyHw@mail.gmail.com>
+
+On Sun, Jun 14, 2015 at 12:00 PM, <ilugc-request at ae.iitm.ac.in> wrote:
+
+> Contents of ilugc digest
+
+From citizenofgnu at gmail.com  Sun Jun 14 14:07:03 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Sun, 14 Jun 2015 14:07:03 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+References: <CABG-yt3QyYbUrQLoSzRgBUvjBfQnwuuLLcXo-Un0v+HV2V8n_A@mail.gmail.com>
+	<CAMgfUVyJpcv=dOjtfvJMZccBctPUbjgJyqP79XLORKRP0P3nbg@mail.gmail.com>
+	<CAMgfUVy-Qg7NmGPCgYLCUT994Bq9na-7+SpqnOOxf4Q896Qnfw@mail.gmail.com>
+Message-ID: <CAEdr4A4iYGhxo1Uw-YYxok9bhWeatXh1Z04rO+Q=DXx5KaQNjg@mail.gmail.com>
+
+Hi
+
+>>If there people feel discomfort in my proposal, please do question it.
+
+Thumbs up for the points,
+
+regards,
+
+Thyagarajan Shanmugham
+
+From niranjan.ashok at gmail.com  Mon Jun 15 10:20:33 2015
+From: niranjan.ashok at gmail.com (mallapadi niranjan)
+Date: Mon, 15 Jun 2015 10:20:33 +0530
+Subject: [Ilugc] Fedora Conference: FUDCon Pune 2015
+Message-ID: <CAE_F0QRyQeMtYQn=Bwnq-wX68BBcmp9J9bn=6U=9YWq2_E4bAg@mail.gmail.com>
+
+Greetings,
+
+Fedora Users and Developers conference (FUDCon) is being Held in Pune.
+
+FUDCon a major free software event held in various regions around the
+world, usually
+annually per region. FUDCon is a combination of sessions, talks, workshops,
+and hackfests.
+
+More details at:  http://fudcon.in/
+
+Event Details:
+Venue: MIT College of Engineering
+Date: 26-28th June
+
+Regards
+Niranjan
+
+From sunilks77 at gmail.com  Mon Jun 15 11:22:28 2015
+From: sunilks77 at gmail.com (Sunilkumar KS)
+Date: Mon, 15 Jun 2015 11:22:28 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+Message-ID: <CACY5x9TTWiR1O0kp62k=5EXswWFuOW+UVeoiGS4o=gPRnM9aqg@mail.gmail.com>
+
+On Sat, Jun 13, 2015 at 4:21 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> Hi friends,
+>
+> Please suggest good tutorial or book for Python [Beginner to advanced level
+> ].
+>
+
+The following page provides an excellent tutorial for beginners.
+
+  http://www.swaroopch.com/notes/python/
+
+which is being used as an instructional material in various educational
+institutions around the globe.
+
+The page allows you to download various formats such as:
+
+   -  PDF
+   -  Epub
+   -  Mobi
+   -  GitHub
+
+Best wishes.
+
+
+
+> ??
+> regards,
+> @gsivaprabu?
+>
+>
+>    [image: --]
+>
+> [image: http://]
+>
+>
+>
+>  <http://about.me/gsivaprabu>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+
+
+
+-- 
+Thank you,
+
+Sunilkumar KS
+
+From pprkannan at gmail.com  Mon Jun 15 11:34:50 2015
+From: pprkannan at gmail.com (Padmapriya Kannan)
+Date: Mon, 15 Jun 2015 11:34:50 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CACY5x9TTWiR1O0kp62k=5EXswWFuOW+UVeoiGS4o=gPRnM9aqg@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+	<CACY5x9TTWiR1O0kp62k=5EXswWFuOW+UVeoiGS4o=gPRnM9aqg@mail.gmail.com>
+Message-ID: <CA++OnBzqe3dhpm2+K9yEDYzT7+Zhwc2NGe5UaK82oK61=R7vtQ@mail.gmail.com>
+
+There is no easy way to learn Python, so better learn the language the
+hardway thro' http://learnpythonthehardway.org/book/ :-)
+
+On Mon, Jun 15, 2015 at 11:22 AM, Sunilkumar KS <sunilks77 at gmail.com> wrote:
+
+> On Sat, Jun 13, 2015 at 4:21 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+>
+> > Hi friends,
+> >
+> > Please suggest good tutorial or book for Python [Beginner to advanced
+> level
+> > ].
+> >
+>
+> The following page provides an excellent tutorial for beginners.
+>
+>   http://www.swaroopch.com/notes/python/
+>
+> which is being used as an instructional material in various educational
+> institutions around the globe.
+>
+> The page allows you to download various formats such as:
+>
+>    -  PDF
+>    -  Epub
+>    -  Mobi
+>    -  GitHub
+>
+> Best wishes.
+>
+>
+>
+> > ??
+> > regards,
+> > @gsivaprabu?
+> >
+> >
+> >    [image: --]
+> >
+> > [image: http://]
+> >
+> >
+> >
+> >  <http://about.me/gsivaprabu>
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+>
+>
+>
+>
+> --
+> Thank you,
+>
+> Sunilkumar KS
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From logic.linux at gmail.com  Mon Jun 15 16:56:08 2015
+From: logic.linux at gmail.com (Srikanth Lakshmanan)
+Date: Mon, 15 Jun 2015 16:56:08 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+Message-ID: <CA+30aUPAfqq+EWFK9csWNECXaJtT+UWVUhp2ne9zkJ6Qq1oztQ@mail.gmail.com>
+
+On 13 June 2015 at 16:21, Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> Hi friends,
+>
+> Please suggest good tutorial or book for Python [Beginner to advanced level
+> ].
+> ??
+> regards,
+> @gsivaprabu?
+>
+>
+I have found codecademy[1] very easy to learn as its learning by doing than
+reading. If you familiar with basics of programming, this helps learning
+python concepts.
+
+[1] http://www.codecademy.com/en/tracks/python
+
+
+-- 
+Regards
+Srikanth.L
+
+From ajeyaajeya at gmail.com  Mon Jun 15 17:16:08 2015
+From: ajeyaajeya at gmail.com (Ajeya Anand)
+Date: Mon, 15 Jun 2015 17:16:08 +0530
+Subject: [Ilugc] Suggest good tutorial or book for Python
+In-Reply-To: <CA+30aUPAfqq+EWFK9csWNECXaJtT+UWVUhp2ne9zkJ6Qq1oztQ@mail.gmail.com>
+References: <CALp7xkA4etag0m0vxR2_QrPxTfEGXQHuVE7pGtjM=8vP_oBz3g@mail.gmail.com>
+	<CA+30aUPAfqq+EWFK9csWNECXaJtT+UWVUhp2ne9zkJ6Qq1oztQ@mail.gmail.com>
+Message-ID: <CAFRzf1qUK-gnqTguW7zUhc=J6u-uexYZtfu6vf+adOP3k-UYBA@mail.gmail.com>
+
+Dive Into Python http://www.diveintopython.net/
+
+2015-06-15 16:56 GMT+05:30 Srikanth Lakshmanan <logic.linux at gmail.com>:
+
+> On 13 June 2015 at 16:21, Siva prabu <gsivaprabu at gmail.com> wrote:
+>
+> > Hi friends,
+> >
+> > Please suggest good tutorial or book for Python [Beginner to advanced
+> level
+> > ].
+> > ??
+> > regards,
+> > @gsivaprabu?
+> >
+> >
+> I have found codecademy[1] very easy to learn as its learning by doing than
+> reading. If you familiar with basics of programming, this helps learning
+> python concepts.
+>
+> [1] http://www.codecademy.com/en/tracks/python
+>
+>
+> --
+> Regards
+> Srikanth.L
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks and Regards, | ????
+
+Ajeya Anand | ???? ?????
+
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+
+[image: http://twitter.com/ajeyaajeya] <http://twitter.com/ajeyaajeya>
+[image: http://www.linkedin.com/in/ajeyaanand]
+<http://www.linkedin.com/in/ajeyaanand>
+
+From shirish at hamaralinux.org  Mon Jun 15 18:52:55 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Mon, 15 Jun 2015 18:52:55 +0530
+Subject: [Ilugc] [X-POST] [COMMERCIAL] Internship at Hamaralinux.org
+Message-ID: <557ED1AF.2010806@hamaralinux.org>
+
+Hi there,
+Want to find out how a GNU/Linux distribution actually happens,
+what all goes into making a distribution and be paid to do it ?
+
+Have you ever worked on some open-source project, only to realize that
+the potential is huge and dunno how to relate it to others ?
+
+Have you ever been called crazy because what you know of life is that it's
+an abstraction of the TUI/CLI and that's the only way life is worth living .
+
+If any or all of the above rings true, drop us a mail. We are looking
+for individuals :-
+
+    a. Who eat,drink, sleep and shit Open-Source
+    b. Who have a thousand and one ideas about what is wrong in today's
+   computing and have made some efforts to change them.
+    c. Who have at least have some idea of what a VCS (Version Control 
+System) is, and at the very least has made an account on one of such 
+public hosting sites and has contributed some time and effort to one or 
+more public
+projects.  If it's a patch or a pull request it is preferable.
+
+   Duration :- The position is of 6 months .
+
+   Place :- This could be a mix of on-site and remote internship. The
+   company is based in Gurgaon. The intern would have to manage travel
+   to-and-fro from Delhi to wherever they live.
+
+   Allowance :-  Rupees ten thousand per month.
+
+   Look forward to hearing from you on careers at hamaralinux.org
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From mail2marikkannan at gmail.com  Wed Jun 17 18:13:18 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 17 Jun 2015 18:13:18 +0530
+Subject: [Ilugc] Thunderbird Mail Receiving Issue
+Message-ID: <CAJ=JFUmkbrwjK=rPy5h9LubAMip5+TDN-zRi56BMb6m67Y6c4g@mail.gmail.com>
+
+Dear All.,
+
+
+         I have facing the thunderbird issue like "Some of the mails were
+not receiving in inbox" and while searching with the email-ids as
+"Filter".It is visiblile
+for me and I noticed that particular mail is being marked as "blocked
+-symbol" and the particular mail is being marked as "read mail".
+
+        How can I get all the mail in my "INBOX".,kindly suggest.
+
+
+Thanks in advance
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From shirish at hamaralinux.org  Thu Jun 18 02:20:24 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Thu, 18 Jun 2015 02:20:24 +0530
+Subject: [Ilugc] Thunderbird Mail Receiving Issue
+In-Reply-To: <CAJ=JFUmkbrwjK=rPy5h9LubAMip5+TDN-zRi56BMb6m67Y6c4g@mail.gmail.com>
+References: <CAJ=JFUmkbrwjK=rPy5h9LubAMip5+TDN-zRi56BMb6m67Y6c4g@mail.gmail.com>
+Message-ID: <5581DD90.8030003@hamaralinux.org>
+
+at bottom :-
+
+On 06/17/2015 06:13 PM, Marikkannan Rajagopal wrote:
+> Dear All.,
+>
+>
+>           I have facing the thunderbird issue like "Some of the mails were
+> not receiving in inbox" and while searching with the email-ids as
+> "Filter".It is visiblile
+> for me and I noticed that particular mail is being marked as "blocked
+> -symbol" and the particular mail is being marked as "read mail".
+>
+>          How can I get all the mail in my "INBOX".,kindly suggest.
+>
+>
+> Thanks in advance
+>
+
+As far as emails are not received in inbox, it probably is because you 
+have made filters If you remove those filters then they probably will be 
+seen in your Inbox without going to any folders or whatever filter you 
+have put up.
+
+As far as the "blocked symbol" is concerned, can you share a screenshot 
+so the list/I could know what you are talking about ?
+
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From shakthimaan at gmail.com  Thu Jun 18 08:12:15 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 18 Jun 2015 08:12:15 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt2231cXZ6CmLvh1p7GHPvWPZHfbod5ptehw1zXOd+Wgpw@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+	<CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+	<CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+	<CAPBZpVTbTpdh-2VUHXznh8BEFk1BSdNmvgmR8NazN=DOCR4WGA@mail.gmail.com>
+	<CABG-yt2231cXZ6CmLvh1p7GHPvWPZHfbod5ptehw1zXOd+Wgpw@mail.gmail.com>
+Message-ID: <CABG-yt0OzofuR6Xyv6ana_e+nqAGDnC7Tywbq4mNswYcc2x2qA@mail.gmail.com>
+
+Hi,
+
+I will have to travel this weekend, and hence will not be able to help
+organize the installfest this Saturday. We shall postpone it for now.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tuxuday at gmail.com  Thu Jun 18 10:45:11 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Thu, 18 Jun 2015 10:45:11 +0530
+Subject: [Ilugc] Installfest II on Saturday, June 20, 2015
+In-Reply-To: <CABG-yt0OzofuR6Xyv6ana_e+nqAGDnC7Tywbq4mNswYcc2x2qA@mail.gmail.com>
+References: <CABG-yt1H38-Fsx7O0trHWee1+p9VH6tbeW28GymMUXBkPrzL=Q@mail.gmail.com>
+	<CABG-yt278=dZO+4EKUzNoe=T0pBZHCGmkNsm=MAJSf69u6Gv3w@mail.gmail.com>
+	<CABG-yt2CdpJ3W=Af8+=seWNvHiLKL_3pKARCepSPSn_4oJuoXw@mail.gmail.com>
+	<CABG-yt1z3yyOUG7xCbsg3VfVQpYq3HUga_M8buUyQ5RE_nywTQ@mail.gmail.com>
+	<CABG-yt0a7qNLiORFYqDJNcgqoPG1XmzC6TPhNkiCeOYP4P_cNQ@mail.gmail.com>
+	<CAPBZpVTbTpdh-2VUHXznh8BEFk1BSdNmvgmR8NazN=DOCR4WGA@mail.gmail.com>
+	<CABG-yt2231cXZ6CmLvh1p7GHPvWPZHfbod5ptehw1zXOd+Wgpw@mail.gmail.com>
+	<CABG-yt0OzofuR6Xyv6ana_e+nqAGDnC7Tywbq4mNswYcc2x2qA@mail.gmail.com>
+Message-ID: <CANODOztpb8KC8jgW9Rhqff4+PygpCXCuPZTcS06uHESq3e_-vA@mail.gmail.com>
+
+On Thu, Jun 18, 2015 at 8:12 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> I will have to travel this weekend, and hence will not be able to help
+> organize the installfest this Saturday. We shall postpone it for now.
+>
+
+Bad man. Update when this gets postponed to.
+
+From satyaprakash.prasad at gmail.com  Sat Jun 20 12:45:38 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Sat, 20 Jun 2015 12:45:38 +0530
+Subject: [Ilugc]  Why can't I write good code
+Message-ID: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+
+When I see and try to read / understand FOSS source code files - I get
+confused or rather the code confuses me - they are so well written or
+rather to complex to understand at first pass.
+
+Why can't I write code of that quality - what is missing in me? Is it
+that the FOSS developers are great coders - they know designing /
+coding in-depth.?  Are FOSS developers exposed to great code under
+great brains at their very early stage of career?
+
+I come from Indian IT software background - bug fixing / support /
+maintenance etc are my daily work. But still I want to learn / skill
+myself like a good coder / planner. Unfortunately I do not have proper
+channels to educate me or give exposure.
+
+Now what I can do - I cannot keep reading books to understand each bit
+of design / language for implementation.
+
+Why can't I write good code? What it takes to write great code? Does
+the code needs to be really complex or leverage best Industry
+standards? When I reach people for clarifications they state "Sorry I
+do not know" ....
+
+From chidambasakthi at gmail.com  Sat Jun 20 18:42:02 2015
+From: chidambasakthi at gmail.com (chidambaresan ananthan)
+Date: Sat, 20 Jun 2015 18:42:02 +0530
+Subject: [Ilugc] Looking for Trainers for Conducting Webdevelopment
+	workshop[commercial]
+Message-ID: <CAHRa3=YAyJFLTBFqFLP+w4ETAJtNVa_PoULZoFDyDTxU7BM_Zg@mail.gmail.com>
+
+Dear Luggies,
+We are looking for trainers who can handle 4 days workshop on
+Html,css,javascript,php.The Event will be on 29th of this month to 2nd of
+july at madurai.Interested Trainers or luggies,contact me off the list.
+
+From manokaran at gmail.com  Sat Jun 20 18:45:29 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Sat, 20 Jun 2015 13:15:29 +0000
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+Message-ID: <CAKGmkL1ynjJzsLYsKq_3+P_sE9Ohi6BpbGNECPOcwY00S64o0g@mail.gmail.com>
+
+On Sat, Jun 20, 2015 at 12:46 PM Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+
+Don't have such a low opinion of your own code :-) If it does what you say
+it does, its good. It becomes great when others too can understand what it
+does without asking you. That comes with experience writing code. The
+second best way to improve your code is to read stalwart's code. Just don't
+let it feel ashamed of your own code. They are stalwarts and its not wrong
+not to be like them!
+
+Cheers,
+mano
+
+From satyaprakash.prasad at gmail.com  Sat Jun 20 19:26:24 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Sat, 20 Jun 2015 19:26:24 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CAKGmkL1ynjJzsLYsKq_3+P_sE9Ohi6BpbGNECPOcwY00S64o0g@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CAKGmkL1ynjJzsLYsKq_3+P_sE9Ohi6BpbGNECPOcwY00S64o0g@mail.gmail.com>
+Message-ID: <CACX5wcj6qFTG8szm5RZ8AFSGxTULcXvw=myPTgKR29jBRn1pDQ@mail.gmail.com>
+
+Linux / Python etc or Puppet / Scilab etc etc .. there are endless
+product to state - whereas we are just trying to scale. I have never
+heard a fresher stating I am good at designing or companies asking
+question regards to same.
+
+Whats an average life stage (in yrs) of development of a FOSS
+technology - how its gets popular - how people pool in .. how it
+becomes popular .. how do they conceive ideas ..
+
+Imagine I start a FOSS development work and my colleagues states that
+its bad code and shoves away .. how other FOSS developers synchronize
+on expertise ..
+
+On 6/20/15, Manokaran K <manokaran at gmail.com> wrote:
+> On Sat, Jun 20, 2015 at 12:46 PM Satya Prakash Prasad <
+> satyaprakash.prasad at gmail.com> wrote:
+>
+> Don't have such a low opinion of your own code :-) If it does what you say
+> it does, its good. It becomes great when others too can understand what it
+> does without asking you. That comes with experience writing code. The
+> second best way to improve your code is to read stalwart's code. Just don't
+> let it feel ashamed of your own code. They are stalwarts and its not wrong
+> not to be like them!
+>
+> Cheers,
+> mano
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From mohanht at gmail.com  Sun Jun 21 12:32:58 2015
+From: mohanht at gmail.com (Mohan Tarole)
+Date: Sun, 21 Jun 2015 12:32:58 +0530
+Subject: [Ilugc] Why can't I write good code
+Message-ID: <CAMoCvv3fD3F4JwRK3jsN+b5+LAWJoA8b3ZT6MLTNJTyt0rVkQA@mail.gmail.com>
+
+>Now what I can do - I cannot keep reading books to understand each bit
+>of design / language for implementation.
+
+There is no shortcut for writing the good code.
+One need to keep reading books, keep coding.
+Unless one read how he/she will know whats good or bad code is.
+
+Some programmers will really have good logic programming, and for remaining
+they need develop within them.
+
+also one can write good code if his/her knowledge on os internals, language
+(c in case of kernel programming) , processor architecture, algorithms.
+having this knowledge one can understand how code will translated to
+machine language, how its will get executed etc.
+
+so my suggestion keep reading , keep coding!!! Your code quality will
+definitely improve. remember that there are always more than one way to
+write certain logic.
+
+From 77minds at gmail.com  Sun Jun 21 17:36:23 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 21 Jun 2015 17:36:23 +0530
+Subject: [Ilugc] Great speech by stallman
+Message-ID: <CAJR+9kZvtMhXJ9s-ZuHQFZOs869HbR7EAr5C4PAM7rieUUYyXw@mail.gmail.com>
+
+https://goblinrefuge.com/mediagoblin/u/neppnepp/m/richard-stallman-freedom-in-your-computer-and-in-the-net-speech-2014/
+
+------
+
+Karthikeyan A K
+
+From shakthimaan at gmail.com  Mon Jun 22 08:40:47 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 22 Jun 2015 08:40:47 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+Message-ID: <CABG-yt1EN=_0QpbxxMOSA570rGcwV2HxhdLsP13A3E2C_p7fjQ@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Jun 20, 2015 at 12:45 PM, Satya Prakash Prasad
+<satyaprakash.prasad at gmail.com> wrote:
+| What it takes to write great code?
+\--
+
+Read "Teach Yourself Programming in Ten Years" by Peter Norvig:
+
+  http://norvig.com/21-days.html
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From ajeyaajeya at gmail.com  Mon Jun 22 10:39:00 2015
+From: ajeyaajeya at gmail.com (Ajeya Anand)
+Date: Mon, 22 Jun 2015 10:39:00 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CABG-yt1EN=_0QpbxxMOSA570rGcwV2HxhdLsP13A3E2C_p7fjQ@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CABG-yt1EN=_0QpbxxMOSA570rGcwV2HxhdLsP13A3E2C_p7fjQ@mail.gmail.com>
+Message-ID: <CAFRzf1of+3mFDJQoU60RMbBF28P_9BEq534NGfKBKSvP7yvh8w@mail.gmail.com>
+
+Thanks for sharing peter's link.
+
+2015-06-22 8:40 GMT+05:30 Shakthi Kannan <shakthimaan at gmail.com>:
+
+> Hi,
+>
+> --- On Sat, Jun 20, 2015 at 12:45 PM, Satya Prakash Prasad
+> <satyaprakash.prasad at gmail.com> wrote:
+> | What it takes to write great code?
+> \--
+>
+> Read "Teach Yourself Programming in Ten Years" by Peter Norvig:
+>
+>   http://norvig.com/21-days.html
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks and Regards, | ????
+
+Ajeya Anand | ???? ?????
+
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+[image: http://ajeya.wordpress.com/] <http://ajeya.wordpress.com/>
+
+[image: http://twitter.com/ajeyaajeya] <http://twitter.com/ajeyaajeya>
+[image: http://www.linkedin.com/in/ajeyaanand]
+<http://www.linkedin.com/in/ajeyaanand>
+
+From tshrinivasan at gmail.com  Tue Jun 23 01:17:05 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 23 Jun 2015 01:17:05 +0530
+Subject: [Ilugc] Fwd: [Chennaipy] June Meetup (RSVP Required)
+In-Reply-To: <55883D89.1020005@bravegnu.org>
+References: <55883D89.1020005@bravegnu.org>
+Message-ID: <CAND2796qpD0ktD=4UxeRca14iPJ73V4ODF1L-CXvZAfKtAB18w@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Vijay Kumar <vijaykumar at bravegnu.org>
+Date: 2015-06-22 22:23 GMT+05:30
+Subject: [Chennaipy] June Meetup (RSVP Required)
+To: Chennaipy at python.org
+
+
+# June Meetup
+
+## Date & Time
+
+   * 27th June (Saturday)
+   * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+   * Writing Parsers in Python By Hand (20 min)
+     by KS Sreeram
+
+   * Object Oriented Programming Paradigms in Python (20 min)
+     by Chandrashekar Babu
+
+   * Networking Tea (30 min)
+     Sponsored by Clay Labs
+
+   * Building websites using Plone (20 min)
+     by Suresh V
+
+   * Managing Jenkins with Python (20 min)
+     by Vijay Kumar B
+
+   * Discussions (20 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/222732435/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/222732435/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+   * Invent Your Own Computer Games with Python, Chapters 1 - 9
+     http://inventwithpython.com/chapters/
+
+   * Google's Python Course (with Lecture Videos)
+     https://developers.google.com/edu/python/
+
+   * How to Think Like a Computer Scientist, Chapters 1 - 12
+     http://www.greenteapress.com/thinkpython/
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From arun289 at gmail.com  Tue Jun 23 07:41:57 2015
+From: arun289 at gmail.com (Arun Venkataswamy)
+Date: Tue, 23 Jun 2015 07:41:57 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+Message-ID: <CAFe1ooJq8OJpR070rugSGm5+=zLzZwMKPsypUTi+YoY9qB=nJQ@mail.gmail.com>
+
+On Sat, Jun 20, 2015 at 12:45 PM, Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+
+> Why can't I write code of that quality - what is missing in me? Is it
+> that the FOSS developers are great coders - they know designing /
+> coding in-depth.?  Are FOSS developers exposed to great code under
+> great brains at their very early stage of career?
+>
+
+What is your experience in programming?
+Though it is debated now, Malcolm Gladwell in his book "Outliers : The
+story of success" claims it takes 10,000 hours of practice to achieve
+mastery in any field :
+http://www.wisdomgroup.com/blog/10000-hours-of-practice/
+
+
+Regards,
+Arun
+http://wondroussky.blogspot.in/
+
+"?????? ????? ????, ???????? ??????" - ???????
+Known is a drop, Unknown is an ocean
+
+From niranjan.ashok at gmail.com  Tue Jun 23 10:33:35 2015
+From: niranjan.ashok at gmail.com (mallapadi niranjan)
+Date: Tue, 23 Jun 2015 10:33:35 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CAFe1ooJq8OJpR070rugSGm5+=zLzZwMKPsypUTi+YoY9qB=nJQ@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CAFe1ooJq8OJpR070rugSGm5+=zLzZwMKPsypUTi+YoY9qB=nJQ@mail.gmail.com>
+Message-ID: <CAE_F0QR4N-oNS4czpqduZmC6AWZ0B71MgJumW3ybf4soM_bk=A@mail.gmail.com>
+
+Just to add what other have mentioned. Enjoy while learning or Programming,
+and Most important Have fun.
+
+The people who have written great code didn't do it to prove how great
+they are , It turned out to be great /well written code because they enjoyed
+the process.
+
+Paraphrasing from what Linus mentioned in the book. "Just for fun,"
+
+Linus had great fun while working on linux, and so should you.
+
+My 2c.
+
+
+On Tue, Jun 23, 2015 at 7:41 AM, Arun Venkataswamy <arun289 at gmail.com>
+wrote:
+
+> On Sat, Jun 20, 2015 at 12:45 PM, Satya Prakash Prasad <
+> satyaprakash.prasad at gmail.com> wrote:
+>
+> > Why can't I write code of that quality - what is missing in me? Is it
+> > that the FOSS developers are great coders - they know designing /
+> > coding in-depth.?  Are FOSS developers exposed to great code under
+> > great brains at their very early stage of career?
+> >
+>
+> What is your experience in programming?
+> Though it is debated now, Malcolm Gladwell in his book "Outliers : The
+> story of success" claims it takes 10,000 hours of practice to achieve
+> mastery in any field :
+> http://www.wisdomgroup.com/blog/10000-hours-of-practice/
+>
+>
+> Regards,
+> Arun
+> http://wondroussky.blogspot.in/
+>
+> "?????? ????? ????, ???????? ??????" - ???????
+> Known is a drop, Unknown is an ocean
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shihan.viswa at gmail.com  Tue Jun 23 13:36:57 2015
+From: shihan.viswa at gmail.com (viswaprasath)
+Date: Tue, 23 Jun 2015 13:36:57 +0530
+Subject: [Ilugc] Events Calendar
+Message-ID: <CAHuPp2=yekrNn-aW756uMR5mSFq5kTxrFipqfns81EkO1yNtWg@mail.gmail.com>
+
+Dear Contributors,
+
+Do we have a community calendar for Tamilnadu region, where we are
+registering all the events organized by open source communities.
+
+Thank you
+
+-- 
+Web is open so Code is poetry
+
+Firefox for Deskop <https://affiliates.mozilla.org/referral/63354/>
+Firefox Marketplace <https://affiliates.mozilla.org/referral/63355/> App
+Reviewer
+Firefox for Android <http://affiliates.mozilla.org/link/banner/3166>
+
+<http://about.me/viswaprasathks>
+
+[image: Viswaprasath Ks on about.me]
+
+Viswaprasath Ks
+about.me/viswaprasathks
+
+From vinothtronics at gmail.com  Wed Jun 24 02:42:08 2015
+From: vinothtronics at gmail.com (Vinoth Marimuthu)
+Date: Tue, 23 Jun 2015 17:12:08 -0400
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CAE_F0QR4N-oNS4czpqduZmC6AWZ0B71MgJumW3ybf4soM_bk=A@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CAFe1ooJq8OJpR070rugSGm5+=zLzZwMKPsypUTi+YoY9qB=nJQ@mail.gmail.com>
+	<CAE_F0QR4N-oNS4czpqduZmC6AWZ0B71MgJumW3ybf4soM_bk=A@mail.gmail.com>
+Message-ID: <CAHoi8=gD5k6tUjjDGO16QqJRa3fwJP_gPX-u0_opyvOXrcUbAA@mail.gmail.com>
+
+I just read this blog[1] and thought relevent to this mail chain
+
+[1] http://www.yegor256.com/2015/06/18/good-programmers-bug-free.html
+
+On Tue, Jun 23, 2015 at 1:03 AM, mallapadi niranjan <
+niranjan.ashok at gmail.com> wrote:
+
+> Just to add what other have mentioned. Enjoy while learning or Programming,
+> and Most important Have fun.
+>
+> The people who have written great code didn't do it to prove how great
+> they are , It turned out to be great /well written code because they
+> enjoyed
+> the process.
+>
+> Paraphrasing from what Linus mentioned in the book. "Just for fun,"
+>
+> Linus had great fun while working on linux, and so should you.
+>
+> My 2c.
+>
+>
+> On Tue, Jun 23, 2015 at 7:41 AM, Arun Venkataswamy <arun289 at gmail.com>
+> wrote:
+>
+> > On Sat, Jun 20, 2015 at 12:45 PM, Satya Prakash Prasad <
+> > satyaprakash.prasad at gmail.com> wrote:
+> >
+> > > Why can't I write code of that quality - what is missing in me? Is it
+> > > that the FOSS developers are great coders - they know designing /
+> > > coding in-depth.?  Are FOSS developers exposed to great code under
+> > > great brains at their very early stage of career?
+> > >
+> >
+> > What is your experience in programming?
+> > Though it is debated now, Malcolm Gladwell in his book "Outliers : The
+> > story of success" claims it takes 10,000 hours of practice to achieve
+> > mastery in any field :
+> > http://www.wisdomgroup.com/blog/10000-hours-of-practice/
+> >
+> >
+> > Regards,
+> > Arun
+> > http://wondroussky.blogspot.in/
+> >
+> > "?????? ????? ????, ???????? ??????" - ???????
+> > Known is a drop, Unknown is an ocean
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vijaykumar at bravegnu.org  Wed Jun 24 10:01:09 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Wed, 24 Jun 2015 04:31:09 +0000 (UTC)
+Subject: [Ilugc] Python User Group, June Meetup
+Message-ID: <loom.20150624T062930-327@post.gmane.org>
+
+# June Meetup
+
+## Date & Time
+
+   * 27th June (Saturday)
+   * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+   * Writing Parsers in Python By Hand (20 min)
+     by KS Sreeram
+
+   * Object Oriented Programming Paradigms in Python (20 min)
+     by Chandrashekar Babu
+
+   * Networking Tea (30 min)
+     Sponsored by Clay Labs
+
+   * Building websites using Plone (20 min)
+     by Suresh V
+
+   * Managing Jenkins with Python (20 min)
+     by Vijay Kumar B
+
+   * Discussions (20 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/222732435/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/222732435/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+   * Invent Your Own Computer Games with Python, Chapters 1 - 9
+     http://inventwithpython.com/chapters/
+
+   * Google's Python Course (with Lecture Videos)
+     https://developers.google.com/edu/python/
+
+   * How to Think Like a Computer Scientist, Chapters 1 - 12
+     http://www.greenteapress.com/thinkpython/ 
+
+
+From knura9 at gmail.com  Wed Jun 24 21:12:43 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 24 Jun 2015 10:42:43 -0500
+Subject: [Ilugc] openldap and Microsoft active directory
+In-Reply-To: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+References: <CADHE0Dr_-74t8HbzS1zWoHrm3cPFYzsEyUO7g=eWZp8X-WJ9kA@mail.gmail.com>
+Message-ID: <CAHhM8gC6RuPSAA2=O32bxQD35HT_R1D4pX+Wq4=yNoWo1AmBqQ@mail.gmail.com>
+
+On Fri, May 15, 2015 at 1:24 AM, Balu manyam <balu.manyam at gmail.com> wrote:
+> Namaste all -- Has anyone worked on openldap with Microsoft AD ? I am
+> searching for a way where Microsoft AD will forward the requests to
+> openldap for specific domain ?
+>
+> Ideas?
+
+I was looking for the same a couple of years ago.
+Search keywords "openldap proxy active directory" will give you links
+to start your research on the implementation.
+
+Best,
+-- Arun Khan
+
+From prasmailme at gmail.com  Wed Jun 24 21:34:29 2015
+From: prasmailme at gmail.com (Prasanna Venkadesh)
+Date: Wed, 24 Jun 2015 21:34:29 +0530
+Subject: [Ilugc] Cryptoparty this Sunday
+Message-ID: <CACm7z1aP0O0kCebPmU0bJLB+4gCStWT3cuHj72LQbS-PK5aa7A@mail.gmail.com>
+
+Hello people,
+
+FSFTN is organizing Cryptoparty this Sunday (28.6.2015) at Asian College of
+Journalism, Chennai.
+
+"Governments around the world, are greatly increasing their surveillance of
+the Internet. Alongside a loss of the private sphere, this also represents
+a clear danger to basic civil liberties. The good news is that we already
+have the solution: encrypting communications makes it very hard, if not
+entirely impossible, for others to eavesdrop on our conversations. The bad
+news is that crypto is largely ignored by the general public, partly
+because they don't know about it, and partly because even if they do, it
+seems too much trouble to implement."
+
+*So lets go and have a party, and teach each other how to crypto!*
+
+For more information about the event please visit the following links:
+
+   - http://discuss.fsftn.org/t/cryptoparty-chennai/376
+   - https://www.cryptoparty.in/chennai
+   -
+   http://www.meetup.com/Free-Software-Foundation-TamilNadu/events/223463630/
+
+Registration is Free, but they are limited.
+
+
+-- 
+Thanks & Regards,
+Prasanna Venkadesh.
+
+From greatarpu at gmail.com  Thu Jun 25 13:19:17 2015
+From: greatarpu at gmail.com (arpu s)
+Date: Thu, 25 Jun 2015 13:19:17 +0530
+Subject: [Ilugc] [JOB] Need Drupal developer for our team
+Message-ID: <CAC_8RUYMrXFSYHovPb57R4uF6__u2VouLa1TTUrfDX9v5Qd7CQ@mail.gmail.com>
+
+Dear All,
+    We at Qbeing Technologies hiring freshers and experienced.
+
+Position: Developer
+
+Expected skill sets::
+ *Working knowledge of Linux OS
+ *Drupal *php *html *jquery * angularjs *postgres/mysql
+
+Duration::
+  It can be extended depending on the projects/topics/candidates
+
+Eligibility criteria::
+* Any degree holders from BE/MCA/Msc
+* However Degrees and disciplines are not the constraint for Linux/Open
+source enthusiasts.
+
+How to Apply::
+If you are interested in the above position, please send your updated CV
+along with your covering letter which contains the information like your
+current location, and why you would like to join with us. Send your CV with
+covering letter to arpu at qbeing.info on or before 5th June 2015.
+
+Appreciated to forward the info to others.
+
+Warm Regards,
+Arputharaj Samuel,
+Qbeing Technologies.
+
+From greatarpu at gmail.com  Thu Jun 25 14:50:07 2015
+From: greatarpu at gmail.com (arpu s)
+Date: Thu, 25 Jun 2015 14:50:07 +0530
+Subject: [Ilugc] [JOB] Drupal Developer for Our Team
+Message-ID: <CAC_8RUbS31mZCpxt5VjXvStLq1Qc3EEmYgcBmeAahZjnoPC-7g@mail.gmail.com>
+
+Dear All,
+    We at Qbeing Technologies hiring freshers and experienced.
+
+Position: Developer
+
+Expected skill sets::
+ *Working knowledge of Linux OS
+ *Drupal *php *html *jquery * angularjs *postgres/mysql
+
+Duration::
+  It can be extended depending on the projects/topics/candidates
+
+Eligibility criteria::
+* Any degree holders from BE/MCA/Msc
+* However Degrees and disciplines are not the constraint for Linux/Open
+source enthusiasts.
+
+How to Apply::
+If you are interested in the above position, please send your updated CV
+along with your covering letter which contains the information like your
+current location, and why you would like to join with us. Send your CV with
+covering letter to arpu at qbeing.info on or before 5th July 2015.
+
+Appreciated to forward the info to others.
+
+Warm Regards,
+Arputharaj Samuel,
++91 9790723164,
+Qbeing Technologies.
+
+From knura9 at gmail.com  Fri Jun 26 06:05:26 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Thu, 25 Jun 2015 19:35:26 -0500
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+Message-ID: <CAHhM8gDm19OgqNmzvsaqa4ZSoX_xNq+=zmSSD2zeLpjW71+-Yg@mail.gmail.com>
+
+On Sat, Jun 20, 2015 at 2:15 AM, Satya Prakash Prasad
+<satyaprakash.prasad at gmail.com> wrote:
+>
+> Now what I can do - I cannot keep reading books to understand each bit
+> of design / language for implementation.
+>
+> Why can't I write good code? What it takes to write great code? Does
+> the code needs to be really complex or leverage best Industry
+> standards? When I reach people for clarifications they state "Sorry I
+> do not know" ....
+>
+
+I agree with other's comments but here is my take -
+IMO, good Systems Analysis/ Design (SA/SD) is the essence of any
+system.  Coding is the implementation part.
+
+Unfortunately, the education system starts of with programming
+language(s) with little or no emphasis on SA/SD.
+
+The "stalwarts" usually have the SA/SD in their heads and it's result
+is high quality code
+
+-- Arun Khan
+
+From satyaprakash.prasad at gmail.com  Fri Jun 26 12:37:04 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Fri, 26 Jun 2015 12:37:04 +0530
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CAHhM8gDm19OgqNmzvsaqa4ZSoX_xNq+=zmSSD2zeLpjW71+-Yg@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CAHhM8gDm19OgqNmzvsaqa4ZSoX_xNq+=zmSSD2zeLpjW71+-Yg@mail.gmail.com>
+Message-ID: <CACX5wciL4OAa83npJsy0-btg7cv4_yn-QJFR9wdG8aCacVsBLw@mail.gmail.com>
+
+Can anyone please share a practical approach to design / implement code?
+
+I would like to understand how the design process starts , how a coder
+understands the system and implementation? What are the by-products of
+design phase - how there documents gates converted to coding?
+
+Regards,
+Prakash
+
+On Fri, Jun 26, 2015 at 6:05 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Sat, Jun 20, 2015 at 2:15 AM, Satya Prakash Prasad
+> <satyaprakash.prasad at gmail.com> wrote:
+> >
+> > Now what I can do - I cannot keep reading books to understand each bit
+> > of design / language for implementation.
+> >
+> > Why can't I write good code? What it takes to write great code? Does
+> > the code needs to be really complex or leverage best Industry
+> > standards? When I reach people for clarifications they state "Sorry I
+> > do not know" ....
+> >
+>
+> I agree with other's comments but here is my take -
+> IMO, good Systems Analysis/ Design (SA/SD) is the essence of any
+> system.  Coding is the implementation part.
+>
+> Unfortunately, the education system starts of with programming
+> language(s) with little or no emphasis on SA/SD.
+>
+> The "stalwarts" usually have the SA/SD in their heads and it's result
+> is high quality code
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From manokaran at gmail.com  Fri Jun 26 13:50:13 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Fri, 26 Jun 2015 08:20:13 +0000
+Subject: [Ilugc] Why can't I write good code
+In-Reply-To: <CACX5wciL4OAa83npJsy0-btg7cv4_yn-QJFR9wdG8aCacVsBLw@mail.gmail.com>
+References: <CACX5wchj9Yc5a64YYYf5bRgy7AnAGMaNBUvhp9y22-q_7byzNw@mail.gmail.com>
+	<CAHhM8gDm19OgqNmzvsaqa4ZSoX_xNq+=zmSSD2zeLpjW71+-Yg@mail.gmail.com>
+	<CACX5wciL4OAa83npJsy0-btg7cv4_yn-QJFR9wdG8aCacVsBLw@mail.gmail.com>
+Message-ID: <CAKGmkL00vVoCwvaCcD2n8actvr9cxqBu1SEOj79A9fPwpUJeJQ@mail.gmail.com>
+
+Too much analysis will lead to paralysis :-) The best way to learn swimming
+is to get into the water. Begin in the shallow end and work your way
+towards the deep end. You'll slip and learn some lessons the hard way,
+which, incidentally is the surest way. You'll have to curb the tendency to
+look up to the 'aces' and seek their approval. They don't care!
+
+Cheers,
+mano
+
+On Fri, Jun 26, 2015 at 12:37 PM Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+
+> Can anyone please share a practical approach to design / implement code?
+>
+> I would like to understand how the design process starts , how a coder
+> understands the system and implementation? What are the by-products of
+> design phase - how there documents gates converted to coding?
+>
+> Regards,
+> Prakash
+>
+> On Fri, Jun 26, 2015 at 6:05 AM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Sat, Jun 20, 2015 at 2:15 AM, Satya Prakash Prasad
+> > <satyaprakash.prasad at gmail.com> wrote:
+> > >
+> > > Now what I can do - I cannot keep reading books to understand each bit
+> > > of design / language for implementation.
+> > >
+> > > Why can't I write good code? What it takes to write great code? Does
+> > > the code needs to be really complex or leverage best Industry
+> > > standards? When I reach people for clarifications they state "Sorry I
+> > > do not know" ....
+> > >
+> >
+> > I agree with other's comments but here is my take -
+> > IMO, good Systems Analysis/ Design (SA/SD) is the essence of any
+> > system.  Coding is the implementation part.
+> >
+> > Unfortunately, the education system starts of with programming
+> > language(s) with little or no emphasis on SA/SD.
+> >
+> > The "stalwarts" usually have the SA/SD in their heads and it's result
+> > is high quality code
+> >
+> > -- Arun Khan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Sat Jun 27 01:14:30 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sat, 27 Jun 2015 01:14:30 +0530
+Subject: [Ilugc] [OT] A good article on Chennai Ruby Community
+Message-ID: <CAND2795V-w+5VUL0iBAoDnUQ2DfuFqYL+6XvyMVdWzxnBvMkiA@mail.gmail.com>
+
+What I learnt about community building at the Chennai-Ruby group ?
+
+http://zerothabhishek.com/lessons-from-chennai-rb.html
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From 77minds at gmail.com  Sun Jun 28 16:55:27 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 28 Jun 2015 16:55:27 +0530
+Subject: [Ilugc] What could be in I Love Ruby
+Message-ID: <CAJR+9kZ66wO34=0vvdMGXWYkgMT9fyS0KvKunrv31BmOcb9jQg@mail.gmail.com>
+
+Hello people, would be nice if any one could contribute to I Love Ruby 2016
+edition
+https://rails7.wordpress.com/2015/06/28/what-could-be-in-i-love-ruby-2016/
+
+----
+
+Karthikeyan A K
+
+From bala150985 at gmail.com  Sun Jun 28 22:12:18 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Sun, 28 Jun 2015 22:12:18 +0530
+Subject: [Ilugc] [Blog] - Compressing Large video files
+Message-ID: <CAFHFDAkdwEVeje0WKg6A0jgLbNj5jn81z2ogyDqt1zKjnHTOSQ@mail.gmail.com>
+
+I wrote a recent blog[2] and though that I could share it with the
+community to get their feedback.  To avoid people telling me that I am
+making others going to my blog I have copy pasted the contents here except
+for the code.
+Compressing Large video files
+ My phone records video in HD nothing new here.  However the file size of
+each and every video is enormous.  So like any other person I started
+googling to see how I can compress the video files.  I came up with this
+following bash script [1].  This script will basically list all MP4 files
+in our directory.  Then use VLC command line parameters to compress the
+file.   Oh and one more thing it can also rotate the video automatically to
+Landscape mode if it was taken in Portrait mode.
+
+[1]
+http://pastebin.com/5VTBWkG5
+
+I was able to get pretty good compression.  My file size which was 24.7 MB
+got compressed to ~8 MB.
+
+
+http://bullet-bala.blogspot.in/2015/06/compressing-large-video-files.html
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From professionalgraam at gmail.com  Mon Jun 29 20:47:52 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 29 Jun 2015 20:47:52 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <5572B9C1.2000007@gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+Message-ID: <559161A0.8060500@gmail.com>
+
+
+On 06-06-2015 14:43, Gowtham Raam wrote:
+> Hi All,
+>
+> As I am in onsite. I would be unable to continue to be the co-ordinator of ILUGC. So I kindly request you all to
+> elect a new co-ordinator. Thank you all for being with me. I will be in touch with you.
+>
+>
+Hi All,
+
+We are happy to welcome our new co-ordinator BASKAR. We will support in
+all activities as co-ordinator.
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+From citizenofgnu at gmail.com  Mon Jun 29 20:53:51 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Mon, 29 Jun 2015 20:53:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <559161A0.8060500@gmail.com>
+References: <5572B9C1.2000007@gmail.com>
+	<559161A0.8060500@gmail.com>
+Message-ID: <CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+
+Hi
+>>We are happy to welcome our new co-ordinator BASKAR. We will support in
+all activities as co-ordinator.
+
+where is the election ?? when did it happen!
+
+regards,
+
+Thyagarajan shanmugham
+
+From tshrinivasan at gmail.com  Tue Jun 30 03:36:30 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 30 Jun 2015 03:36:30 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+Message-ID: <CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+
+> where is the election ?? when did it happen!
+
+We can have the election, in the upcoming meeting, if required and if
+many people show interest.
+
+Interested people can attend the meeting and discuss.
+
+We need a person, atleast to announce and co-ordinate the next meeting. :-)
+
+Baskar ( baskar910 at gmail.com ) agreed to be assist on conducting
+meeting, until election happens or someone else is interested in
+taking the role.
+
+Thanks Baskar.
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From citizenofgnu at gmail.com  Tue Jun 30 07:32:51 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Tue, 30 Jun 2015 07:32:51 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+Message-ID: <CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+
+Hi,
+
+
+I request the list to consider to conduct "free and fair election", prior
+to this there needs a discussion on 'panel formation' as proposed by
+Alagunambi Welkin.
+
+regards,
+
+Thyagarajan Shanmugham.
+
+From manokaran at gmail.com  Tue Jun 30 15:45:54 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Tue, 30 Jun 2015 10:15:54 +0000
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+Message-ID: <CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+
+I feel the list members need not be included. The election exercise should
+be restricted to those who physically attend the LUG events.
+
+On Tue, Jun 30, 2015 at 7:33 AM Thyagarajan ?????????? <
+citizenofgnu at gmail.com> wrote:
+
+> Hi,
+>
+>
+> I request the list to consider to conduct "free and fair election", prior
+> to this there needs a discussion on 'panel formation' as proposed by
+> Alagunambi Welkin.
+>
+> regards,
+>
+> Thyagarajan Shanmugham.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vijai.ganapathy at gmail.com  Tue Jun 30 15:49:11 2015
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Tue, 30 Jun 2015 15:49:11 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+	<CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+Message-ID: <CACahg4FDfzC5sVyZExiQ+OXt5VCW1ZU41NScyuFeJT39VEg4wQ@mail.gmail.com>
+
+I agree with Manokaran.
+
+
+
+On Tue, Jun 30, 2015 at 3:45 PM, Manokaran K <manokaran at gmail.com> wrote:
+
+> I feel the list members need not be included. The election exercise should
+> be restricted to those who physically attend the LUG events.
+>
+> On Tue, Jun 30, 2015 at 7:33 AM Thyagarajan ?????????? <
+> citizenofgnu at gmail.com> wrote:
+>
+> > Hi,
+> >
+> >
+> > I request the list to consider to conduct "free and fair election", prior
+> > to this there needs a discussion on 'panel formation' as proposed by
+> > Alagunambi Welkin.
+> >
+> > regards,
+> >
+> > Thyagarajan Shanmugham.
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From baskar at linuxpert.in  Tue Jun 30 15:51:15 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Tue, 30 Jun 2015 15:51:15 +0530
+Subject: [Ilugc] Co-ordinator for Ilugc
+In-Reply-To: <CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+References: <5572B9C1.2000007@gmail.com> <559161A0.8060500@gmail.com>
+	<CAEdr4A6HL3FnJ3axEoCyfpB96Y0YmTMFRPX5v_ARK_AnecwpLQ@mail.gmail.com>
+	<CAND2794B_tdd5Nrmrz4eAHGWzjZBL_ww284HMuaDZucPkFLL2g@mail.gmail.com>
+	<CAEdr4A5S7Dz7JAZYB-TyCNH7jZZOskS8yXRe0A1-aBq=3oS2vg@mail.gmail.com>
+	<CAKGmkL3+B4a4WT501vMJPj+s7Fu2mzxUT_Kv0gXyzhce94KQtQ@mail.gmail.com>
+Message-ID: <CACtiFJaGfD8g-TRS=1UL4DVCfd6fuSqtGFvJ=EWuycK2gwVjiA@mail.gmail.com>
+
+On Tue, Jun 30, 2015 at 3:45 PM, Manokaran K <manokaran at gmail.com> wrote:
+
+> I feel the list members need not be included. The election exercise should
+> be restricted to those who physically attend the LUG events.
+>
+>  Then, there won't be even 10 members to vote.
+
+S. Baskar
+
+From mayilvahananjothivel at gmail.com  Tue Jun 30 16:02:59 2015
+From: mayilvahananjothivel at gmail.com (Mayilvahanan Jothivel)
+Date: Tue, 30 Jun 2015 16:02:59 +0530
+Subject: [Ilugc] os installation help
+Message-ID: <CA+PS5Y00KUywmBZ9nw2MeN5L7+Gr8EdyKMHAZgvZyg8QOx60Tw@mail.gmail.com>
+
+ Sir i need to install zorin os instead of window without loss of data in
+other drives expect C drive
+
+-- 
+With regards,
+
+J.Karthick Myilvahanan,
+5, Valarmathj nagar,
+Thudiyalur,
+Coimbatore - 641034.
+
+Ph no: +919442023111
+

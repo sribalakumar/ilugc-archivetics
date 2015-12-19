@@ -1,0 +1,187 @@
+From sivaspl at softhome.net  Sun Dec 31 19:02:16 2000
+From: sivaspl at softhome.net (siva)
+Date: Mon, 1 Jan 2001 00:32:16 +0530
+Subject: [Ilugc] sendmail on dialup-siva
+References: <20021230063002.29767.6148.Mailman@gateway>
+Message-ID: <008101c0735c$3a8a46e0$41ab09ca@siva>
+
+dear friends,
+New year Wishes. currently i am using Redhat linux 7.2 in my office.I need
+help to configure send mail for dailup connectivity. ie our lan users send
+mail to my linux server. whenever our linux server connected to internet the
+mail automatically send to outside world. we have got Dshnet account.
+Isp address
+ pop3 server = pop3.eth.net
+smtp server = smtp.eth.net.
+I need help how to configure the mail server in dial-up line. (ie dynamic
+ip)
+please give solution.reply to sivaspl@softhome.net
+
+regards
+sivakumar
+sivaspl@softhome.net
+
+
+
+From sivaspl at softhome.net  Sun Dec 31 19:08:30 2000
+From: sivaspl at softhome.net (siva)
+Date: Mon, 1 Jan 2001 00:38:30 +0530
+Subject: [Ilugc] sendmail dialup help
+References: <20021231063002.13332.14578.Mailman@gateway>
+Message-ID: <00a701c0735d$13759680$41ab09ca@siva>
+
+dear friends,
+New year Wishes. currently i am using Redhat linux 7.2 in my office.I need
+help to configure send mail for dailup connectivity. ie our lan users send
+mail to my linux server. whenever our linux server connected to internet the
+mail automatically send to outside world. we have got Dshnet account.
+Isp address
+ pop3 server = pop3.eth.net
+smtp server = smtp.eth.net.
+I need help how to configure the mail server in dial-up line. (ie dynamic
+ip)
+please give solution.reply to sivaspl@softhome.net
+
+regards
+sivakumar
+sivaspl@softhome.net
+
+
+
+
+From sivaspl at softhome.net  Sun Dec 31 18:54:40 2000
+From: sivaspl at softhome.net (siva)
+Date: Mon, 1 Jan 2001 00:24:40 +0530
+Subject: [Ilugc] Re: ilugc digest, Vol 1 #267 - 13 msgs
+References: <20030116063003.6517.91582.Mailman@gateway>
+Message-ID: <009501c0735b$4d271900$27ab09ca@siva>
+
+----- Original Message -----
+From: <ilugc-request@aero.iitm.ernet.in>
+To: <ilugc@aero.iitm.ernet.in>
+Sent: Thursday, January 16, 2003 12:00 kumar
+Subject: ilugc digest, Vol 1 #267 - 13 msgs
+
+
+> Send ilugc mailing list submissions to
+> ilugc@aero.iitm.ernet.in
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://www.aero.iitm.ernet.in/mailman/listinfo/ilugc
+> or, via email, send a message with subject or body 'help' to
+> ilugc-request@aero.iitm.ernet.in
+>
+> You can reach the person managing the list at
+> ilugc-admin@aero.iitm.ernet.in
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of ilugc digest..."
+>
+>
+
+
+----------------------------------------------------------------------------
+----
+
+
+> Today's Topics:
+>
+>    1. Re:g++ and mySQL (dhyan chettan)
+>    2. Re: g++ and mySQL (Bharathi S)
+>    3. Re: Real time (Suriya Narayanan M S)
+>    4. Re: Creating ERD in linuc OS... (Suriya Narayanan M S)
+>    5. Re: RH7.2 on XP (Suriya Narayanan M S)
+>    6. segmentation fault (sachinr@vsnl.in)
+>    7. Re: segmentation fault (Natarajan K)
+>    8. Konqueror queries. (S Anand)
+>    9. Re: RH7.2 on XP (Suraj Kumar)
+>   10. Re: segmentation fault (Suraj Kumar)
+>   11. Re: Konqueror queries. (karthik)
+>   12. how to enable ip tables (Selva Prasad)
+>   13. Re: group creation in email clients (Natarajan K)
+>
+
+
+----------------------------------------------------------------------------
+----
+
+
+> _______________________________________________
+> ilugc mailing list
+> ilugc@aero.iitm.ernet.in
+> http://www.aero.iitm.ernet.in/mailman/listinfo/ilugc
+>
+>
+
+
+From sivaspl at softhome.net  Sun Dec 31 18:54:46 2000
+From: sivaspl at softhome.net (siva)
+Date: Mon, 1 Jan 2001 00:24:46 +0530
+Subject: [Ilugc] Re: ilugc digest, Vol 1 #268 - 17 msgs
+References: <20030116131400.13032.99892.Mailman@gateway>
+Message-ID: <009601c0735b$5075f5e0$27ab09ca@siva>
+
+----- Original Message -----
+From: <ilugc-request@aero.iitm.ernet.in>
+To: <ilugc@aero.iitm.ernet.in>
+Sent: Thursday, January 16, 2003 6:44 kumar
+Subject: ilugc digest, Vol 1 #268 - 17 msgs
+
+
+> Send ilugc mailing list submissions to
+> ilugc@aero.iitm.ernet.in
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://www.aero.iitm.ernet.in/mailman/listinfo/ilugc
+> or, via email, send a message with subject or body 'help' to
+> ilugc-request@aero.iitm.ernet.in
+>
+> You can reach the person managing the list at
+> ilugc-admin@aero.iitm.ernet.in
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of ilugc digest..."
+>
+>
+
+
+----------------------------------------------------------------------------
+----
+
+
+> Today's Topics:
+>
+>    1. hi (sathish)
+>    2. Re: how to enable ip tables (Bharathi S)
+>    3. hi (sathish)
+>    4. Re: ilugc digest, Vol 1 #267 - 13 msgs (jayadev)
+>    5. Exclude specific subscribers from receiving mails (Sriram Karra)
+>    6. Re: Exclude specific subscribers from receiving mails (Suresh
+Ramasubramanian)
+>    7. help on intranet stuff (Anoop Kumar Saxena)
+>    8. LINK: India's first GNU/Linux mag on its way soon... (Frederick
+Noronha)
+>    9. reg webserver (sathish)
+>   10. Re: reg webserver (Bharathi S)
+>   11. Re: help on intranet stuff (BGanesh)
+>   12. RE: help on intranet stuff (Anoop Kumar Saxena)
+>   13. Re: how to enable ip tables (km@mrna.tn.nic.in)
+>   14. Re: how to enable ip tables (Bharathi S)
+>   15. RE: help on intranet stuff (BGanesh)
+>   16. RE: help on intranet stuff (Anoop Kumar Saxena)
+>   17. Re: how to enable ip tables (shobhan)
+>
+
+
+----------------------------------------------------------------------------
+----
+
+
+> _______________________________________________
+> ilugc mailing list
+> ilugc@aero.iitm.ernet.in
+> http://www.aero.iitm.ernet.in/mailman/listinfo/ilugc
+>
+>
+
+

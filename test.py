@@ -1,7 +1,10 @@
 import mailbox
 import json
 import datetime
+import code
 import sys
+import os.path
+import glob
 from elasticsearch import Elasticsearch
 from dateutil import parser
 
@@ -43,6 +46,7 @@ def put_to_es(dictionary):
   es = Elasticsearch([{'host': 'localhost', 'port': 9200}]) #should try to put it in some constant instead of everytime init
   index = 'ilugc_archives' #ideally this should be in some constant.
   doc_type = "email"
+  #code.interact(local=dict(globals(), **locals()))
   doc_id = dictionary["Message-ID"]
   dictionary.pop("Message-ID")
   body = json.dumps(dictionary)
@@ -92,14 +96,22 @@ def get_content(message):
     content = message.get_payload(decode=False)
   return content
 
-mbox = mailbox.mbox("archives/2010-December.txt")
-for message in mbox:
-  dictionary = {}
-  for key in message.keys():
-    dictionary[key] = sanitize_key_value(key, message[key])
-  if not dictionary.has_key("Message-ID"):
-    print "*****No message id for the dictionary ******"
-    print str(message)
-    continue
-  dictionary['content'] = get_content(message)
-  put_to_es(dictionary)
+
+source_dir = os.path.dirname(os.path.abspath(__file__)) + "/archives/"
+
+#One time case, remove this and make it to get the current month archive alone once legacy archives are pushed.
+for src_name in glob.glob(os.path.join(source_dir, '*.txt')):
+  try:
+    mbox = mailbox.mbox(src_name)
+    for message in mbox:
+      dictionary = {}
+      for key in message.keys():
+        dictionary[key] = sanitize_key_value(key, message[key])
+      if not dictionary.has_key("Message-ID"):
+        print "*****No message id for the dictionary ******"
+        print str(message)
+        continue
+      dictionary['content'] = get_content(message)
+      put_to_es(dictionary)
+  except:
+    print "ERROR: with " + src_name

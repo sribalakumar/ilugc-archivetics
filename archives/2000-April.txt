@@ -1,0 +1,212 @@
+From vaghul at mahindrabt.com  Sun Apr 30 06:54:26 2000
+From: vaghul at mahindrabt.com (vaghul)
+Date: Sun, 30 Apr 2000 12:24:26 +0530
+Subject: [Ilugc] Re: ilugc digest, Vol 1 #1016 - 5 msgs
+References: <20040430063003.3654.33066.Mailman@gateway.aero.iitm.ernet.in>
+Message-ID: <005101bfb270$ed1c7650$100d050a@dscp00752>
+
+hi,
+Xconfigurator and startx are not working?
+not even responding.
+solution plz
+----- Original Message -----
+From: <ilugc-request@ae.iitm.ac.in>
+To: <ilugc@ae.iitm.ac.in>
+Sent: Friday, April 30, 2004 12:00 PM
+Subject: ilugc digest, Vol 1 #1016 - 5 msgs
+
+
+> Send ilugc mailing list submissions to
+> ilugc@ae.iitm.ac.in
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> or, via email, send a message with subject or body 'help' to
+> ilugc-request@ae.iitm.ac.in
+>
+> You can reach the person managing the list at
+> ilugc-admin@ae.iitm.ac.in
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of ilugc digest..."
+>
+>
+> Today's Topics:
+>
+>    1. Changing font size! (Vijaykumar M S aka Sam)
+>    2. Re: startx problem (Sanjay Chigurupati)
+>    3. Re: startx problem (Suresh Ramasubramanian)
+>    4. Re: Changing font size! (Bharathi S)
+>    5. Re: Loop back interface (Praveen Kumar)
+>
+> --__--__--
+>
+> Message: 1
+> From: "Vijaykumar M S aka Sam" <red@srasys.co.in>
+> To: <ilugc@ae.iitm.ac.in>
+> Date: Thu, 29 Apr 2004 12:25:40 +0530
+> Subject: [Ilugc] Changing font size!
+>
+> Hi,
+>
+> How do i change the fontsize of the terminal interface (Non-GUI)?
+>
+> Vijay
+>
+> --__--__--
+>
+> Message: 2
+> Subject: Re: [Ilugc] startx problem
+> To: Suresh Ramasubramanian <linux@frodo.hserus.net>
+> Cc: lugc questions <ilugc@aero.iitm.ernet.in>
+> From: "Sanjay Chigurupati" <Sanjay.Chigurupati@lntinfotech.com>
+> Date: Thu, 29 Apr 2004 12:29:17 +0530
+>
+>
+>  Hi,
+> I have had the same problem.
+> Does that mean xfs (xfont server) has not started or has crashed ?
+>
+> regards,
+> Sanjay
+>
+>
+>
+>
+>                       Suresh
+>                       Ramasubramanian          To:       babu jayapaul
+<babu_jayapaul@yahoo.com>
+>                       <linux@frodo.hser        cc:       lugc questions
+<ilugc@aero.iitm.ernet.in>
+>                       us.net>                  Subject:  Re: [Ilugc]
+startx problem
+>                       Sent by:
+>                       ilugc-admin@ae.ii
+>                       tm.ac.in
+>
+>
+>                       29/04/2004 10:51
+>                       AM
+>
+>
+>
+>
+>
+>
+> babu jayapaul  writes on 4/29/2004 10:45 AM:
+>
+> >      could not open default font 'fixed' "
+> >
+> > please give me a solution.
+>
+> /etc/rc.d/init.d/xfs start
+> _______________________________________________
+> To unsubscribe, email ilugc-request@ae.iitm.ac.in with
+> "unsubscribe <password> address"
+> in the subject or body of the message.
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>
+>
+>
+>
+>
+>
+> --__--__--
+>
+> Message: 3
+> Date: Thu, 29 Apr 2004 12:32:42 +0530
+> From: Suresh Ramasubramanian <linux@frodo.hserus.net>
+> Organization: -ENOENT
+> To: Sanjay Chigurupati <Sanjay.Chigurupati@lntinfotech.com>
+> Cc: lugc questions <ilugc@aero.iitm.ernet.in>
+> Subject: Re: [Ilugc] startx problem
+>
+> Sanjay Chigurupati  writes on 4/29/2004 12:29 PM:
+>
+> >  Hi,
+> > I have had the same problem.
+> > Does that mean xfs (xfont server) has not started or has crashed ?
+> >
+>
+> check the xfree86 logs and elsewhere in your syslog (say
+/var/log/messages)
+>
+> srs
+>
+> --__--__--
+>
+> Message: 4
+> Date: Thu, 29 Apr 2004 13:43:35 +0530 (IST)
+> From: Bharathi S <bharathi@lantana.tenet.res.in>
+> To: Vijaykumar M S aka Sam <red@srasys.co.in>
+> Cc: ilugc@ae.iitm.ac.in
+> Subject: Re: [Ilugc] Changing font size!
+>
+> On Thu, 29 Apr 2004, Vijaykumar M S aka Sam wrote:
+>
+> > How do i change the fontsize of the terminal interface (Non-GUI)?
+>
+> man setfont OR setfont --help
+>
+> HTH :)
+> --
+> Bharathi S, www.MidasComm.com,
+> Intel Lab,  TeNeT, IIT-Madras.
+>
+> Known is drop, Unknown is OCEAN.
+>
+>
+> --__--__--
+>
+> Message: 5
+> Date: Fri, 30 Apr 2004 10:40:09 +0530
+> From: Praveen Kumar <praveen@symonds.net>
+> Reply-To: praveen@symonds.net
+> To: "K.Sriram" <metallica_tony@yahoo.com>
+> Cc: ilugc@ae.iitm.ac.in, tom@tharayil.com
+> Subject: Re: [Ilugc] Loop back interface
+>
+> K.Sriram wrote:
+>
+> > we can hav upto 256 loopback devices in a 2.4.x
+> > kernel.
+> > i.e upto max_loop=255 is allowed.
+>
+> I think we need to refine our terminologies. loop!=loopback. What Sriram
+> is talking about is loop devices and what the discussion about is
+> loopback interfaces (Network lo interface).
+>
+> --
+> http://puggy.symonds.net/~praveen
+>
+>
+> --__--__--
+>
+> _______________________________________________
+> ilugc mailing list
+> ilugc@ae.iitm.ac.in
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>
+>
+> End of ilugc Digest
+>
+
+
+*********************************************************
+Disclaimer:          
+
+This message (including any attachments) contains 
+confidential information intended for a specific 
+individual and purpose, and is protected by law. 
+If you are not the intended recipient, you should 
+delete this message and are hereby notified that 
+any disclosure, copying, or distribution of this
+message, or the taking of any action based on it, 
+is strictly prohibited.
+
+*********************************************************
+Visit us at http://www.mahindrabt.com
+
+
+
+

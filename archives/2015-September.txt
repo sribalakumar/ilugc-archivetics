@@ -1,0 +1,4692 @@
+From baskar at linuxpert.in  Tue Sep  1 08:16:30 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Tue, 1 Sep 2015 08:16:30 +0530
+Subject: [Ilugc] [Help] Data mining Coursera Course catalogue
+In-Reply-To: <CABzJUX58TgDdho4_xxp5gBhbrgHwu281e6zXOBv8KovF+T83zA@mail.gmail.com>
+References: <CACtiFJZQi-dzzHUnWT0uVuwhK11dxHKD9EyOBAQcO1Eqq9bSBA@mail.gmail.com>
+	<CAJ0n81Jr69pZb_84nHawNBMwWmRJu9wKG3EnZfB1daeTA7YBQQ@mail.gmail.com>
+	<CACtiFJYpAJN=K248_OJCd_dYOi_V5SLA_6+tZxisT6uJXAyBOw@mail.gmail.com>
+	<CAJR+9kbHjv6JugAkph9jjDFabK7TYf8xCiCojXoAC8AkJHc7Wg@mail.gmail.com>
+	<CACtiFJYySKuXM0mbbhQU_-U94XLzfkf9gSCMvdSgjyqL=KBNmA@mail.gmail.com>
+	<CACPPKCZRORW3jrP=UH_o7FAjOzGCf=YFG+=cr8YDXJcow5WKwA@mail.gmail.com>
+	<CACPPKCa8-+RRHeWWwEP9WM2KLOz1=wARFkL7M3or1_FR0e4q=w@mail.gmail.com>
+	<CAKGmkL2YWSm+w-uA-QcFVZSP3_yDnaCvc9-JJy4VZwV9YwnueA@mail.gmail.com>
+	<CABzJUX58TgDdho4_xxp5gBhbrgHwu281e6zXOBv8KovF+T83zA@mail.gmail.com>
+Message-ID: <CACtiFJbxGBEsTrwjyV+tmQqSnXo3haaEadoHTXCAd94mi=Q-3w@mail.gmail.com>
+
+On Mon, Aug 31, 2015 at 7:22 PM, Jagannathan Tiruvallur Eachambadi <
+jagannathante at gmail.com> wrote:
+
+> Hey, I changed the code to work with python3 and it works but I don't want
+> to register for sharedcount service. You can sign up and include your api
+> key in the source code. Forked repo:
+> https://github.com/j605/Coursera_Analytics/blob/master/get_data.py
+
+
+Thanks. Now it works with Python3.
+
+As I need only the coursera course catalog, I removed the code required for
+sharedcount service.
+
+S. Baskar
+
+From design.sathish at gmail.com  Tue Sep  1 15:20:00 2015
+From: design.sathish at gmail.com (Sathish Manohar)
+Date: Tue, 1 Sep 2015 15:20:00 +0530
+Subject: [Ilugc] [Help] Teach me Rails deployment on production
+Message-ID: <CAN4GZG+_CywLz_0xmTx8bK9N18HS3_40e6yLpbHBvrtQmrqS-A@mail.gmail.com>
+
+Hi Guys/Girls,
+
+I want to learn all (enough) about deploying a rails app in production. I'm
+a rails developer myself.
+
+Following are the specifics I want to know.
+
+* How to deploy to cloud specifically digital ocean
+* Difference between nginx and apache web servers
+* About application servers, passenger, unicorn and differences
+* Load balancing setup
+* File Storage Setup (AWS)
+* Database setup with master slave replication
+* Centralized log management
+* Auto building the environment using chef
+* Managing these systems for best performance and uptime
+
+I know parts of all these above concepts I've mentioned, but don't know how
+they work as a cohesive unit. I'm a fast learner and I would like this to
+be a face to face session. We shall meet someplace like coffee day. I'll
+buy you coffee and pay you by the hour. I don't want you to teach me for
+free. I know every one of these is huge if we dive deep, I don't want to
+dive deep, I want to have a right overall picture to start with.
+
+Please send your name, availability, coffee day convenient for you and
+hourly rate.
+
+Thanks
+-- 
+- Sathish
+
+From mail2marikkannan at gmail.com  Wed Sep  2 13:33:53 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 2 Sep 2015 13:33:53 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+Message-ID: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+
+Hi friends.,
+
+    Which technology is used to maintain the user browser or machine
+identification ? After removing all the browser history and cookies ?
+
+
+Real Time Scenerio:
+
+
+             I am login to axis internet login through my machine with
+firefox browser,during the first login it will ask the security
+question.,after that I removed all
+my history and cookies of my firefox browser.But again login to my axis
+internet banking from the same machine,It couldn't ask any security
+question.
+
+
+             While accessing from different machine at the first time,it
+will ask the security question and all.,but two different systems are being
+accessing same internet.
+
+
+              Which technology is available to maintain the user
+credentials after removing all the client browser histroy and cookies.,
+
+ Thanks in advance
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From kumaranbsc at gmail.com  Wed Sep  2 15:49:38 2015
+From: kumaranbsc at gmail.com (kumaran partanthaman)
+Date: Wed, 2 Sep 2015 15:49:38 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+References: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+Message-ID: <CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+
+Hi Mari,
+
+This concept is *Cookie* its stored in file in your local machine. Until
+you clear browser cache or otherwise accessing new browser ask security
+question and create the cookie file. Its support all programming language.
+
+On Wed, Sep 2, 2015 at 1:33 PM, Marikkannan Rajagopal <
+mail2marikkannan at gmail.com> wrote:
+
+> Hi friends.,
+>
+>     Which technology is used to maintain the user browser or machine
+> identification ? After removing all the browser history and cookies ?
+>
+>
+> Real Time Scenerio:
+>
+>
+>              I am login to axis internet login through my machine with
+> firefox browser,during the first login it will ask the security
+> question.,after that I removed all
+> my history and cookies of my firefox browser.But again login to my axis
+> internet banking from the same machine,It couldn't ask any security
+> question.
+>
+>
+>              While accessing from different machine at the first time,it
+> will ask the security question and all.,but two different systems are being
+> accessing same internet.
+>
+>
+>               Which technology is available to maintain the user
+> credentials after removing all the client browser histroy and cookies.,
+>
+>  Thanks in advance
+>
+>
+> --
+> Thanks & Regards,
+> Marikkannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks and Regards
+Kumaran Paranthaman
+
+From sridharan.d at gmail.com  Wed Sep  2 15:57:00 2015
+From: sridharan.d at gmail.com (Sridhar Devarajan)
+Date: Wed, 2 Sep 2015 15:57:00 +0530
+Subject: [Ilugc] [Jobs] Job opening: Senior Systems and Network Manager at
+ Centre for Neuroscience, Indian Institute of Science, Bangalore
+Message-ID: <CABfi1q1+7CT7EZtX_R+vMwgH3YOvbHhN0uncAfzCyCBRj5NxPQ@mail.gmail.com>
+
+Hello,
+
+The Centre for Neuroscience (CNS) is a newly established and rapidly
+growing centre at the Indian Institute of Science (IISc), Bangalore.
+The department boasts of a world-class research environment for
+neuroscience research across multiple levels of brain function.
+
+We are currently looking for an expert systems and network
+administrator who can help us set up and maintain networking and
+storage infrastructure at the Centre. This position offers an
+excellent opportunity to work independently within an academic
+environment and to develop data sharing and collaboration tools for
+leading neuroscience researchers both in India and abroad.
+
+To apply, please send your CV to the following email address:
+jobs at cns.iisc.ernet.in
+
+Regards,
+Sridhar
+
+======================================================
+
+*Job title:* Senior Systems and Network Manager
+
+*Pay scale*: Rs. 50,000/- per month consolidated.
+*Essential Qualifications*:  Bachelors? degree in Computer Science or
+a related field with more than 2 years of experience working in
+industry or a research laboratory.
+*Job Description*: The candidate will be responsible for setting up
+and maintaining networking and storage infrastructure.
+Responsibilities include creating and managing user and group accounts
+with appropriate security protocols on the central server, setting up
+and administration of the storage server, setting up a dedicated
+internal network, managing the video-conferencing system and
+interfacing it to a high-bandwidth connection, upgrading existing
+email and web applications, managing the department webpage, and
+setting up and managing an e-library (e-books and e-journals). This
+will be a contract position for a 4-year duration as part of a larger
+program grant  to investigate Alzheimer's Disease.
+
+*Desirable skills*: Prior experience with systems and network
+management. Knowledge of database management, webpage design,
+networking protocols, server configuration and management. Candidate
+must possess excellent organizational and management skills and an
+ability to develop working relationships with a wide range of people.
+
+
+
+-- 
+Sridharan Devarajan, PhD
+Assistant Professor, Centre for Neuroscience,
+Indian Institute of Science, Bangalore, India
+http://cns.iisc.ernet.in/sridharandevarajan/
+
+From catchme.sathishg at gmail.com  Wed Sep  2 16:04:47 2015
+From: catchme.sathishg at gmail.com (Sathish Ganesan)
+Date: Wed, 2 Sep 2015 16:04:47 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+References: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+	<CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+Message-ID: <CAJmWoUGLxpRzg5t4UoL-ZRde_4wvqU3jfO_nB37j2L55mLaGAg@mail.gmail.com>
+
+Hi Mari,
+
+It might be IP address based validation.
+
+Thanks&Regards
+Sathish.G
+
+On Wed, Sep 2, 2015 at 3:49 PM, kumaran partanthaman <kumaranbsc at gmail.com>
+wrote:
+
+> Hi Mari,
+>
+> This concept is *Cookie* its stored in file in your local machine. Until
+> you clear browser cache or otherwise accessing new browser ask security
+> question and create the cookie file. Its support all programming language.
+>
+> On Wed, Sep 2, 2015 at 1:33 PM, Marikkannan Rajagopal <
+> mail2marikkannan at gmail.com> wrote:
+>
+> > Hi friends.,
+> >
+> >     Which technology is used to maintain the user browser or machine
+> > identification ? After removing all the browser history and cookies ?
+> >
+> >
+> > Real Time Scenerio:
+> >
+> >
+> >              I am login to axis internet login through my machine with
+> > firefox browser,during the first login it will ask the security
+> > question.,after that I removed all
+> > my history and cookies of my firefox browser.But again login to my axis
+> > internet banking from the same machine,It couldn't ask any security
+> > question.
+> >
+> >
+> >              While accessing from different machine at the first time,it
+> > will ask the security question and all.,but two different systems are
+> being
+> > accessing same internet.
+> >
+> >
+> >               Which technology is available to maintain the user
+> > credentials after removing all the client browser histroy and cookies.,
+> >
+> >  Thanks in advance
+> >
+> >
+> > --
+> > Thanks & Regards,
+> > Marikkannan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+>
+> --
+> Thanks and Regards
+> Kumaran Paranthaman
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shihan.viswa at gmail.com  Wed Sep  2 18:24:24 2015
+From: shihan.viswa at gmail.com (viswaprasath)
+Date: Wed, 2 Sep 2015 18:24:24 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CAJmWoUGLxpRzg5t4UoL-ZRde_4wvqU3jfO_nB37j2L55mLaGAg@mail.gmail.com>
+References: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+	<CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+	<CAJmWoUGLxpRzg5t4UoL-ZRde_4wvqU3jfO_nB37j2L55mLaGAg@mail.gmail.com>
+Message-ID: <CAHuPp2k1tFPGfO69k8xKJ6ND5HzauP-NHDcPQqJbjZt88yG9tA@mail.gmail.com>
+
+I think it will not be based on IP address . because we are using dynamic
+IP right.
+
+We may have same IP for our house today if we switch then it may be to next
+house.
+
+sent from my nexus 6
+On Sep 2, 2015 16:05, "Sathish Ganesan" <catchme.sathishg at gmail.com> wrote:
+
+> Hi Mari,
+>
+> It might be IP address based validation.
+>
+> Thanks&Regards
+> Sathish.G
+>
+> On Wed, Sep 2, 2015 at 3:49 PM, kumaran partanthaman <kumaranbsc at gmail.com
+> >
+> wrote:
+>
+> > Hi Mari,
+> >
+> > This concept is *Cookie* its stored in file in your local machine. Until
+> > you clear browser cache or otherwise accessing new browser ask security
+> > question and create the cookie file. Its support all programming
+> language.
+> >
+> > On Wed, Sep 2, 2015 at 1:33 PM, Marikkannan Rajagopal <
+> > mail2marikkannan at gmail.com> wrote:
+> >
+> > > Hi friends.,
+> > >
+> > >     Which technology is used to maintain the user browser or machine
+> > > identification ? After removing all the browser history and cookies ?
+> > >
+> > >
+> > > Real Time Scenerio:
+> > >
+> > >
+> > >              I am login to axis internet login through my machine with
+> > > firefox browser,during the first login it will ask the security
+> > > question.,after that I removed all
+> > > my history and cookies of my firefox browser.But again login to my axis
+> > > internet banking from the same machine,It couldn't ask any security
+> > > question.
+> > >
+> > >
+> > >              While accessing from different machine at the first
+> time,it
+> > > will ask the security question and all.,but two different systems are
+> > being
+> > > accessing same internet.
+> > >
+> > >
+> > >               Which technology is available to maintain the user
+> > > credentials after removing all the client browser histroy and cookies.,
+> > >
+> > >  Thanks in advance
+> > >
+> > >
+> > > --
+> > > Thanks & Regards,
+> > > Marikkannan
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> >
+> >
+> >
+> > --
+> > Thanks and Regards
+> > Kumaran Paranthaman
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From mail2marikkannan at gmail.com  Wed Sep  2 19:10:56 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 2 Sep 2015 19:10:56 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+References: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+	<CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+Message-ID: <CAJ=JFU=6C8oSBqbFWFbTF+zPdK_r_o3SHhdJttENxEUxvPB8dA@mail.gmail.com>
+
+hi kumaran.,
+
+      Once I will clear all the history and cookie of my local browser.,the
+next login time it won't ask any security question.,it might consider my
+request as already known request.,
+
+      they were using something different but good for usage.,so that only
+I willing to learn about this..,
+
+On Wed, Sep 2, 2015 at 3:49 PM, kumaran partanthaman <kumaranbsc at gmail.com>
+wrote:
+
+> Hi Mari,
+>
+> This concept is *Cookie* its stored in file in your local machine. Until
+> you clear browser cache or otherwise accessing new browser ask security
+> question and create the cookie file. Its support all programming language.
+>
+> On Wed, Sep 2, 2015 at 1:33 PM, Marikkannan Rajagopal <
+> mail2marikkannan at gmail.com> wrote:
+>
+> > Hi friends.,
+> >
+> >     Which technology is used to maintain the user browser or machine
+> > identification ? After removing all the browser history and cookies ?
+> >
+> >
+> > Real Time Scenerio:
+> >
+> >
+> >              I am login to axis internet login through my machine with
+> > firefox browser,during the first login it will ask the security
+> > question.,after that I removed all
+> > my history and cookies of my firefox browser.But again login to my axis
+> > internet banking from the same machine,It couldn't ask any security
+> > question.
+> >
+> >
+> >              While accessing from different machine at the first time,it
+> > will ask the security question and all.,but two different systems are
+> being
+> > accessing same internet.
+> >
+> >
+> >               Which technology is available to maintain the user
+> > credentials after removing all the client browser histroy and cookies.,
+> >
+> >  Thanks in advance
+> >
+> >
+> > --
+> > Thanks & Regards,
+> > Marikkannan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+>
+> --
+> Thanks and Regards
+> Kumaran Paranthaman
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From mail2marikkannan at gmail.com  Wed Sep  2 19:14:49 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Wed, 2 Sep 2015 19:14:49 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CAHuPp2k1tFPGfO69k8xKJ6ND5HzauP-NHDcPQqJbjZt88yG9tA@mail.gmail.com>
+References: <CAJ=JFU=hXcH=tuhiO6KsAuL6Rr2vENX1w1HZVULCbOKX45ywhA@mail.gmail.com>
+	<CA+2KLDW0U1L9fzDjFz6wcTPq=1UaJVXvUyAbq21w-xtRe-0SGw@mail.gmail.com>
+	<CAJmWoUGLxpRzg5t4UoL-ZRde_4wvqU3jfO_nB37j2L55mLaGAg@mail.gmail.com>
+	<CAHuPp2k1tFPGfO69k8xKJ6ND5HzauP-NHDcPQqJbjZt88yG9tA@mail.gmail.com>
+Message-ID: <CAJ=JFUmW9UKfLmLygx55_H3mr3cN-jqBYR3A=HvVHGRLqY8MpQ@mail.gmail.com>
+
+hi.,viswaprasath.,
+
+         It isn't on ip based.,let us consider I have single internet
+connection but two different laptops connected with that internet.,
+
+I am accessing from different laptops.,but in the server end it will reach
+from the same ipaddress na..,
+
+        I am accessing from some other laptop not belongs to my own.,that
+time it will ask security question for first login.,next attempt and
+further more logins it won't ask for the same like my own laptop.,
+
+
+
+On Wed, Sep 2, 2015 at 6:24 PM, viswaprasath <shihan.viswa at gmail.com> wrote:
+
+> I think it will not be based on IP address . because we are using dynamic
+> IP right.
+>
+> We may have same IP for our house today if we switch then it may be to next
+> house.
+>
+> sent from my nexus 6
+> On Sep 2, 2015 16:05, "Sathish Ganesan" <catchme.sathishg at gmail.com>
+> wrote:
+>
+> > Hi Mari,
+> >
+> > It might be IP address based validation.
+> >
+> > Thanks&Regards
+> > Sathish.G
+> >
+> > On Wed, Sep 2, 2015 at 3:49 PM, kumaran partanthaman <
+> kumaranbsc at gmail.com
+> > >
+> > wrote:
+> >
+> > > Hi Mari,
+> > >
+> > > This concept is *Cookie* its stored in file in your local machine.
+> Until
+> > > you clear browser cache or otherwise accessing new browser ask security
+> > > question and create the cookie file. Its support all programming
+> > language.
+> > >
+> > > On Wed, Sep 2, 2015 at 1:33 PM, Marikkannan Rajagopal <
+> > > mail2marikkannan at gmail.com> wrote:
+> > >
+> > > > Hi friends.,
+> > > >
+> > > >     Which technology is used to maintain the user browser or machine
+> > > > identification ? After removing all the browser history and cookies ?
+> > > >
+> > > >
+> > > > Real Time Scenerio:
+> > > >
+> > > >
+> > > >              I am login to axis internet login through my machine
+> with
+> > > > firefox browser,during the first login it will ask the security
+> > > > question.,after that I removed all
+> > > > my history and cookies of my firefox browser.But again login to my
+> axis
+> > > > internet banking from the same machine,It couldn't ask any security
+> > > > question.
+> > > >
+> > > >
+> > > >              While accessing from different machine at the first
+> > time,it
+> > > > will ask the security question and all.,but two different systems are
+> > > being
+> > > > accessing same internet.
+> > > >
+> > > >
+> > > >               Which technology is available to maintain the user
+> > > > credentials after removing all the client browser histroy and
+> cookies.,
+> > > >
+> > > >  Thanks in advance
+> > > >
+> > > >
+> > > > --
+> > > > Thanks & Regards,
+> > > > Marikkannan
+> > > > _______________________________________________
+> > > > ILUGC Mailing List:
+> > > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > > ILUGC Mailing List Guidelines:
+> > > > http://ilugc.in/mailinglist-guidelines
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > > Thanks and Regards
+> > > Kumaran Paranthaman
+> > > _______________________________________________
+> > > ILUGC Mailing List:
+> > > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > > ILUGC Mailing List Guidelines:
+> > > http://ilugc.in/mailinglist-guidelines
+> > >
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From 77minds at gmail.com  Thu Sep  3 00:10:02 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Thu, 3 Sep 2015 00:10:02 +0530
+Subject: [Ilugc] [Business][Job] Add your card to Kardrak
+Message-ID: <CAJR+9kaU3niarPGtb4t0Hsnq0p+YsnH_nOgR6p4f7BWdUVk6TA@mail.gmail.com>
+
+Hello People,
+
+If you wish add your card to Kardrak http://kardrak.com , some one might be
+looking for free software experts.
+
+Plus I would like to hire college students (zero salary guys / girls, but
+will business) to develop and market this product.
+
+----
+
+Karthikeyan A K
+
+From mohanht at gmail.com  Thu Sep  3 07:56:26 2015
+From: mohanht at gmail.com (Mohan Tarole)
+Date: Thu, 3 Sep 2015 07:56:26 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+Message-ID: <CAMoCvv3BhgV5xMzPm+ixhcaaUgMsVaGEtnHicdDKJx0Bv5zrEg@mail.gmail.com>
+
+"credentials" wont be saved into cookies without the user consent
+specifically to secured sites (https). If any https site is doing it then
+its wrong and can lead to potential threats.. think of such site you are
+accessing from internet cafe....websites generally stores your prefereces,
+choices, things you searched etc . but not the security questions, password
+-- unless you agreed to do so.
+
+From mail2marikkannan at gmail.com  Thu Sep  3 10:51:03 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Thu, 3 Sep 2015 10:51:03 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CAMoCvv3BhgV5xMzPm+ixhcaaUgMsVaGEtnHicdDKJx0Bv5zrEg@mail.gmail.com>
+References: <CAMoCvv3BhgV5xMzPm+ixhcaaUgMsVaGEtnHicdDKJx0Bv5zrEg@mail.gmail.com>
+Message-ID: <CAJ=JFUkz1px81egUAnH17ceXB4GWVE0zxqX8JVwoJtVeSiPFcw@mail.gmail.com>
+
+Dear Mohan.,
+
+           Yes.,credentials won't be stored on browser cookies.,even though
+it have http or https.,but they identified in server side.,if the specified
+system browser is already used for login.,
+
+            Now I think you are very clear on my specification.,
+
+            Axis bank internet banking is working on this basics yar.,
+
+
+
+On Thu, Sep 3, 2015 at 7:56 AM, Mohan Tarole <mohanht at gmail.com> wrote:
+
+> "credentials" wont be saved into cookies without the user consent
+> specifically to secured sites (https). If any https site is doing it then
+> its wrong and can lead to potential threats.. think of such site you are
+> accessing from internet cafe....websites generally stores your prefereces,
+> choices, things you searched etc . but not the security questions, password
+> -- unless you agreed to do so.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From mohanht at gmail.com  Thu Sep  3 12:28:44 2015
+From: mohanht at gmail.com (Mohan Tarole)
+Date: Thu, 3 Sep 2015 12:28:44 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+Message-ID: <CAMoCvv2k4VDrSnfdNqvEvYUhT27QaK88ABvXPzBTYohfjF_X1w@mail.gmail.com>
+
+Hi Marikkannan
+
+*>>>but they identified in server side.,*
+Are you saying, user preferences etc gets stored on server?
+
+From mail2marikkannan at gmail.com  Thu Sep  3 15:03:46 2015
+From: mail2marikkannan at gmail.com (Marikkannan Rajagopal)
+Date: Thu, 3 Sep 2015 15:03:46 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+In-Reply-To: <CAMoCvv2k4VDrSnfdNqvEvYUhT27QaK88ABvXPzBTYohfjF_X1w@mail.gmail.com>
+References: <CAMoCvv2k4VDrSnfdNqvEvYUhT27QaK88ABvXPzBTYohfjF_X1w@mail.gmail.com>
+Message-ID: <CAJ=JFUmVSyuwsyg1kr_12CE4OP7o3no+=UWy0wWp0iFqTTqM4Q@mail.gmail.com>
+
+Dear Mohan.,
+
+              After the successful first login.,the next time onwards.,it
+won't ask the security question..,I my perspective,they should maintains
+this identification on server side.,If they are maintain in client system
+browser means.,after removing the cookies and history.,it must ask the
+security question na..,but it won't ask..,
+
+            I think my question make it sense for you.,if you have any
+query let me ask..,
+
+
+On Thu, Sep 3, 2015 at 12:28 PM, Mohan Tarole <mohanht at gmail.com> wrote:
+
+> Hi Marikkannan
+>
+> *>>>but they identified in server side.,*
+> Are you saying, user preferences etc gets stored on server?
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards,
+Marikkannan
+
+From murthyraju at gmail.com  Fri Sep  4 07:50:10 2015
+From: murthyraju at gmail.com (Murthy Raju)
+Date: Fri, 4 Sep 2015 07:50:10 +0530
+Subject: [Ilugc] [OT][Jobs] Hiring Web Developers with 0 to 2 years
+	experience
+Message-ID: <CAC4BoN5006AnB2j-=TdQ1BkebnSxhMYCnkaC5zV7AbZK3_p50w@mail.gmail.com>
+
+Hi,
+
+BookConnect ( bookconnectsolutions.com ), a Chennai based start up is
+planning to hire a few developers with 0 to 2 years of experience. Here is
+what we are looking for:
+
+1. HTML/Java Script/CSS
+2. Python, Ruby or PHP
+3. Databases
+4. Linux
+5. Exposure to  MVC based Web Development Frameworks such as Django, RoR
+will be a plus, but not mandatory.
+
+The ideal candidate should have a reasonably good understanding of how web
+applications work.
+
+The selected candidates will be working on interesting web sites/mobile
+apps using Python/Django/HTML/JS/CSS/JQuery/BootStrap/Angular/Ionic
+Framework etc.
+
+Please mail me your resume offline if you would like to apply.
+
+Thanks and Regards,
+Murthy Raju
+
+From tshrinivasan at gmail.com  Fri Sep  4 12:49:39 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 4 Sep 2015 12:49:39 +0530
+Subject: [Ilugc] Cheap vps with arm boards
+Message-ID: <CAND2795fAJw=XCL5J1ANsd+y0HZMwaVTJD_P4YQyDTu9x1LAkQ@mail.gmail.com>
+
+In case you have missed this story, there's some crazy-cheap cloud
+servers going these days.
+
+http://
+<http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/>
+techcrunch.com
+<http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/>
+/2015/09/02/
+<http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/>
+scaleway
+<http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/>
+-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+<http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/>
+
+From 77minds at gmail.com  Fri Sep  4 16:14:56 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Fri, 4 Sep 2015 16:14:56 +0530
+Subject: [Ilugc] Cheap vps with arm boards
+In-Reply-To: <CAND2795fAJw=XCL5J1ANsd+y0HZMwaVTJD_P4YQyDTu9x1LAkQ@mail.gmail.com>
+References: <CAND2795fAJw=XCL5J1ANsd+y0HZMwaVTJD_P4YQyDTu9x1LAkQ@mail.gmail.com>
+Message-ID: <CAJR+9kbucLvxWyF-GpNz7C8sNMCg6qD0sBqRAzkdAu8=R_ONKw@mail.gmail.com>
+
+Thats great, it reignites a dream of having data centers in ones home.
+
+On Fri, Sep 4, 2015 at 12:49 PM, Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> In case you have missed this story, there's some crazy-cheap cloud
+> servers going these days.
+>
+> http://
+> <
+> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> >
+> techcrunch.com
+> <
+> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> >
+> /2015/09/02/
+> <
+> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> >
+> scaleway
+> <
+> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> >
+>
+> -now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> <
+> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From 77minds at gmail.com  Fri Sep  4 16:17:34 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Fri, 4 Sep 2015 16:17:34 +0530
+Subject: [Ilugc] Cheap vps with arm boards
+In-Reply-To: <CAJR+9kbucLvxWyF-GpNz7C8sNMCg6qD0sBqRAzkdAu8=R_ONKw@mail.gmail.com>
+References: <CAND2795fAJw=XCL5J1ANsd+y0HZMwaVTJD_P4YQyDTu9x1LAkQ@mail.gmail.com>
+	<CAJR+9kbucLvxWyF-GpNz7C8sNMCg6qD0sBqRAzkdAu8=R_ONKw@mail.gmail.com>
+Message-ID: <CAJR+9kYg3XiDM8LiauY7Zp3qMgoR27Hp-h+__q_eYU+DPb1tjA@mail.gmail.com>
+
+Oops they have their own data centers where you can hire their hardware :(
+Any way something cheaper than digital ocean is interesting
+
+On Fri, Sep 4, 2015 at 4:14 PM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> Thats great, it reignites a dream of having data centers in ones home.
+>
+> On Fri, Sep 4, 2015 at 12:49 PM, Shrinivasan T <tshrinivasan at gmail.com>
+> wrote:
+>
+>> In case you have missed this story, there's some crazy-cheap cloud
+>> servers going these days.
+>>
+>> http://
+>> <
+>> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> >
+>> techcrunch.com
+>> <
+>> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> >
+>> /2015/09/02/
+>> <
+>> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> >
+>> scaleway
+>> <
+>> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> >
+>>
+>> -now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> <
+>> http://techcrunch.com/2015/09/02/scaleway-now-provides-crazy-cheap-virtual-private-servers-starting-at-3-40-per-month/
+>> >
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+>
+> --
+> http://kardrak.com/contacts/1
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From mohanht at gmail.com  Fri Sep  4 19:20:34 2015
+From: mohanht at gmail.com (Mohan Tarole)
+Date: Fri, 4 Sep 2015 19:20:34 +0530
+Subject: [Ilugc] Regarding:Eager to Learn Technology
+Message-ID: <CAMoCvv1MjtX+otYxQPaBt=2e-JMpnm8u1B=QK1qyBQ=v2V2-BQ@mail.gmail.com>
+
+Hi Marikkannan,
+
+*>>>I my perspective,they should maintains this identification on server
+side*
+Server knows everything about the user as such (passwords, id, last access
+time to name few- but not which browser password/ security question etc
+stored ).
+for instance if I assume server stores all details - then details should be
+visible from any of the browser on any computer.
+
+*>>>If they are maintain in client system browser means.,after removing the
+cookies and history.,it must ask the security question na..,but it won't
+ask*
+If you clear the browsing history/ cookies, all stored recored goes off -
+it will again ask to enter details if you again access the site - try one
+more time yourself.
+
+From baskar910 at gmail.com  Sun Sep  6 18:00:21 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sun, 6 Sep 2015 18:00:21 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+Message-ID: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+
+Talk 1
+Topic: Contributing  to Libre Office Development
+Duration: 30 Mts
+About Yourself: MS Saharaman works at Libre Data Consultancy services (
+www.ldcs.co.in).
+(@Saharaman plase add your area of interest )
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From shakthimaan at gmail.com  Sun Sep  6 19:33:24 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 6 Sep 2015 19:33:24 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+Message-ID: <CABG-yt39a7xd+swtuZtDZqGY77CUwje3uVt3DvHiQW-wd5A2VA@mail.gmail.com>
+
+Hi,
+
+Topic: Project Euler
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From hardik.dalwadi at gmail.com  Mon Sep  7 13:03:01 2015
+From: hardik.dalwadi at gmail.com (Hardik Dalwadi)
+Date: Mon, 7 Sep 2015 13:03:01 +0530
+Subject: [Ilugc] [ COMMERCIAL ] Ubuntu Phone Has Been Launched In India
+Message-ID: <CAA4i6zAMEHGMK9Yod0gPy-nUErobkPbjQEGYTQrU72mvPxNOaQ@mail.gmail.com>
+
+FYI,
+
+Ubuntu Phone Has Been Launched In India, exclusively by Snapdeal [1]
+
+
+[1] http://www.snapdeal.com/product/bq-aquaris-e5-hd-ubuntu/682122279976
+
+
+Regards, Hardik.
+
+From tuxuday at gmail.com  Mon Sep  7 16:50:18 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Mon, 7 Sep 2015 16:50:18 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+In-Reply-To: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+References: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+Message-ID: <CANODOztLeScEMEh+5EOF7GkyZMSo_4664idinVhWyVnrs4TYJg@mail.gmail.com>
+
+Topic
+
+Smart Pointer in C++
+
+Description
+
+Will talk about RAII. Various smart pointers.
+
+Duration
+
+30mins
+
+About Yourself
+
+SW Eng.
+?
+
+From sureshkumarr.s at gmail.com  Tue Sep  8 11:04:51 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Tue, 8 Sep 2015 11:04:51 +0530
+Subject: [Ilugc] mailing list creation
+Message-ID: <CAJLBBzyDnWexNY+FLRC6tgKh5BQY3wfJbeSx326UvSwnBBL89A@mail.gmail.com>
+
+Hi,
+
+I want to create a mailing list(kaanalnet-discuss at xxxxx) for my
+opensource application (http://kaanalnet.org).
+Any free providers available?
+
+Thanks
+suresh.
+
+From sureshkumarr.s at gmail.com  Tue Sep  8 11:14:05 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Tue, 8 Sep 2015 11:14:05 +0530
+Subject: [Ilugc] mailing list creation
+In-Reply-To: <CAJLBBzyDnWexNY+FLRC6tgKh5BQY3wfJbeSx326UvSwnBBL89A@mail.gmail.com>
+References: <CAJLBBzyDnWexNY+FLRC6tgKh5BQY3wfJbeSx326UvSwnBBL89A@mail.gmail.com>
+Message-ID: <CAJLBBzwSW38RsKvF+B8tL-Dh6Y8EL-LJ_Z2uYgTts9jbY8cS4g@mail.gmail.com>
+
+Hi,
+
+> I want to create a mailing list(kaanalnet-discuss at xxxxx) for my
+> opensource application (http://kaanalnet.org).
+> Any free providers available?
+
+Just found freelists and created one.
+
+thanks
+
+From knura9 at gmail.com  Tue Sep  8 13:05:50 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 8 Sep 2015 13:05:50 +0530
+Subject: [Ilugc] mailing list creation
+In-Reply-To: <CAJLBBzwSW38RsKvF+B8tL-Dh6Y8EL-LJ_Z2uYgTts9jbY8cS4g@mail.gmail.com>
+References: <CAJLBBzyDnWexNY+FLRC6tgKh5BQY3wfJbeSx326UvSwnBBL89A@mail.gmail.com>
+	<CAJLBBzwSW38RsKvF+B8tL-Dh6Y8EL-LJ_Z2uYgTts9jbY8cS4g@mail.gmail.com>
+Message-ID: <CAHhM8gDj0bUTXzCp2n5Fz6y=uWV0SnBRnsAuVtX+qAWKB8cq_A@mail.gmail.com>
+
+On Tue, Sep 8, 2015 at 11:14 AM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+> Hi,
+>
+>> I want to create a mailing list(kaanalnet-discuss at xxxxx) for my
+>> opensource application (http://kaanalnet.org).
+>> Any free providers available?
+>
+> Just found freelists and created one.
+
+Yahoo! and Google groups (mailing lists) are also free.  The name can
+be yours but you have to live with their domain names.
+
+-- Arun Khan
+
+From sureshkumarr.s at gmail.com  Wed Sep  9 09:06:59 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Wed, 9 Sep 2015 09:06:59 +0530
+Subject: [Ilugc] mailing list creation
+In-Reply-To: <CAHhM8gDj0bUTXzCp2n5Fz6y=uWV0SnBRnsAuVtX+qAWKB8cq_A@mail.gmail.com>
+References: <CAJLBBzyDnWexNY+FLRC6tgKh5BQY3wfJbeSx326UvSwnBBL89A@mail.gmail.com>
+	<CAJLBBzwSW38RsKvF+B8tL-Dh6Y8EL-LJ_Z2uYgTts9jbY8cS4g@mail.gmail.com>
+	<CAHhM8gDj0bUTXzCp2n5Fz6y=uWV0SnBRnsAuVtX+qAWKB8cq_A@mail.gmail.com>
+Message-ID: <CAJLBBzwtvJgV89VeAXRnu6YhKYcZyD6Q8kYpzVRehDHQL9=2CA@mail.gmail.com>
+
+hi,
+
+
+>>> I want to create a mailing list(kaanalnet-discuss at xxxxx) for my
+>>> opensource application (http://kaanalnet.org).
+>>> Any free providers available?
+>>
+>> Just found freelists and created one.
+>
+> Yahoo! and Google groups (mailing lists) are also free.  The name can
+> be yours but you have to live with their domain names.
+>
+thanks .
+
+From sureshkumarr.s at gmail.com  Wed Sep  9 09:29:58 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Wed, 9 Sep 2015 09:29:58 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+Message-ID: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+
+Hi,
+
+I have developed the opensource application (kaanalnet) and registered
+the domain (kaanalnet.org) for that.
+
+I am looking for a Web developer to develop the web portal,
+specifically students and juniors who are interested to contribute in
+the opensource and passionate on web development.
+
+Its just static pages and can be developed on html/css/bootstrap.
+
+No commercials involved.
+
+Intersted people can mail me (sureshkumarr.s at gmail.com)
+
+
+https://github.com/sureshkvl/kaanalnet/wiki
+https://www.npmjs.com/package/kaanalnet
+
+
+Thanks
+suresh
+
+From tshrinivasan at gmail.com  Wed Sep  9 14:23:09 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 9 Sep 2015 14:23:09 +0530
+Subject: [Ilugc] Fwd: [Chennaipy] [Reminder] Last Dates for events at PyCon
+	India 2015.
+In-Reply-To: <BLU177-W3112C35492368CA9484C0D91520@phx.gbl>
+References: <BLU177-W3112C35492368CA9484C0D91520@phx.gbl>
+Message-ID: <CAND27967GX8mG4TF=PBTf+Bo_R7FGJjfYH=cyoiQbi_V4dizew@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Mudit Sethia" <sethia.mudit at outlook.com>
+Date: Sep 9, 2015 8:41 AM
+Subject: [Chennaipy] [Reminder] Last Dates for events at PyCon India 2015.
+To: "chennaipy at python.org" <chennaipy at python.org>
+Cc:
+
+Hey All
+
+This is a gentle reminder for the last dates of the events at PyCon India
+2015 and the corresponding links to each event :
+
+
+1.     CFP FOR DEV SPRINTS   10th September    http://bit.ly/1JSbDxo
+<http://bit.ly/1NZEq8k>
+2.     KG AWARD NOMINATIONS                10th September
+http://bit.ly/1NZEq8k
+3.     WORKSHOP REGISTRATIONS             20th September
+http://bit.ly/1XeUN58
+4.     CFP FOR POSTER PRESENTATION      20th September
+http://bit.ly/1FqBWJg  <http://bit.ly/1FqBWJg>
+
+
+Please follow us at Twitter (@pyconindia) for all the live updates.
+
+*Cheers *
+*Mudit Sethia*
+
+
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+From 01tonythomas at gmail.com  Wed Sep  9 19:43:36 2015
+From: 01tonythomas at gmail.com (Tony Thomas)
+Date: Wed, 9 Sep 2015 19:43:36 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+In-Reply-To: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+References: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+Message-ID: <CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+
+On Wed, Sep 9, 2015 at 9:29 AM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+
+> I am looking for a Web developer to develop the web portal,
+> specifically students and juniors who are interested to contribute in
+> the opensource and passionate on web development.
+>
+
+We have exactly the same thing you are looking for. We just started a new
+company 'ThinkFOSS', which does Open Source training, builds Solutions and
+provides an online portal for mentors to meet mentees on Open Source
+topics. The developers are basically students doing their CS engineering
+and part of FOSS at Amrita.
+
+If you want to give it a try, you can create a new solutions request at
+http://beta.thinkfoss.com/#tf-task so that one of our admins can check the
+feasibility.
+
+I also welcome other devs/mentors in this list to give it a try, and post
+in one or two courses for a considerable fee. They payment gateway is not
+up as of now though.
+
+Thanks,
+Tony Thomas <http://blog.tttwrites.in/>
+FOSS at Amrita <http://foss.amrita.ac.in/register/profile/tonythomas01/>
+
+*"where there is a wifi, there is a way"*
+
+From arunece at autmdu.ac.in  Wed Sep  9 20:16:13 2015
+From: arunece at autmdu.ac.in (Arun V)
+Date: Wed, 9 Sep 2015 20:16:13 +0530
+Subject: [Ilugc] need to know the free language lab softwares.
+Message-ID: <CA+9JA+99d+m1VJwEwEpuYCd2ex8dJNf4VNEG8i+Uo8+4Mf20_g@mail.gmail.com>
+
+guys i need to know a information about the free language lab software. i
+need to help a school in my village (native) which does not consist of
+major facilities.
+
+i need the foss language lab and how i get the CEP deed ( copyright to use
+that free software).
+
+On Thu, Oct 30, 2014 at 8:03 AM, Sundar Raj <msrarun22 at gmail.com> wrote:
+
+> Gowtham Very usefull information ...
+>
+>
+> Regards,
+> Sundar.
+>
+> On Wed, Oct 29, 2014 at 9:34 PM, Gowtham Raam <professionalgraam at gmail.com
+> >
+> wrote:
+>
+> > Hi All,
+> >
+> > Here's is a Great Website for information in installation of servers
+> > Check : http://www.server-world.info/en/
+> >
+> > Info sent by Ganesh
+> >
+> > --
+> > With Regards, Gowtham Raam.J
+> > Drop your Mail to : professionalgraam at gmail.com
+> > Give a call by : (+91)-9443284989
+> > Visit My blog : http://pacesettergraam.wordpress.com
+> >
+> > /*FOSS gives you freedom It is a philosophy Open source is a development
+> > model just to improve quality of code */
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+--
+ARUN.V
+Madurai.
+9965661063
+0452-2555566
+
+From vishnuguruswamy at gmail.com  Thu Sep 10 11:41:10 2015
+From: vishnuguruswamy at gmail.com (Vishnu Guruswamy)
+Date: Thu, 10 Sep 2015 11:41:10 +0530
+Subject: [Ilugc] DELL sonicwall firewall.
+Message-ID: <CAPRA3853ZvQNAQsH6fNh3OB2ZtG2hihKK8fPVYh-ZuE99Qtb5Q@mail.gmail.com>
+
+Hi,
+
+Is anybody knew about DELL sonicwall network security application.
+
+-- 
+
+*????????,*
+
+
+* ????. ?????? +918939231907*
+"?????? ????? ????, ???????? ??????" - ???????
+  Known is a drop, Unknown is an ocean
+-----------------------------------------------------------------------
+????? ??????????? ????? ????
+?????? ?????????? ????????????
+-----------------------------------------------------------------------
+
+From rajan at bluetronics.co.in  Thu Sep 10 11:50:09 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Thu, 10 Sep 2015 11:50:09 +0530
+Subject: [Ilugc] reg : " ROS and camera drivers "
+Message-ID: <CAGaELm1aYQTonCDrLAmRiPNBaX3sA9o3QVAsz=rNH+VpRC501g@mail.gmail.com>
+
+Greetings ,
+                    Is there anyone in the group who has practically
+implemented ROS, PCL, OpenCV in ubuntu?
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From ajeeshbkannan at gmail.com  Thu Sep 10 17:06:33 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Thu, 10 Sep 2015 17:06:33 +0530
+Subject: [Ilugc] mysqldump is not taking full db backup
+Message-ID: <CA+ark-pgckmR336bCWo4owcSspDo88=pBpOWz7dF-qzUyAs00A@mail.gmail.com>
+
+Hi ,
+
+While running the below command (mysql full db backup),
+
+mysqldump --skip-lock-tables --single-transaction --flush-logs --hex-blob
+--master-data=2 -A  > fullmysqldump.sql
+
+the fullmysqldump.sql is showing 0MB in size and the command is still
+running in the screen without any backup. Meantime I can take single DB
+mysqldump. There is no error message in the mysql error logs.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From sahasr at naman.ms  Thu Sep 10 18:39:04 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 10 Sep 2015 18:39:04 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+In-Reply-To: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+References: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+Message-ID: <CAJSNQU3MGBVDY7-jD0eTtT1m=giVGcOb2FLrUKUXxrEjYLHEXQ@mail.gmail.com>
+
+Hi all,
+
+Here's some additional information on talk 1 - Getting started with
+LibreOffice development.
+
+We will talk about
+    - setting up a development server for LO
+    - basic idea about making a bug fix
+    - how to submit the fix
+    - how to get help when we are stuck
+
+We will also demo an actual bug fix during the talk.
+
+Thanks,
+Sahas
+On 06-Sep-2015 18:01, "Baskar K" <baskar910 at gmail.com> wrote:
+
+> Hi All,
+>
+> Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+> Free Open Source Software in Chennai since Jan 1998. We meet regularly
+> on every month second Saturday with technical talks and discussions on
+> various Free software.
+>
+> All are invited to the meeting. You can even give talk or present a
+> session. Please provide details if your propose to give talk or present a
+> session.
+> While providing details for talk pl provide the following.
+>
+> Topic
+> Description
+> Duration
+> About Yourself
+>
+>
+> Check our website http://ilugc.in for further details.
+>
+> Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>
+>
+> Talk 1
+> Topic: Contributing  to Libre Office Development
+> Duration: 30 Mts
+> About Yourself: MS Saharaman works at Libre Data Consultancy services (
+> www.ldcs.co.in).
+> (@Saharaman plase add your area of interest )
+>
+> Venue: Classroom No 1,
+> Aero Space Engineering,
+> Near Gajendra Circle,
+> IIT Madras.
+>
+> Time: 3.00pm to 6.00pm
+>
+>
+> Link for the Map: http://bit.ly/iit-aero
+>
+> Thanks
+> baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sandeep81.srit at gmail.com  Thu Sep 10 19:09:38 2015
+From: sandeep81.srit at gmail.com (sandeep manchikanti)
+Date: Thu, 10 Sep 2015 19:09:38 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+In-Reply-To: <CAJSNQU3MGBVDY7-jD0eTtT1m=giVGcOb2FLrUKUXxrEjYLHEXQ@mail.gmail.com>
+References: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+	<CAJSNQU3MGBVDY7-jD0eTtT1m=giVGcOb2FLrUKUXxrEjYLHEXQ@mail.gmail.com>
+Message-ID: <CAEn38ra4kArQKXeao9vCMRroyL9YA+XS_+2QSNLnp+KY+-aE6g@mail.gmail.com>
+
+Great to hear.
+
+>>in case of unable to attend meet, any Internet source for live r else any
+other links to go through the proceedings info, please let me know
+On Sep 10, 2015 6:39 PM, "Sahasranaman M S" <sahasr at naman.ms> wrote:
+
+> Hi all,
+>
+> Here's some additional information on talk 1 - Getting started with
+> LibreOffice development.
+>
+> We will talk about
+>     - setting up a development server for LO
+>     - basic idea about making a bug fix
+>     - how to submit the fix
+>     - how to get help when we are stuck
+>
+> We will also demo an actual bug fix during the talk.
+>
+> Thanks,
+> Sahas
+> On 06-Sep-2015 18:01, "Baskar K" <baskar910 at gmail.com> wrote:
+>
+> > Hi All,
+> >
+> > Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+> > Free Open Source Software in Chennai since Jan 1998. We meet regularly
+> > on every month second Saturday with technical talks and discussions on
+> > various Free software.
+> >
+> > All are invited to the meeting. You can even give talk or present a
+> > session. Please provide details if your propose to give talk or present a
+> > session.
+> > While providing details for talk pl provide the following.
+> >
+> > Topic
+> > Description
+> > Duration
+> > About Yourself
+> >
+> >
+> > Check our website http://ilugc.in for further details.
+> >
+> > Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> >
+> >
+> > Talk 1
+> > Topic: Contributing  to Libre Office Development
+> > Duration: 30 Mts
+> > About Yourself: MS Saharaman works at Libre Data Consultancy services (
+> > www.ldcs.co.in).
+> > (@Saharaman plase add your area of interest )
+> >
+> > Venue: Classroom No 1,
+> > Aero Space Engineering,
+> > Near Gajendra Circle,
+> > IIT Madras.
+> >
+> > Time: 3.00pm to 6.00pm
+> >
+> >
+> > Link for the Map: http://bit.ly/iit-aero
+> >
+> > Thanks
+> > baskar
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From arunprakash.pts at gmail.com  Thu Sep 10 20:56:30 2015
+From: arunprakash.pts at gmail.com (Arun Prakash)
+Date: Thu, 10 Sep 2015 20:56:30 +0530
+Subject: [Ilugc] mysqldump is not taking full db backup
+In-Reply-To: <CA+ark-pgckmR336bCWo4owcSspDo88=pBpOWz7dF-qzUyAs00A@mail.gmail.com>
+References: <CA+ark-pgckmR336bCWo4owcSspDo88=pBpOWz7dF-qzUyAs00A@mail.gmail.com>
+Message-ID: <CAETyDbPnnp=e4L5T0Bw4xWEAdngDbLiaW43731s4w+gsWD_ooQ@mail.gmail.com>
+
+Hello,
+
+2015-09-10 17:06 GMT+05:30 Ajeesh Kannan <ajeeshbkannan at gmail.com>:
+
+> Hi ,
+>
+> While running the below command (mysql full db backup),
+>
+> mysqldump --skip-lock-tables --single-transaction --flush-logs --hex-blob
+> --master-data=2 -A  > fullmysqldump.sql
+>
+
+Where are you mentioning databases here.?
+Include *--all-databases* or database names.
+This may help you :
+http://www.thegeekstuff.com/2008/09/backup-and-restore-mysql-database-using-mysqldump/
+
+-- 
+Regards,
+Arun Prakash
+
+From rkrajeshkumar87 at gmail.com  Fri Sep 11 08:23:59 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Fri, 11 Sep 2015 08:23:59 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+Message-ID: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+
+Dear All,
+
+For one of our products we are working on designing a gateway/router (wifi).
+
+Currently for our prototype i have made a raspberry pi as router. I am
+looking for a cheap and reliable alternative since this router will be
+working 24/7.
+
+Kindly suggest some alternatives.
+
+--
+regards
+Rajesh Kumar R.K
+
+From knura9 at gmail.com  Fri Sep 11 12:02:43 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Fri, 11 Sep 2015 12:02:43 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+Message-ID: <CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+
+On Fri, Sep 11, 2015 at 8:23 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com> wrote:
+> Dear All,
+>
+> For one of our products we are working on designing a gateway/router (wifi).
+>
+> Currently for our prototype i have made a raspberry pi as router. I am
+> looking for a cheap and reliable alternative since this router will be
+> working 24/7.
+>
+> Kindly suggest some alternatives.
+
+I had similar thoughts but abandoned the idea.
+
+Raspi -- hobby/home/proof of concept use OK but it  is a *bad* choice
+for commercial productising.    On alibaba.com, you can find embedded
+boards (small form factors) with 4 Gigabit LAN ports + mini PCI-e
+slots to stick your Wi-Fi card.  They are about $150 and upward.
+PCEngines and Soekris boards have a small form factor but they are
+more expensive.
+
+You can try mini ITX boards but the form factor may not be attractive.
+
+Out of curiosity, what is the USP of your product when compared to the
+mid range APs (5-10K)?  From my experience, most small businesses
+settle for the sub Rs. 1000 products from the likes of TPLINK and
+DLINK.
+
+HTH,
+-- Arun Khan
+
+From knura9 at gmail.com  Fri Sep 11 12:08:36 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Fri, 11 Sep 2015 12:08:36 +0530
+Subject: [Ilugc] DELL sonicwall firewall.
+In-Reply-To: <CAPRA3853ZvQNAQsH6fNh3OB2ZtG2hihKK8fPVYh-ZuE99Qtb5Q@mail.gmail.com>
+References: <CAPRA3853ZvQNAQsH6fNh3OB2ZtG2hihKK8fPVYh-ZuE99Qtb5Q@mail.gmail.com>
+Message-ID: <CAHhM8gDLWyzFR=zzzdajXp8vhWSB2hpUaiWp9XojWZcVY+WDVA@mail.gmail.com>
+
+2015-09-10 11:41 GMT+05:30 Vishnu Guruswamy <vishnuguruswamy at gmail.com>:
+> Hi,
+>
+> Is anybody knew about DELL sonicwall network security application.
+>
+
+This a very broad question, please narrow it down to specific(s).
+
+Besides, it is a commercial/proprietary product with no correlation to
+this mailing list; unless, you are looking for an open source
+alternative to Dell Sonicwall.
+
+Anyway, I suggest you decide which model is suitable to your
+requirements, download it's brochure/white paper and study it and then
+ask your question(s).
+
+Best,
+-- Arun Khan
+
+From sijisunny at gmail.com  Fri Sep 11 12:55:28 2015
+From: sijisunny at gmail.com (Siji Sunny)
+Date: Fri, 11 Sep 2015 12:55:28 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+Message-ID: <CADtvZWA60vC2uYQo3zf577bF2opNkfPo_nmLmzd2EjZB56jw0Q@mail.gmail.com>
+
+t
+
+> > Dear All,
+> >
+> > For one of our products we are working on designing a gateway/router
+> (wifi).
+> >
+> > Currently for our prototype i have made a raspberry pi as router. I am
+> > looking for a cheap and reliable alternative since this router will be
+> > working 24/7.
+>
+
+It may worth to give a try with Bananna-Pi router board -
+http://www.banana-pi.com/eacp_view.asp?id=64
+
+
+> >
+> > Kindly suggest some alternatives.
+>
+> I had similar thoughts but abandoned the idea.
+>
+> Raspi -- hobby/home/proof of concept use OK but it  is a *bad* choice
+> for commercial productising.    On alibaba.com, you can find embedded
+> boards (small form factors) with 4 Gigabit LAN ports + mini PCI-e
+> slots to stick your Wi-Fi card.  They are about $150 and upward.
+> PCEngines and Soekris boards have a small form factor but they are
+> more expensive.
+>
+> You can try mini ITX boards but the form factor may not be attractive.
+>
+> Out of curiosity, what is the USP of your product when compared to the
+> mid range APs (5-10K)?  From my experience, most small businesses
+> settle for the sub Rs. 1000 products from the likes of TPLINK and
+> DLINK.
+>
+> HTH,
+> -- Arun Khan
+> _______________________________________________
+>
+
+-- 
+Siji Sunny
+
+From mugunthan.masti at gmail.com  Fri Sep 11 13:38:30 2015
+From: mugunthan.masti at gmail.com (Mugunthan Latchoumanane)
+Date: Fri, 11 Sep 2015 13:38:30 +0530
+Subject: [Ilugc] Fwd: Software Freedom Day - Call for Volunteers!
+In-Reply-To: <CAPfdFFiRqHtPfeCWdYOjirmGYu8aqz36+OQBAT758w3a+2RC7w@mail.gmail.com>
+References: <CAPfdFFiRqHtPfeCWdYOjirmGYu8aqz36+OQBAT758w3a+2RC7w@mail.gmail.com>
+Message-ID: <CAPfdFFhE4fN4CBZxgrsEsrfZ0qkKaZ5kG46yPAHY9QdNca-CyQ@mail.gmail.com>
+
+Hello,
+
+Greetings from FSFTN!
+
+We are thrilled to announce that Software Freedom Day (SFD) 2015 is just
+round the corner.SFD is a yearly celebration for Software Freedom! Every
+year there are thousands of teams organizing Software Freedom Day in
+different countries and cities. It is in the same spirit that we, at FSFTN,
+have also been celebrating SFD in the state for the last few years.
+
+SFD is celebrated in the month of September with the goal of educating the
+public about the benefits of using high quality FOSS in education, in
+government, at home, and in business. To take a look at our celebrations
+over the last few years, follow the links given below.
+
+SFD 2013 @ CEG
+<https://www.flickr.com/photos/133959926 at N05/sets/72157658386564611>
+SFD 2013 @ PITAM
+<https://www.flickr.com/photos/133959926 at N05/sets/72157658359296192>
+SFD 2013 Posters
+<https://www.flickr.com/photos/133959926 at N05/sets/72157657969384600>
+SFD 2012
+<https://www.flickr.com/photos/133959926 at N05/sets/72157658311379406>
+
+This year, the date for SFD celebrations is tentatively set to September
+19th (Saturday). Apart from the day long celebrations on 19th, we will also
+have various other events as a run up the big day! If you would like to be
+involved in organizing SFD this year, kindly fill out this form here.
+
+Call For Volunteers
+<https://docs.google.com/forms/d/132_mC8DiWyge16HOeOqBj_mVjT6SydkYX4tzdlGyhjA/viewform>
+
+Organizing SFD event can be a lot of fun! Join us this Sunday to get
+started!
+
+Date and Time:13 Sep 2.00 PM
+
+Meet up Venue:
+Free Software Foundation Tamil Nadu,
+Thanikachalam Rd,
+Parthasarathy Puram, T.Nagar
+Chennai, Tamil Nadu 600017
+
+Map :https://www.openstreetmap.org/#map=18/13.0355619/80.2390626
+
+About us:
+http://en.wikipedia.org/wiki/en:Free%20Software%20Foundation%20Tamil%20Nadu?uselang=en-US
+Cheers,
+Team SFD'15
+
+From baskar910 at gmail.com  Sat Sep 12 07:52:32 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Sat, 12 Sep 2015 07:52:32 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September - Final Agenda
+Message-ID: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+Talk 1
+Topic: Getting started with LibreOffice development.
+Duration: 30 Mts
+setting up a development server for LO
+    - basic idea about making a bug fix
+    - how to submit the fix
+    - how to get help when we are stuck
+We will also demo an actual bug fix during the talk.
+About Yourself: MS Saharaman works at Libre Data Consultancy services (
+www.ldcs.co.in).
+
+Talk 2
+Topic: Project Euler
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+Talk 3
+Topic: Smart Pointer in C++
+Description: Will talk about RAII. Various smart pointers.
+Duration: 30mins
+About Yourself: SW Eng.
+
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From mail2nganesh at gmail.com  Sat Sep 12 08:54:34 2015
+From: mail2nganesh at gmail.com (GANESH)
+Date: Sat, 12 Sep 2015 08:54:34 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September - Final Agenda
+In-Reply-To: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+References: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+Message-ID: <CACcWtbmifQLTNqLyP8X4zJj_KgAwFG9zhVQ=HuA66vyD4PygOw@mail.gmail.com>
+
+Hi Gurus,
+
+Is there any group like this for oracle DBA.
+
+This group is so enthusiastic and doing regular meets. This will make all
+of your realtionship strong and paves the way to help each other by sharing
+knowledge.
+
+Please list all other groups realted to oracle core dba.
+On Sep 12, 2015 7:53 AM, "Baskar K" <baskar910 at gmail.com> wrote:
+
+> Hi All,
+>
+> Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+> Free Open Source Software in Chennai since Jan 1998. We meet regularly
+> on every month second Saturday with technical talks and discussions on
+> various Free software.
+>
+> All are invited to the meeting. You can even give talk or present a
+> session. Please provide details if your propose to give talk or present a
+> session.
+> While providing details for talk pl provide the following.
+>
+> Topic
+> Description
+> Duration
+> About Yourself
+>
+>
+> Check our website http://ilugc.in for further details.
+>
+> Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>
+> Talk 1
+> Topic: Getting started with LibreOffice development.
+> Duration: 30 Mts
+> setting up a development server for LO
+>     - basic idea about making a bug fix
+>     - how to submit the fix
+>     - how to get help when we are stuck
+> We will also demo an actual bug fix during the talk.
+> About Yourself: MS Saharaman works at Libre Data Consultancy services (
+> www.ldcs.co.in).
+>
+> Talk 2
+> Topic: Project Euler
+>
+> Duration: 30 Minutes
+>
+> Description:  Simple computational problems for participants to solve
+> in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+> other machine. Please bring your solutions from the previous meet-up.
+> We can review it before proceeding to a newer challenge.
+>
+> About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+> at shakthimaan.com.
+>
+> Talk 3
+> Topic: Smart Pointer in C++
+> Description: Will talk about RAII. Various smart pointers.
+> Duration: 30mins
+> About Yourself: SW Eng.
+>
+>
+> Venue: Classroom No 1,
+> Aero Space Engineering,
+> Near Gajendra Circle,
+> IIT Madras.
+>
+> Time: 3.00pm to 6.00pm
+>
+>
+> Link for the Map: http://bit.ly/iit-aero
+>
+> Thanks
+> baskar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From mohan.tux at gmail.com  Sat Sep 12 09:50:38 2015
+From: mohan.tux at gmail.com (Mohan Sundaram)
+Date: Sat, 12 Sep 2015 09:50:38 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CADtvZWA60vC2uYQo3zf577bF2opNkfPo_nmLmzd2EjZB56jw0Q@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+	<CADtvZWA60vC2uYQo3zf577bF2opNkfPo_nmLmzd2EjZB56jw0Q@mail.gmail.com>
+Message-ID: <CAFum4PnwpibJ5jhZYVohckqk8kAhYyo_Z+boPefL49q2Wqn4AA@mail.gmail.com>
+
+Look at getting Buffalo/TP-Link routers. They run opensource like
+OpenWRT, Tomato, Svensoft firmware etc. Can download those distros and
+customise. These boxes come at $40-50 for 802.11N and $100 for
+802.11AC versions.
+-- Mohan Sundaram
+
+
+On Fri, Sep 11, 2015 at 12:55 PM, Siji Sunny <sijisunny at gmail.com> wrote:
+> t
+>
+>> > Dear All,
+>> >
+>> > For one of our products we are working on designing a gateway/router
+>> (wifi).
+>> >
+>> > Currently for our prototype i have made a raspberry pi as router. I am
+>> > looking for a cheap and reliable alternative since this router will be
+>> > working 24/7.
+>>
+>
+> It may worth to give a try with Bananna-Pi router board -
+> http://www.banana-pi.com/eacp_view.asp?id=64
+>
+>
+>> >
+>> > Kindly suggest some alternatives.
+>>
+>> I had similar thoughts but abandoned the idea.
+>>
+>> Raspi -- hobby/home/proof of concept use OK but it  is a *bad* choice
+>> for commercial productising.    On alibaba.com, you can find embedded
+>> boards (small form factors) with 4 Gigabit LAN ports + mini PCI-e
+>> slots to stick your Wi-Fi card.  They are about $150 and upward.
+>> PCEngines and Soekris boards have a small form factor but they are
+>> more expensive.
+>>
+>> You can try mini ITX boards but the form factor may not be attractive.
+>>
+>> Out of curiosity, what is the USP of your product when compared to the
+>> mid range APs (5-10K)?  From my experience, most small businesses
+>> settle for the sub Rs. 1000 products from the likes of TPLINK and
+>> DLINK.
+>>
+>> HTH,
+>> -- Arun Khan
+>> _______________________________________________
+>>
+>
+> --
+> Siji Sunny
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From mohan.tux at gmail.com  Sat Sep 12 09:51:10 2015
+From: mohan.tux at gmail.com (Mohan Sundaram)
+Date: Sat, 12 Sep 2015 09:51:10 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+Message-ID: <CAFum4PmTZAgQ3TwPBZZHSUzU=Coa050n1eChohNOR6dfCkma4g@mail.gmail.com>
+
+Will help to know what you are trying to build into these routers as features.
+-- Mohan Sundaram
+
+
+On Fri, Sep 11, 2015 at 8:23 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com> wrote:
+> Dear All,
+>
+> For one of our products we are working on designing a gateway/router (wifi).
+>
+> Currently for our prototype i have made a raspberry pi as router. I am
+> looking for a cheap and reliable alternative since this router will be
+> working 24/7.
+>
+> Kindly suggest some alternatives.
+>
+> --
+> regards
+> Rajesh Kumar R.K
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From honestraj.it at gmail.com  Sat Sep 12 09:54:55 2015
+From: honestraj.it at gmail.com (honest raj)
+Date: Sat, 12 Sep 2015 09:54:55 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September - Final Agenda
+In-Reply-To: <CACPPKCYddDjDjWaEggdCSZ975rA5ZZRMQT8CJTgHMpRHU1L17Q@mail.gmail.com>
+References: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+	<CACcWtbmifQLTNqLyP8X4zJj_KgAwFG9zhVQ=HuA66vyD4PygOw@mail.gmail.com>
+	<CACPPKCYddDjDjWaEggdCSZ975rA5ZZRMQT8CJTgHMpRHU1L17Q@mail.gmail.com>
+Message-ID: <CACPPKCaepD_WEATY+syp_VVQcnxMkXRTijNfS=zHN=3Z-cMZTg@mail.gmail.com>
+
+Because,both are all same but coding mannerism is different....
+
+
+On Sat, Sep 12, 2015 at 9:53 AM, honest raj <honestraj.it at gmail.com> wrote:
+
+>
+> ---------- Forwarded message ----------
+> From: GANESH <mail2nganesh at gmail.com>
+> Date: Sat, Sep 12, 2015 at 8:54 AM
+> Subject: Re: [Ilugc] Monthly meet - ILUGC 12th September - Final Agenda
+> To: ILUG-C <ilugc at ae.iitm.ac.in>
+>
+>
+> Hi Gurus,
+>
+> Is there any group like this for oracle DBA.
+>
+> This group is so enthusiastic and doing regular meets. This will make all
+> of your realtionship strong and paves the way to help each other by sharing
+> knowledge.
+>
+> Please list all other groups realted to oracle core dba.
+> On Sep 12, 2015 7:53 AM, "Baskar K" <baskar910 at gmail.com> wrote:
+>
+> > Hi All,
+> >
+> > Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+> > Free Open Source Software in Chennai since Jan 1998. We meet regularly
+> > on every month second Saturday with technical talks and discussions on
+> > various Free software.
+> >
+> > All are invited to the meeting. You can even give talk or present a
+> > session. Please provide details if your propose to give talk or present a
+> > session.
+> > While providing details for talk pl provide the following.
+> >
+> > Topic
+> > Description
+> > Duration
+> > About Yourself
+> >
+> >
+> > Check our website http://ilugc.in for further details.
+> >
+> > Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> >
+> > Talk 1
+> > Topic: Getting started with LibreOffice development.
+> > Duration: 30 Mts
+> > setting up a development server for LO
+> >     - basic idea about making a bug fix
+> >     - how to submit the fix
+> >     - how to get help when we are stuck
+> > We will also demo an actual bug fix during the talk.
+> > About Yourself: MS Saharaman works at Libre Data Consultancy services (
+> > www.ldcs.co.in).
+> >
+> > Talk 2
+> > Topic: Project Euler
+> >
+> > Duration: 30 Minutes
+> >
+> > Description:  Simple computational problems for participants to solve
+> > in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+> > other machine. Please bring your solutions from the previous meet-up.
+> > We can review it before proceeding to a newer challenge.
+> >
+> > About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+> > at shakthimaan.com.
+> >
+> > Talk 3
+> > Topic: Smart Pointer in C++
+> > Description: Will talk about RAII. Various smart pointers.
+> > Duration: 30mins
+> > About Yourself: SW Eng.
+> >
+> >
+> > Venue: Classroom No 1,
+> > Aero Space Engineering,
+> > Near Gajendra Circle,
+> > IIT Madras.
+> >
+> > Time: 3.00pm to 6.00pm
+> >
+> >
+> > Link for the Map: http://bit.ly/iit-aero
+> >
+> > Thanks
+> > baskar
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+> as I was saw that picture for my facebook account(groupname:i am a
+> programmer)...
+> I dont understand the relationship between the two syntax....
+> Anyone can explained that relationship .......
+>
+>
+
+From rajan at bluetronics.co.in  Sat Sep 12 10:53:51 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Sat, 12 Sep 2015 10:53:51 +0530
+Subject: [Ilugc] reg : " kernel drivers / Firmware development "
+Message-ID: <CAGaELm29kMye49KsFn0bMaj=mz4F_fDoas_SuNdHQmfWHpHCpw@mail.gmail.com>
+
+Greetings ,
+                     Hi all , I am looking for someone who can assist us in
+Linux Device Driver Development, Firmware development for OMAP / ARM
+Cortex-A9 series of processors. Interested people / company please put up a
+mail to rajan at bluetronics.co.in / info at bluetronics.co.in
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From rajan at bluetronics.co.in  Sat Sep 12 10:58:40 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Sat, 12 Sep 2015 10:58:40 +0530
+Subject: [Ilugc] reg : " Vacancy in our company "
+Message-ID: <CAGaELm0CZrYZh5CpprL6bMzQu7+xNXQFkCgRnHrt8cwLA8Hvvg@mail.gmail.com>
+
+Greetings ,
+                     We have a opening in our company which deals with
+maintenance of Cloud servers (Linux)  and opensource tools like Python,
+MongoDB, Linux Database management etc.
+
+Salary will be fixed upon the capability of the person. ( range from 10000
+- 15000 )
+
+Freshers (2013,2014,2015 batches) and experience persons from Diploma / B.E
+/ M.Sc. Computer Sci. with the above knowledge can apply.
+
+Job Location : Bangalore
+
+Note : Both girls & boys can apply.
+
+Thank you
+
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From knura9 at gmail.com  Sat Sep 12 12:08:13 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sat, 12 Sep 2015 12:08:13 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAFum4PnwpibJ5jhZYVohckqk8kAhYyo_Z+boPefL49q2Wqn4AA@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+	<CADtvZWA60vC2uYQo3zf577bF2opNkfPo_nmLmzd2EjZB56jw0Q@mail.gmail.com>
+	<CAFum4PnwpibJ5jhZYVohckqk8kAhYyo_Z+boPefL49q2Wqn4AA@mail.gmail.com>
+Message-ID: <CAHhM8gBjombMXMpzfZz1Kc8EkNVUQ1W0JQ=37TiX8z1sGzE3VQ@mail.gmail.com>
+
+On Sat, Sep 12, 2015 at 9:50 AM, Mohan Sundaram <mohan.tux at gmail.com> wrote:
+> Look at getting Buffalo/TP-Link routers.
+
+Way back in 2010, I had installed a few Buffalo AP but they suffered
+from heating problem.  Symptom - they would stop showing up in the AP
+list.  A whole bunch of RMA replacement did not solve the problem.
+Power off and allowed to cool down and they would work fine.  I hope
+their current crop of APs have solved this.
+
+>They run opensource like
+> OpenWRT, Tomato, Svensoft firmware etc. Can download those distros and
+
++ ddwrt
+
+-- Arun Khan
+
+From dennisfrancis.in at gmail.com  Sun Sep 13 09:42:43 2015
+From: dennisfrancis.in at gmail.com (Dennis Francis)
+Date: Sun, 13 Sep 2015 09:42:43 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September
+In-Reply-To: <CAEn38ra4kArQKXeao9vCMRroyL9YA+XS_+2QSNLnp+KY+-aE6g@mail.gmail.com>
+References: <CACq+3bsBgBO-dQt4yd0Lbn3HAT+USgQFozr6fr3jZ7ibK8YJ4g@mail.gmail.com>
+	<CAJSNQU3MGBVDY7-jD0eTtT1m=giVGcOb2FLrUKUXxrEjYLHEXQ@mail.gmail.com>
+	<CAEn38ra4kArQKXeao9vCMRroyL9YA+XS_+2QSNLnp+KY+-aE6g@mail.gmail.com>
+Message-ID: <CA+TDRNMzkHm5NW6+tvW3jGSE8N5HuEaqpg5wHNawoM3Tux53DQ@mail.gmail.com>
+
+Hi All,
+
+
+> On Sep 10, 2015 6:39 PM, "Sahasranaman M S" <sahasr at naman.ms> wrote:
+>
+> > Hi all,
+> >
+> > Here's some additional information on talk 1 - Getting started with
+> > LibreOffice development.
+> >
+> > We will talk about
+> >     - setting up a development server for LO
+> >     - basic idea about making a bug fix
+> >     - how to submit the fix
+> >     - how to get help when we are stuck
+> >
+> > We will also demo an actual bug fix during the talk.
+> >
+> > Thanks,
+> > Sahas
+
+The slides for talk 1 is available at
+http://www.ldcs.co.in/talks/ILUGC-talk1.odp
+The section http://www.ldcs.co.in/#community has links to our libreoffice
+contributions and our other FOSS projects.
+http://www.ldcs.co.in/#recruitment has details on our recruitment mentioned
+during the talk.
+
+Thanks,
+Dennis
+
+Libre Data Consultancy Services (P) Ltd.
+www.ldcs.co.in
+
+From shakthimaan at gmail.com  Sun Sep 13 20:57:32 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 13 Sep 2015 20:57:32 +0530
+Subject: [Ilugc] Monthly meet - ILUGC 12th September - Final Agenda
+In-Reply-To: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+References: <CACq+3buaL++UD5s4Pnr9hmv80DdJWGrWB3ZPbTmizuWEHK20pQ@mail.gmail.com>
+Message-ID: <CABG-yt3X9o8LXMj+oya8yNvaU_vrgnXKn5g+GzYMybBoCb3jhA@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Sep 12, 2015 at 7:52 AM, Baskar K <baskar910 at gmail.com> wrote:
+| Hi All,
+| ...
+\--
+
+In future, if you can send the final agenda few days prior to the
+meet-up, it will help people plan their weekends. You can also advance
+the call for talks two weeks prior to the meet-up date. Just a
+suggestion.
+
+---
+| Description:  Simple computational problems for participants to solve
+| in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+| other machine. Please bring your solutions from the previous meet-up.
+| We can review it before proceeding to a newer challenge.
+\--
+
+I have uploaded the code for the first session on Project Euler using
+Elisp. It is not complete, but, a work-in-progress.
+
+  https://github.com/shakthimaan/ecukes-examples
+
+SK
+
+---
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From rkrajeshkumar87 at gmail.com  Mon Sep 14 11:40:16 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Mon, 14 Sep 2015 11:40:16 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAHhM8gBm-tH7XayiuO8vXEq0X=JvpR-UBgOoui_trCvLLEKWCQ@mail.gmail.com>
+Message-ID: <CAAKbJM+etGpWG_uYRJzx=cMOJiJ4+Qm56ZjHgyGCOPtR9P5zzw@mail.gmail.com>
+
+On Fri, Sep 11, 2015 at 12:02 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Fri, Sep 11, 2015 at 8:23 AM, Rajesh kumar <rkrajeshkumar87 at gmail.com>
+> wrote:
+> > Dear All,
+> >
+> > For one of our products we are working on designing a gateway/router
+> (wifi).
+> >
+> > Currently for our prototype i have made a raspberry pi as router. I am
+> > looking for a cheap and reliable alternative since this router will be
+> > working 24/7.
+> >
+> > Kindly suggest some alternatives.
+>
+> I had similar thoughts but abandoned the idea.
+>
+> Raspi -- hobby/home/proof of concept use OK but it  is a *bad* choice
+> for commercial productising.    On alibaba.com, you can find embedded
+> boards (small form factors) with 4 Gigabit LAN ports + mini PCI-e
+> slots to stick your Wi-Fi card.  They are about $150 and upward.
+> PCEngines and Soekris boards have a small form factor but they are
+> more expensive.
+>
+>
+Our Concept works fine with Raspi. As your said we cannot go for a
+production with raspi since its development board only.
+
+
+
+> You can try mini ITX boards but the form factor may not be attractive.
+>
+> Out of curiosity, what is the USP of your product when compared to the
+> mid range APs (5-10K)?  From my experience, most small businesses
+>
+
+Our product is home automation. We need cost effective and a quality
+solution.
+
+I have already worked with digi routers, they seems to be rigid and of high
+quality.
+
+Just need to know any other alternatives available in dlink, netgear etc,
+
+
+> settle for the sub Rs. 1000 products from the likes of TPLINK and
+> DLINK.
+>
+> HTH,
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From rkrajeshkumar87 at gmail.com  Mon Sep 14 18:24:33 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Mon, 14 Sep 2015 18:24:33 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAFum4PmTZAgQ3TwPBZZHSUzU=Coa050n1eChohNOR6dfCkma4g@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAFum4PmTZAgQ3TwPBZZHSUzU=Coa050n1eChohNOR6dfCkma4g@mail.gmail.com>
+Message-ID: <CAAKbJMK9F0cTj_6Ctb+4zozwjVjOaEPD3muhiNoPvrd0Rnv-nA@mail.gmail.com>
+
+Will help to know what you are trying to build into these routers as
+> features.
+> -- Mohan Sundaram
+>
+>
+>
+
+We are working on a home automation solution. Where this router will act as
+a gateway.
+
+--
+regards
+Rajesh Kumar
+
+From rajan at bluetronics.co.in  Mon Sep 14 18:32:09 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Mon, 14 Sep 2015 18:32:09 +0530
+Subject: [Ilugc] Linux Based Router or Gateway.
+In-Reply-To: <CAAKbJMK9F0cTj_6Ctb+4zozwjVjOaEPD3muhiNoPvrd0Rnv-nA@mail.gmail.com>
+References: <CAAKbJMLD4QSyv9oRyBT6bFGLztQEgYrfLL-jVkYP=D4qk3bTcA@mail.gmail.com>
+	<CAFum4PmTZAgQ3TwPBZZHSUzU=Coa050n1eChohNOR6dfCkma4g@mail.gmail.com>
+	<CAAKbJMK9F0cTj_6Ctb+4zozwjVjOaEPD3muhiNoPvrd0Rnv-nA@mail.gmail.com>
+Message-ID: <CAGaELm2HfV3TBXeC1grNAu-Pp253Me2BLHgzEEy0iw661SbnSw@mail.gmail.com>
+
+Visit the following sites to get some ideas on what you search for.
+
+Wiki.openwrt.org/toh/start
+
+Orp1.com
+
+Rooter.is
+
+Turris.cz/en/hardware
+On Sep 14, 2015 6:25 PM, "Rajesh kumar" <rkrajeshkumar87 at gmail.com> wrote:
+
+> Will help to know what you are trying to build into these routers as
+> > features.
+> > -- Mohan Sundaram
+> >
+> >
+> >
+>
+> We are working on a home automation solution. Where this router will act as
+> a gateway.
+>
+> --
+> regards
+> Rajesh Kumar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From vkslist at gmail.com  Mon Sep 14 19:34:34 2015
+From: vkslist at gmail.com (VK Sameer)
+Date: Mon, 14 Sep 2015 19:34:34 +0530
+Subject: [Ilugc] Suggestions for NFS server configuration
+Message-ID: <CACEMYxonobnMx3Zdgz_GFX9-NOJtujOk=nvsXF2=i-aDxcuzeQ@mail.gmail.com>
+
+Hi,
+
+I've not set up an NFS server from hardware for many years, so please bear
+with any naive questions.
+
+I need to set up a server to replace an old Dell Business server (SC 430)
+running Ubuntu 14.04.02, which has stopped booting up now. It had 2 500GB
+drives, daily backup from drive 1 to drive 2 using rdist-backup. Data is
+written only to 1 drive. It has 4GB RAM. Small subnet - 3 fixed NFS clients
+(2 desktops, 1 fixed laptop) and 1-2 floating laptops that are brought in
+occasionally.
+
+What would be a really good server setup to replace this? OS, software, &
+network installs/configs are not a problem, but I'd like to set it up once
+(well, OK a few times!), and then leave it to run for years.
+
+I've only used servers with internal hard-drives. Are there reliable boxes
+(chassis?) which will let me re-use the 2 SATA HDDs? Is a
+CPU-RAM-network-only box + SATA box config possible? And the Dell case is
+really nice, I'd hate to scrap it if it can be re-used. The motherboard has
+been dying for some time, I think, so it may not be salvageable. Only 2 of
+the 4 SATA connectors work.
+
+To spice up this problem a little further. Most users are already getting
+their home directories through NFS. Would it make sense to convert the
+desktops into thin clients? No hardware replacement here, just
+distro/OS/config.
+
+Many thanks in advance for all advice & suggestions.
+
+Regards,
+Sameer
+
+From knura9 at gmail.com  Mon Sep 14 20:42:12 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Mon, 14 Sep 2015 20:42:12 +0530
+Subject: [Ilugc] Suggestions for NFS server configuration
+In-Reply-To: <CACEMYxonobnMx3Zdgz_GFX9-NOJtujOk=nvsXF2=i-aDxcuzeQ@mail.gmail.com>
+References: <CACEMYxonobnMx3Zdgz_GFX9-NOJtujOk=nvsXF2=i-aDxcuzeQ@mail.gmail.com>
+Message-ID: <CAHhM8gC-egzfZ2tRi0zOoF1kOL7Ckrt+GP7xotKsLTTCtSbp8g@mail.gmail.com>
+
+On Mon, Sep 14, 2015 at 7:34 PM, VK Sameer <vkslist at gmail.com> wrote:
+> Hi,
+>
+> I've not set up an NFS server from hardware for many years, so please bear
+> with any naive questions.
+>
+> I need to set up a server to replace an old Dell Business server (SC 430)
+> running Ubuntu 14.04.02, which has stopped booting up now. It had 2 500GB
+> drives, daily backup from drive 1 to drive 2 using rdist-backup. Data is
+> written only to 1 drive. It has 4GB RAM. Small subnet - 3 fixed NFS clients
+> (2 desktops, 1 fixed laptop) and 1-2 floating laptops that are brought in
+> occasionally.
+>
+> What would be a really good server setup to replace this? OS, software, &
+> network installs/configs are not a problem, but I'd like to set it up once
+> (well, OK a few times!), and then leave it to run for years.
+>
+
+Are the disk still good?  You could simply transfer the hard disks to
+another machine and boot from them.
+An equivalent server from Dell/HP/Lenovo is a good start.  Suggest up
+the RAM to 8GB.
+
+> I've only used servers with internal hard-drives. Are there reliable boxes
+> (chassis?) which will let me re-use the 2 SATA HDDs?
+
+A workstation grade (really good SMPS) ATX chassis should do it.
+Avoid the cheapos units.
+
+> Is a
+> CPU-RAM-network-only box + SATA box config possible?
+
+What do you mean?
+
+> And the Dell case is
+> really nice, I'd hate to scrap it if it can be re-used. The motherboard has
+> been dying for some time, I think, so it may not be salvageable. Only 2 of
+> the 4 SATA connectors work.
+>
+
+Most Dell/HP/Lenovo/<etc> boards are proprietary with proprietary
+chassis.  It is unlikely you can use it with a standard board from the
+market.
+
+I am biased towards to Supermicro boards, their form factor is
+industry standard.
+
+> To spice up this problem a little further. Most users are already getting
+> their home directories through NFS. Would it make sense to convert the
+> desktops into thin clients? No hardware replacement here, just
+> distro/OS/config.
+>
+
+Yes, that is the way to go.
+
+HTH,
+-- Arun Khan
+
+From vkslist at gmail.com  Mon Sep 14 22:26:04 2015
+From: vkslist at gmail.com (VK Sameer)
+Date: Mon, 14 Sep 2015 16:56:04 +0000 (UTC)
+Subject: [Ilugc] Suggestions for NFS server configuration
+References: <CACEMYxonobnMx3Zdgz_GFX9-NOJtujOk=nvsXF2=i-aDxcuzeQ@mail.gmail.com>
+	<CAHhM8gC-egzfZ2tRi0zOoF1kOL7Ckrt+GP7xotKsLTTCtSbp8g@mail.gmail.com>
+Message-ID: <loom.20150914T173451-761@post.gmane.org>
+
+Arun Khan <knura9 at ...> writes:
+
+> Are the disk still good?  You could simply transfer the hard disks to
+> another machine and boot from them.
+
+Yes, they are OK. They've been moved once before, from a desktop to this
+donated server.
+
+> An equivalent server from Dell/HP/Lenovo is a good start.  Suggest up
+> the RAM to 8GB.
+
+OK, makes sense re. the RAM. Server boxes may be expensive, hence my query
+below. Budget is around 20k. I'm OK assembling high-quality components, just
+need advice on what to get.
+ 
+> > I've only used servers with internal hard-drives. Are there reliable boxes
+> > (chassis?) which will let me re-use the 2 SATA HDDs?
+> 
+> A workstation grade (really good SMPS) ATX chassis should do it.
+> Avoid the cheapos units.
+
+Right. We are now using Antec SMPS, though not boxes.
+
+> > Is a
+> > CPU-RAM-network-only box + SATA box config possible?
+> 
+> What do you mean?
+
+One box/chassis for cpu/ram/network-cards + separate box(JBOD or something)
+for HDDs. Connection through SATA cables, separate power.
+
+> 
+> > And the Dell case is
+> > really nice, I'd hate to scrap it if it can be re-used. The motherboard has
+> > been dying for some time, I think, so it may not be salvageable. Only 2 of
+> > the 4 SATA connectors work.
+> >
+> 
+> Most Dell/HP/Lenovo/?etc> boards are proprietary with proprietary
+> chassis.  It is unlikely you can use it with a standard board from the
+> market.
+
+OK.
+ 
+> I am biased towards to Supermicro boards, their form factor is
+> industry standard.
+
+That would indeed be helpful for future-planning.
+
+Apparently Supermicro's not popular in Chennai. I see only one authorised
+distributor in Ashok Nagar - Netweb Technologies.
+
+> > To spice up this problem a little further. Most users are already getting
+> > their home directories through NFS. Would it make sense to convert the
+> > desktops into thin clients? No hardware replacement here, just
+> > distro/OS/config.
+> >
+> 
+> Yes, that is the way to go.
+
+Great, thanks for confirming.
+
+> HTH,
+
+Absolutely!
+
+Sameer
+
+From knura9 at gmail.com  Tue Sep 15 12:14:54 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 15 Sep 2015 12:14:54 +0530
+Subject: [Ilugc] Suggestions for NFS server configuration
+In-Reply-To: <loom.20150914T173451-761@post.gmane.org>
+References: <CACEMYxonobnMx3Zdgz_GFX9-NOJtujOk=nvsXF2=i-aDxcuzeQ@mail.gmail.com>
+	<CAHhM8gC-egzfZ2tRi0zOoF1kOL7Ckrt+GP7xotKsLTTCtSbp8g@mail.gmail.com>
+	<loom.20150914T173451-761@post.gmane.org>
+Message-ID: <CAHhM8gBEy+1j+sRsk-P-qEw7tOW7zo2-G1DAUejOpZkjHMH3SQ@mail.gmail.com>
+
+On Mon, Sep 14, 2015 at 10:26 PM, VK Sameer <vkslist at gmail.com> wrote:
+
+> OK, makes sense re. the RAM. Server boxes may be expensive, hence my query
+> below. Budget is around 20k. I'm OK assembling high-quality components, just
+> need advice on what to get.
+>
+
+A 20K budget will not get you much of server grade components.  You
+may have to settle for desktop board + CPU.
+ebay.in may have some offers from IN based vendors, you can check for
+"out of lease" items that usually go for 30-40% of the original price
+and you get data center grade hardware.
+I have also ebay.in list items from US vendors where you pay in INR
+and the price includes shipping and custom clearance.
+
+>> > I've only used servers with internal hard-drives. Are there reliable boxes
+>> > (chassis?) which will let me re-use the 2 SATA HDDs?
+>>
+>> A workstation grade (really good SMPS) ATX chassis should do it.
+>> Avoid the cheapos units.
+>
+> Right. We are now using Antec SMPS, though not boxes.
+>
+
+Cooler Master has a few chassis w/o SMPS.  My favorite is Elite 311
+(if you can get it).  There is space for about 5 HDDs  mounted on a
+removable cage.  Makes servicing easier.
+
+>> > Is a
+>> > CPU-RAM-network-only box + SATA box config possible?
+>>
+>> What do you mean?
+>
+> One box/chassis for cpu/ram/network-cards + separate box(JBOD or something)
+> for HDDs. Connection through SATA cables, separate power.
+>
+
+Why the headache for the kind of storage cap you are dealing with?
+
+>> I am biased towards to Supermicro boards, their form factor is
+>> industry standard.
+>
+> That would indeed be helpful for future-planning.
+>
+> Apparently Supermicro's not popular in Chennai. I see only one authorised
+> distributor in Ashok Nagar - Netweb Technologies.
+>
+
+I have done business with Netweb.  RMA  and onsite service is good.
+Their price is a bit on the higher side.  Alternately, you can try
+Intel resellers.
+
+Best,
+-- Arun Khan
+
+From sijisunny at gmail.com  Wed Sep 16 01:07:57 2015
+From: sijisunny at gmail.com (Siji Sunny)
+Date: Wed, 16 Sep 2015 01:07:57 +0530
+Subject: [Ilugc] BOSS is back ?? Seems like Yes !
+Message-ID: <CADtvZWB8Grh8+sBQ5bp9FneBXZY3DkQPniKh93xjBVj232UrVg@mail.gmail.com>
+
+Hello All,
+
+It seems like, Govt. India is planning to come back with BOSS-Linux. With
+reference to few online reference link, CDAC is planning to release a new
+version in this month with lot of changes.
+
+http://www.techworm.net/2015/09/linux-based-boss-to-replace-microsofts-windows-as-os-for-indian-government.html
+
+http://thelogicalindian.com/news/why-government-is-launching-its-own-operating-system-replacing-microsoft-windows/
+
+-- 
+Siji Sunny
+
+From chris.ldcs.co.in at gmail.com  Wed Sep 16 02:22:59 2015
+From: chris.ldcs.co.in at gmail.com (Chris F)
+Date: Tue, 15 Sep 2015 16:52:59 -0400
+Subject: [Ilugc] Suggestions for NFS server configuration
+Message-ID: <CAGF_mWuvMgO+k4kVwNwmkM27nB9jJ_tp0k8OFh-+yz-NQjg3Ug@mail.gmail.com>
+
+drives, daily backup from drive 1 to drive 2 using rdist-backup. Data is
+> written only to 1 drive. It has 4GB RAM. Small subnet - 3 fixed NFS clients
+
+
+Maybe our config/setup is helpful for ideas, now or if you grow :
+
+We use mdadm raid1 for all our boxes, NFS servers included.
+It buys days of time after losing a disk before we have to replace it.
+*Rdiff*-backup is used daily to another box, for box/site disaster and
+hist archiving.
+
+If intended for datacenter, then we now prefer Supermicro 1U small servers.
+Previously we did use the cheapest Lenovo's but they would get wedged
+sometimes, and require travel to DC to reboot.
+Supermicro is no-frills, has IPMI for remote mgmt, and worked well for
+us for years.
+Downside is no hotplug, so have to bring box down for few minutes to
+replace bad drive.
+2x2.5 drives fit easily on the chassis we chose.
+
+We use NFSv4 to export spare disk from all boxes to all boxes, with
+home dirs local to each box.
+Users are asked to keep dot files in home dir or any files they do not
+need backed up.
+Each is given work dir on nfs, visible on all boxes - these are backed
+up by replicating periodically.
+All network dirs are accessed through symlink, so recovery is manually
+updating it to the working copy.
+Sometimes we iscsi-export partition from diskrich box to diskpoor box
+needing faster local disk than NFS can do.
+
+Maint work is rare, triggered when hourly monitoring scripts report
+failed / nearly full disks.
+
+OS is Centos7 as it scales to enterprise quality - minus the
+enterprise SAN cost :-)
+Tightly controlled and uniform network, so just plain local Linux
+security suffices.
+
+- Chris
+
+From vik at hamaralinux.org  Wed Sep 16 08:19:44 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Wed, 16 Sep 2015 08:19:44 +0530
+Subject: [Ilugc] BOSS is back ?? Seems like Yes !
+In-Reply-To: <CADtvZWB8Grh8+sBQ5bp9FneBXZY3DkQPniKh93xjBVj232UrVg@mail.gmail.com>
+References: <CADtvZWB8Grh8+sBQ5bp9FneBXZY3DkQPniKh93xjBVj232UrVg@mail.gmail.com>
+Message-ID: <55F8D8C8.3000903@hamaralinux.org>
+
+On 16/09/15 01:07, Siji Sunny wrote:
+> Hello All,
+>
+> It seems like, Govt. India is planning to come back with BOSS-Linux. With
+> reference to few online reference link, CDAC is planning to release a new
+> version in this month with lot of changes.
+>
+> http://www.techworm.net/2015/09/linux-based-boss-to-replace-microsofts-windows-as-os-for-indian-government.html
+>
+> http://thelogicalindian.com/news/why-government-is-launching-its-own-operating-system-replacing-microsoft-windows/
+>
+"A highly improved and secured version of BOSS"
+
+Anyone seen the list of fixes?
+
+From dennisfrancis.in at gmail.com  Wed Sep 16 13:12:31 2015
+From: dennisfrancis.in at gmail.com (Dennis Francis)
+Date: Wed, 16 Sep 2015 13:12:31 +0530
+Subject: [Ilugc] [JOB] Devops positions available
+Message-ID: <CA+TDRNNBuD56bVvz-2cHAsZfnf7naBVfF9jn0-2mQ5+YDra25w@mail.gmail.com>
+
+Hi All,
+
+We have a few full-time permanent devops positions available.
+
+About the work
+
+Our applications handle all the way from front office trading to back
+office portfolio operations for securities markets in North and South
+America, Europe and Asia-Pacific. From OS to application, we have access to
+the source code, since it was either written in-house or is open-source. We
+intend for team members to spend half their time on development and the
+other half on operations. Due to the markets we are deployed in, and since
+we operate our own code, the operational part of the job involves working
+in shifts. During each shift cycle about 20% of the time would be spent in
+an early shift starting 4:00AM and another 20% would be spent in the late
+shift ending 12:00 midnight. The remaining 60% would be in fairly normal
+shifts.
+
+Responsibilities
+
+- Operations monitoring and troubleshooting. Dev-Ops work ratio is 50:50.
+- Maintain existing and future custom application code and configuration.
+- Participate in regular deployment of code updates.
+- Learn on the job and explore new technologies with little supervision.
+- Development work on open source projects like LibreOffice/Thunderbird
+based on internal needs.
+
+Requirements
+
+- Undergraduate degree in Computer Science or equivalent work experience.
+- Good coding skills in C++/Golang with 0-2 years experience.
+- Good knowledge of GNU/Linux operating system.
+- Ability to research technical problems and solutions online.
+- Excellent communication skills.
+- Willing to work in any shifts within 4:00 AM IST to 12:00 midnight IST.
+- Strong desire to contribute to open-source projects.
+
+Benefits & Perks
+
+- Starting base salary for fresh graduates is 5-8L based on ability.
+  For those with work experience, salary will range higher, based on
+ability.
+- Bonus based on performance.
+- One month paid vacation for first year, it can go up to two months from
+second year onwards.
+- Initial posting based in Chennai but after one year (and proven record of
+responsibility) may
+  choose to work from home anywhere.
+
+
+If you are interested in applying for this position, email your resume to
+careers at ldcs.co.in with a subject line LDCS-firstname-lastname.
+
+Thanks,
+Dennis
+
+www.ldcs.co.in
+Libre Data Consultancy Services Private Ltd.
+
+From gsivaprabu at gmail.com  Wed Sep 16 18:59:08 2015
+From: gsivaprabu at gmail.com (Siva prabu)
+Date: Wed, 16 Sep 2015 18:59:08 +0530
+Subject: [Ilugc] 4G Dongle support for all SIM (Networks) and wifi hotspot
+Message-ID: <CALp7xkAqGuJmFMVc1TKejb7=3bV1H-KRJUzS2KHSLtHSHa6wmQ@mail.gmail.com>
+
+Hi Friends,
+
+Please suggest good dongle for below requirements
+
+1. 4G Support
+2. Support for all SIM (Networks)
+3. wifi hotspot
+
+
+Please suggest Brand name and Model.
+??
+regards,
+@gsivaprabu
+<http://about.me/gsivaprabu>
+
+From rajan at bluetronics.co.in  Thu Sep 17 09:16:53 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Thu, 17 Sep 2015 09:16:53 +0530
+Subject: [Ilugc] 4G Dongle support for all SIM (Networks) and wifi
+	hotspot
+In-Reply-To: <CALp7xkAqGuJmFMVc1TKejb7=3bV1H-KRJUzS2KHSLtHSHa6wmQ@mail.gmail.com>
+References: <CALp7xkAqGuJmFMVc1TKejb7=3bV1H-KRJUzS2KHSLtHSHa6wmQ@mail.gmail.com>
+Message-ID: <CAGaELm0CGzFnk21QdUah6prwMKff_G+sDGoKV4dxVNNLfBpF5g@mail.gmail.com>
+
+Greetings ,
+                        try huawei E355 / Huawei 4G Pocket Hotspot Plus
+
+On Wed, Sep 16, 2015 at 6:59 PM, Siva prabu <gsivaprabu at gmail.com> wrote:
+
+> Hi Friends,
+>
+> Please suggest good dongle for below requirements
+>
+> 1. 4G Support
+> 2. Support for all SIM (Networks)
+> 3. wifi hotspot
+>
+>
+> Please suggest Brand name and Model.
+> ??
+> regards,
+> @gsivaprabu
+> <http://about.me/gsivaprabu>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+
+
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From sayan.chowdhury2012 at gmail.com  Fri Sep 18 10:05:46 2015
+From: sayan.chowdhury2012 at gmail.com (Sayan Chowdhury)
+Date: Fri, 18 Sep 2015 10:05:46 +0530
+Subject: [Ilugc] Register for Dev Sprint - PyCon India 2015
+Message-ID: <CAHPYoWRPZDJ1UHmBJFb7TM1V0D5tVQFqbCwBRtfgyzct-rVuEw@mail.gmail.com>
+
+Hi,
+
+This year at PyCon India 2015 we are holding Dev Sprints as a part of
+the conference.
+
+In case you are confused or if we sound too pretentious, think of Dev
+sprint as having a good time, coding hands-on with your fellow Python
+programmers. The atmosphere will be that of an intense one, extremely
+focused on projects, with mentors hanging around to help you overcome
+any roadblock that you might face. The usual outcome of these intense
+sprints are patches, bug fixes and numerous upstream pull requests
+from almost all the participants.
+
+Been dreaming about contributing to open source projects? Well, look
+no further because there won't be a better chance than this. The
+Sprint will be held on Oct 2nd from 9AM - 7.30 PM on the 1st floor of
+the conference venue.
+
+We have started off with the registrations of the PyCon India 2015 -
+Dev Sprint. Participation in Dev Sprint is completely free but the
+venue can accomodate only 150 participants. So, We will accept
+participants on a strictly First-Come, First-Served basis. Fill up the
+google form[1] to register to Dev Sprint as a participant. It's
+compulsory for the participant to have PyCon India 2015 ticket to
+participate in Dev Sprint.
+
+Last date of Registration - 24th September 2015.
+
+Here is the list of projects that will be participating in Dev Sprint[2]
+
+[1] bit.ly/dev-sprint-registration
+[2] https://in.pycon.org/cfp/pycon-india-dev-sprint-2015/proposals/
+
+
+
+-- 
+Sayan Chowdhury, Artisan
+sayanchowdhury.dgplug.org | sayan.chowdhury2012 at gmail.com
+
+From tuxuday at gmail.com  Fri Sep 18 13:55:32 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Fri, 18 Sep 2015 13:55:32 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+Message-ID: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+
+Per subject.
+
+-- 
+Cheers
+Uday.
+
+From bamanicse at gmail.com  Fri Sep 18 14:05:28 2015
+From: bamanicse at gmail.com (mani vannan)
+Date: Fri, 18 Sep 2015 14:05:28 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+In-Reply-To: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+References: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+Message-ID: <CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+
+On Sep 18, 2015 1:55 PM, "Udaya Kumar" <tuxuday at gmail.com> wrote:
+>
+
+Yes website seems suspended.
+> Per subject.
+>
+> --
+> Cheers
+> Uday.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+From mbchandar at gmail.com  Fri Sep 18 15:08:23 2015
+From: mbchandar at gmail.com (balachandar muruganantham)
+Date: Fri, 18 Sep 2015 15:08:23 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+In-Reply-To: <CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+References: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+	<CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+Message-ID: <CAPCsXg7=yx6wbixgrza2oEm4fUV5vCQhhMisq=yhCZPJHqz3Fg@mail.gmail.com>
+
+Hi,
+
+I am checking on it.
+
+- balachandar muruganantham
+
+On Fri, Sep 18, 2015 at 2:05 PM, mani vannan <bamanicse at gmail.com> wrote:
+
+> On Sep 18, 2015 1:55 PM, "Udaya Kumar" <tuxuday at gmail.com> wrote:
+> >
+>
+> Yes website seems suspended.
+> > Per subject.
+> >
+> > --
+> > Cheers
+> > Uday.
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From citizenofgnu at gmail.com  Fri Sep 18 18:56:11 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Fri, 18 Sep 2015 18:56:11 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+In-Reply-To: <CAPCsXg7=yx6wbixgrza2oEm4fUV5vCQhhMisq=yhCZPJHqz3Fg@mail.gmail.com>
+References: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+	<CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+	<CAPCsXg7=yx6wbixgrza2oEm4fUV5vCQhhMisq=yhCZPJHqz3Fg@mail.gmail.com>
+Message-ID: <CAEdr4A6vkoum_ENTvdQ4q9A8YTFdfdv5WOTi_FQP=-XzWny6ww@mail.gmail.com>
+
+Hi,
+
+Thanks Bala,
+
+ilugc.in is up and running :)
+
+regards,
+
+
+Thyagarajan  Shanmugham
+
+From shanmugas66 at gmail.com  Sat Sep 19 10:15:27 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Sat, 19 Sep 2015 10:15:27 +0530
+Subject: [Ilugc] Register for Dev Sprint - PyCon India 2015
+In-Reply-To: <CAHPYoWRPZDJ1UHmBJFb7TM1V0D5tVQFqbCwBRtfgyzct-rVuEw@mail.gmail.com>
+References: <CAHPYoWRPZDJ1UHmBJFb7TM1V0D5tVQFqbCwBRtfgyzct-rVuEw@mail.gmail.com>
+Message-ID: <CA+h6mdNGK0P98FRBEWhi0sYkGdoWM2NG4W2e-VqCcikpz24Rkg@mail.gmail.com>
+
+hello bro,
+           i am an final year student i an also can register for this event
+bro or any conditions to register for this
+
+On Fri, Sep 18, 2015 at 10:05 AM, Sayan Chowdhury <
+sayan.chowdhury2012 at gmail.com> wrote:
+
+> Hi,
+>
+> This year at PyCon India 2015 we are holding Dev Sprints as a part of
+> the conference.
+>
+> In case you are confused or if we sound too pretentious, think of Dev
+> sprint as having a good time, coding hands-on with your fellow Python
+> programmers. The atmosphere will be that of an intense one, extremely
+> focused on projects, with mentors hanging around to help you overcome
+> any roadblock that you might face. The usual outcome of these intense
+> sprints are patches, bug fixes and numerous upstream pull requests
+> from almost all the participants.
+>
+> Been dreaming about contributing to open source projects? Well, look
+> no further because there won't be a better chance than this. The
+> Sprint will be held on Oct 2nd from 9AM - 7.30 PM on the 1st floor of
+> the conference venue.
+>
+> We have started off with the registrations of the PyCon India 2015 -
+> Dev Sprint. Participation in Dev Sprint is completely free but the
+> venue can accomodate only 150 participants. So, We will accept
+> participants on a strictly First-Come, First-Served basis. Fill up the
+> google form[1] to register to Dev Sprint as a participant. It's
+> compulsory for the participant to have PyCon India 2015 ticket to
+> participate in Dev Sprint.
+>
+> Last date of Registration - 24th September 2015.
+>
+> Here is the list of projects that will be participating in Dev Sprint[2]
+>
+> [1] bit.ly/dev-sprint-registration
+> [2] https://in.pycon.org/cfp/pycon-india-dev-sprint-2015/proposals/
+>
+>
+>
+> --
+> Sayan Chowdhury, Artisan
+> sayanchowdhury.dgplug.org | sayan.chowdhury2012 at gmail.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tuxuday at gmail.com  Sat Sep 19 10:31:57 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Sat, 19 Sep 2015 10:31:57 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+In-Reply-To: <CAEdr4A6vkoum_ENTvdQ4q9A8YTFdfdv5WOTi_FQP=-XzWny6ww@mail.gmail.com>
+References: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+	<CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+	<CAPCsXg7=yx6wbixgrza2oEm4fUV5vCQhhMisq=yhCZPJHqz3Fg@mail.gmail.com>
+	<CAEdr4A6vkoum_ENTvdQ4q9A8YTFdfdv5WOTi_FQP=-XzWny6ww@mail.gmail.com>
+Message-ID: <CANODOzvxMOJSW_oUSx5zjQHLw-2Z6ztVzViVQiJiJkjvzFZCHQ@mail.gmail.com>
+
+Can someone share the process behind?
+
+Where it's hosted?
+About the economics etc.
+
+Uday
+
+From knura9 at gmail.com  Sat Sep 19 16:53:27 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sat, 19 Sep 2015 16:53:27 +0530
+Subject: [Ilugc] Microsoft develops it's own Linux distro to run MS Azure's
+	networking hardware
+Message-ID: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+
+The cancerous Linux [a] has reached the company's networking (lymph)
+nodes!  It is now running Azure's networking hardware!
+
+<http://www.theregister.co.uk/2015/09/18/microsoft_has_developed_its_own_linux_repeat_microsoft_has_developed_its_own_linux/>
+<http://azure.microsoft.com/en-us/blog/microsoft-showcases-the-azure-cloud-switch-acs/>
+
+[a] <http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/>
+
+-- 
+Arun Khan (???? ????/???? ???)
+"If you do not come out of your shell, you are just a nut."  Sadhguru
+
+From sureshkumarr.s at gmail.com  Sat Sep 19 18:01:20 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Sat, 19 Sep 2015 18:01:20 +0530
+Subject: [Ilugc] KaanalNet opensource project - Released
+Message-ID: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+
+Hi,
+
+I have successfully released the first official release of kaanalnet
+project on 17th September.
+KaanalNet is network test bed for SDN networks.
+
+Thanks to pradeep(http://praveenlearner.wordpress.com) who developed
+the Webportal -   kaanalnet.org.
+
+Wiki is available at,
+https://github.com/sureshkvl/kaanalnet/wiki
+
+
+thanks
+suresh
+
+From sureshkumarr.s at gmail.com  Sat Sep 19 19:06:03 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Sat, 19 Sep 2015 19:06:03 +0530
+Subject: [Ilugc] KaanalNet opensource project - Released
+In-Reply-To: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+References: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+Message-ID: <CAJLBBzygt7jr5GmkouFDps2YoYhN5wKX9mFMB1d_YCXx0XB2_w@mail.gmail.com>
+
+Hi,
+Just corrected the contributor name.
+
+praveen (http://praveenlearner.wordpress.com) .
+
+> I have successfully released the first official release of kaanalnet
+> project on 17th September.
+> KaanalNet is network test bed for SDN networks.
+>
+> Thanks to pradeep(http://praveenlearner.wordpress.com) who developed
+> the Webportal -   kaanalnet.org.
+>
+> Wiki is available at,
+> https://github.com/sureshkvl/kaanalnet/wiki
+>
+
+
+Thanks
+suresh.
+
+From sayan.chowdhury2012 at gmail.com  Sun Sep 20 11:15:13 2015
+From: sayan.chowdhury2012 at gmail.com (Sayan Chowdhury)
+Date: Sun, 20 Sep 2015 11:15:13 +0530
+Subject: [Ilugc] Register for Dev Sprint - PyCon India 2015
+In-Reply-To: <CA+h6mdNGK0P98FRBEWhi0sYkGdoWM2NG4W2e-VqCcikpz24Rkg@mail.gmail.com>
+References: <CAHPYoWRPZDJ1UHmBJFb7TM1V0D5tVQFqbCwBRtfgyzct-rVuEw@mail.gmail.com>
+	<CA+h6mdNGK0P98FRBEWhi0sYkGdoWM2NG4W2e-VqCcikpz24Rkg@mail.gmail.com>
+Message-ID: <CAHPYoWTYGa=3UM2rPtTBvxPCnf_8nAVp-GzKovK7jPOieZGxAA@mail.gmail.com>
+
+On Sat, Sep 19, 2015 at 10:15 AM, shanmuga sundar <shanmugas66 at gmail.com> wrote:
+> hello bro,
+>            i am an final year student i an also can register for this event
+> bro or any conditions to register for this
+
+Dev Sprint is open to all. The only condition is that you need to have
+registered for PyCon India 2015. You will need to show the PyCon India
+2015 tickets before attending Dev Sprint.
+
+
+-- 
+Sayan Chowdhury, Artisan
+sayanchowdhury.dgplug.org | sayan.chowdhury2012 at gmail.com
+
+From shanmugas66 at gmail.com  Sun Sep 20 11:26:49 2015
+From: shanmugas66 at gmail.com (shanmuga sundar)
+Date: Sun, 20 Sep 2015 11:26:49 +0530
+Subject: [Ilugc] Register for Dev Sprint - PyCon India 2015
+In-Reply-To: <CAHPYoWTYGa=3UM2rPtTBvxPCnf_8nAVp-GzKovK7jPOieZGxAA@mail.gmail.com>
+References: <CAHPYoWRPZDJ1UHmBJFb7TM1V0D5tVQFqbCwBRtfgyzct-rVuEw@mail.gmail.com>
+	<CA+h6mdNGK0P98FRBEWhi0sYkGdoWM2NG4W2e-VqCcikpz24Rkg@mail.gmail.com>
+	<CAHPYoWTYGa=3UM2rPtTBvxPCnf_8nAVp-GzKovK7jPOieZGxAA@mail.gmail.com>
+Message-ID: <CA+h6mdN+hRGhKqkDM0hQoDq+1BHWV8TUpJ7e1fssPD1GEeyt4w@mail.gmail.com>
+
+hai bro
+          they are ask to chosee three projects and i choosen my interest
+areas wether its tha who work in those only want to choose are what about
+that projects in the forms while registering
+
+On Sun, Sep 20, 2015 at 11:15 AM, Sayan Chowdhury <
+sayan.chowdhury2012 at gmail.com> wrote:
+
+> On Sat, Sep 19, 2015 at 10:15 AM, shanmuga sundar <shanmugas66 at gmail.com>
+> wrote:
+> > hello bro,
+> >            i am an final year student i an also can register for this
+> event
+> > bro or any conditions to register for this
+>
+> Dev Sprint is open to all. The only condition is that you need to have
+> registered for PyCon India 2015. You will need to show the PyCon India
+> 2015 tickets before attending Dev Sprint.
+>
+>
+> --
+> Sayan Chowdhury, Artisan
+> sayanchowdhury.dgplug.org | sayan.chowdhury2012 at gmail.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From knura9 at gmail.com  Mon Sep 21 18:35:42 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Mon, 21 Sep 2015 18:35:42 +0530
+Subject: [Ilugc] KaanalNet opensource project - Released
+In-Reply-To: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+References: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+Message-ID: <CAHhM8gAPkuAQr1efw=SiOHxFK853RxswiBzDfLcYqezS6x2-kg@mail.gmail.com>
+
+On Sat, Sep 19, 2015 at 6:01 PM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+> Hi,
+>
+> I have successfully released the first official release of kaanalnet
+> project on 17th September.
+> KaanalNet is network test bed for SDN networks.
+>
+
+I have not used it so not possible to give technical comment but
+applaud the effort/initiative.
+
+> Thanks to pradeep(http://praveenlearner.wordpress.com) who developed
+> the Webportal -   kaanalnet.org.
+>
+
+Some of the tabs have nothing in their section.  Assuming it is some
+kind of CMS, activate the high level tabs when you have content under
+them; empty sections are ok with draft/site under construction but not
+when it is in production.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Sep 22 00:38:43 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 22 Sep 2015 00:38:43 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+In-Reply-To: <CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+References: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+	<CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+Message-ID: <CAHhM8gC_u9mZ5MG8xesWE8qsUVRgAxoYg4tDUVgB8SeB-YxvKg@mail.gmail.com>
+
+On Wed, Sep 9, 2015 at 7:43 PM, Tony Thomas <01tonythomas at gmail.com> wrote:
+>
+> If you want to give it a try, you can create a new solutions request at
+> http://beta.thinkfoss.com/#tf-task so that one of our admins can check the
+> feasibility.
+>
+
+Getting a 404 for above link (time 22/09/15 0:42 IST).
+
+-- Arun Khan
+
+From 01tonythomas at gmail.com  Tue Sep 22 00:42:12 2015
+From: 01tonythomas at gmail.com (Tony Thomas)
+Date: Tue, 22 Sep 2015 00:42:12 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+In-Reply-To: <CAHhM8gC_u9mZ5MG8xesWE8qsUVRgAxoYg4tDUVgB8SeB-YxvKg@mail.gmail.com>
+References: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+	<CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+	<CAHhM8gC_u9mZ5MG8xesWE8qsUVRgAxoYg4tDUVgB8SeB-YxvKg@mail.gmail.com>
+Message-ID: <CACSPvKqeo3UDMgM-CkKjs+epE1CMs_zwWmZ1h0g89VWDD4hbgw@mail.gmail.com>
+
+On Tue, Sep 22, 2015 at 12:38 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> Getting a 404 for above link (time 22/09/15 0:42 IST).
+
+
+Ah. we moved from beta to production. As of now, you can avail the service
+at www.thinkfoss.com/#tf-task . Thanks for notifying regarding the same.
+
+Thanks,
+Tony Thomas <http://blog.tttwrites.in/>
+FOSS at Amrita <http://foss.amrita.ac.in/register/profile/tonythomas01/>
+
+*"where there is a wifi, there is a way"*
+
+From sureshkumarr.s at gmail.com  Tue Sep 22 10:42:19 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Tue, 22 Sep 2015 10:42:19 +0530
+Subject: [Ilugc] KaanalNet opensource project - Released
+In-Reply-To: <CAHhM8gAPkuAQr1efw=SiOHxFK853RxswiBzDfLcYqezS6x2-kg@mail.gmail.com>
+References: <CAJLBBzxgsXEgt4iOh61-YTAx+TLuw1-wTndYo+1w4rLCZxvAFA@mail.gmail.com>
+	<CAHhM8gAPkuAQr1efw=SiOHxFK853RxswiBzDfLcYqezS6x2-kg@mail.gmail.com>
+Message-ID: <CAJLBBzzXgVaeoi7U48Lx_g+nxiqcADeLbs-UshEwruAg51mQkQ@mail.gmail.com>
+
+Hi Arun,
+
+
+Thanks for the comments.
+
+> Some of the tabs have nothing in their section.  Assuming it is some
+> kind of CMS, activate the high level tabs when you have content under
+> them; empty sections are ok with draft/site under construction but not
+> when it is in production.
+
+Yes. These tabs are reserved for some purpose which is yet to be
+completed.. Till the time,I will make it "page under development".
+
+Thanks
+suresh
+
+From mbchandar at gmail.com  Tue Sep 22 11:58:28 2015
+From: mbchandar at gmail.com (balachandar muruganantham)
+Date: Tue, 22 Sep 2015 11:58:28 +0530
+Subject: [Ilugc] ilugc.in site suspended?
+In-Reply-To: <CANODOzvxMOJSW_oUSx5zjQHLw-2Z6ztVzViVQiJiJkjvzFZCHQ@mail.gmail.com>
+References: <CANODOzvqkn+NZAU966+vSNDcvCnUe4oTHowH8+8ZETWE-6PRPg@mail.gmail.com>
+	<CAMdKHqRQDQfTLKJAq3OSoXd8pEu+6q5ce6R_BnJPyXZvr4OdOQ@mail.gmail.com>
+	<CAPCsXg7=yx6wbixgrza2oEm4fUV5vCQhhMisq=yhCZPJHqz3Fg@mail.gmail.com>
+	<CAEdr4A6vkoum_ENTvdQ4q9A8YTFdfdv5WOTi_FQP=-XzWny6ww@mail.gmail.com>
+	<CANODOzvxMOJSW_oUSx5zjQHLw-2Z6ztVzViVQiJiJkjvzFZCHQ@mail.gmail.com>
+Message-ID: <CAPCsXg7BLo-7=7GHFy6gR5VAv48NSwxxc-un8siQ55--8J7sJA@mail.gmail.com>
+
+On Sat, Sep 19, 2015 at 10:31 AM, Udaya Kumar <tuxuday at gmail.com> wrote:
+
+> Can someone share the process behind?
+>
+> Where it's hosted?
+>
+
+Hosted in India with Hostgator
+
+
+> About the economics etc.
+>
+>
+I have been owning the domain ilugc.in on behalf of ilugc since i
+registered few years back.
+
+Hosting and domain cost is being sponsored by me.
+
+- balachandar muruganantham
+
+From knura9 at gmail.com  Tue Sep 22 16:09:55 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 22 Sep 2015 16:09:55 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+In-Reply-To: <CACSPvKqeo3UDMgM-CkKjs+epE1CMs_zwWmZ1h0g89VWDD4hbgw@mail.gmail.com>
+References: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+	<CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+	<CAHhM8gC_u9mZ5MG8xesWE8qsUVRgAxoYg4tDUVgB8SeB-YxvKg@mail.gmail.com>
+	<CACSPvKqeo3UDMgM-CkKjs+epE1CMs_zwWmZ1h0g89VWDD4hbgw@mail.gmail.com>
+Message-ID: <CAHhM8gCQWzpcG1hjqjHcW_TPpjTcwBAyVPV=T9AmbUU9cGhjXQ@mail.gmail.com>
+
+On Tue, Sep 22, 2015 at 12:42 AM, Tony Thomas <01tonythomas at gmail.com> wrote:
+>
+>
+> Ah. we moved from beta to production. As of now, you can avail the service
+> at www.thinkfoss.com/#tf-task . Thanks for notifying regarding the same.
+>
+
+Interesting initiative.  Can you share how many mentors and mentee are
+in this program?
+
+Thanks.
+--Arun Khan
+
+From rajan at bluetronics.co.in  Tue Sep 22 18:10:43 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Tue, 22 Sep 2015 18:10:43 +0530
+Subject: [Ilugc] reg : " getting started in adding blog to our own website "
+Message-ID: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+
+Greetings ,
+                     Hi everyone, anybody please help me in installing and
+using blog like wordpress to a website. the website has a parallels control
+panel.
+
+
+thank you
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From ajeeshbkannan at gmail.com  Tue Sep 22 19:41:26 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 22 Sep 2015 19:41:26 +0530
+Subject: [Ilugc] Microsoft develops it's own Linux distro to run MS
+ Azure's networking hardware
+In-Reply-To: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+References: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+Message-ID: <CA+ark-rBfGGwD=5wEmUWh8nUFqG0eqsszDeSa991vB70NZO1jg@mail.gmail.com>
+
+On Sat, Sep 19, 2015 at 4:53 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> The cancerous Linux [a] has reached the company's networking (lymph)
+> nodes!  It is now running Azure's networking hardware!
+>
+> <
+> http://www.theregister.co.uk/2015/09/18/microsoft_has_developed_its_own_linux_repeat_microsoft_has_developed_its_own_linux/
+> >
+> <
+> http://azure.microsoft.com/en-us/blog/microsoft-showcases-the-azure-cloud-switch-acs/
+> >
+>
+> [a] <http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/>
+>
+
+
+
+nice ...
+
+>
+> --
+> Arun Khan (???? ????/???? ???)
+> "If you do not come out of your shell, you are just a nut."  Sadhguru
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+
+
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From 01tonythomas at gmail.com  Tue Sep 22 19:41:25 2015
+From: 01tonythomas at gmail.com (Tony Thomas)
+Date: Tue, 22 Sep 2015 19:41:25 +0530
+Subject: [Ilugc] Looking for web developer to contribute web portal
+	development
+In-Reply-To: <CAHhM8gCQWzpcG1hjqjHcW_TPpjTcwBAyVPV=T9AmbUU9cGhjXQ@mail.gmail.com>
+References: <CAJLBBzy3boa31vr7sAFyo9-L7cvvz+sQ2uzjbz0y0ieLEUWJGg@mail.gmail.com>
+	<CACSPvKpfKnU3Tc6427xBFBcyMCW4bMuH+0z5n2SpVOv79GTCQw@mail.gmail.com>
+	<CAHhM8gC_u9mZ5MG8xesWE8qsUVRgAxoYg4tDUVgB8SeB-YxvKg@mail.gmail.com>
+	<CACSPvKqeo3UDMgM-CkKjs+epE1CMs_zwWmZ1h0g89VWDD4hbgw@mail.gmail.com>
+	<CAHhM8gCQWzpcG1hjqjHcW_TPpjTcwBAyVPV=T9AmbUU9cGhjXQ@mail.gmail.com>
+Message-ID: <CACSPvKrAOoC8ip8quzYs0jgLtDkDNKU8VUo1Lca=SUKJrjNSfA@mail.gmail.com>
+
+On Tue, Sep 22, 2015 at 4:09 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+>
+> Interesting initiative.  Can you share how many mentors and mentee are
+> in this program?
+
+
+Thanks! Its public to the internet as of now. We are in its early initial
+stage, and http://www.thinkfoss.com/portal/student/viewAllCourses.php shows
+me that we have 11 courses as of now and mentors. I am expecting more
+mentors from this list though.
+
+Mentee enrollment is <= 20 as of now. Looks like it will take a bit more
+effort to gain momentum.
+
+Thanks,
+Tony Thomas <http://blog.tttwrites.in/>
+FOSS at Amrita <http://foss.amrita.ac.in/register/profile/tonythomas01/>
+
+*"where there is a wifi, there is a way"*
+
+From ganesh.ranganathan.85 at gmail.com  Tue Sep 22 19:47:25 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Tue, 22 Sep 2015 19:47:25 +0530
+Subject: [Ilugc] Microsoft develops it's own Linux distro to run MS
+ Azure's networking hardware
+In-Reply-To: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+References: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+Message-ID: <CALFmRoHwKQu-6qbF6Z1JADPaHMyMqj34h2UyOoAf2ypqOzFtsQ@mail.gmail.com>
+
+On Sat, Sep 19, 2015 at 4:53 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> The cancerous Linux [a] has reached the company's networking (lymph)
+> nodes!  It is now running Azure's networking hardware!
+>
+
+?We are the Borg. You will be assimilated. Resistance is Futile?
+
+From shirish at hamaralinux.org  Tue Sep 22 19:59:22 2015
+From: shirish at hamaralinux.org (shirish)
+Date: Tue, 22 Sep 2015 19:59:22 +0530
+Subject: [Ilugc] Microsoft develops it's own Linux distro to run MS
+ Azure's networking hardware
+In-Reply-To: <CALFmRoHwKQu-6qbF6Z1JADPaHMyMqj34h2UyOoAf2ypqOzFtsQ@mail.gmail.com>
+References: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+	<CALFmRoHwKQu-6qbF6Z1JADPaHMyMqj34h2UyOoAf2ypqOzFtsQ@mail.gmail.com>
+Message-ID: <560165C2.5080206@hamaralinux.org>
+
+at bottom :-
+
+On Tuesday 22 September 2015 07:47 PM, Ganesh Ranganathan wrote:
+> On Sat, Sep 19, 2015 at 4:53 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+>> The cancerous Linux [a] has reached the company's networking (lymph)
+>> nodes!  It is now running Azure's networking hardware!
+>>
+>
+> ?We are the Borg. You will be assimilated. Resistance is Futile?
+
+100 points for the Star Trek symbolism ;) It's rare to find 
+Trekkies/Trekkers at least in India :)
+
+-- 
+Regards,
+Shirish Agarwal,
+Community Lead,
+Hamaralinux.org
+
+From knura9 at gmail.com  Wed Sep 23 00:27:19 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 23 Sep 2015 00:27:19 +0530
+Subject: [Ilugc] Microsoft develops it's own Linux distro to run MS
+ Azure's networking hardware
+In-Reply-To: <CALFmRoHwKQu-6qbF6Z1JADPaHMyMqj34h2UyOoAf2ypqOzFtsQ@mail.gmail.com>
+References: <CAHhM8gB1KmV1w_-D5_jdg0LuqEvcUiYPa9KRwmU+LH-L_U+Q6w@mail.gmail.com>
+	<CALFmRoHwKQu-6qbF6Z1JADPaHMyMqj34h2UyOoAf2ypqOzFtsQ@mail.gmail.com>
+Message-ID: <CAHhM8gAYviuMxY8AvG1_O0tweDxAnRMYBODZfFjhwzBOgSkTqA@mail.gmail.com>
+
+On Tue, Sep 22, 2015 at 7:47 PM, Ganesh Ranganathan
+<ganesh.ranganathan.85 at gmail.com> wrote:
+> On Sat, Sep 19, 2015 at 4:53 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+>> The cancerous Linux [a] has reached the company's networking (lymph)
+>> nodes!  It is now running Azure's networking hardware!
+>>
+>
+> We are the Borg. You will be assimilated. Resistance is Futile
+
+LOL.   Indeed, Cloud Computing, Big data, Mobile devices, IoT ...
+
+-- Arun Khan
+
+From 77minds at gmail.com  Wed Sep 23 10:26:38 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Wed, 23 Sep 2015 10:26:38 +0530
+Subject: [Ilugc] reg : " getting started in adding blog to our own
+	website "
+In-Reply-To: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+References: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+Message-ID: <CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+
+http://wordpress.com offers a easy solution, its free too... If you want to
+map your domain on it, its just $17 a year I suppose. Much more better than
+other companies that support wordpress.
+
+On Tue, Sep 22, 2015 at 6:10 PM, Raja Rajan <rajan at bluetronics.co.in> wrote:
+
+> Greetings ,
+>                      Hi everyone, anybody please help me in installing and
+> using blog like wordpress to a website. the website has a parallels control
+> panel.
+>
+>
+> thank you
+>
+> --
+> Regards,
+>
+> Rajarajan.E,
+> Bluetronics Inc.,
+> Tamil Nadu,India.
+>
+> http://bluetronics.co.in
+> phone: +91-9791-838-816
+>
+>
+>
+> [image: --]
+> rajarajan Elango
+> [image: http://]about.me/rajarajane
+> <http://about.me/rajarajane?promo=email_sig>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From rajan at bluetronics.co.in  Wed Sep 23 10:31:23 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Wed, 23 Sep 2015 10:31:23 +0530
+Subject: [Ilugc] reg : " getting started in adding blog to our own
+	website "
+In-Reply-To: <CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+References: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+	<CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+Message-ID: <CAGaELm3Xv0HFz36ZX-=-LQUCSG9jypQw4JYycvx3zwAJ4-6Rkw@mail.gmail.com>
+
+thanks for the reply karthi :-)
+
+On Wed, Sep 23, 2015 at 10:26 AM, Karthikeyan A K <77minds at gmail.com> wrote:
+
+> http://wordpress.com offers a easy solution, its free too... If you want
+> to
+> map your domain on it, its just $17 a year I suppose. Much more better than
+> other companies that support wordpress.
+>
+> On Tue, Sep 22, 2015 at 6:10 PM, Raja Rajan <rajan at bluetronics.co.in>
+> wrote:
+>
+> > Greetings ,
+> >                      Hi everyone, anybody please help me in installing
+> and
+> > using blog like wordpress to a website. the website has a parallels
+> control
+> > panel.
+> >
+> >
+> > thank you
+> >
+> > --
+> > Regards,
+> >
+> > Rajarajan.E,
+> > Bluetronics Inc.,
+> > Tamil Nadu,India.
+> >
+> > http://bluetronics.co.in
+> > phone: +91-9791-838-816
+> >
+> >
+> >
+> > [image: --]
+> > rajarajan Elango
+> > [image: http://]about.me/rajarajane
+> > <http://about.me/rajarajane?promo=email_sig>
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+>
+> --
+> http://kardrak.com/contacts/1
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From knura9 at gmail.com  Wed Sep 23 10:33:56 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 23 Sep 2015 10:33:56 +0530
+Subject: [Ilugc] reg : " getting started in adding blog to our own
+	website "
+In-Reply-To: <CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+References: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+	<CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+Message-ID: <CAHhM8gDqQd+8aYpG8v=Fq5agJXV_s4eR5vExevu0K+xjGsbnJw@mail.gmail.com>
+
+On Wed, Sep 23, 2015 at 10:26 AM, Karthikeyan A K <77minds at gmail.com> wrote:
+> http://wordpress.com offers a easy solution, its free too... If you want to
+> map your domain on it, its just $17 a year I suppose. Much more better than
+> other companies that support wordpress.
+>
+
++1 to this and avoid the headache(s) of patching your wordpress.
+
+-- Arun Khan
+
+From rajan at bluetronics.co.in  Wed Sep 23 10:37:51 2015
+From: rajan at bluetronics.co.in (Raja Rajan)
+Date: Wed, 23 Sep 2015 10:37:51 +0530
+Subject: [Ilugc] reg : " getting started in adding blog to our own
+	website "
+In-Reply-To: <CAHhM8gDqQd+8aYpG8v=Fq5agJXV_s4eR5vExevu0K+xjGsbnJw@mail.gmail.com>
+References: <CAGaELm1m3d7P0wyCYLB4Qe+p2R0XtnhSFZmosDx0xVqaGjm00w@mail.gmail.com>
+	<CAJR+9kZekppHMNd8He1Oo7t2Nn9TpnFCgL_wtBrKH1LXO1xKAg@mail.gmail.com>
+	<CAHhM8gDqQd+8aYpG8v=Fq5agJXV_s4eR5vExevu0K+xjGsbnJw@mail.gmail.com>
+Message-ID: <CAGaELm2HxCL1ccZEj5fNksHsj9yUDTOfB9oRQoC8y1bHFFoP=Q@mail.gmail.com>
+
+oh , that's right . thanks arun
+
+On Wed, Sep 23, 2015 at 10:33 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Wed, Sep 23, 2015 at 10:26 AM, Karthikeyan A K <77minds at gmail.com>
+> wrote:
+> > http://wordpress.com offers a easy solution, its free too... If you
+> want to
+> > map your domain on it, its just $17 a year I suppose. Much more better
+> than
+> > other companies that support wordpress.
+> >
+>
+> +1 to this and avoid the headache(s) of patching your wordpress.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards,
+
+Rajarajan.E,
+Bluetronics Inc.,
+Tamil Nadu,India.
+
+http://bluetronics.co.in
+phone: +91-9791-838-816
+
+
+
+[image: --]
+rajarajan Elango
+[image: http://]about.me/rajarajane
+<http://about.me/rajarajane?promo=email_sig>
+
+From vijaykumar at bravegnu.org  Fri Sep 25 05:37:47 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Fri, 25 Sep 2015 00:07:47 +0000 (UTC)
+Subject: [Ilugc] Chennaipy September Meetup
+Message-ID: <loom.20150925T020504-716@post.gmane.org>
+
+# September Meetup
+
+## Date & Time
+
+   * 26th September (Saturday)
+   * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+  * Getting started with Django (20 min)
+    by Rajkumar
+
+  * Django Rest Framework (20 min)
+    by Jagadish Kumar
+
+  * Networking Tea Break sponsored by Clay Labs (30 min)
+
+  * G-code Visualization Tools (20 min)
+    by Shakthi Kannan
+
+  * Building a Sublime Package/Plugin using Python (20 min)
+    by Gaurav
+
+  * Lightning Talks (20 min)
+
+  * Discussion (20 min)
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/225071826/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/225071826/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+   * Invent Your Own Computer Games with Python, Chapters 1 - 9
+     http://inventwithpython.com/chapters/
+
+   * Google's Python Course (with Lecture Videos)
+     https://developers.google.com/edu/python/
+
+   * How to Think Like a Computer Scientist, Chapters 1 - 12
+     http://www.greenteapress.com/thinkpython/ 
+
+
+From 77minds at gmail.com  Mon Sep 28 11:10:25 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 28 Sep 2015 11:10:25 +0530
+Subject: [Ilugc] Need people with strong tech and business background
+Message-ID: <CAJR+9kY-YY6g98Vffc72Xn=P+NXy70pFLaQcod9nLxUq0=8WMQ@mail.gmail.com>
+
+Hello Folks,
+
+We are the developers of Kardrak http://kardrak.com2 <http://kardrak.com> ,
+we are trying to
+build a global contact directory. We are in need of business development
+officers who ahas been around with tech a lot and knows to make people list
+their
+Visiting Cards on our website.
+
+If selected you might end up on a excellent job with fast pay and lots of
+travel.
+
+Contact me here http://kardrak.com/1/Karthikeyan%20A%20K with your resume
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From seesiva at gmail.com  Mon Sep 28 11:21:09 2015
+From: seesiva at gmail.com (Siva Karthikeyan)
+Date: Mon, 28 Sep 2015 11:21:09 +0530
+Subject: [Ilugc] Need people with strong tech and business background
+In-Reply-To: <CAJR+9kY-YY6g98Vffc72Xn=P+NXy70pFLaQcod9nLxUq0=8WMQ@mail.gmail.com>
+References: <CAJR+9kY-YY6g98Vffc72Xn=P+NXy70pFLaQcod9nLxUq0=8WMQ@mail.gmail.com>
+Message-ID: <CAH1wzo6_PcrtA7UGyPKF9xk5GayEgqTMsxHgToH88ApXYjPSiQ@mail.gmail.com>
+
+Neat and Simple. I believe very effective tool.
+
+regards
+Siva.
+
+From mailme at hsps.in  Mon Sep 28 11:35:38 2015
+From: mailme at hsps.in (Harisankar P S)
+Date: Mon, 28 Sep 2015 11:35:38 +0530
+Subject: [Ilugc] [JOB] [OT] Ruby on Rails Developers opening at Cochin,
+	Kerala
+Message-ID: <CADHN3jWGLbv_+E69a2HCgVWtw4Jj6y_Ni3pxb2q-02j7FrGo6w@mail.gmail.com>
+
+Hi all,
+
+I am working at a software development agency called Red Panthers
+<http://redpanthers.co>, which is based in Cochin, Kerala. We have worked
+with clients from over 21 nations, handling complicated requirements and
+helping them scale their business. Our most frequent tools of trade are
+Ruby on Rails (2.3 - 5.0 (yes we work even in the not released version of
+rails)), git, RSpec, Redis, sidekiq, PostgreSQL, MySQL, Sinatra, Cucumber
+and Angular JS.
+
+We are on the lookout for developers to join our team. So if you are
+interested or know anyone who would be interested kindly drop an email with
+an introduction, and your github profile or resume to *careers at redpanthers.co
+<careers at redpanthers.co>*
+
+We work exclusively in Ruby on Rails, so we expect the developers who join
+us to be passionate about rails as well.
+
+cheers,
+
+-- 
+Harisankar P S
+https://twitter.com/coderhs | *http://csnipp.com/coderhs
+<http://csnipp.com/coderhs>*
+?
+
+From 77minds at gmail.com  Mon Sep 28 11:55:32 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Mon, 28 Sep 2015 11:55:32 +0530
+Subject: [Ilugc] Need people with strong tech and business background
+In-Reply-To: <CAH1wzo6_PcrtA7UGyPKF9xk5GayEgqTMsxHgToH88ApXYjPSiQ@mail.gmail.com>
+References: <CAJR+9kY-YY6g98Vffc72Xn=P+NXy70pFLaQcod9nLxUq0=8WMQ@mail.gmail.com>
+	<CAH1wzo6_PcrtA7UGyPKF9xk5GayEgqTMsxHgToH88ApXYjPSiQ@mail.gmail.com>
+Message-ID: <CAJR+9kaMeYsghrsPteOESHbLxmjieXrFe6Vm6Sf414buJuW58w@mail.gmail.com>
+
+Nice to see some one from Cochin being a member here in ilugc :)
+
+On Mon, Sep 28, 2015 at 11:21 AM, Siva Karthikeyan <seesiva at gmail.com>
+wrote:
+
+> Neat and Simple. I believe very effective tool.
+>
+> regards
+> Siva.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From seesiva at gmail.com  Mon Sep 28 11:59:06 2015
+From: seesiva at gmail.com (Siva Karthikeyan)
+Date: Mon, 28 Sep 2015 11:59:06 +0530
+Subject: [Ilugc] Need people with strong tech and business background
+In-Reply-To: <CAJR+9kaMeYsghrsPteOESHbLxmjieXrFe6Vm6Sf414buJuW58w@mail.gmail.com>
+References: <CAJR+9kY-YY6g98Vffc72Xn=P+NXy70pFLaQcod9nLxUq0=8WMQ@mail.gmail.com>
+	<CAH1wzo6_PcrtA7UGyPKF9xk5GayEgqTMsxHgToH88ApXYjPSiQ@mail.gmail.com>
+	<CAJR+9kaMeYsghrsPteOESHbLxmjieXrFe6Vm6Sf414buJuW58w@mail.gmail.com>
+Message-ID: <CAH1wzo6Nr3pAwrCaiVePOG0L96_+w8BhKFLGLZJhsb5O1FfErw@mail.gmail.com>
+
+I was there in chennai. Moved here before 5 months. Missing chennai :(
+
+From sjksathishkumar at gmail.com  Mon Sep 28 17:27:59 2015
+From: sjksathishkumar at gmail.com (Sathish)
+Date: Mon, 28 Sep 2015 17:27:59 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+Message-ID: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+
+Hi Folks,
+
+   I need to setup Attendance management system in my office. So can anyone
+suggest me which one is the best open source attendance management system?
+Thanks in advance.
+
+-- 
+Thanks & Regards
+
+Sathishkumar S
+Mob: +91-9994788682
+
+From arurama at gmail.com  Mon Sep 28 19:34:29 2015
+From: arurama at gmail.com (Arun S)
+Date: Mon, 28 Sep 2015 19:34:29 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+Message-ID: <CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+
+Try odoo ERP.  Software .
+It is having attendance requires to manager. Approvals. Reports
+On 28-Sep-2015 5:28 pm, "Sathish" <sjksathishkumar at gmail.com> wrote:
+
+> Hi Folks,
+>
+>    I need to setup Attendance management system in my office. So can anyone
+> suggest me which one is the best open source attendance management system?
+> Thanks in advance.
+>
+> --
+> Thanks & Regards
+>
+> Sathishkumar S
+> Mob: +91-9994788682
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From ashokramach at gmail.com  Mon Sep 28 22:46:14 2015
+From: ashokramach at gmail.com (Ashok Ramachandran)
+Date: Mon, 28 Sep 2015 13:16:14 -0400
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+Message-ID: <CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+
+For open source Attendance Management you have two options. Either use an
+ERP software such as the one Arun S suggested. Or use a time tracking
+software such as the following:
+
+TimeTrex: Payroll, Time Sheet, Job Costing... etc. You can download the
+Community Edition licensed under GNU Affero General Public License from
+SourceForge. http://sourceforge.net/projects/timetrex/ Forum
+http://forums.timetrex.com/
+
+eHour https://ehour.nl/ : This is more oriented towards tracking time spent
+by people in different projects. This is licensed under GPL v2. Forum
+https://ehour.nl/forum/
+
+Ashok
+
+
+> >    I need to setup Attendance management system in my office. So can
+> anyone
+> > suggest me which one is the best open source attendance management
+> system?
+>
+>
+
+From baskar910 at gmail.com  Tue Sep 29 06:04:01 2015
+From: baskar910 at gmail.com (Baskar K)
+Date: Tue, 29 Sep 2015 06:04:01 +0530
+Subject: [Ilugc] monthly meet ILUGC - 10th October
+Message-ID: <CACq+3bu3oSC2JC+_NqFdGZipZDGoBKHx40dhgsXi_Nc4Na64Cg@mail.gmail.com>
+
+Hi All,
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+All are invited to the meeting. You can even give talk or present a
+session. Please provide details if your propose to give talk or present a
+session.
+While providing details for talk pl provide the following.
+
+Topic
+Description
+Duration
+About Yourself
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+Time: 3.00pm to 6.00pm
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+Thanks
+baskar
+
+From sjksathishkumar at gmail.com  Tue Sep 29 10:45:49 2015
+From: sjksathishkumar at gmail.com (Sathish)
+Date: Tue, 29 Sep 2015 10:45:49 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+	<CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+Message-ID: <CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+
+Please suggest me can i use Apache OFBiz for the same purpose? We need to
+hosted in our server for internal purpose. Thanks in advance.
+
+On Mon, Sep 28, 2015 at 10:46 PM, Ashok Ramachandran <ashokramach at gmail.com>
+wrote:
+
+> For open source Attendance Management you have two options. Either use an
+> ERP software such as the one Arun S suggested. Or use a time tracking
+> software such as the following:
+>
+> TimeTrex: Payroll, Time Sheet, Job Costing... etc. You can download the
+> Community Edition licensed under GNU Affero General Public License from
+> SourceForge. http://sourceforge.net/projects/timetrex/ Forum
+> http://forums.timetrex.com/
+>
+> eHour https://ehour.nl/ : This is more oriented towards tracking time
+> spent
+> by people in different projects. This is licensed under GPL v2. Forum
+> https://ehour.nl/forum/
+>
+> Ashok
+>
+>
+> > >    I need to setup Attendance management system in my office. So can
+> > anyone
+> > > suggest me which one is the best open source attendance management
+> > system?
+> >
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards
+
+Sathishkumar S
+Mob: +91-9994788682
+*http://www.sathishkumar.in <http://www.sathishkumar.in>*
+*http://www.geekpaatty.com <http://www.geekpaatty.com/>*
+
+From knura9 at gmail.com  Tue Sep 29 12:30:48 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 29 Sep 2015 12:30:48 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+	<CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+	<CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+Message-ID: <CAHhM8gAR7Dx_TFOo8bzc+YC0bq4H7FGR9N56=h+DwPphaygUcA@mail.gmail.com>
+
+On Tue, Sep 29, 2015 at 10:45 AM, Sathish <sjksathishkumar at gmail.com> wrote:
+> Please suggest me can i use Apache OFBiz for the same purpose? We need to
+> hosted in our server for internal purpose. Thanks in advance.
+>
+
+You know your requirements best, check them against OFBIZ's features and decide.
+
+> On Mon, Sep 28, 2015 at 10:46 PM, Ashok Ramachandran <ashokramach at gmail.com>
+> wrote:
+>
+>> For open source Attendance Management you have two options. Either use an
+
+Do *not* top post.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Sep 29 12:37:33 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 29 Sep 2015 12:37:33 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+	<CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+Message-ID: <CAHhM8gBqytA-WXPMPs-t+vq+38=vAaYhbNA+xWzVxGjHvLj84g@mail.gmail.com>
+
+On Mon, Sep 28, 2015 at 10:46 PM, Ashok Ramachandran
+<ashokramach at gmail.com> wrote:
+> For open source Attendance Management you have two options. Either use an
+> ERP software such as the one Arun S suggested. Or use a time tracking
+> software such as the following:
+>
+> TimeTrex: Payroll, Time Sheet, Job Costing... etc. You can download the
+> Community Edition licensed under GNU Affero General Public License from
+> SourceForge. http://sourceforge.net/projects/timetrex/ Forum
+> http://forums.timetrex.com/
+>
+
+I have used it in my company; it does the job for attendance and reporting.
+
+> eHour https://ehour.nl/ : This is more oriented towards tracking time spent
+> by people in different projects. This is licensed under GPL v2. Forum
+> https://ehour.nl/forum/
+>
+
+This looks interesting (surmise from screenshots) and appears to be a
+better fit for a consultant shop (multiple simultaneous project work).
+
+-- Arun Khan
+
+From send4kumar at gmail.com  Tue Sep 29 13:14:30 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Tue, 29 Sep 2015 13:14:30 +0530
+Subject: [Ilugc] Centos to window lan
+Message-ID: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+
+Hi Team,
+
+I have Centos machine installed a project and another window machine
+connected in same lan connection.
+
+Centos machine : https://192.168.1.25  ( 1 serious  )
+Window machine : http://192.168.1. serious
+
+How do I can access Centos machine from Window machine.
+
+My project url in centos os :  https://192.168.1.25
+
+Could you please help me access this.
+
+
+
+Thank you.
+
+
+With regards,
+Kumar
+
+From gwalashish at gmail.com  Tue Sep 29 13:34:09 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Tue, 29 Sep 2015 13:34:09 +0530
+Subject: [Ilugc] Centos to window lan
+In-Reply-To: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+References: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+Message-ID: <CAPm7S=4R_XSMUn8JgbxKS-VGbVWYh9_SZVo1iGY4WYDhGOEx3g@mail.gmail.com>
+
+Hi,
+
+On Tue, Sep 29, 2015 at 1:14 PM, Kumar <send4kumar at gmail.com> wrote:
+
+> Hi Team,
+>
+> I have Centos machine installed a project and another window machine
+> connected in same lan connection.
+>
+> Centos machine : https://192.168.1.25  ( 1 serious  )
+> Window machine : http://192.168.1. serious
+>
+>
+What is the IP address and netmask of Windows machine and CentOS machine ?
+Above IP address for Windows machine is not complete.
+
+
+> How do I can access Centos machine from Window machine.
+>
+> My project url in centos os :  https://192.168.1.25
+>
+> Could you please help me access this.
+
+
+Check the selinux and iptables settings in CentOS server.
+
+--Regards
+Ashishkumar S. Yadav
+
+From satyaakam at gmail.com  Tue Sep 29 13:33:43 2015
+From: satyaakam at gmail.com (satyaakam goswami)
+Date: Tue, 29 Sep 2015 13:33:43 +0530
+Subject: [Ilugc] Centos to window lan
+In-Reply-To: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+References: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+Message-ID: <CALre89n15tw=oAFWVcP3XhGFj4iCs3sqVnE3ScgKXnh7EwSQpw@mail.gmail.com>
+
+>
+> How do I can access Centos machine from Window machine.
+>
+
+there are multiple ways to do it
+
+?1.ssh
+2.configure Samba
+3.configure VNC?
+
+
+My project url in centos os :  https://192.168.1.25
+>
+> Could you please help me access this.
+>
+
+
+
+-Satya
+Satyaakam.net <http://satyaakam.net/> | fossevents.in |
+
+From send4kumar at gmail.com  Tue Sep 29 14:39:42 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Tue, 29 Sep 2015 14:39:42 +0530
+Subject: [Ilugc] Centos to window lan
+In-Reply-To: <CALre89n15tw=oAFWVcP3XhGFj4iCs3sqVnE3ScgKXnh7EwSQpw@mail.gmail.com>
+References: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+	<CALre89n15tw=oAFWVcP3XhGFj4iCs3sqVnE3ScgKXnh7EwSQpw@mail.gmail.com>
+Message-ID: <CAHFTyBoRaNKFL9gru66bBx1Yso7HvhuAfxeyymNbTE7rw8JZCA@mail.gmail.com>
+
+My windows
+http://192.168.0.225/
+255.255.255.0
+Default gateway : 192.168.0.211
+
+Centos :
+192.168.0.25
+Netmask : 255.25.255.0
+Gateway : 192.168.0.211
+DNS server : 8.8.8.8
+
+Is this inform you are looking for ?
+
+Thank you.
+
+
+With regards,
+Kumar
+
+> 3.configure VNC?
+>
+>
+> My project url in centos os :  https://192.168.1.25
+> >
+> > Could you please help me access this.
+> >
+>
+>
+>
+> -Satya
+> Satyaakam.net <http://satyaakam.net/> | fossevents.in |
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From gwalashish at gmail.com  Tue Sep 29 14:57:18 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Tue, 29 Sep 2015 14:57:18 +0530
+Subject: [Ilugc] Centos to window lan
+In-Reply-To: <CAHFTyBoRaNKFL9gru66bBx1Yso7HvhuAfxeyymNbTE7rw8JZCA@mail.gmail.com>
+References: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+	<CALre89n15tw=oAFWVcP3XhGFj4iCs3sqVnE3ScgKXnh7EwSQpw@mail.gmail.com>
+	<CAHFTyBoRaNKFL9gru66bBx1Yso7HvhuAfxeyymNbTE7rw8JZCA@mail.gmail.com>
+Message-ID: <CAPm7S=68L=sSD8+CnS6etDkMmv-3CH0aW3b=Znt65tDNZOY=hg@mail.gmail.com>
+
+Hi,
+
+On Tue, Sep 29, 2015 at 2:39 PM, Kumar <send4kumar at gmail.com> wrote:
+
+> My windows
+> http://192.168.0.225/
+> 255.255.255.0
+> Default gateway : 192.168.0.211
+>
+> Centos :
+> 192.168.0.25
+> Netmask : 255.25.255.0                                    <== Typing Error
+> Gateway : 192.168.0.211
+> DNS server : 8.8.8.8
+>
+> Is this inform you are looking for ?
+>
+>
+Yes. looks good apart from typing error.
+
+If you want to access your project's web-UI which you were intended to via
+https://192.168.0.25/ from Windows machine then you have to
+allow connections to port 443 in CentOS server.
+
+Also disable selinux for now.
+
+Here is CentOS wiki on iptables.
+<https://wiki.centos.org/HowTos/Network/IPTables>
+
+--Regards
+Ashishkumar S. Yadav
+
+From send4kumar at gmail.com  Tue Sep 29 17:23:11 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Tue, 29 Sep 2015 17:23:11 +0530
+Subject: [Ilugc] Centos to window lan
+In-Reply-To: <CAPm7S=68L=sSD8+CnS6etDkMmv-3CH0aW3b=Znt65tDNZOY=hg@mail.gmail.com>
+References: <CAHFTyBoQH9zzz17X6TQs5Hyp+xnr52wQcn3G3vvXj5hMv1P_RA@mail.gmail.com>
+	<CALre89n15tw=oAFWVcP3XhGFj4iCs3sqVnE3ScgKXnh7EwSQpw@mail.gmail.com>
+	<CAHFTyBoRaNKFL9gru66bBx1Yso7HvhuAfxeyymNbTE7rw8JZCA@mail.gmail.com>
+	<CAPm7S=68L=sSD8+CnS6etDkMmv-3CH0aW3b=Znt65tDNZOY=hg@mail.gmail.com>
+Message-ID: <CAHFTyBpB-1cr9bANp7YgVLXbG5FL4+VWwgdwi-k_Z8ozczymQg@mail.gmail.com>
+
+Thank you all.
+now the rules of the iptables are flushed and provided the access to local
+LAN.
+I can able to access it.
+
+
+Thank you.
+
+
+With regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+On Tue, Sep 29, 2015 at 2:57 PM, Ashish Yadav <gwalashish at gmail.com> wrote:
+
+> Hi,
+>
+> On Tue, Sep 29, 2015 at 2:39 PM, Kumar <send4kumar at gmail.com> wrote:
+>
+> > My windows
+> > http://192.168.0.225/
+> > 255.255.255.0
+> > Default gateway : 192.168.0.211
+> >
+> > Centos :
+> > 192.168.0.25
+> > Netmask : 255.25.255.0                                    <== Typing
+> Error
+> > Gateway : 192.168.0.211
+> > DNS server : 8.8.8.8
+> >
+> > Is this inform you are looking for ?
+> >
+> >
+> Yes. looks good apart from typing error.
+>
+> If you want to access your project's web-UI which you were intended to via
+> https://192.168.0.25/ from Windows machine then you have to
+> allow connections to port 443 in CentOS server.
+>
+> Also disable selinux for now.
+>
+> Here is CentOS wiki on iptables.
+> <https://wiki.centos.org/HowTos/Network/IPTables>
+>
+> --Regards
+> Ashishkumar S. Yadav
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From ashokramach at gmail.com  Tue Sep 29 18:50:27 2015
+From: ashokramach at gmail.com (Ashok Ramachandran)
+Date: Tue, 29 Sep 2015 09:20:27 -0400
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+	<CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+	<CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+Message-ID: <CANkY_tdkjtP5O6F4zPSSpGmQmuATBfZytRKqU9QRc0nFHh5z3g@mail.gmail.com>
+
+> Please suggest me can i use Apache OFBiz for the same purpose? We need to
+> hosted in our server for internal purpose. Thanks in advance.
+>
+
+Looks like there is some time sheet functionality in Apache OFBiz. You will
+have to evaluate this to see whether this will serve your purpose.
+http://ofbiz.135035.n4.nabble.com/Add-time-sheet-to-Invoice-td4649229.html#a4649230
+
+Keep in mind that installing, configuring and maintaining any ERP software
+will take significant effort. The time sheet / attendance module is likely
+less than 2% of what an ERP software can do. Unless you are planning to use
+some of the other modules of Apache OFBiz, this is like driving a bus to
+drop your child at school.
+
+From tshrinivasan at gmail.com  Wed Sep 30 08:38:51 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 30 Sep 2015 08:38:51 +0530
+Subject: [Ilugc] automating google ocr
+Message-ID: <CAND2794iu4nQaSj94r61gv9xmGBKimZjVAV3EXL9y2Jw8JbeaQ@mail.gmail.com>
+
+Automated ?#?google? ?#?ocr? with ?#?python?
+
+Get the code here.
+
+https://github.com/tshrinivasan/google-ocr-python
+
+Now, with a single command, you can OCR a full PDF.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From sjksathishkumar at gmail.com  Wed Sep 30 10:06:30 2015
+From: sjksathishkumar at gmail.com (Sathish)
+Date: Wed, 30 Sep 2015 10:06:30 +0530
+Subject: [Ilugc] Need Open source Attendance Management System
+In-Reply-To: <CANkY_tdkjtP5O6F4zPSSpGmQmuATBfZytRKqU9QRc0nFHh5z3g@mail.gmail.com>
+References: <CAAwpc-vZH8GnM2PTp7stgEsUtCQvuoYFgErTNqH-iwMgrEKdNg@mail.gmail.com>
+	<CAHM=urBM8gSLFsu8tewbez5wWT5Nan4PzvGMFA=ersYjww8f6w@mail.gmail.com>
+	<CANkY_tdXbMvjfw0CNZW4bCJ4Z=ThciSw3a7k8j2LYfWax95DwQ@mail.gmail.com>
+	<CAAwpc-uUkp=AWb=XHG73VBq0A5u-bGmP6E=xtmAGd53Lj0949g@mail.gmail.com>
+	<CANkY_tdkjtP5O6F4zPSSpGmQmuATBfZytRKqU9QRc0nFHh5z3g@mail.gmail.com>
+Message-ID: <CAAwpc-t5m5o6emo_Hf_3T3MEk9bQOomOQKV_iVvNVTW+CDFpqQ@mail.gmail.com>
+
+We are in startup, we need to build lot more. Attendance is just initial
+step. Thanks for your time.
+
+On Tue, Sep 29, 2015 at 6:50 PM, Ashok Ramachandran <ashokramach at gmail.com>
+wrote:
+
+> > Please suggest me can i use Apache OFBiz for the same purpose? We need to
+> > hosted in our server for internal purpose. Thanks in advance.
+> >
+>
+> Looks like there is some time sheet functionality in Apache OFBiz. You will
+> have to evaluate this to see whether this will serve your purpose.
+>
+> http://ofbiz.135035.n4.nabble.com/Add-time-sheet-to-Invoice-td4649229.html#a4649230
+>
+> Keep in mind that installing, configuring and maintaining any ERP software
+> will take significant effort. The time sheet / attendance module is likely
+> less than 2% of what an ERP software can do. Unless you are planning to use
+> some of the other modules of Apache OFBiz, this is like driving a bus to
+> drop your child at school.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Thanks & Regards
+
+Sathishkumar S
+Mob: +91-9994788682
+*http://www.sathishkumar.in <http://www.sathishkumar.in>*
+*http://www.geekpaatty.com <http://www.geekpaatty.com/>*
+
+From knura9 at gmail.com  Wed Sep 30 11:42:48 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 30 Sep 2015 11:42:48 +0530
+Subject: [Ilugc] automating google ocr
+In-Reply-To: <CAND2794iu4nQaSj94r61gv9xmGBKimZjVAV3EXL9y2Jw8JbeaQ@mail.gmail.com>
+References: <CAND2794iu4nQaSj94r61gv9xmGBKimZjVAV3EXL9y2Jw8JbeaQ@mail.gmail.com>
+Message-ID: <CAHhM8gCNpWnomZnYENTnRy3GZkOw6GsyB2Zv4a1r6_nUZ0qURA@mail.gmail.com>
+
+On Wed, Sep 30, 2015 at 8:38 AM, Shrinivasan T <tshrinivasan at gmail.com> wrote:
+> Automated ?#?google? ?#?ocr? with ?#?python?
+>
+> Get the code here.
+>
+> https://github.com/tshrinivasan/google-ocr-python
+>
+> Now, with a single command, you can OCR a full PDF.
+>
+
+How accurate is it?  Anyone tested it?
+
+-- Arun Khan
+
+From raashidmuhammed at zilogic.com  Wed Sep 30 15:10:33 2015
+From: raashidmuhammed at zilogic.com (Raashid)
+Date: Wed, 30 Sep 2015 09:40:33 +0000 (UTC)
+Subject: [Ilugc] Talk for upcoming ILUG-C October meetup
+Message-ID: <loom.20150930T113013-783@post.gmane.org>
+
+Hi Everyone,
+
+I would like to give a talk on 'Partitioning in Linux' in the upcoming
+October meetup.
+
+I am a Software Engineer working for Zilogic Systems. I am passionate about
+working on Embedded Linux systems. 
+
+The details for the talk are as follows:
+
+Topic :      Partitioning
+
+Description: The subtopics to be covered are as follows:
+              * Partition Tables
+              * Various Partitioning Schemes: Advantages & Disadvantages
+              * Partitioning Tools
+              * Parted: An example tool
+
+Duration:     30 minutes
+
+Regards,
+Raashid
+
+
+From 01tonythomas at gmail.com  Wed Sep 30 16:50:02 2015
+From: 01tonythomas at gmail.com (Tony Thomas)
+Date: Wed, 30 Sep 2015 16:50:02 +0530
+Subject: [Ilugc] [OT][Event] Security contest for school students - Junior
+	InCTF
+Message-ID: <CACSPvKrKx9RoKJTPMjJKLHeZjcVUJgmPXDVyFJOmrfmivQkzRA@mail.gmail.com>
+
+Dear all,
+
+We are happy to announce a security contest for school students in India
+called Junior InCTF
+
+This is the *first time* in India that such a contest is being organized
+for school students. This is done in countries like USA, Russia, China,
+South Korea etc.
+
+We plan to make this an annual event just like InCTF
+<http://inctf.in/> (Security
+contest for for college students) that we launched in 2010.
+
+We wanted Indian school students also to get exposure and interest in the
+area of cyber security. Hence this contest for school students.
+
+The contest will be 2 months long and will be fully online. We are
+providing exciting prizes as well (laptop, tablet, drone, raspberry pi,
+books etc). We provide online support for students who need help.  Learning
+materials will also be available online via the our website.
+
+If you know any one studying in *schools in India* please ask them to
+*register* via
+  https://junior.inctf.in/
+
+
+*Registration is now open*
+
+Please inform the schools where you studied about this contest and it would
+be great if you can follow up and get students registered.
+
+*A poster about this event is at *
+     https://www.facebook.com/cybergurukulam
+
+
+Below is a message you could share in WhatsApp groups
+
+**
+Introducing Junior InCTF for school students in India
+
+A cool contest for school students in India. Learn cybersecurity by
+participating in junior inctf and win laptop, tablet, drone, raspberry pi
+etc !! Register at https://junior.inctf.in
+
+For students from 9th to 12th standards.
+
+Please forward to your friends circle and help spread the word !
+**
+
+Thanks,
+Tony Thomas <http://blog.tttwrites.in/>
+ThinkFOSS <http://www.thinkfoss.com>
+
+*"where there is a wifi, there is a way"*
+

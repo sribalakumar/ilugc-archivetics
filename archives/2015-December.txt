@@ -1,0 +1,1990 @@
+From knura9 at gmail.com  Tue Dec  1 10:14:37 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 1 Dec 2015 10:14:37 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+Message-ID: <CAHhM8gD14bEYJbgwOSNObqKV6JH72LGGc7QWKa7PGGG2+mMzAg@mail.gmail.com>
+
+On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+<girithenayil at gmail.com> wrote:
+> Dear All ,
+>
+> Opensource UTM firewall  and Session Border Controller for securing VoIP
+> traffic available for free download .
+>
+> If any one interested to download and use it ,those guys can take advantage
+> of the same .
+>
+> its fully free including support .
+>
+> for UTM visit  http://shield.com/
+>
+
+Looks very similar to Zentyal (Ubuntu based)..  Reading the User
+Manual; the feature set is comparable to Zentyal.  I looked for
+content filter (Dansgaurdian) and Time of Day rules (ToD) but I did
+not find it (or I missed it).
+
+BTW, host the ISO on sourceforge or similar service.  The ISO download
+takes forever (816 MB and counting -- too big IMO).   Most others like
+zentyal, ClearOS, Nethserver fit in a CD ROM.
+
+Is it based on any distribution?  If so, just provide the packages
+rather than the ISO.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Dec  1 10:19:33 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 1 Dec 2015 10:19:33 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CABe_ZfLCXO0O-9R-ABv+5DdHT2=fOJStYUVXwgYosCb2xj-v3w@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+	<CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+	<CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+	<565C85E6.8030403@guruprasad.org>
+	<CABe_ZfLCXO0O-9R-ABv+5DdHT2=fOJStYUVXwgYosCb2xj-v3w@mail.gmail.com>
+Message-ID: <CAHhM8gB+xBsQ68ROstH8zDS6fFg8W5LB1abMND28VW8cMRGKkA@mail.gmail.com>
+
+On Mon, Nov 30, 2015 at 11:37 PM, JITHIN K <jithinkcs at gmail.com> wrote:
+>
+> I just found a work around for this solution by syncing over HTTP.
+>
+
+Please share your workaround so that others with a similar use case
+scenario can benefit from your knowledge.
+
++1 about upgrading your OS to a supported version.  I have seen cases
+of Fedora 4 still running on public facing interfaces!
+
+Most security incidents are caused because of lack of system upgrades
+(OS + application stack).
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Dec  1 10:21:48 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 1 Dec 2015 10:21:48 +0530
+Subject: [Ilugc] Fwd: Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CALHF9_EEo1HDyQ5TYwfHj9xO_0uuBJ2zc=6cguM=yk-c-RutaQ@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+	<CALHF9_E9fzsTvWkrLw6yX0WM5tho+iynMf5dY-Wr29wg2c8Rtw@mail.gmail.com>
+	<565C5B36.7030400@guruprasad.org>
+	<CACtiFJbG39P6uYy96mmmWRpL+tKqSKZzm+pNtEmdfo37=6mf=Q@mail.gmail.com>
+	<CALHF9_EEo1HDyQ5TYwfHj9xO_0uuBJ2zc=6cguM=yk-c-RutaQ@mail.gmail.com>
+Message-ID: <CAHhM8gC3pavGOYiumTuyCpSydTNxYLVqNrDAr1NCRY7eijQoAQ@mail.gmail.com>
+
+On Mon, Nov 30, 2015 at 8:39 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+> Hi,
+>
+>
+>         Friends  How do i manually  assign an ipaddress and proxy ip in my
+> virtual machine running ubuntu 15.10.
+> I could not edit to change the ip .
+>
+
+This is a different question/topic.  Follow list guidelines and post a
+*new* question instead of recycling your existing post.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Tue Dec  1 10:26:34 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Tue, 1 Dec 2015 10:26:34 +0530
+Subject: [Ilugc] Issue in ubuntu server installtion version 15.10
+In-Reply-To: <CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+References: <CALHF9_FoZ99LVPsw2=BTnR7Q-OB=qJRU9Vn1JVtN9KGP66sOTA@mail.gmail.com>
+	<CABG-yt1rWZQD4-wNEfsvWaVyxMLvefJSrVj8nP9Gwz=qfWGmuw@mail.gmail.com>
+Message-ID: <CAHhM8gBCJNTm72BvDHQSbkHbbo6Sa7sCMp_YgiVf1Zcj9X4iwA@mail.gmail.com>
+
+On Mon, Nov 30, 2015 at 7:44 PM, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+> Hi,
+>
+> --- On Mon, Nov 30, 2015 at 7:38 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+> | Facing some problem in ubuntu .Installed O/s but now i could not
+> | install additional packages , GUI, etc...
+> | When i try to install rpm using the following command it says the following
+> | error.
+> |
+> | sudo apt-get install rpm
+> \--
+>
+> Ubuntu is a Debian-based distribution, and it uses apt as its package
+> manager, while RPM-based distributions use rpm.
+>
+> Why do you want to install rpm in Ubuntu?
+>
+
+The RPM tool set  is available as a deb package.   It is useful to
+have it on a Debian based system to examine RPM based packages.
+
+I would not recommend installing RPM application/library packages on a
+DEB based system using the RPM tools.
+
+In fact, the packages should be **native** to the distribution e.g.
+not to mix Debian package with Ubuntu and vice versa.   There may be
+subtle artefacts (bugs) that show up on "out of the box" use cases.
+
+-- Arun Khan
+
+From msrarun22 at gmail.com  Tue Dec  1 12:56:35 2015
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Tue, 1 Dec 2015 12:56:35 +0530
+Subject: [Ilugc] Ubuntu server proxy setting
+Message-ID: <CALHF9_H+SZ61aFcZtfAwAwZCcuO-JOAfrWeDYkUZwDyut1xqaw@mail.gmail.com>
+
+Hi,
+
+
+    I have updated my ubuntu server 15.10 which is running in vmware
+vsphere
+with proxy setting .
+
+vi  /etc/apt/apt.conf
+
+Now i could ping google .After when i tried to update my apt or when i try
+to install
+desktop packages using tasksel. It gives me error .How do i do it.
+
+
+
+Thanks,
+Sundar
+
+From shakthimaan at gmail.com  Tue Dec  1 13:15:23 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 1 Dec 2015 13:15:23 +0530
+Subject: [Ilugc] Ubuntu server proxy setting
+In-Reply-To: <CALHF9_H+SZ61aFcZtfAwAwZCcuO-JOAfrWeDYkUZwDyut1xqaw@mail.gmail.com>
+References: <CALHF9_H+SZ61aFcZtfAwAwZCcuO-JOAfrWeDYkUZwDyut1xqaw@mail.gmail.com>
+Message-ID: <CABG-yt0q3zdcxfOiEDkyXPs8F7+CEW0mP6vtRhJCXwcymYbnKA@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Dec 1, 2015 at 12:56 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+| It gives me error .How do i do it.
+\--
+
+What error? Please try to write in detailed when posting a question.
+
+vsphere is from VMWare and you need to ask them for support. This
+mailing list is for free and open source software discussions.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From jithinkcs at gmail.com  Tue Dec  1 13:40:08 2015
+From: jithinkcs at gmail.com (JITHIN K)
+Date: Tue, 1 Dec 2015 13:40:08 +0530
+Subject: [Ilugc] SSL handshake failed: SSL error: A TLS warning alert
+ has been received
+In-Reply-To: <CAHhM8gB+xBsQ68ROstH8zDS6fFg8W5LB1abMND28VW8cMRGKkA@mail.gmail.com>
+References: <CABe_ZfJLHct=SG13NoPGvEdwSaEQs06JdNwdR6f3nhyOPYUCAg@mail.gmail.com>
+	<CABG-yt3rVQOVgar5-MSSaMiapGnbY=WoMdDJ+za1vN+i8zHe3A@mail.gmail.com>
+	<CABe_ZfJG=w3pt9D3DFWZc94fATrPigdt=AO6tM22i+tRue=AVA@mail.gmail.com>
+	<CABG-yt2cJ9rBRX24aYjtxLiktDffpTZ-CK6_Lmz1Zss7rT5TBQ@mail.gmail.com>
+	<CABe_ZfKQq5-KxS6qE2X_8FMWqVp6+dWZmHEKWP0iG7ARcyEzeA@mail.gmail.com>
+	<565C85E6.8030403@guruprasad.org>
+	<CABe_ZfLCXO0O-9R-ABv+5DdHT2=fOJStYUVXwgYosCb2xj-v3w@mail.gmail.com>
+	<CAHhM8gB+xBsQ68ROstH8zDS6fFg8W5LB1abMND28VW8cMRGKkA@mail.gmail.com>
+Message-ID: <CABe_ZfLSrujQ8z9g_tiMST6=Vx8m88PHSaUM86sbtrbAU8CV0g@mail.gmail.com>
+
+Hi Arun,
+
+My objective was to move SVN repos to a new platform so I used svnsync
+command to create a mirror of SVN repos in the new server.
+
+ I used svnsync over http and restrict access limited to source and
+destination server. I enabled SVN over HTTPS after the successful execution
+the svnsync.
+
+Regards,
+Jithin K
+
+From girithenayil at gmail.com  Tue Dec  1 14:10:46 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Tue, 1 Dec 2015 14:10:46 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAHhM8gD14bEYJbgwOSNObqKV6JH72LGGc7QWKa7PGGG2+mMzAg@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CAHhM8gD14bEYJbgwOSNObqKV6JH72LGGc7QWKa7PGGG2+mMzAg@mail.gmail.com>
+Message-ID: <CAEfUC9sBK=i+f0RosUU4RUg2UVD+C876MG44oAuA2cDiKo_g0A@mail.gmail.com>
+
+Hello Arun ,
+
+The size of ISO is 880 MB,did you face any problem in downloading ?
+
+Time of Day rules (ToD) ,its under development and it will be included next
+release
+
+web content filtering based on on urlblacklist
+
+
+Our support available in skype for general discussion and configuration
+support ,skype ID "shield.support "
+
+Regards,
+
+Gireesh
+
+gireesh at allo.com
+http://shield.com/
+
+http://blox.org/
+
+
+On Tue, Dec 1, 2015 at 10:14 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+> <girithenayil at gmail.com> wrote:
+> > Dear All ,
+> >
+> > Opensource UTM firewall  and Session Border Controller for securing VoIP
+> > traffic available for free download .
+> >
+> > If any one interested to download and use it ,those guys can take
+> advantage
+> > of the same .
+> >
+> > its fully free including support .
+> >
+> > for UTM visit  http://shield.com/
+> >
+>
+> Looks very similar to Zentyal (Ubuntu based)..  Reading the User
+> Manual; the feature set is comparable to Zentyal.  I looked for
+> content filter (Dansgaurdian) and Time of Day rules (ToD) but I did
+> not find it (or I missed it).
+>
+> BTW, host the ISO on sourceforge or similar service.  The ISO download
+> takes forever (816 MB and counting -- too big IMO).   Most others like
+> zentyal, ClearOS, Nethserver fit in a CD ROM.
+>
+> Is it based on any distribution?  If so, just provide the packages
+> rather than the ISO.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From waqarli at yahoo.com  Tue Dec  1 15:50:58 2015
+From: waqarli at yahoo.com (Waqar Ali Khan)
+Date: Tue, 1 Dec 2015 10:20:58 +0000 (UTC)
+Subject: [Ilugc] Error in  CentOS EL 7- Configuration of OpenStack-Libraty
+References: <1771718714.10655658.1448965258515.JavaMail.yahoo.ref@mail.yahoo.com>
+Message-ID: <1771718714.10655658.1448965258515.JavaMail.yahoo@mail.yahoo.com>
+
+Hello,?I am facing a problem in CentOS EL 7- Configuration of OpenStack-Libraty I found error below when I use neutron command. 
+
+# neutron-db-manage --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini upgrade head
+Traceback (most recent call last):
+? File "/usr/bin/neutron-db-manage", line 10, in <module>
+??? sys.exit(main())
+? File "/usr/lib/python2.7/site-packages/neutron/db/migration/cli.py", line 550, in main
+??? CONF(project='neutron')
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 1885, in __call__
+??? else sys.argv[1:])
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 2467, in _parse_cli_opts
+??? return self._parse_config_files()
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 2484, in _parse_config_files
+??? self._oparser.parse_args(self._args, namespace)
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 1743, in parse_args
+??? return super(_CachedArgumentParser, self).parse_args(args, namespace)
+? File "/usr/lib64/python2.7/argparse.py", line 1688, in parse_args
+??? args, argv = self.parse_known_args(args, namespace)
+? File "/usr/lib64/python2.7/argparse.py", line 1720, in parse_known_args
+??? namespace, args = self._parse_known_args(args, namespace)
+? File "/usr/lib64/python2.7/argparse.py", line 1926, in _parse_known_args
+??? start_index = consume_optional(start_index)
+? File "/usr/lib64/python2.7/argparse.py", line 1866, in consume_optional
+??? take_action(action, args, option_string)
+? File "/usr/lib64/python2.7/argparse.py", line 1794, in take_action
+??? action(self, namespace, argument_values, option_string)
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 1238, in __call__
+??? ConfigParser._parse_file(values, namespace)
+? File "/usr/lib/python2.7/site-packages/oslo_config/cfg.py", line 1446, in _parse_file
+??? raise ConfigFileParseError(pe.filename, str(pe))
+oslo_config.cfg.ConfigFileParseError: Failed to parse /etc/neutron/neutron.conf: at /etc/neutron/neutron.conf:92, Unexpected continuation line: ' auth_strategy = keystone'
+
+Please Help to solve this problem.
+Thanks
+regardsWaqar
+
+From ajeeshbkannan at gmail.com  Sat Dec  5 01:05:46 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Sat, 5 Dec 2015 01:05:46 +0530
+Subject: [Ilugc] opensource monitoring tool
+Message-ID: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+
+Hi,
+
+I am looking for an Opensource monitoring tool with the following facility.
+
+1. White Labeled dash board for each company [ for each company they need a
+separate dash board and logins, users of one organization cannot see others
+servers.]
+2. Have a report (pdf/jpg/etc) generating facility.
+3. Good to have RMM [ tools like reboot , ssh etc ]
+
+Checked Nagios /zabbix/shinken/opsview etc, but they  don't have facilities
+like separate logins/report generate etc.
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From pravin1389 at gmail.com  Wed Dec  2 10:32:15 2015
+From: pravin1389 at gmail.com (Praveen S)
+Date: Wed, 2 Dec 2015 10:32:15 +0530
+Subject: [Ilugc] Require Joomla reviewer
+Message-ID: <CAO6oKN9Qf_Jh8c7jaTSUnjD5qtyJqYDiFZ1F8K_+wWK37gmxVQ@mail.gmail.com>
+
+>From Spoken Tutorial Project, IIT Bombay.
+
+We are looking for a *reviewer (domain expert)* for a course that we are
+creating on JOOMLA CMS.  The reviewer can be any person with around 2 years
+of working experience in JOOMLA, from the industry or academia.
+
+Spoken Tutorial Project is developed at IIT Bombay and is funded by MHRD,
+Govt of India.  The project aims to create courses to learn various free
+and open source software (FOSS) free of cost!  Kindly visit our website for
+more details http://spoken-tutorial.org
+
+Being a government funded project, the remuneration for the review work is
+very nominal.  Details of this amount will be shared at a later time.
+
+Contact Details:  Praveen S - 9833421244
+
+Kindly contact us at the earliest.  Thank you.
+
+
+
+-- 
+Regards
+
+Praveen. S
+(???????.??)
+
+From benignbala at gmail.com  Tue Dec  1 22:49:04 2015
+From: benignbala at gmail.com (Balachandran Sivakumar)
+Date: Tue, 1 Dec 2015 22:49:04 +0530
+Subject: [Ilugc] [OT Very much] Flood help
+Message-ID: <CAMbkTg+OgjHeH3DZZZr2zcpKbcqZ=muSV1pwbCiQFsMUjRXA8g@mail.gmail.com>
+
+Hi,
+
+        A few friends are stuck near Guduvancheri and have been asking for
+help for accomodation and food. I hear that there is some accommodation
+provided by SRM university. In case your friends are affected, please pass
+on
+
+SRM University is accommodating ppl in their buildings Whoever standed n
+GST pls go For Food Cntact Mr.Jogani 9840042152
+
+
+PS: I know this is totally unrelated to Free Software or GNU/Linux. But I
+am requesting that this be accepted on humanitarian grounds. Also to state,
+I am no way related to SRM university, just passing on the info.
+
+-- 
+Thank you
+Balachandran Sivakumar
+
+From jaganadhg at gmail.com  Sat Dec  5 00:36:43 2015
+From: jaganadhg at gmail.com (JAGANADH G)
+Date: Sat, 5 Dec 2015 00:36:43 +0530
+Subject: [Ilugc] Ubuntu Precise numeric pad in laptop behaviour change
+Message-ID: <CAM4qvdHtshGJL5cbuCyK_EhpNd4PnJFdMSdo6UbPDKKVv35PqQ@mail.gmail.com>
+
+Hi
+I am facing strange issue with numeric pad in my laptop.
+When I am trying to type numbers in numeric pad it is either showing strage
+number patters or turns to some functions
+e.g If I type 357 it turns to 7=4
+Plus sign takes screen shot left arrow key shows undo etc in editor .
+Some kids played in my keypad and not sure if it was happened due to that.
+Any hint to resolve the same.
+
+-- 
+**********************************
+JAGANADH G
+http://jaganadhg.in
+*ILUGCBE*
+http://ilugcbe.org.in
+
+From shakthimaan at gmail.com  Sat Dec  5 16:38:48 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 5 Dec 2015 16:38:48 +0530
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+Message-ID: <CABG-yt3jmi3rgpF42adzJVHHD0cxLiA3cg8TjXMdiv7Uq+maSg@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Dec 5, 2015 at 1:05 AM, Ajeesh Kannan
+<ajeeshbkannan at gmail.com> wrote:
+| Checked Nagios /zabbix/shinken/opsview etc, but they  don't have facilities
+| like separate logins/report generate etc.
+\--
+
+You can either develop the customizations yourself, or write to the
+developers of these projects for help.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Sun Dec  6 05:38:18 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sun, 6 Dec 2015 05:38:18 +0530
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+Message-ID: <CAND2794E9FLAy86BVaWdMPV5Kc+s3PpCS_JgnL7eehhjLLRpnw@mail.gmail.com>
+
+Install one instance for each company so that all the data is separated.
+
+If you want one single software for all customers like salesforce, you have
+to customize them.
+
+From 77minds at gmail.com  Sun Dec  6 07:49:08 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 6 Dec 2015 07:49:08 +0530
+Subject: [Ilugc] [OT Very much] Flood help
+In-Reply-To: <CAMbkTg+OgjHeH3DZZZr2zcpKbcqZ=muSV1pwbCiQFsMUjRXA8g@mail.gmail.com>
+References: <CAMbkTg+OgjHeH3DZZZr2zcpKbcqZ=muSV1pwbCiQFsMUjRXA8g@mail.gmail.com>
+Message-ID: <CAJR+9kYObWbBP+zqr=CXxqv5cxia3oO7WCLS52wHQKmD2UKbVg@mail.gmail.com>
+
++1
+
+On Tue, Dec 1, 2015 at 10:49 PM, Balachandran Sivakumar <
+benignbala at gmail.com> wrote:
+
+> Hi,
+>
+>         A few friends are stuck near Guduvancheri and have been asking for
+> help for accomodation and food. I hear that there is some accommodation
+> provided by SRM university. In case your friends are affected, please pass
+> on
+>
+> SRM University is accommodating ppl in their buildings Whoever standed n
+> GST pls go For Food Cntact Mr.Jogani 9840042152
+>
+>
+> PS: I know this is totally unrelated to Free Software or GNU/Linux. But I
+> am requesting that this be accepted on humanitarian grounds. Also to state,
+> I am no way related to SRM university, just passing on the info.
+>
+> --
+> Thank you
+> Balachandran Sivakumar
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+http://kardrak.com/contacts/1
+
+From vik at hamaralinux.org  Mon Dec  7 18:47:42 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Mon, 07 Dec 2015 13:17:42 +0000
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+Message-ID: <566586F6.2090805@hamaralinux.org>
+
+On 04/12/15 19:35, Ajeesh Kannan wrote:
+> Hi,
+>
+> I am looking for an Opensource monitoring tool with the following facility.
+>
+> 1. White Labeled dash board for each company [ for each company they need a
+> separate dash board and logins, users of one organization cannot see others
+> servers.]
+Use nagios or zabbix as your central tool and then create individual 
+dashboards with something like
+http://grafana.org/
+
+This way you centralise monitoring but give customers they're own view.
+> 2. Have a report (pdf/jpg/etc) generating facility.
+Store the grafnar data and use a reporting engine (BIRT, jasper reports) 
+against it
+>
+Hope this helps, if you make loads of money from your new business, 
+contribute some to ILUGC :)
+
+
+Vik
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From ajith77747 at gmail.com  Tue Dec  8 07:05:28 2015
+From: ajith77747 at gmail.com (Thala Ajith)
+Date: Mon, 7 Dec 2015 17:35:28 -0800
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <566586F6.2090805@hamaralinux.org>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+	<566586F6.2090805@hamaralinux.org>
+Message-ID: <CAE+szu9E2q0PvQ9XhOGnW7rAYyCLBx9UaGuwUoCxkxCy7iebcw@mail.gmail.com>
+
+Thanks
+On 07-Dec-2015 6:49 pm, "Vikas Tara" <vik at hamaralinux.org> wrote:
+
+> On 04/12/15 19:35, Ajeesh Kannan wrote:
+> > Hi,
+> >
+> > I am looking for an Opensource monitoring tool with the following
+> facility.
+> >
+> > 1. White Labeled dash board for each company [ for each company they
+> need a
+> > separate dash board and logins, users of one organization cannot see
+> others
+> > servers.]
+> Use nagios or zabbix as your central tool and then create individual
+> dashboards with something like
+> http://grafana.org/
+>
+> This way you centralise monitoring but give customers they're own view.
+> > 2. Have a report (pdf/jpg/etc) generating facility.
+> Store the grafnar data and use a reporting engine (BIRT, jasper reports)
+> against it
+> >
+> Hope this helps, if you make loads of money from your new business,
+> contribute some to ILUGC :)
+>
+>
+> Vik
+>
+> --
+> Founder - Hamara Linux
+> www.hamaralinux.org
+> www.twitter.com/hamaralinux
+>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From girithenayil at gmail.com  Tue Dec  8 12:40:30 2015
+From: girithenayil at gmail.com (Gireesh thenayil rajappan nair)
+Date: Tue, 8 Dec 2015 12:40:30 +0530
+Subject: [Ilugc] Opensource UTM and Session Border Controller
+In-Reply-To: <CAEfUC9sBK=i+f0RosUU4RUg2UVD+C876MG44oAuA2cDiKo_g0A@mail.gmail.com>
+References: <CAEfUC9vX4PWU8UZ2BxkNXJxz0y0B=0mDjTxDALNd0Z+AacqOJA@mail.gmail.com>
+	<CAHhM8gD14bEYJbgwOSNObqKV6JH72LGGc7QWKa7PGGG2+mMzAg@mail.gmail.com>
+	<CAEfUC9sBK=i+f0RosUU4RUg2UVD+C876MG44oAuA2cDiKo_g0A@mail.gmail.com>
+Message-ID: <CAEfUC9sTtUVisOVbcWHqb-k6p8uQykTL3s44O1YtcLGFuKtjhA@mail.gmail.com>
+
+Dear Arun ,
+
+Hope you have downloaded the ISO .
+
+Regards,
+
+Gireesh
+
+On Tue, Dec 1, 2015 at 2:10 PM, Gireesh thenayil rajappan nair <
+girithenayil at gmail.com> wrote:
+
+> Hello Arun ,
+>
+> The size of ISO is 880 MB,did you face any problem in downloading ?
+>
+> Time of Day rules (ToD) ,its under development and it will be included
+> next release
+>
+> web content filtering based on on urlblacklist
+>
+>
+> Our support available in skype for general discussion and configuration
+> support ,skype ID "shield.support "
+>
+> Regards,
+>
+> Gireesh
+>
+> gireesh at allo.com
+> http://shield.com/
+>
+> http://blox.org/
+>
+>
+> On Tue, Dec 1, 2015 at 10:14 AM, Arun Khan <knura9 at gmail.com> wrote:
+>
+>> On Fri, Nov 27, 2015 at 2:18 PM, Gireesh thenayil rajappan nair
+>> <girithenayil at gmail.com> wrote:
+>> > Dear All ,
+>> >
+>> > Opensource UTM firewall  and Session Border Controller for securing VoIP
+>> > traffic available for free download .
+>> >
+>> > If any one interested to download and use it ,those guys can take
+>> advantage
+>> > of the same .
+>> >
+>> > its fully free including support .
+>> >
+>> > for UTM visit  http://shield.com/
+>> >
+>>
+>> Looks very similar to Zentyal (Ubuntu based)..  Reading the User
+>> Manual; the feature set is comparable to Zentyal.  I looked for
+>> content filter (Dansgaurdian) and Time of Day rules (ToD) but I did
+>> not find it (or I missed it).
+>>
+>> BTW, host the ISO on sourceforge or similar service.  The ISO download
+>> takes forever (816 MB and counting -- too big IMO).   Most others like
+>> zentyal, ClearOS, Nethserver fit in a CD ROM.
+>>
+>> Is it based on any distribution?  If so, just provide the packages
+>> rather than the ISO.
+>>
+>> -- Arun Khan
+>> _______________________________________________
+>> ILUGC Mailing List:
+>> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+>> ILUGC Mailing List Guidelines:
+>> http://ilugc.in/mailinglist-guidelines
+>>
+>
+>
+
+From shakthimaan at gmail.com  Tue Dec  8 20:58:30 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 8 Dec 2015 20:58:30 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+In-Reply-To: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+References: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+Message-ID: <CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+
+Hi,
+
+I checked with the Aerospace department people and they said that we
+can have the meet this Saturday. If you are able to attend, please
+enter the campus via the main gate.
+
+Let us continue with our community project initiatives.
+
+Topic: Project Euler
+
+Speaker: Shakthi Kannan
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve.
+You can use pen/pencil and a paper, or a laptop or any other machine.
+Please bring your solutions from the previous meet-up. We can review
+it before proceeding to a newer challenge.
+
+About me: Shakthi Kannan is a Free Software enthusiast who blogs at
+shakthimaan.com.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From kidbees at gmail.com  Wed Dec  9 13:22:23 2015
+From: kidbees at gmail.com (Bala Kumar)
+Date: Wed, 9 Dec 2015 13:22:23 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+In-Reply-To: <CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+References: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+	<CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+Message-ID: <CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+
+Can we have the meet on 19 Dec. I haven't checked clashes with other
+events. Just a suggestion since I feel it will take this weekend off for
+the people to settle from the floods and also many are involved in relief
+volunteering efforts.
+
+From ajeeshbkannan at gmail.com  Wed Dec  9 14:08:24 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 9 Dec 2015 14:08:24 +0530
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CAE+szu9E2q0PvQ9XhOGnW7rAYyCLBx9UaGuwUoCxkxCy7iebcw@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+	<566586F6.2090805@hamaralinux.org>
+	<CAE+szu9E2q0PvQ9XhOGnW7rAYyCLBx9UaGuwUoCxkxCy7iebcw@mail.gmail.com>
+Message-ID: <CA+ark-qQwr8RDNzxaOeRYTosZmn8BNKu6VBnq2XX2RuQ0QJdPg@mail.gmail.com>
+
+On Tue, Dec 8, 2015 at 7:05 AM, Thala Ajith <ajith77747 at gmail.com> wrote:
+
+> Thanks
+> On 07-Dec-2015 6:49 pm, "Vikas Tara" <vik at hamaralinux.org> wrote:
+>
+> > On 04/12/15 19:35, Ajeesh Kannan wrote:
+> > > Hi,
+> > >
+> > > I am looking for an Opensource monitoring tool with the following
+> > facility.
+> > >
+> > > 1. White Labeled dash board for each company [ for each company they
+> > need a
+> > > separate dash board and logins, users of one organization cannot see
+> > others
+> > > servers.]
+> > Use nagios or zabbix as your central tool and then create individual
+> > dashboards with something like
+> > http://grafana.org/
+> >
+> > This way you centralise monitoring but give customers they're own view.
+> > > 2. Have a report (pdf/jpg/etc) generating facility.
+> > Store the grafnar data and use a reporting engine (BIRT, jasper reports)
+> > against it
+> > >
+> > Hope this helps, if you make loads of money from your new business,
+> > contribute some to ILUGC :)
+> >
+> >
+> > Vik
+> >
+> > --
+> > Founder - Hamara Linux
+> > www.hamaralinux.org
+> > www.twitter.com/hamaralinux
+> >
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+Thank you for all your updates.
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From sahasr at naman.ms  Thu Dec 10 00:02:13 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 10 Dec 2015 00:02:13 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+In-Reply-To: <CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+References: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+	<CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+	<CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+Message-ID: <CAJSNQU1iGq+77-5VjgW0DzhizzTwO=T2r62rChio+v295PTBuQ@mail.gmail.com>
+
+On 09-Dec-2015 1:22 pm, "Bala Kumar" <kidbees at gmail.com> wrote:
+>
+> Can we have the meet on 19 Dec. I haven't checked clashes with other
+> events. Just a suggestion since I feel it will take this weekend off for
+> the people to settle from the floods and also many are involved in relief
+> volunteering efforts.
+
+I would prefer it that way as well,  people whose houses got flooded are
+planning to clean up during the weekend, etc.  Would the 19th work for
+everyone planning to attend?
+
+From raamanp at gmail.com  Thu Dec 10 06:19:29 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Thu, 10 Dec 2015 06:19:29 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+In-Reply-To: <CAJSNQU1iGq+77-5VjgW0DzhizzTwO=T2r62rChio+v295PTBuQ@mail.gmail.com>
+References: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+	<CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+	<CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+	<CAJSNQU1iGq+77-5VjgW0DzhizzTwO=T2r62rChio+v295PTBuQ@mail.gmail.com>
+Message-ID: <CAFf706w2Vtc=LGDcGARH-7J-4v4tjxH5qq5mLmmtZaXF204zuw@mail.gmail.com>
+
+> I would prefer it that way as well,  people whose houses got flooded are
+> planning to clean up during the weekend, etc.  Would the 19th work for
+> everyone planning to attend?
+
+I would also prefer postponing or skipping this month meet
+
+Raman.P
+blog:http://ramanchennai.wordpress.com/
+
+From scorpionking.sahil at gmail.com  Thu Dec 10 09:29:31 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Thu, 10 Dec 2015 09:29:31 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+Message-ID: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+
+Namaste Friends,
+
+I am trying to install bitmask (https://dl.bitmask.net/linux/) on my ubuntu
+machine (14.04 Trusty, 32-bit) but unable to install it. I have gone
+through their installation guide and followed the steps but failed to
+install it.
+
+There is some error related to Python Leap. Did google on it too. Has
+anyone installed it earlier? Any pointers would be of great help.
+
+One more doubt I want to clear is that I want to access INTERNET (blocked
+sites via fortinet firewall) from an organization's network. Will it
+trigger an alarm if I try to access blocked websites via bitmask if bitmask
+allow me to access sites?
+
+My question is silly but guide me on this so that I may never have a doubt
+on it.
+
+Look forward to hearing from you guys soon.
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From shakthimaan at gmail.com  Thu Dec 10 09:48:16 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 10 Dec 2015 09:48:16 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+Message-ID: <CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Dec 10, 2015 at 9:29 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| There is some error related to Python Leap.
+\--
+
+Please paste the exact error.
+
+---
+| One more doubt I want to clear is that I want to access INTERNET (blocked
+| sites via fortinet firewall) from an organization's network. Will it
+| trigger an alarm if I try to access blocked websites via bitmask if bitmask
+| allow me to access sites?
+\--
+
+You need to ask the organization.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From scorpionking.sahil at gmail.com  Thu Dec 10 10:02:01 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Thu, 10 Dec 2015 10:02:01 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+Message-ID: <CAP6xenn43NyKW51gxP9Cbu9=6UisLXM+trhFLymBefGnDQY+cQ@mail.gmail.com>
+
+On Thu, Dec 10, 2015 at 9:48 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Thu, Dec 10, 2015 at 9:29 AM, sahil ?????
+> <scorpionking.sahil at gmail.com> wrote:
+> | There is some error related to Python Leap.
+> \--
+>
+> Please paste the exact error.
+>
+
+Will paste it soon. As far as I remember it was about python leap not
+supported or facing dependencies issues while installing leap. Will confirm
+the exact error and paste it.
+
+>
+> ---
+> | One more doubt I want to clear is that I want to access INTERNET (blocked
+> | sites via fortinet firewall) from an organization's network. Will it
+> | trigger an alarm if I try to access blocked websites via bitmask if
+> bitmask
+> | allow me to access sites?
+> \--
+>
+> You need to ask the organization.
+>
+
+I don't think so that if I ask them then they will allow me. They have even
+blocked Ted.com and plenty of other education related video sites.
+
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From shakthimaan at gmail.com  Thu Dec 10 10:08:57 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 10 Dec 2015 10:08:57 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CAP6xenn43NyKW51gxP9Cbu9=6UisLXM+trhFLymBefGnDQY+cQ@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xenn43NyKW51gxP9Cbu9=6UisLXM+trhFLymBefGnDQY+cQ@mail.gmail.com>
+Message-ID: <CABG-yt2apESjZCXSEdOPLNuxbd+tF9VS6XmYi-Gch2UuMDdQVA@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Dec 10, 2015 at 10:02 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| I don't think so that if I ask them then they will allow me. They have even
+| blocked Ted.com and plenty of other education related video sites.
+\--
+
+You are bound by the terms and conditions put forth by the
+organization. So, you will only need to work with them in this regard.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From knura9 at gmail.com  Thu Dec 10 10:12:32 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Thu, 10 Dec 2015 10:12:32 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CAP6xenn43NyKW51gxP9Cbu9=6UisLXM+trhFLymBefGnDQY+cQ@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xenn43NyKW51gxP9Cbu9=6UisLXM+trhFLymBefGnDQY+cQ@mail.gmail.com>
+Message-ID: <CAHhM8gCxz3nm-ZCEWj3JckdSwnEs3WWhGtYZ8jzx6bLR=dQVYA@mail.gmail.com>
+
+On Thu, Dec 10, 2015 at 10:02 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+>
+>>
+>> ---
+>> | One more doubt I want to clear is that I want to access INTERNET (blocked
+>> | sites via fortinet firewall) from an organization's network. Will it
+>> | trigger an alarm if I try to access blocked websites via bitmask if
+>> bitmask
+>> | allow me to access sites?
+>> \--
+>>
+>> You need to ask the organization.
+>>
+>
+> I don't think so that if I ask them then they will allow me. They have even
+> blocked Ted.com and plenty of other education related video sites.
+>
+
+Without explicit permissions from the org administrator, you might be
+violating their policies and perhaps giving an opportunity prosecuting
+you.
+
+You need access to certain sites? I would suggest you ask them to
+allow, with specific justification e.g. you need it to execute your
+job assignment.
+
+-- Arun Khan
+
+From shakthimaan at gmail.com  Thu Dec 10 10:32:25 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 10 Dec 2015 10:32:25 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 12, 2015
+In-Reply-To: <CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+References: <CABG-yt0Tc4+ZTTRu2u2qtumuXqXzEhpNZ9VF7pfj9x9Wq6L9_g@mail.gmail.com>
+	<CABG-yt1jw9aH-wZBOW3K8rL7umEbdhoC+yo=ADsGUYQfDiRkgA@mail.gmail.com>
+	<CAKLQ04DK+47_tG-=q51N8mSgymPg94FkEKPJBcPMBHPp1M93JA@mail.gmail.com>
+Message-ID: <CABG-yt1HEUv_o9ssdAu0j3mRMiLgSyR-iCm42Qf=-1H3rJhX4w@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Dec 9, 2015 at 1:22 PM, Bala Kumar <kidbees at gmail.com> wrote:
+| Can we have the meet on 19 Dec. I haven't checked clashes with other
+| events. Just a suggestion since I feel it will take this weekend off for
+| the people to settle from the floods and also many are involved in relief
+| volunteering efforts.
+\--
+
+Fair enough. I checked with the Aerospace department, and they are
+fine with having our meet next Saturday, December 19, 2015.
+
+Regards.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From nagendrancse at gmail.com  Thu Dec 10 14:29:37 2015
+From: nagendrancse at gmail.com (nagendran)
+Date: Thu, 10 Dec 2015 14:29:37 +0530
+Subject: [Ilugc] Ubuntu Precise numeric pad in laptop behaviour change
+In-Reply-To: <CAM4qvdHtshGJL5cbuCyK_EhpNd4PnJFdMSdo6UbPDKKVv35PqQ@mail.gmail.com>
+References: <CAM4qvdHtshGJL5cbuCyK_EhpNd4PnJFdMSdo6UbPDKKVv35PqQ@mail.gmail.com>
+Message-ID: <CANKWFVaxZv32pBLxm8UWE5uO4AurvBAfnHPSHuL8gKHzCq9+sw@mail.gmail.com>
+
+Pls remove me from this group.
+
+On Sat, Dec 5, 2015 at 12:36 AM, JAGANADH G <jaganadhg at gmail.com> wrote:
+
+> Hi
+> I am facing strange issue with numeric pad in my laptop.
+> When I am trying to type numbers in numeric pad it is either showing strage
+> number patters or turns to some functions
+> e.g If I type 357 it turns to 7=4
+> Plus sign takes screen shot left arrow key shows undo etc in editor .
+> Some kids played in my keypad and not sure if it was happened due to that.
+> Any hint to resolve the same.
+>
+> --
+> **********************************
+> JAGANADH G
+> http://jaganadhg.in
+> *ILUGCBE*
+> http://ilugcbe.org.in
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Thu Dec 10 17:55:28 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 10 Dec 2015 17:55:28 +0530
+Subject: [Ilugc] Error in CentOS EL 7- Configuration of OpenStack-Libraty
+In-Reply-To: <1771718714.10655658.1448965258515.JavaMail.yahoo@mail.yahoo.com>
+References: <1771718714.10655658.1448965258515.JavaMail.yahoo.ref@mail.yahoo.com>
+	<1771718714.10655658.1448965258515.JavaMail.yahoo@mail.yahoo.com>
+Message-ID: <CABG-yt2Lj++DNH2eKe5gyAQS3HmfE7GQQSkh28MrhjLDZBk2Nw@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Dec 1, 2015 at 3:50 PM, Waqar Ali Khan <waqarli at yahoo.com> wrote:
+| oslo_config.cfg.ConfigFileParseError: Failed to parse
+/etc/neutron/neutron.conf: at /etc/neutron/neutron.conf:92,
+| Unexpected continuation line: ' auth_strategy = keystone'
+\--
+
+Did you check line number #92 in /etc/neutron/neutron.conf for
+'auth_strategy' as mentioned in the error?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Fri Dec 11 19:06:47 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 11 Dec 2015 19:06:47 +0530
+Subject: [Ilugc] ILUG-C Meetup group page
+Message-ID: <CABG-yt3ZVFZFumBwcAPn9LPPKvTp9jgG9iGBfsXdTVA_YoFoUw@mail.gmail.com>
+
+Hi,
+
+I had requested Shanthakumar to add me as a co-organizer at the ILUG-C
+Meetup group, where I shall try to update the agenda before our
+monthly meets.
+
+  http://www.meetup.com/ILUG-C/
+
+I shall request the Meetup members to subscribe to this mailing list
+as this will be our primary communication channel.
+
+Shanthakumar will continue to be the organizer at Meetup for our group.
+
+With kind regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vramachandran86 at gmail.com  Sat Dec 12 23:45:15 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Sat, 12 Dec 2015 23:45:15 +0530
+Subject: [Ilugc] Server Monitoring Tool
+Message-ID: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+
+Hi,
+
+Can any one suggest me a good monitoring tool for monitoring server,
+processes, applications, databases (mysql, redis), daemons etc.
+
+I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there any
+other similar tool like Zabbix. Just  wanna try various options.
+
+Thanks in advance.
+
+-- 
+Regards
+Ramachandran
+
+From raj2070kumar at gmail.com  Sat Dec 12 23:46:32 2015
+From: raj2070kumar at gmail.com (Raj Kumar)
+Date: Sat, 12 Dec 2015 23:46:32 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+Message-ID: <CAPQEMRcnb0c8sdcN5x6XJDzQ6o65Y3Kij7r_qZYWgGgidBUKxA@mail.gmail.com>
+
+Solar winds
+On Dec 12, 2015 11:45 PM, "Ramachandran V" <vramachandran86 at gmail.com>
+wrote:
+
+> Hi,
+>
+> Can any one suggest me a good monitoring tool for monitoring server,
+> processes, applications, databases (mysql, redis), daemons etc.
+>
+> I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there any
+> other similar tool like Zabbix. Just  wanna try various options.
+>
+> Thanks in advance.
+>
+> --
+> Regards
+> Ramachandran
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shihan.viswa at gmail.com  Sat Dec 12 23:53:29 2015
+From: shihan.viswa at gmail.com (viswaprasath)
+Date: Sat, 12 Dec 2015 23:53:29 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAPQEMRcnb0c8sdcN5x6XJDzQ6o65Y3Kij7r_qZYWgGgidBUKxA@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+	<CAPQEMRcnb0c8sdcN5x6XJDzQ6o65Y3Kij7r_qZYWgGgidBUKxA@mail.gmail.com>
+Message-ID: <CAHuPp2=ioeRZCdcphDTN9=i1yX5DXGv408sY-W9E6fAwah0d0Q@mail.gmail.com>
+
+Check manage engine also. There are lot of products for that.
+
+Sent from Mobile sorry for typo
+On Dec 12, 2015 11:47 PM, "Raj Kumar" <raj2070kumar at gmail.com> wrote:
+
+> Solar winds
+> On Dec 12, 2015 11:45 PM, "Ramachandran V" <vramachandran86 at gmail.com>
+> wrote:
+>
+> > Hi,
+> >
+> > Can any one suggest me a good monitoring tool for monitoring server,
+> > processes, applications, databases (mysql, redis), daemons etc.
+> >
+> > I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there any
+> > other similar tool like Zabbix. Just  wanna try various options.
+> >
+> > Thanks in advance.
+> >
+> > --
+> > Regards
+> > Ramachandran
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From knura9 at gmail.com  Sun Dec 13 00:24:58 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sun, 13 Dec 2015 00:24:58 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAPQEMRcnb0c8sdcN5x6XJDzQ6o65Y3Kij7r_qZYWgGgidBUKxA@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+	<CAPQEMRcnb0c8sdcN5x6XJDzQ6o65Y3Kij7r_qZYWgGgidBUKxA@mail.gmail.com>
+Message-ID: <CAHhM8gCy4-0gAGVcqRQ661YB1tZ_E=aTgzkLUu=PBwmqZ6wCDA@mail.gmail.com>
+
+On Sat, Dec 12, 2015 at 11:46 PM, Raj Kumar <raj2070kumar at gmail.com> wrote:
+> Solar winds
+
+Is it open source?
+
+-- Arun Khan
+
+From knura9 at gmail.com  Sun Dec 13 00:28:10 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sun, 13 Dec 2015 00:28:10 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+Message-ID: <CAHhM8gAVU5dY=-zS7MDFRQ2th8711d0pPLNbMuZ1coAmU90rSw@mail.gmail.com>
+
+On Sat, Dec 12, 2015 at 11:45 PM, Ramachandran V
+<vramachandran86 at gmail.com> wrote:
+> Hi,
+>
+> Can any one suggest me a good monitoring tool for monitoring server,
+> processes, applications, databases (mysql, redis), daemons etc.
+>
+> I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there any
+> other similar tool like Zabbix. Just  wanna try various options.
+>
+
+It might be helpful if you define your requirements first and then
+look for a suitable product that meet them.
+As stated by others there is a slew of products in this domain;
+nagios, cacti, opennms, observium and more ...
+
+-- Arun Khan
+
+From gopalakrishna99 at gmail.com  Sun Dec 13 11:36:29 2015
+From: gopalakrishna99 at gmail.com (Gopal Krishna)
+Date: Sun, 13 Dec 2015 11:36:29 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAHhM8gAVU5dY=-zS7MDFRQ2th8711d0pPLNbMuZ1coAmU90rSw@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+	<CAHhM8gAVU5dY=-zS7MDFRQ2th8711d0pPLNbMuZ1coAmU90rSw@mail.gmail.com>
+Message-ID: <CAArwaQSsizo9uDmjEwt4XJ7=AChUVy-cgSjH8WvVU1-A7x-VOw@mail.gmail.com>
+
+check Riemann monitoring tool.
+
+
+Gopal
+
+On Sun, Dec 13, 2015 at 12:28 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Sat, Dec 12, 2015 at 11:45 PM, Ramachandran V
+> <vramachandran86 at gmail.com> wrote:
+> > Hi,
+> >
+> > Can any one suggest me a good monitoring tool for monitoring server,
+> > processes, applications, databases (mysql, redis), daemons etc.
+> >
+> > I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there any
+> > other similar tool like Zabbix. Just  wanna try various options.
+> >
+>
+> It might be helpful if you define your requirements first and then
+> look for a suitable product that meet them.
+> As stated by others there is a slew of products in this domain;
+> nagios, cacti, opennms, observium and more ...
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+T.V.V.S. GOPALAKRISHNA
+
+From gopalakrishna99 at gmail.com  Sun Dec 13 11:43:54 2015
+From: gopalakrishna99 at gmail.com (Gopal Krishna)
+Date: Sun, 13 Dec 2015 11:43:54 +0530
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+Message-ID: <CAArwaQS0Mc=MGKV74V6NSU2DgK18=QUQ=r_OpkU0y65do1wwbQ@mail.gmail.com>
+
+check Riemann monitoring tool.
+
+
+
+On Sat, Dec 5, 2015 at 1:05 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+wrote:
+
+> Hi,
+>
+> I am looking for an Opensource monitoring tool with the following facility.
+>
+> 1. White Labeled dash board for each company [ for each company they need a
+> separate dash board and logins, users of one organization cannot see others
+> servers.]
+> 2. Have a report (pdf/jpg/etc) generating facility.
+> 3. Good to have RMM [ tools like reboot , ssh etc ]
+>
+> Checked Nagios /zabbix/shinken/opsview etc, but they  don't have facilities
+> like separate logins/report generate etc.
+>
+> --
+> With Regards,
+> Ajeesh B.Kannan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+T.V.V.S. GOPALAKRISHNA
+
+From scorpionking.sahil at gmail.com  Sun Dec 13 11:55:07 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Sun, 13 Dec 2015 11:55:07 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+Message-ID: <CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+
+On Thu, Dec 10, 2015 at 9:48 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Thu, Dec 10, 2015 at 9:29 AM, sahil ?????
+> <scorpionking.sahil at gmail.com> wrote:
+> | There is some error related to Python Leap.
+> \--
+>
+> Please paste the exact error.
+>
+
+This is the error when I try to install Bitmask (via ubuntu software center
+or via .bz2 file).
+
+Package dependencies cannot be resolved
+
+The following packages have unmet dependencies:
+
+bitmask: Depends: python:any (>= 2.7.5-5~) but it is a virtual package
+         Depends: python-requests (>= 1.2.3-1) but 2.2.1-1ubuntu0.3 is to
+be installed
+         Depends: python-keyring (>= 0.9.2) but 3.5-1 is to be installed
+         Depends: python-zmq (>= 14.4.1-1.1) but
+14.4.1-1.1+0~20150512163425.14+trusty~1.gbpc12fc5 is to be installed
+         Depends: python:any (< 2.8) but it is a virtual package
+         Depends: python-argparse but it is a virtual package
+         Depends: python-twisted-core (>= 14.0.2) but 14.0.2-1ubuntu1 is to
+be installed
+
+
+Any sort of pointers to this issue would be of great help.
+
+Thank you in advance.
+
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From shakthimaan at gmail.com  Sun Dec 13 13:45:46 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 13 Dec 2015 13:45:46 +0530
+Subject: [Ilugc] opensource monitoring tool
+In-Reply-To: <CAArwaQS0Mc=MGKV74V6NSU2DgK18=QUQ=r_OpkU0y65do1wwbQ@mail.gmail.com>
+References: <CA+ark-oy1SpYVxwvce3-Cp4XYQxU1u51dXzEk6Hq3vV9Uozciw@mail.gmail.com>
+	<CAArwaQS0Mc=MGKV74V6NSU2DgK18=QUQ=r_OpkU0y65do1wwbQ@mail.gmail.com>
+Message-ID: <CABG-yt0wKxLgyZMU3Y1ZovbVxJyvqgf1cJgW9aN55Af_kP1-pA@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Dec 13, 2015 at 11:43 AM, Gopal Krishna
+<gopalakrishna99 at gmail.com> wrote:
+| check Riemann monitoring tool.
+|
+| On Sat, Dec 5, 2015 at 1:05 AM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+| wrote:
+|
+| Hi,
+\--
+
+Please don't top-post in this list. Use, interleaved, trimmed, bottom
+posting. See:
+
+  ILUGC Mailing List Guidelines:
+  http://ilugc.in/mailinglist-guidelines
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Sun Dec 13 13:54:10 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 13 Dec 2015 13:54:10 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+Message-ID: <CABG-yt1+wBH5Q0uPiUwvjs97QZuXyd=Cv9DW3U8fgins9nzrvA@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Dec 13, 2015 at 11:55 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| Package dependencies cannot be resolved
+\--
+
+Is your Ubuntu version LTS? Open a terminal, and paste the output of
+the following command:
+
+  $ lsb_release -a
+
+>From a terminal, can you try do an "apt-get update" first, and then
+install the package?
+
+  $ apt-get update
+
+The instructions are here:
+
+  https://bitmask.net/en/install/linux
+
+You can try this at home, but, please don't do such things in your
+organization without their consent. You are responsible for your
+actions.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vramachandran86 at gmail.com  Sun Dec 13 20:01:42 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Sun, 13 Dec 2015 20:01:42 +0530
+Subject: [Ilugc] Server Monitoring Tool
+In-Reply-To: <CAArwaQSsizo9uDmjEwt4XJ7=AChUVy-cgSjH8WvVU1-A7x-VOw@mail.gmail.com>
+References: <CAPVR=qOfcgUF1-tN0L9nPK6Bshk_sLtTZORNzVFO=JiddsEP_A@mail.gmail.com>
+	<CAHhM8gAVU5dY=-zS7MDFRQ2th8711d0pPLNbMuZ1coAmU90rSw@mail.gmail.com>
+	<CAArwaQSsizo9uDmjEwt4XJ7=AChUVy-cgSjH8WvVU1-A7x-VOw@mail.gmail.com>
+Message-ID: <CAPVR=qM1xixzOhSbwoDfkxF=J68fCUnZQDuV-YEW8iXj+LstnQ@mail.gmail.com>
+
+Thanks for all your suggestions.
+
+On Sun, Dec 13, 2015 at 11:36 AM, Gopal Krishna <gopalakrishna99 at gmail.com>
+wrote:
+
+> check Riemann monitoring tool.
+>
+>
+> Gopal
+>
+> On Sun, Dec 13, 2015 at 12:28 AM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Sat, Dec 12, 2015 at 11:45 PM, Ramachandran V
+> > <vramachandran86 at gmail.com> wrote:
+> > > Hi,
+> > >
+> > > Can any one suggest me a good monitoring tool for monitoring server,
+> > > processes, applications, databases (mysql, redis), daemons etc.
+> > >
+> > > I had a look into Monit and Zabbix(http://www.zabbix.com/). Is there
+> any
+> > > other similar tool like Zabbix. Just  wanna try various options.
+> > >
+> >
+> > It might be helpful if you define your requirements first and then
+> > look for a suitable product that meet them.
+> > As stated by others there is a slew of products in this domain;
+> > nagios, cacti, opennms, observium and more ...
+> >
+> > -- Arun Khan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+>
+>
+>
+> --
+> T.V.V.S. GOPALAKRISHNA
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Regards
+Ramachandran
+
+From msrarun22 at gmail.com  Sun Dec 13 20:37:03 2015
+From: msrarun22 at gmail.com (Sundar Raj)
+Date: Sun, 13 Dec 2015 20:37:03 +0530
+Subject: [Ilugc] Git server set up in local network
+Message-ID: <CALHF9_H=Yc8im-Hhc8o0koYwPY9hn8BKKCcW84D+RkNzV8HF0Q@mail.gmail.com>
+
+Hi Team,
+
+   In our environment we are plaaning to set up a GIT server in our office
+and do data push and pull from windows machine.
+
+
+How do i create a GIT local repository in our ubuntu 15.10 server and clone
+it and
+do push and pull data from a windows client .Friends pls suggest me .
+
+Regards,
+Sundar
+
+From ganesh.ranganathan.85 at gmail.com  Sun Dec 13 20:41:16 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Sun, 13 Dec 2015 20:41:16 +0530
+Subject: [Ilugc] Git server set up in local network
+In-Reply-To: <CALHF9_H=Yc8im-Hhc8o0koYwPY9hn8BKKCcW84D+RkNzV8HF0Q@mail.gmail.com>
+References: <CALHF9_H=Yc8im-Hhc8o0koYwPY9hn8BKKCcW84D+RkNzV8HF0Q@mail.gmail.com>
+Message-ID: <CALFmRoH_rfFanrNWMpa6_n7KJXeK0_Vvg1Se=7U5gEn2GgnhEg@mail.gmail.com>
+
+On Sun, Dec 13, 2015 at 8:37 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+
+>
+>    In our environment we are plaaning to set up a GIT server in our office
+> and do data push and pull from windows machine.
+
+
+?Check out GitLab.com. ?
+
+From shakthimaan at gmail.com  Sun Dec 13 22:06:58 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 13 Dec 2015 22:06:58 +0530
+Subject: [Ilugc] Git server set up in local network
+In-Reply-To: <CALHF9_H=Yc8im-Hhc8o0koYwPY9hn8BKKCcW84D+RkNzV8HF0Q@mail.gmail.com>
+References: <CALHF9_H=Yc8im-Hhc8o0koYwPY9hn8BKKCcW84D+RkNzV8HF0Q@mail.gmail.com>
+Message-ID: <CABG-yt32km5_=KpDMgYGSZMj9bgq2OO1aqvESYdzYgjEKP1n_Q@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Dec 13, 2015 at 8:37 PM, Sundar Raj <msrarun22 at gmail.com> wrote:
+| How do i create a GIT local repository in our ubuntu 15.10 server
+\--
+
+Use gitolite. Please use a search engine to learn more.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From scorpionking.sahil at gmail.com  Tue Dec 15 10:09:28 2015
+From: scorpionking.sahil at gmail.com (=?UTF-8?B?c2FoaWwg4KS44KS+4KS54KS/4KSy?=)
+Date: Tue, 15 Dec 2015 04:39:28 +0000
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CABG-yt1+wBH5Q0uPiUwvjs97QZuXyd=Cv9DW3U8fgins9nzrvA@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+	<CABG-yt1+wBH5Q0uPiUwvjs97QZuXyd=Cv9DW3U8fgins9nzrvA@mail.gmail.com>
+Message-ID: <CAP6xenmEmOuDYK9X3vnmR=u5wz_nkHVTTzSqzc8ouQeC8usMWA@mail.gmail.com>
+
+On Sun, Dec 13, 2015 at 8:24 AM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> --- On Sun, Dec 13, 2015 at 11:55 AM, sahil ?????
+> <scorpionking.sahil at gmail.com> wrote:
+> | Package dependencies cannot be resolved
+> \--
+>
+> Is your Ubuntu version LTS? Open a terminal, and paste the output of
+> the following command:
+>
+>   $ lsb_release -a
+>
+
+Distributor ID:    Ubuntu
+Description:    Ubuntu 14.04.1 LTS
+Release:    14.04
+Codename:    trusty
+
+
+>
+> From a terminal, can you try do an "apt-get update" first, and then
+> install the package?
+>
+>   $ apt-get update
+>
+
+I have done this too and did google on the error (unmet dependencies) but
+to no avail.
+Viewed /etc/apt/sources.list file but didn't find anything awkward.
+apt-get clean
+apt-get autoclean
+apt-get update
+
+sudo dpkg --configure -a
+sudo apt-get install -f
+
+
+> The instructions are here:
+>
+>   https://bitmask.net/en/install/linux
+>
+
+Followed instructions too but failed to install the same.
+
+
+>
+> You can try this at home, but, please don't do such things in your
+> organization without their consent. You are responsible for your
+> actions.
+>
+
+I have discussed this with them. I am asking this just out of curiosity.
+Organization do have a vpn connection service if you want to access the
+public network sites for your work so that's not an issue. But I want to
+know what type of events fortinet firewall triggers if someone wants to
+establish a vpn connection. Rest I don't have any bad intention.
+
+Kindly share your valuable thoughts on the same.
+
+Thank you.
+
+-- 
+
+*Regards,Sahil ModGill*
+
+From shakthimaan at gmail.com  Tue Dec 15 11:55:46 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 15 Dec 2015 11:55:46 +0530
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet
+	firewall
+In-Reply-To: <CAP6xenmEmOuDYK9X3vnmR=u5wz_nkHVTTzSqzc8ouQeC8usMWA@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+	<CABG-yt1+wBH5Q0uPiUwvjs97QZuXyd=Cv9DW3U8fgins9nzrvA@mail.gmail.com>
+	<CAP6xenmEmOuDYK9X3vnmR=u5wz_nkHVTTzSqzc8ouQeC8usMWA@mail.gmail.com>
+Message-ID: <CABG-yt1n7Uozn2HA+Q14yP2UhYcBobv8BuMya7tEVo4a=XSH2Q@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Dec 15, 2015 at 10:09 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| Description:    Ubuntu 14.04.1 LTS
+\--
+
+Okay, it is LTS.
+
+---
+| I have done this too and did google on the error (unmet dependencies)
+\--
+
+So, there is a package dependency problem. You could file a bug with Ubuntu.
+
+---
+|  https://bitmask.net/en/install/linux
+|
+| Followed instructions too but failed to install the same.
+\--
+
+What error did you get?
+
+---
+| But I want to
+| know what type of events fortinet firewall triggers if someone wants to
+| establish a vpn connection.
+\--
+
+You need to ask Fortinet, because they are the people who wrote it.
+
+---
+| Rest I don't have any bad intention.
+\--
+
+Just making sure you understand what you are doing.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From smal at ccmb.res.in  Tue Dec 15 12:01:45 2015
+From: smal at ccmb.res.in (Mahalingam S)
+Date: Tue, 15 Dec 2015 12:01:45 +0530 (IST)
+Subject: [Ilugc] [[Doubts]] Installing Bitmask and bypassing
+	fortinet	firewall
+In-Reply-To: <CABG-yt1n7Uozn2HA+Q14yP2UhYcBobv8BuMya7tEVo4a=XSH2Q@mail.gmail.com>
+References: <CAP6xenkibxbi2ZvJGDFWyY0xTkrBe0z1Hzs8nGuxGQNipX9e2Q@mail.gmail.com>
+	<CABG-yt1gF52GBqqux=FOUamtnaq0REiznxU1GyOsBTx2XqcPFQ@mail.gmail.com>
+	<CAP6xen=WBbZgpz+OQE81tQ3uWLoaWY3bEJNrzDqDNmhXdOLHQg@mail.gmail.com>
+	<CABG-yt1+wBH5Q0uPiUwvjs97QZuXyd=Cv9DW3U8fgins9nzrvA@mail.gmail.com>
+	<CAP6xenmEmOuDYK9X3vnmR=u5wz_nkHVTTzSqzc8ouQeC8usMWA@mail.gmail.com>
+	<CABG-yt1n7Uozn2HA+Q14yP2UhYcBobv8BuMya7tEVo4a=XSH2Q@mail.gmail.com>
+Message-ID: <850937732.627262.1450161105774.JavaMail.zimbra@ccmb.res.in>
+
+
+
+
+----- Original Message -----
+From: "Shakthi Kannan" <shakthimaan at gmail.com>
+To: "ILUG-C" <ilugc at ae.iitm.ac.in>
+Sent: Tuesday, December 15, 2015 11:55:46 AM
+Subject: Re: [Ilugc] [[Doubts]] Installing Bitmask and bypassing fortinet	firewall
+
+Hi,
+
+--- On Tue, Dec 15, 2015 at 10:09 AM, sahil ?????
+<scorpionking.sahil at gmail.com> wrote:
+| Description:    Ubuntu 14.04.1 LTS
+\--
+
+Okay, it is LTS.
+
+---
+| I have done this too and did google on the error (unmet dependencies)
+\--
+
+So, there is a package dependency problem. You could file a bug with Ubuntu.
+
+---
+|  https://bitmask.net/en/install/linux
+|
+| Followed instructions too but failed to install the same.
+\--
+
+What error did you get?
+
+---
+| But I want to
+| know what type of events fortinet firewall triggers if someone wants to
+| establish a vpn connection.
+\--
+
+You need to ask Fortinet, because they are the people who wrote it.
+
+---
+| Rest I don't have any bad intention.
+\--
+
+Just making sure you understand what you are doing.
+
+Regards,
+
+SK
+
+Hi
+
+Thr above mentioned link to access the bitmask site is not ever accessible.
+
+Regards
+s.mahalingam
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smal.vcf
+Type: text/directory
+Size: 170 bytes
+Desc: not available
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20151215/fa1e786b/attachment.bin 
+
+From shakthimaan at gmail.com  Wed Dec 16 15:18:59 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 16 Dec 2015 15:18:59 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 19, 2015, 1500 IST
+Message-ID: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+
+Hi,
+
+Indian Linux Users Group, Chennai ILUGC spreading awareness on
+Free/Open Source Software (F/OSS) in Chennai since January 1998.
+
+We usually meet on the second Saturday of every month, and the
+sessions consist of technical talks and discussions. For this month,
+we shall meet on Saturday, December 19 2015 at 1500 IST.
+
+Venue: Classroom No 1,
+       Aerospace Engineering,
+       Near Gajendra Circle,
+       IIT Madras.
+       Link for the Map: http://bit.ly/iitm-aero
+
+Time: 1500-1800 IST
+
+Talk 1
+
+Topic: Project Euler
+
+Speaker: Shakthi Kannan
+
+Duration: 30 Minutes
+
+Description:  Simple computational problems for participants to solve
+in 10 minutes. You can use pen/pencil and a paper, or a laptop or any
+other machine. Please bring your solutions from the previous meet-up.
+We can review it before proceeding to a newer challenge.
+
+About me: Shakthi Kannan is a Free Software enthusiast who blogs at
+shakthimaan.com.
+
+The floor will be open after these sessions for any discussions or
+lightning talks.
+
+Entry is free.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From sahasr at naman.ms  Thu Dec 17 01:10:16 2015
+From: sahasr at naman.ms (Sahasranaman M S)
+Date: Thu, 17 Dec 2015 01:10:16 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 19, 2015,
+ 1500 IST
+In-Reply-To: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+References: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+Message-ID: <5671BE20.6010002@naman.ms>
+
+Hi,
+
+I would like to present a talk on LibreOffice development and if time 
+permits, would like to do a couple of lightning talks as well.
+
+Talk 2
+
+Topic:  Contributing to LibreOffice - Talk 4
+
+Duration: 30 minutes
+
+Description:
+     - Feature addition : ability of deleting borders of cell from 
+adjacent cell
+     - Overview of mdds (multidimensional data structures) library used 
+by calc
+     - Bugzilla page: 
+https://bugs.documentfoundation.org/show_bug.cgi?id=34449
+
+About me:  I am a contributor to the LibreOffice project.
+
+Thanks,
+Sahas
+
+From shakthimaan at gmail.com  Thu Dec 17 09:20:57 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 17 Dec 2015 09:20:57 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 19, 2015,
+	1500 IST
+In-Reply-To: <5671BE20.6010002@naman.ms>
+References: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+	<5671BE20.6010002@naman.ms>
+Message-ID: <CABG-yt3tZhTeCoW75YkPD-f=jnuVNySRVs-yARNC5vfNeDHLfw@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Dec 17, 2015 at 1:10 AM, Sahasranaman M S <sahasr at naman.ms> wrote:
+| I would like to present a talk on LibreOffice development and if time
+| permits, would like to do a couple of lightning talks as well.
+|
+| Talk 2
+\--
+
+ACK. You can be the first speaker.
+
+SK
+
+--
+Shakthi Kannan
+https://www.shakthimaan.com
+
+From tuxuday at gmail.com  Thu Dec 17 15:14:43 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Thu, 17 Dec 2015 15:14:43 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 19, 2015,
+	1500 IST
+In-Reply-To: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+References: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+Message-ID: <CANODOztpJP8vgTNGESdartd2FYqryNutaGiebAgeF6VbJHUt6w@mail.gmail.com>
+
+> The floor will be open after these sessions for any discussions
+>
+>
+Talk 3
+
+Topic : Introduction to Perl
+
+Description : Basics of Perl language.
+
+Duration :30mins
+
+About Yourself :SW Eng.
+-- 
+Cheers
+Uday.
+
+From shakthimaan at gmail.com  Thu Dec 17 17:00:53 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 17 Dec 2015 17:00:53 +0530
+Subject: [Ilugc] Monthly meet ILUG-C - Saturday, December 19, 2015,
+	1500 IST
+In-Reply-To: <CANODOztpJP8vgTNGESdartd2FYqryNutaGiebAgeF6VbJHUt6w@mail.gmail.com>
+References: <CABG-yt2UaxB=C=aXXbBuuhjUciXkLuyBuX1FFKnDRpF4e1kVYw@mail.gmail.com>
+	<CANODOztpJP8vgTNGESdartd2FYqryNutaGiebAgeF6VbJHUt6w@mail.gmail.com>
+Message-ID: <CABG-yt0F52phpUp8cCv92F15Gzxz1fNLnZhm+Pq6_sfuvmD6VQ@mail.gmail.com>
+
+Hi Udaya Kumar,
+
+--- On Thu, Dec 17, 2015 at 3:14 PM, Udaya Kumar <tuxuday at gmail.com> wrote:
+| Talk 3
+|
+| Topic : Introduction to Perl
+|
+| Description : Basics of Perl language.
+|
+| Duration :30mins
+|
+| About Yourself :SW Eng.
+\--
+
+ACK. You can be the second speaker.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+

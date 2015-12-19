@@ -1,0 +1,78 @@
+From vaghul at mahindrabt.com  Thu May 11 06:20:50 2000
+From: vaghul at mahindrabt.com (vaghul)
+Date: Thu, 11 May 2000 11:50:50 +0530
+Subject: [Ilugc] sound card not detected.
+References: <20040511060201.6510.18768.Mailman@gateway.aero.iitm.ernet.in>
+Message-ID: <000801bfbb11$0ded31f0$100d050a@dscp00752>
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0005_01BFBB3F.2732D600
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+sound card not detected in SuSe  7.1.
+what to do?
+regards
+VAGHUL.R
+
+
+*********************************************************
+Disclaimer:         =0D
+
+This message (including any attachments) contains=0D
+confidential information intended for a specific=0D
+individual and purpose, and is protected by law.=0D
+If you are not the intended recipient, you should=0D
+delete this message and are hereby notified that=0D
+any disclosure, copying, or distribution of this
+message, or the taking of any action based on it,=0D
+is strictly prohibited.
+
+*********************************************************
+Visit us at http://www.mahindrabt.com
+
+
+
+------=_NextPart_000_0005_01BFBB3F.2732D600
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" http-equiv=
+=3DContent-Type>
+<META content=3D"MSHTML 5.00.3700.6699" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>sound card not detected in SuSe&nbsp;=0D
+7.1.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>what to do?</FONT></DIV>
+<DIV>regards<BR>VAGHUL.R</DIV></BODY></HTML>
+
+<table><tr><td bgcolor=3D#ffffff><font color=
+=3D#000000><pre>*********************************************************
+Disclaimer:         =0D
+
+This message (including any attachments) contains=0D
+confidential information intended for a specific=0D
+individual and purpose, and is protected by law.=0D
+If you are not the intended recipient, you should=0D
+delete this message and are hereby notified that=0D
+any disclosure, copying, or distribution of this
+message, or the taking of any action based on it,=0D
+is strictly prohibited.
+
+*********************************************************
+Visit us at http://www.mahindrabt.com
+
+
+
+</pre></font></td></tr></table>
+------=_NextPart_000_0005_01BFBB3F.2732D600--
+
+

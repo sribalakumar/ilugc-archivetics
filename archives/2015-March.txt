@@ -1,0 +1,5444 @@
+From guruprasad at guruprasad.org  Mon Mar  2 18:05:18 2015
+From: guruprasad at guruprasad.org (L. Guruprasad)
+Date: Mon, 02 Mar 2015 18:05:18 +0530
+Subject: [Ilugc] Interactive tutorial for Git branching
+Message-ID: <54F45906.8000501@guruprasad.org>
+
+https://pcottle.github.io/learnGitBranching/
+
+HTH :)
+
+Thanks & Regards,
+Guruprasad
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 842 bytes
+Desc: OpenPGP digital signature
+Url : http://www.ae.iitm.ac.in/pipermail/ilugc/attachments/20150302/910cec8a/attachment.bin 
+
+From vramachandran86 at gmail.com  Mon Mar  2 18:25:04 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Mon, 2 Mar 2015 18:25:04 +0530
+Subject: [Ilugc] [Info] Contributing to Chromium: An Illustrated Guide
+Message-ID: <CAPVR=qPZSfvSZcBr=sJfFR0SHvaWxDwBknB4GQoAx58-gjZ5Hg@mail.gmail.com>
+
+Hi,
+
+Contributing to Chromium: An Illustrated Guide
+http://meowni.ca/posts/chromium-101/
+
+-- 
+Regards
+Ramachandran
+
+From vramachandran86 at gmail.com  Mon Mar  2 18:26:24 2015
+From: vramachandran86 at gmail.com (Ramachandran V)
+Date: Mon, 2 Mar 2015 18:26:24 +0530
+Subject: [Ilugc] =?utf-8?q?=5BInfo=5D_PeerVPN_=E2=80=93_Open-source_peer-t?=
+	=?utf-8?q?o-peer_VPN?=
+Message-ID: <CAPVR=qOJpnfSnQeAxYDCErujLyMi9YDFGk8gO=3bad_ntUO+SA@mail.gmail.com>
+
+Hi,
+
+PeerVPN ? Open-source peer-to-peer VPN
+http://www.peervpn.net/
+
+-- 
+Regards
+Ramachandran
+
+From professionalgraam at gmail.com  Mon Mar  2 21:37:27 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 02 Mar 2015 21:37:27 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+Message-ID: <54F48ABF.8070402@gmail.com>
+
+
+On 25-02-2015 17:05, Shakthi Kannan wrote:
+> Hi,
+>
+> --- On Mon, Feb 16, 2015 at 8:39 PM, Gowtham Raam
+> <professionalgraam at gmail.com> wrote:
+> | 1. Confirm Venue and date
+> \--
+>
+> I discussed with the Management of Manufacturing System Insights,
+> Tambaram East, Chennai [1], and they are interested in hosting the
+> Installfest.
+>
+> Due to space constraints, around 25 participants can only be
+> accommodated. So, for this edition of the installfest, I would like to
+> announce it only for ILUG-C members. Of course, we will attempt to
+> host in bigger venues, but, I believe this is a start.
+>
+> The tentative timings of the installfest can be 0800 to 1600 IST.
+> Internet access will be provided, but, if you have Internet access in
+> your phone or USB dongle it will be useful too. It is recommended that
+> you bring your own I/O hardware (monitor, keyboard and mouse) along
+> with your computer/laptop, but, we can try to arrange for the same
+> too. I am still discussing on sponsoring lunch for the participants.
+>
+> I am thinking, Saturday, March 21, 2015 to be the day of the installfest.
+>
+> If you are interested in joining, I would like to know what you want
+> to accomplish during the day. For example, it could be installation of
+> Debian on your computer and configuration of all services. If time
+> permits, we can have a demo at the end of the day.
+>
+> Let me know your thoughts,
+>
+> SK
+>
+> [1] Manufacturing System Insights, Chennai. http://systeminsights.com/
+>
+Hi Shakthi Kannan,
+
+Thank you for your great efforts, I feel that we can have the
+INSTALLFEST on the venue. Now we have to concentrate on the volunteer
+part and the distributions that we need to show for the INSTALLFEST.
+Kindly share your suggestions. 
+
+
+
+-- 
+With Regards, Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development
+model just to improve quality of code */
+
+From professionalgraam at gmail.com  Mon Mar  2 22:18:25 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Mon, 02 Mar 2015 22:18:25 +0530
+Subject: [Ilugc] Call for speakers - March Month Meet
+Message-ID: <54F49459.8070306@gmail.com>
+
+Hi All,
+
+We can have our monthly meet on March 14(Saturday), You can share your
+Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+Contribution  related to Linux and open source free software or Community.
+
+Reply here if you are interested in giving a talk.
+
+Provide with the following details.
+Topic
+Description
+Links
+Duration
+About Yourself
+-- 
+With Regards, Gowtham Raam.J
+Drop your Mail to : professionalgraam at gmail.com
+Give a call by : (+91)-9443284989
+Visit My blog : http://pacesettergraam.wordpress.com
+/*FOSS gives you freedom It is a philosophy Open source is a development
+model just to improve quality of code */
+
+From shakthimaan at gmail.com  Tue Mar  3 11:30:28 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 3 Mar 2015 11:30:28 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <54F48ABF.8070402@gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<54F48ABF.8070402@gmail.com>
+Message-ID: <CABG-yt2_8LaXM6zo4UTqgK-21X9yeMRYvxW=GLC7+5ohzA5xrA@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Mar 2, 2015 at 9:37 PM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+| I feel that we can have the
+| INSTALLFEST on the venue. Now we have to concentrate on the volunteer
+| part and the distributions that we need to show for the INSTALLFEST.
+| Kindly share your suggestions.
+\--
+
+The date is set on Saturday, March 28, 2015 at the MSI, Chennai office
+premises. I am still working on the other logistics.
+
+To maintain transparency, I would like each interested participant to
+reply to this thread with the following info:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+Since, the space is limited and we can accommodate only 25 people,
+this edition shall be on a first-come, first-serve basis.
+
+With regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From vishnu.vijayaraghavan at gmail.com  Tue Mar  3 13:24:45 2015
+From: vishnu.vijayaraghavan at gmail.com (Vishnu Vijayaraghavan)
+Date: Tue, 3 Mar 2015 13:24:45 +0530
+Subject: [Ilugc] Cloud In a Box Appliance
+Message-ID: <CAJbi477W2zAnqSTu7vXU06Q-xNgrYoLSYM3NjNSxPgcOJxfT+w@mail.gmail.com>
+
+Hi All,
+
+I am posting in this forum after a very long time.
+
+I got an idea about the "Cloud In a Box" appliance.
+
+The details about this is posted in my blog @
+http://linuxdreams.blogspot.in/2015/03/cloud-in-box-appliance.html
+
+Please, kindly go through it and give your valuable suggestions/feedbacks.
+
+I would like to know about the future of this business model and how well
+it will be success.
+
+I know that the word "Cloud" is a super duper hype.
+
+
+Thanks and Regards,
+
+-- 
+V.Vishnu,
+
+From manimaran436 at gmail.com  Wed Mar  4 14:24:08 2015
+From: manimaran436 at gmail.com (mani maran)
+Date: Wed, 4 Mar 2015 14:24:08 +0530
+Subject: [Ilugc] Octave toolbox_reg
+Message-ID: <CACxnC7MvcDtHmp1vcGsatv=ncYwk-cru4gjP3WPScmCTV2LDBw@mail.gmail.com>
+
+Dear Friends,
+   I could not install the tsa toolbox. Please help me.
+
+From tshrinivasan at gmail.com  Wed Mar  4 23:48:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 4 Mar 2015 23:48:37 +0530
+Subject: [Ilugc] Fwd: [Ubuntu-manual] Free Latex e-book today only
+In-Reply-To: <CANObH2pX5qe4ZTUJv08qcvP8TnAH8B_6GUBv2agqQXHsOv+G3w@mail.gmail.com>
+References: <CANObH2pX5qe4ZTUJv08qcvP8TnAH8B_6GUBv2agqQXHsOv+G3w@mail.gmail.com>
+Message-ID: <CAND279430efJUVqP3UHrrWzpaoVmKQWCLRCN0hgW8+TTAWLFHQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Chris Woollard <cwoollard at gmail.com>
+Date: 2015-03-04 16:05 GMT+05:30
+Subject: [Ubuntu-manual] Free Latex e-book today only
+To: Manual mailing list <ubuntu-manual at lists.launchpad.net>
+
+
+Just in case anybody is interested. packtpub are giving away a free Latex
+ebook today only
+
+Claim it here.
+
+https://www.packtpub.com/packt/offers/free-learning
+
+thanks
+chris
+
+
+_______________________________________________
+Mailing list: https://launchpad.net/~ubuntu-manual
+Post to     : ubuntu-manual at lists.launchpad.net
+Unsubscribe : https://launchpad.net/~ubuntu-manual
+More help   : https://help.launchpad.net/ListHelp
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From bharathi.list at gmail.com  Thu Mar  5 10:46:29 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Thu, 5 Mar 2015 13:16:29 +0800
+Subject: [Ilugc] [OT/HW] Installing Linux on the new Celeron based mini
+ ITX boards
+In-Reply-To: <CAHhM8gCMoVUAtqHUq2XHZ136O1NmWLn5xLpA=sVN9xbYvGKRFQ@mail.gmail.com>
+References: <CAHhM8gCMoVUAtqHUq2XHZ136O1NmWLn5xLpA=sVN9xbYvGKRFQ@mail.gmail.com>
+Message-ID: <CAAeEhqtEZ3bxvaky4fp5Bvh8L0pc-gFMVnV6WL4EXZm0i_6Y_A@mail.gmail.com>
+
+On Thu, Feb 26, 2015 at 2:07 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> Atom boards are hard to find and they are expensive.
+>
+> I am considering buying the newer Celeron (J1800 and J1900 CPUs) based
+> mini ITX boards from Biostar/Gigabyte.   Reading the reviews on
+> various e-stores, people have faced issues installing the OS.
+>
+
+Hi AK,
+
+I don't have any experience with above mentioned boards.
+
+Recently I bought, NUC (i5 + 16GB + SSD-256GB + HDD-1TB) for $1K.
+Performance is good for its size and price. Linux support is also good.
+Atom model price seems to be less. May be check the local price.
+
+Intel NUC Atom board (
+http://www.intel.com/content/www/us/en/nuc/nuc-kit-de3815tykhe.html).
+
+Bye :)
+-- 
+Bharathi Subramanian
+
+From srikrishnamohan at gmail.com  Thu Mar  5 11:18:46 2015
+From: srikrishnamohan at gmail.com (km)
+Date: Thu, 5 Mar 2015 11:18:46 +0530
+Subject: [Ilugc] samba transfer of files i/o issue
+Message-ID: <CAPV1RACVJpxVo-XT9Vk19ShMrXcTN4WYG1RpfTRpTY64rZMZSQ@mail.gmail.com>
+
+Dear all,
+I have mounted windows disks onto ubuntu server 14.04 using samba for data
+transfer using rsync.
+In this process  some files show i/o error  and they get transferred in the
+next iteration of rsync.
+This way i had to do rsync repeatedly until all the files synced to
+destination.
+Could someone suggest a solutionl.
+Thanks
+regards,
+Krihsna Mohan
+
+From nareshsx09 at gmail.com  Thu Mar  5 13:57:24 2015
+From: nareshsx09 at gmail.com (Naresh Tharun)
+Date: Thu, 5 Mar 2015 13:57:24 +0530
+Subject: [Ilugc] samba transfer of files i/o issue
+In-Reply-To: <CAPV1RACVJpxVo-XT9Vk19ShMrXcTN4WYG1RpfTRpTY64rZMZSQ@mail.gmail.com>
+References: <CAPV1RACVJpxVo-XT9Vk19ShMrXcTN4WYG1RpfTRpTY64rZMZSQ@mail.gmail.com>
+Message-ID: <CAEDB-kHnUTRTJ61TzWUt7rGHAMdcVi5VtErR+ozq66M08bXGZg@mail.gmail.com>
+
+Dear Krishna mohan
+
+can u post the error completely or kindly attach the screen shot of that
+error if possible..
+
+
+thanks
+Regards
+Naresh Kumar V
+
+On Thu, Mar 5, 2015 at 11:18 AM, km <srikrishnamohan at gmail.com> wrote:
+
+> Dear all,
+> I have mounted windows disks onto ubuntu server 14.04 using samba for data
+> transfer using rsync.
+> In this process  some files show i/o error  and they get transferred in the
+> next iteration of rsync.
+> This way i had to do rsync repeatedly until all the files synced to
+> destination.
+> Could someone suggest a solutionl.
+> Thanks
+> regards,
+> Krihsna Mohan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From srikrishnamohan at gmail.com  Thu Mar  5 14:31:31 2015
+From: srikrishnamohan at gmail.com (km)
+Date: Thu, 5 Mar 2015 14:31:31 +0530
+Subject: [Ilugc] samba transfer of files i/o issue
+In-Reply-To: <CAEDB-kHnUTRTJ61TzWUt7rGHAMdcVi5VtErR+ozq66M08bXGZg@mail.gmail.com>
+References: <CAPV1RACVJpxVo-XT9Vk19ShMrXcTN4WYG1RpfTRpTY64rZMZSQ@mail.gmail.com>
+	<CAEDB-kHnUTRTJ61TzWUt7rGHAMdcVi5VtErR+ozq66M08bXGZg@mail.gmail.com>
+Message-ID: <CAPV1RADzY2Qn3g9_+3x51r6dz4RQpt5r0FqyodWtKPtMFSP2Eg@mail.gmail.com>
+
+For example, this is the typical output of the transfer
+
+rsync: send_files failed to open "/mnt/hiseqD/Illumina/run folder/HiSeq HOP
+RUN
+16_130215_v4_FC_A/150213_D00486_0061_AC67TUANXX/Data/Intensities/BaseCalls/L001/C176.1/s_1_2205.stats":
+Input/output error (5)
+
+Regards,
+Krishna
+
+
+
+On Thu, Mar 5, 2015 at 1:57 PM, Naresh Tharun <nareshsx09 at gmail.com> wrote:
+
+> Dear Krishna mohan
+>
+> can u post the error completely or kindly attach the screen shot of that
+> error if possible..
+>
+>
+> thanks
+> Regards
+> Naresh Kumar V
+>
+> On Thu, Mar 5, 2015 at 11:18 AM, km <srikrishnamohan at gmail.com> wrote:
+>
+> > Dear all,
+> > I have mounted windows disks onto ubuntu server 14.04 using samba for
+> data
+> > transfer using rsync.
+> > In this process  some files show i/o error  and they get transferred in
+> the
+> > next iteration of rsync.
+> > This way i had to do rsync repeatedly until all the files synced to
+> > destination.
+> > Could someone suggest a solutionl.
+> > Thanks
+> > regards,
+> > Krihsna Mohan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Fri Mar  6 00:12:58 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 6 Mar 2015 00:12:58 +0530
+Subject: [Ilugc] [JOB] Fwd: [Chennaipy] OpenERP and Python developer
+Message-ID: <CAND279526kA21Y0pUb=MoREm9mM84nP7pM9zXosVFRMZLZG9Sg@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Saravanan N <tosaravanan at gmail.com>
+Date: 2015-03-05 22:37 GMT+05:30
+Subject: [Chennaipy] OpenERP and Python developer
+To: chennaipy at python.org
+
+
+Hi,
+
+We are looking for 3+ OpenERP and Python developer for an Dubai based
+logistics product company, Coimbatore location, Get in touch.
+
+Regards,
+SaravanaN.
+
+
+_______________________________________________
+Chennaipy mailing list
+Chennaipy at python.org
+https://mail.python.org/mailman/listinfo/chennaipy
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From rameshkumark.dr at gmail.com  Fri Mar  6 15:07:26 2015
+From: rameshkumark.dr at gmail.com (Rameshkumar K)
+Date: Fri, 6 Mar 2015 15:07:26 +0530
+Subject: [Ilugc] hadoop trainer required - reg
+Message-ID: <CALBqTOL-Qc580XjrGBy+Rb0Pa0po80TGns_GYWPiBPbuCFN12g@mail.gmail.com>
+
+dear all
+
+I want to conduct hadoop workshop in our university. any bodies are willing
+to do it?
+
+regards
+Dr.K.Rameshkumar
+
+From shrayasr at gmail.com  Fri Mar  6 22:13:33 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Fri, 6 Mar 2015 22:13:33 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+Message-ID: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+
+Hi All,
+
+A friend of mine, Noufal[1] as part of the Pipal Academy[2] is
+planning to conduct a paid Git workshop in the city and he wanted to
+know if there would be enough takers for it.
+
+Noufal has conducted a few of them before as well and they have all
+been very well received.  Here is a bit about the workshop:
+
+"A 2 day git workshop that covers the popular distributed version
+control system inside out. A course valuable to all programmers who
+stumble around with git and memorise commands to "get out of
+situations" rather than develop a good mental model of git that makes
+them self reliant, confident and effective with the tool."
+
+and a bit about him:
+
+"My name is Noufal Ibrahim. I've been teaching git professionally for
+around 5 years now. I've taught it to several corporate audiences and
+have conducted public classes before in association with hasgeek. I've
+been very active answering git questions on stackoverflow."
+
+It would be much appreciated if the people who are interested could
+reply here indicating the same. This will give Noufal a decent idea of
+the kind of demand.
+
+He plans to have the workshop sometime in the month of April and it
+will be on a Saturday and Sunday.
+
+Please feel free to write in with any questions and if you want more
+details as to which topics will be covered.
+
+Thanks & Best Regards,
+Shrayas
+
+---
+Footnotes:
+[1]: https://twitter.com/noufalibrahim
+[2]: http://pipal.in/
+
+From ganesh.ranganathan.85 at gmail.com  Fri Mar  6 22:35:09 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Fri, 6 Mar 2015 22:35:09 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+Message-ID: <CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+
+On Fri, Mar 6, 2015 at 10:13 PM, Shrayas rajagopal <shrayasr at gmail.com>
+wrote:
+
+>
+> A friend of mine, Noufal[1] as part of the Pipal Academy[2] is
+> planning to conduct a paid Git workshop in the city and he wanted to
+> know if there would be enough takers for it.
+
+
+?Did he give a approximate cost range for the workshop??
+
+From shrayasr at gmail.com  Fri Mar  6 23:35:33 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Fri, 6 Mar 2015 23:35:33 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+Message-ID: <CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+
+On Fri, Mar 6, 2015 at 10:35 PM, Ganesh Ranganathan
+<ganesh.ranganathan.85 at gmail.com> wrote:
+> Did he give a approximate cost range for the workshop?
+
+Approximately Rs. 5000 to Rs. 6000.
+
+From tshamlikt at gmail.com  Sat Mar  7 13:53:46 2015
+From: tshamlikt at gmail.com (shamlik t)
+Date: Sat, 7 Mar 2015 13:53:46 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+Message-ID: <CAL4AEh-g+LATizuAoza0qfUpa3+N3zESLZBZkHV8EHpePMtTgA@mail.gmail.com>
+
+i know Noufal sir personally...he is a genius in this area.. +1 from me..
+
+On 6 March 2015 at 23:35, Shrayas rajagopal <shrayasr at gmail.com> wrote:
+
+> On Fri, Mar 6, 2015 at 10:35 PM, Ganesh Ranganathan
+> <ganesh.ranganathan.85 at gmail.com> wrote:
+> > Did he give a approximate cost range for the workshop?
+>
+> Approximately Rs. 5000 to Rs. 6000.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shrayasr at gmail.com  Sat Mar  7 14:27:21 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Sat, 7 Mar 2015 14:27:21 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CAL4AEh-g+LATizuAoza0qfUpa3+N3zESLZBZkHV8EHpePMtTgA@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+	<CAL4AEh-g+LATizuAoza0qfUpa3+N3zESLZBZkHV8EHpePMtTgA@mail.gmail.com>
+Message-ID: <CAEkH89Pmyrz_FGLbDMFomq93f_mX_vMqk9SzjhSNYg8-wt3LZg@mail.gmail.com>
+
+On Mar 7, 2015 1:54 PM, "shamlik t" <tshamlikt at gmail.com> wrote:
+>
+> i know Noufal sir personally...he is a genius in this area.. +1 from me..
+
+So can I assume you'll attend it then? :)
+
+Also He's really good in this area. Ive heard many people saying the same
+thing.
+
+If the money is the issue, consider getting it sponsored by your company.
+And I think it is money well spent. The topics covered are very vast. If
+required, I could send those across as well.
+
+Regards,
+Shrayas
+
+From ganesh.ranganathan.85 at gmail.com  Sat Mar  7 18:07:28 2015
+From: ganesh.ranganathan.85 at gmail.com (Ganesh Ranganathan)
+Date: Sat, 7 Mar 2015 18:07:28 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+Message-ID: <CALFmRoHCuq9gnt=g9RP73_9cZkcCbOugMSfzi7nAFKdVj8MhRw@mail.gmail.com>
+
+On Fri, Mar 6, 2015 at 11:35 PM, Shrayas rajagopal <shrayasr at gmail.com>
+wrote:
+
+> Approximately Rs. 5000 to Rs. 6000.
+
+
+I'm interested. Will check with my company for sponsorship.
+
+But I cannot approach them till the event is actually confirmed and
+published.
+
+Thanks,
+Ganesh
+
+From shrayasr at gmail.com  Sun Mar  8 16:48:45 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Sun, 8 Mar 2015 16:48:45 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CALFmRoHCuq9gnt=g9RP73_9cZkcCbOugMSfzi7nAFKdVj8MhRw@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+	<CALFmRoHCuq9gnt=g9RP73_9cZkcCbOugMSfzi7nAFKdVj8MhRw@mail.gmail.com>
+Message-ID: <CAEkH89OfgSZbv=2_mPZYPD+32vJwS9S8vLctRUOYFDrWtNVBsQ@mail.gmail.com>
+
+On Sat, Mar 7, 2015 at 6:07 PM, Ganesh Ranganathan
+<ganesh.ranganathan.85 at gmail.com> wrote:
+> I'm interested. Will check with my company for sponsorship.
+
+Sounds great. I'll pass on the message. It'll help him plan.
+
+> But I cannot approach them till the event is actually confirmed and
+> published.
+
+Fair enough. He's sure about doing the event if at least 5 people attend.
+
+Best Regards,
+Shrayas
+
+From bharathi.list at gmail.com  Sun Mar  8 21:19:18 2015
+From: bharathi.list at gmail.com (Bharathi Subramanian)
+Date: Sun, 8 Mar 2015 23:49:18 +0800
+Subject: [Ilugc] FYI: National IPR Policy
+Message-ID: <CAAeEhqtDHgEvxZM1arNuHS981uT1e-K2Di9k7oRjaN2R1FjdkQ@mail.gmail.com>
+
+CIS-India consolidated the some of feedback/comments on the National IPR
+Policy Draft.
+
+http://cis-india.org/a2k/blogs/academia-and-civil-society-submit-critical-comments-to-dipp-on-draft-national-ipr-policy
+
+Bye :)
+-- 
+Bharathi Subramanian
+
+From sekumar123 at gmail.com  Mon Mar  9 15:06:44 2015
+From: sekumar123 at gmail.com (Senthil Kumar)
+Date: Mon, 9 Mar 2015 15:06:44 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CAEkH89OfgSZbv=2_mPZYPD+32vJwS9S8vLctRUOYFDrWtNVBsQ@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+	<CALFmRoHCuq9gnt=g9RP73_9cZkcCbOugMSfzi7nAFKdVj8MhRw@mail.gmail.com>
+	<CAEkH89OfgSZbv=2_mPZYPD+32vJwS9S8vLctRUOYFDrWtNVBsQ@mail.gmail.com>
+Message-ID: <CABdZwt98wZ3NyauUs3dAkzhu+2+NpdBXi7s6OyKN+i3jgbi=ag@mail.gmail.com>
+
+City means is it in Chennai? If so and the dates are not colluding with
+Academia Activity, I am willing to Sponsor a College Student for this
+Workshop and for any workshop on Python.
+
+Thanks,
+
+Senthil
+
+From shrayasr at gmail.com  Mon Mar  9 22:27:11 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Mon, 9 Mar 2015 22:27:11 +0530
+Subject: [Ilugc] [OT] Git workshop in the city
+In-Reply-To: <CABdZwt98wZ3NyauUs3dAkzhu+2+NpdBXi7s6OyKN+i3jgbi=ag@mail.gmail.com>
+References: <CAEkH89NPYMeJSV5m_s+2KMBtL_u+10EeOR9yhAcS9v53Dtphfw@mail.gmail.com>
+	<CALFmRoFkjXrSi3MvRbQZmyLnV193+vY8BU=UarLSny+dL6eBsA@mail.gmail.com>
+	<CAEkH89P7TrUAYoavxzXZfjy8fpvk4B9_AH4tpUvaMXEM-y4USg@mail.gmail.com>
+	<CALFmRoHCuq9gnt=g9RP73_9cZkcCbOugMSfzi7nAFKdVj8MhRw@mail.gmail.com>
+	<CAEkH89OfgSZbv=2_mPZYPD+32vJwS9S8vLctRUOYFDrWtNVBsQ@mail.gmail.com>
+	<CABdZwt98wZ3NyauUs3dAkzhu+2+NpdBXi7s6OyKN+i3jgbi=ag@mail.gmail.com>
+Message-ID: <CAEkH89OryzOKYGqC4o5zKMqiJVbjE8irmASoMRhOy-OJByygiw@mail.gmail.com>
+
+On Mon, Mar 9, 2015 at 3:06 PM, Senthil Kumar <sekumar123 at gmail.com> wrote:
+> City means is it in Chennai? If so and the dates are not colluding with
+> Academia Activity, I am willing to Sponsor a College Student for this
+> Workshop and for any workshop on Python.
+
+
+Yes I mean Chennai only.
+
+Wow thats really nice of you :) I'll convey this too. Thanks!
+
+Regards,
+Shrayas
+
+From bewithsathish at gmail.com  Tue Mar 10 09:33:28 2015
+From: bewithsathish at gmail.com (Sathishkumar Duraisamy)
+Date: Tue, 10 Mar 2015 09:33:28 +0530
+Subject: [Ilugc] [ OFF Topic ] Pedalling Towards Greener India and Healthier
+	Life
+Message-ID: <CANJvwR8k0TXTB=ZatyiL8pwMORwr35_PWXSn2ATV1vxjJ3BZeg@mail.gmail.com>
+
+Hi all,
+
+ Bicycle is really healthier way of commute, but still it is missing... Can
+you answer few questions on this
+
+
+http://goo.gl/forms/W8DSCC9ywU <http://goo.gl/forms/W8DSCC9ywU][/url]>
+
+I would like to hear more from students and IT professionals. And I would
+like to create awareness on this. I will be sharing once report is ready.
+
+Sorry for posting in Linux user group. I will be using this for academic
+purpose only.
+
+-- 
+Regards,
+Sathishkumar D
+
+From shakthimaan at gmail.com  Tue Mar 10 09:47:28 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 10 Mar 2015 09:47:28 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt2_8LaXM6zo4UTqgK-21X9yeMRYvxW=GLC7+5ohzA5xrA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<54F48ABF.8070402@gmail.com>
+	<CABG-yt2_8LaXM6zo4UTqgK-21X9yeMRYvxW=GLC7+5ohzA5xrA@mail.gmail.com>
+Message-ID: <CABG-yt0Q56-=5_btQuHdXgZT3MmPUc2ZKdFWtzzmMYPBqLwqxQ@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Mar 3, 2015 at 11:30 AM, Shakthi Kannan
+<shakthimaan at gmail.com> wrote:
+| To maintain transparency, I would like each interested participant to
+| reply to this thread with the following info:
+\--
+
+Updated list of participants:
+
+* Bindu Upadhyay
+  Laptop
+  Ubuntu
+  Installation and configuration
+
+* Palanivel M
+  Laptop
+  Ubuntu
+  Installation
+
+* Shakthi Kannan
+  Laptop/Desktop
+  Ubuntu, NixOS
+  Installation, server configuration and testing
+
+We are now left with 22 seats for the installfest.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From citizenofgnu at gmail.com  Tue Mar 10 10:06:07 2015
+From: citizenofgnu at gmail.com (=?UTF-8?B?VGh5YWdhcmFqYW4g4K6k4K6/4K6v4K6+4K6V4K6w4K6+4K6c4K6p4K+N?=)
+Date: Tue, 10 Mar 2015 10:06:07 +0530
+Subject: [Ilugc] [ OFF Topic ] Pedalling Towards Greener India and
+ Healthier Life
+In-Reply-To: <CANJvwR8k0TXTB=ZatyiL8pwMORwr35_PWXSn2ATV1vxjJ3BZeg@mail.gmail.com>
+References: <CANJvwR8k0TXTB=ZatyiL8pwMORwr35_PWXSn2ATV1vxjJ3BZeg@mail.gmail.com>
+Message-ID: <CAEdr4A6SoHWfqCoc2=jRZFZqfM-jZ+rbLwExG8qFaS_vROceOg@mail.gmail.com>
+
+Hi,
+
+>>Sorry for posting in Linux user group. I will be using this for academic
+purpose only.
+
+I guess this post is intentional and it is a "TROLL", Kindly read the
+guidelines.
+
+
+regards,
+
+Thyagarajan Shanmugham
+
+From kinitrupti at yahoo.co.in  Tue Mar 10 13:26:41 2015
+From: kinitrupti at yahoo.co.in (trupti kini)
+Date: Tue, 10 Mar 2015 15:56:41 +0800
+Subject: [Ilugc] [OT] Inspiring story of my friend who fought Cancer
+In-Reply-To: <CAK2rq7zfeFpszUYt=ZxMgv=3Ok=igbDxaXJbxRtsHYHmenG-Pg@mail.gmail.com>
+Message-ID: <1425974201.91088.YahooMailBasic@web192202.mail.sg3.yahoo.com>
+
+
+
+
+--------------------------------------------
+On Thu, 19/2/15, Anand.R.Kris <anandrkris at gmail.com> wrote:
+
+ Subject: [Ilugc]  [OT] Inspiring story of my friend who fought Cancer
+ To: "ILUG-C" <ilugc at ae.iitm.ac.in>
+ Date: Thursday, 19 February, 2015, 8:22 PM
+ 
+ Folks,
+ 
+ Am taking the liberty to share a story 1 of my friend who
+ was
+ diagnosed with cancer and has *recovered* now. After all we
+ have had
+ lot of OT discussions earlier ;)
+ 
+ http://vaidehivc.blogspot.co.uk/2015/02/my-fight-against-dreadful-disease-cancer.html
+ 
+Awesome!!!
+
+From tshrinivasan at gmail.com  Tue Mar 10 17:11:01 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 10 Mar 2015 17:11:01 +0530
+Subject: [Ilugc] Fwd: [chennai.rb] [JOB] Rails developer for Ideas2IT
+In-Reply-To: <CALaL2a+L-3vE21agoq0keatMDc+YYJfA+n-DF+BMbgnQtnnQ5Q@mail.gmail.com>
+References: <CALaL2a+L-3vE21agoq0keatMDc+YYJfA+n-DF+BMbgnQtnnQ5Q@mail.gmail.com>
+Message-ID: <CAND2796a7acJ+yyPoPOs_gVoZ9SSQFZ9otvpKgV2z0ymuQq4kw@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Bhavani Raman <bhavaniraman5 at gmail.com>
+Date: 2015-03-10 17:07 GMT+05:30
+Subject: [chennai.rb] [JOB] Rails developer for Ideas2IT
+To: chennairb at googlegroups.com
+
+
+Hi All,
+
+We are aggressively recruiting kick ass Ruby/Rails developers to start
+immediately (within a month would be great). Freelancers are fine too. For
+the right candidate we will give up to twice the industry standard pay.
+
+Interested people please email your resume to career at ideas2it.com
+
+Regards
+Bhavani
+
+-- 
+
+---
+You received this message because you are subscribed to the Google Groups
+"chennai.rb" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to chennairb+unsubscribe at googlegroups.com.
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From nahalingam at gmail.com  Tue Mar 10 18:07:42 2015
+From: nahalingam at gmail.com (Nahalingam N. K)
+Date: Tue, 10 Mar 2015 18:07:42 +0530
+Subject: [Ilugc] [JOB] Looking for NMS/EMS developer
+Message-ID: <CAGP3wds8iCgNmsCHxcJHj7QDoNSX_VTfk6DBkO1RzwuMuuQ8Fg@mail.gmail.com>
+
+Hi,
+
+Please refer your friends who are looking for job change, if they have
+following experiences or knowledge
+
+1) NMS/EMS domain knowledge
+2) Have knowledge on network security features like AAA, Zones, Policies,
+NAT.
+3) Good knowledge in switching and routing.
+
+Looking for 3+ years of exp.
+Please share profiles to my mail id.
+
+-- 
+Regards,
+Nahalingam N. K.
+nahalingam at gmail.com
+
+From vinothtronics at gmail.com  Tue Mar 10 19:30:34 2015
+From: vinothtronics at gmail.com (Vinoth Marimuthu)
+Date: Tue, 10 Mar 2015 10:00:34 -0400
+Subject: [Ilugc] question regarding custom CMS design
+Message-ID: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+
+Hi,
+
+I have a requirement to create a custom Content Management Systems (CMS)
+for my client and I have question regarding how the images, audio and other
+media files are stored in CMS systems.  I have referred some open CMS db
+designs and they looks like stored in db.  If it is the case how does it is
+rendered? I am not clear on that part.
+
+If any one has expert knowledge on CMS please advice.
+
+Thank you
+
+Regards,
+Vinoth Marimuthu
+
+From manokaran at gmail.com  Tue Mar 10 20:22:00 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Tue, 10 Mar 2015 14:52:00 +0000
+Subject: [Ilugc] question regarding custom CMS design
+In-Reply-To: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+References: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+Message-ID: <CAKGmkL1D3-OxWOb=EMgUwcoBuC5k19Myqx3x2dH+6Rt6mFT8FQ@mail.gmail.com>
+
+After pulling the content from the db, you'll have to set the appropriate
+'Content-Type' http header before sending it to the browser. The browser
+handles the rendering based on this header.
+
+Cheers,
+mano
+
+On Tue, Mar 10, 2015 at 7:31 PM Vinoth Marimuthu <vinothtronics at gmail.com>
+wrote:
+
+> Hi,
+>
+> I have a requirement to create a custom Content Management Systems (CMS)
+> for my client and I have question regarding how the images, audio and other
+> media files are stored in CMS systems.  I have referred some open CMS db
+> designs and they looks like stored in db.  If it is the case how does it is
+> rendered? I am not clear on that part.
+>
+> If any one has expert knowledge on CMS please advice.
+>
+> Thank you
+>
+> Regards,
+> Vinoth Marimuthu
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From professionalgraam at gmail.com  Tue Mar 10 20:32:14 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Tue, 10 Mar 2015 20:32:14 +0530
+Subject: [Ilugc] Call for speakers - March Month Meet
+In-Reply-To: <54F49459.8070306@gmail.com>
+References: <54F49459.8070306@gmail.com>
+Message-ID: <54FF0776.2010703@gmail.com>
+
+
+On 02-03-2015 22:18, Gowtham Raam wrote:
+> Hi All,
+>
+> We can have our monthly meet on March 14(Saturday), You can share your
+> Experience,  Knowledge,  Passion, Suggestions, Projects, Ideas,
+> Contribution  related to Linux and open source free software or Community.
+>
+> Reply here if you are interested in giving a talk.
+>
+> Provide with the following details.
+> Topic
+> Description
+> Links
+> Duration
+> About Yourself
+
+Hi All,
+
+A gentle remainder for kind information.
+
+-- 
+With Regards,
+Gowtham Raam.J
+
+
+From tshrinivasan at gmail.com  Tue Mar 10 20:33:34 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 10 Mar 2015 20:33:34 +0530
+Subject: [Ilugc] question regarding custom CMS design
+In-Reply-To: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+References: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+Message-ID: <CAND2794ETRjJuri4n763R5CkVpuVQuW8HdX7CK61DEWJm_VhGg@mail.gmail.com>
+
+> I have a requirement to create a custom Content Management Systems (CMS)
+> for my client and I have question regarding how the images, audio and other
+> media files are stored in CMS systems.  I have referred some open CMS db
+> designs and they looks like stored in db.
+>
+
+Storing media files in Db is not preferred.
+Hash the name of the files and store in a folder where cms has access.
+In the Db, store the path, original name and hash.
+
+Shrini
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From baskar at linuxpert.in  Tue Mar 10 20:41:29 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Tue, 10 Mar 2015 20:41:29 +0530
+Subject: [Ilugc] [OT] 18,
+ 000+ NPTEL Video Lecture Titles from 460 Video courses as PDF
+ documents (A4 Size)
+Message-ID: <CACtiFJbE478FxLVPxVaqJ6tS4UGSsPSb6d7t4wgZDXkDgahFBQ@mail.gmail.com>
+
+Dear all,
+
+Marking the message as [OT], as many engineering students /
+professionals in this group will be highly benefited from this
+information.
+
+Also I have used a lot of *NIX PDF tools for creating them (text2pdf,
+pdfunite, pdfstamp, sed etc.)
+
+NPTEL - All-in-one Single PDF in 900+ Pages  (22 Engineering
+Disciplines, 460 Video Courses and 18,000+ Video Lecture Titles)
+https://linuxbaskar.files.wordpress.com/2015/03/all-nptel-disciplines.pdf
+
+Aerospace Engineering (18 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/aerospace-engineering.pdf
+
+Atmospheric Science (3 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/atmospheric-science.pdf
+
+Basic Courses (Semester 1 and 2) (21 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/basic-courses-semester-1-and-2.pdf
+
+Biotechnology (8 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/biotechnology.pdf
+
+Chemical Engineering (28 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/chemical-engineering.pdf
+
+Chemistry and Biochemistry (14 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/chemistry-and-biochemistry.pdf
+
+Civil Engineering (43 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/civil-engineering.pdf
+
+Computer Science and Engineering (50 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/computer-science-and-engineering.pdf
+
+Electrical Engineering (38 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/electrical-engineering.pdf
+
+Electronics and Communication Engineering (41 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/electronics-and-communication-engineering.pdf
+
+Engineering Design (3 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/engineering-design.pdf
+
+General (2 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/general.pdf
+
+Humanities and Social Sciences (22 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/humanities-and-social-sciences.pdf
+
+Management (21 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/management.pdf
+
+Mathematics (26 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/mathematics.pdf
+
+Mechanical Engineering (59 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/mechanical-engineering.pdf
+
+Metallurgy and Material Science (17 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/metallurgy-and-material-science.pdf
+
+Mining Engineering (1 Video Course)
+https://linuxbaskar.files.wordpress.com/2015/03/mining-engineering.pdf
+
+Nanotechnology (3 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/nanotechnology.pdf
+
+Ocean Engineering (20 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/ocean-engineering.pdf
+
+Physics (20 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/physics.pdf
+
+Textile Engineering (2 Video Courses)
+https://linuxbaskar.files.wordpress.com/2015/03/textile-engineering.pdf
+
+S. Baskar
+
+NPTEL: https://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From vinothtronics at gmail.com  Tue Mar 10 21:12:28 2015
+From: vinothtronics at gmail.com (Vinoth Marimuthu)
+Date: Tue, 10 Mar 2015 11:42:28 -0400
+Subject: [Ilugc] question regarding custom CMS design
+In-Reply-To: <CAND2794ETRjJuri4n763R5CkVpuVQuW8HdX7CK61DEWJm_VhGg@mail.gmail.com>
+References: <CAHoi8=hk95RqNc+JpT8Ljyxd87QDT0asGoAjup5j+rYEWzhC5A@mail.gmail.com>
+	<CAND2794ETRjJuri4n763R5CkVpuVQuW8HdX7CK61DEWJm_VhGg@mail.gmail.com>
+Message-ID: <CAHoi8=jBntsVdgXq9Cyrt4KENhQsGGDmdhYhwhKsrPeezYnCDg@mail.gmail.com>
+
+Great thank you Mano and Shrini,
+It looks like the idea of having it stored and hash its location seems to
+be better for my design  I will try that solution
+
+From oak445 at gmail.com  Tue Mar 10 22:00:25 2015
+From: oak445 at gmail.com (Milind Oak)
+Date: Tue, 10 Mar 2015 22:00:25 +0530
+Subject: [Ilugc] DeskFlag
+Message-ID: <54FF1C21.1010303@gmail.com>
+
+Hi,
+
+DeskFlag is a lightweight piece of software designed to display the 
+animated United States of America
+flag in the right corner of your screen...
+
+(google DeskFalg...)
+
+Can one write similar software for India (off-course in Linux)...
+
+I am a newbie so it will take time. Will definitely do it if no body 
+seems interested...
+
+---milind
+
+From oak445 at gmail.com  Tue Mar 10 23:27:10 2015
+From: oak445 at gmail.com (Milind Oak)
+Date: Tue, 10 Mar 2015 23:27:10 +0530
+Subject: [Ilugc] DeskFlag
+Message-ID: <54FF3076.8080704@gmail.com>
+
+Hi,
+
+DeskFlag is a lightweight piece of software designed to display the
+  animated United States of America flag in the right corner of
+  your screen...
+
+(google DeskFalg...)
+
+Can one write similar software for India (off-course in Linux)...
+
+I am a newbie so it will take time. Will definitely do it if no body 
+seems interested...
+
+---milind
+
+From tshrinivasan at gmail.com  Wed Mar 11 05:01:48 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 11 Mar 2015 05:01:48 +0530
+Subject: [Ilugc] Fwd: M. Sc. (CS-FOSS) : unique online course
+In-Reply-To: <CACqthKEXXACWGk1txL8AMj=wWfg-3ue+qMnuMFgVjanq9eUdDA@mail.gmail.com>
+References: <CACqthKEXXACWGk1txL8AMj=wWfg-3ue+qMnuMFgVjanq9eUdDA@mail.gmail.com>
+Message-ID: <CAND2796eQaA0fRxT_H21eCZ=_=UOXEBqJ9fWLVAx2wq8a9511g@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Srinivasan Sundararajan <srini.it at gmail.com>
+Date: 2015-03-09 20:11 GMT+05:30
+Subject: M. Sc. (CS-FOSS) : unique online course
+To:
+
+
+Dear sir / Madam,
+Admission is open for the 7th batch of M.Sc (CS-FOSS) Online Program
+offered by the Centre for Distance Education, Anna University,
+Chennai.
+Would appreciate if you could alert students and put the info in
+alumni and other mail groups.You can contat me for further details.
+Srinivasan
+srini.it at gmail.com
+94444302439
+
+
+The course, open to Undergraduates from Arts & Science, and
+Engineering Streams has the following attractive features:
+
+ Subjects in tune with regular M.Sc. (CS/IT) Programs: includes
+cutting-edge topics like PHP, Python, Cloud Computing, etc.
+?Industry-equivalent? learning environment with Faculty and Mentors
+from FOSS community, Academia and Industry
+Live online classes during weekends using slides, shared desktop and
+synchronized audio, with audio and chat screen interactions
+Virtual class room which the student can join from home / office, or
+wherever he/she is (even while traveling)
+Networking with Industry and FOSS Community experts
+
+The admission last date is 13th Mar. But some extension is likely.
+Interested candidates could contact
+
+AU-KBC Research Centre, MIT Campus of Anna University, Chromepet,
+Chennai 600 044
+
+Tel:  22232711      Email :  mscfoss at au-kbc.org, distanceprog at annauniv.edu
+
+URL : http://cde.annauniv.edu/MSCFOSS/  http://mscfoss.au-kbc.org.in/
+
+
+or the undersigned.
+
+Dr. S. Srinivasan [cell 9444302439 eMail: srini.it at gmail.com]
+
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From shakthimaan at gmail.com  Wed Mar 11 09:00:41 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 11 Mar 2015 09:00:41 +0530
+Subject: [Ilugc] Call for speakers - March Month Meet
+In-Reply-To: <54F49459.8070306@gmail.com>
+References: <54F49459.8070306@gmail.com>
+Message-ID: <CABG-yt36_hJX9h5_=S4RLPJwZGoH90LboOdQKBNFzxp7LgWZBg@mail.gmail.com>
+
+Hi,
+
+My session details:
+
+Topic: GNU Emacs + notmuch + offlineimap
+
+Description: Installation, configuration and demo of using e-mails
+with offlineimap, notmuch and GNU Emacs.
+
+Links: http://offlineimap.org/
+           http://notmuchmail.org/
+           http://www.gnu.org/software/emacs/
+
+Duration: 30 minutes
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Wed Mar 11 13:19:38 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 11 Mar 2015 13:19:38 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0Q56-=5_btQuHdXgZT3MmPUc2ZKdFWtzzmMYPBqLwqxQ@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<54F48ABF.8070402@gmail.com>
+	<CABG-yt2_8LaXM6zo4UTqgK-21X9yeMRYvxW=GLC7+5ohzA5xrA@mail.gmail.com>
+	<CABG-yt0Q56-=5_btQuHdXgZT3MmPUc2ZKdFWtzzmMYPBqLwqxQ@mail.gmail.com>
+Message-ID: <CABG-yt0gSqxirKi_-ZY5DTc0oV_cJhbx+tp5U7_p02__bw4YFA@mail.gmail.com>
+
+Hi,
+
+Updated participant list:
+
+  * Nivetha S
+    Laptop
+    Ubuntu
+    Installation and configuration
+
+We are now left with 21 seats for the Installfest.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tsprempandian at gmail.com  Thu Mar 12 09:49:44 2015
+From: tsprempandian at gmail.com (Premkumar S)
+Date: Wed, 11 Mar 2015 21:19:44 -0700
+Subject: [Ilugc] DeskFlag
+In-Reply-To: <54FF3076.8080704@gmail.com>
+References: <54FF3076.8080704@gmail.com>
+Message-ID: <CAEgSQytO3c0hRU1rG9g9Bk6FjCDowZezaO+zjQaV7imPBV9rng@mail.gmail.com>
+
+Hi ,
+
+
+Any one needed information for ERP -Enterprise Resource Planning
+
+
+
+
+
+
+
+
+
+
+On 10 March 2015 at 10:57, Milind Oak <oak445 at gmail.com> wrote:
+
+> Hi,
+>
+> DeskFlag is a lightweight piece of software designed to display the
+>   animated United States of America flag in the right corner of
+>   your screen...
+>
+> (google DeskFalg...)
+>
+> Can one write similar software for India (off-course in Linux)...
+>
+> I am a newbie so it will take time. Will definitely do it if no body
+> seems interested...
+>
+> ---milind
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+tsprempandian at india.com
+
+. . . . . .
+. . . . . . . . . .
+Save Every Drop Of Water
+. . . . . . . . . . . . . . .. .
+ Don't Lose Hope.
+(U never know what tomorrow will Bring.)
+
+From soorya.eduseva at gmail.com  Thu Mar 12 12:22:46 2015
+From: soorya.eduseva at gmail.com (EduSeva - Soorya)
+Date: Thu, 12 Mar 2015 12:22:46 +0530
+Subject: [Ilugc] Request participation for MOOC Research Study
+Message-ID: <CAO+6=i4Ni_5pcGYyFBGZy1QD84tst9iVyJZkeu5-Bf-wtjkMYg@mail.gmail.com>
+
+Dear All,
+
+Of the recent trends in education, Massive Online Open Courseware(MOOC) is
+certainly a very innovative offering. Some educationalists hail it as the
+next era of education and some postulate that it need not be. While a lot
+of research is founded on how educationalists produce these lectures and
+how students fare in these systems, it is important to know what the
+learners think!
+
+To address this, I have taken up the research on consumption drivers,
+interactions and perceptions of MOOCs towards my research at Amrita
+University.
+
+One component of my research is a consumer survey requesting responses from
+Indian Learners. In fact we are all life long learners, aren't we? :) Hence
+this survey is for every learning Indian.
+
+Participating in this survey would lead to a significant contribution to
+education by learning from learners how they perceive and use or not use
+MOOCs. This is the link to the survey:
+
+https://docs.google.com/forms/d/1c5vFi375W45BP7m3B6KHHuyLSMIFCfayg8Ujbf8enPo/viewform
+
+The Linux Users Group is undoubtedly a group of spirited people and
+learning is our passion. Hence your participation would be of best
+relevance. So please do not consider this as a random spam.
+
+Also please share this survey with anyone whose response you think, would
+be a key input.
+
+I am more than willing to share the resulting insights from this study to
+everyone. Please help me solicit pan-India responses for this research
+study.
+
+Sincerely,
+Soorya Narayan DG
+Amrita University
+soorya.eduseva at gmail.com
+
+From shakthimaan at gmail.com  Thu Mar 12 13:28:44 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 12 Mar 2015 13:28:44 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+Message-ID: <CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Feb 25, 2015 at 5:05 PM, Shakthi Kannan
+<shakthimaan at gmail.com> wrote:
+| Due to space constraints, around 25 participants can only be
+| accommodated. So, for this edition of the installfest, I would like to
+| announce it only for ILUG-C members.
+\--
+
+I am going to announce the Installfest to few other F/OSS communities
+in Chennai, since we can accommodate at least twenty-five people.
+
+I shall keep you all informed with the updated list.
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From professionalgraam at gmail.com  Thu Mar 12 20:25:37 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Thu, 12 Mar 2015 20:25:37 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_March_14_2014?=
+Message-ID: <5501A8E9.9030405@gmail.com>
+
+Indian Linux Users Group, Chennai [ ILUGC ] is spreading awareness on
+Free Open Source Software in Chennai since Jan 1998. We meet regularly
+on every month second Saturday with technical talks and discussions on
+various Free software.
+
+Check our website http://ilugc.in for further details.
+
+Join our mailing list at http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+
+We have our Meet on March 14, 2014
+
+Check the details below.
+
+ILUGC Monthly Meet :-
+
+Time : Sat March 14, 2014 (3.00 ? 6.00 PM)
+
+Venue: Classroom No 1,
+Aero Space Engineering,
+Near Gajendra Circle,
+IIT Madras.
+
+
+Link for the Map: http://bit.ly/iit-aero
+
+*Talk - 1. *
+
+Topic: GNU Emacs + notmuch + offlineimap
+
+Description: Installation, configuration and demo of using e-mails
+with offlineimap, notmuch and GNU Emacs.
+
+Links: http://offlineimap.org/
+           http://notmuchmail.org/
+           http://www.gnu.org/software/emacs/
+
+Duration: 30 minutes
+
+About Yourself: Shakthi Kannan is a Free Software enthusiast who blogs
+at shakthimaan.com.
+
+*Talk - 2. *
+
+Topic:  Introduction to Search Engine
+
+Description:Introduction to Elastic Search, Logstash and Kibana, Hands on with Elastic Search
+ 
+Duration: 45 Min
+
+About yourself: My name is harinath pursing final year in CSE in jaya engineering college.
+ 
+Duration: 45 min
+
+ *3*
+
+General group discussions on any queries, doubts, announcements, events 
+related to Free and Open Source Software and community.
+
+CDs/DVDs, Files, OS, Community related documents, Projects can be shared 
+on prior request.
+Announce this to all your friends, social network sites etc.
+
+All are welcome. Entry Free
+
+Note : Events and talks are not yet restricted. People can give talk or conduct event till ILUGC Meeting starts.
+
+Note to the Speakers : Please do not bring proprietary OS.
+
+
+Regards,
+T.Shrinivasan & Gowtham Raam.J
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+
+
+From tshrinivasan at gmail.com  Fri Mar 13 00:34:41 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 13 Mar 2015 00:34:41 +0530
+Subject: [Ilugc] Need python script to monitor growth of plants using
+	raspberry pi
+Message-ID: <CAND2796TX5Gf09QEWMTB_WFx5=8PMsENqidtxMJJdHNibUTymw@mail.gmail.com>
+
+Senthil ( erkumarv at gmail.com ) is looking for a  python script to
+monitor growth of plants using raspberry pi.
+
+Read his comment at
+http://ilugc.in/mailing-list/#comment-1900891297
+
+Contact him if anyone is interested.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From rkrajeshkumar87 at gmail.com  Fri Mar 13 10:37:04 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Fri, 13 Mar 2015 10:37:04 +0530
+Subject: [Ilugc] Vmware vs Xen in Cloud Setup
+Message-ID: <CAAKbJMJSTdaeHRzphus76uOcssF+UT7-cQLePC3549UinT-6dw@mail.gmail.com>
+
+Hi Guys,
+
+I have been using a lot of Exsi environment, due to the fact XEN < 6.5  h
+less performance intensive. But when i start reading the features of Xen
+6.5 i am really happy that they done a good homework.
+
+http://blogs.citrix.com/2015/01/13/xenserver-6-5/
+
+Please share your thoughts on this.
+
+--
+regards
+Rajesh Kumar R.K
+
+From bala150985 at gmail.com  Fri Mar 13 10:43:46 2015
+From: bala150985 at gmail.com (Balasubramaniam Natarajan)
+Date: Fri, 13 Mar 2015 10:43:46 +0530
+Subject: [Ilugc] Vmware vs Xen in Cloud Setup
+In-Reply-To: <CAAKbJMJSTdaeHRzphus76uOcssF+UT7-cQLePC3549UinT-6dw@mail.gmail.com>
+References: <CAAKbJMJSTdaeHRzphus76uOcssF+UT7-cQLePC3549UinT-6dw@mail.gmail.com>
+Message-ID: <CAFHFDAnmth5i6LAdHSqcHFAKATqQuJfiEKvEk4FdCDeZsPeojw@mail.gmail.com>
+
+For all XEN users out there hope you patch up on time.
+
+http://www.networkworld.com/article/2891831/cloud-computing/amazon-reboots-some-cloud-servers-for-a-xen-vulnerability-again.html
+
+
+I have been using a lot of Exsi environment, due to the fact XEN < 6.5  h
+> less performance intensive. But when i start reading the features of Xen
+> 6.5 i am really happy that they done a good homework.
+>
+> http://blogs.citrix.com/2015/01/13/xenserver-6-5/
+>
+>
+
+-- 
+Regards,
+Balasubramaniam Natarajan
+http://blog.etutorshop.com
+
+From rkumarr at gmail.com  Fri Mar 13 12:19:10 2015
+From: rkumarr at gmail.com (Kumar Ramasubramanian)
+Date: Fri, 13 Mar 2015 12:19:10 +0530
+Subject: [Ilugc] Experience Java Architects wanted
+Message-ID: <CAGFEYVRScbd+=RG8pf8r4VdwEizGzB+G-S23=asioUGCRq_HTw@mail.gmail.com>
+
+Dear All,
+  Ericsson Chennai is looking for 1~2 experience Java architects to work in
+.  Experience : 8~12 years
+
+  The person should have worked in
+    * Core Java and shall exposure to protocols
+    * Shall have excellent knowledge in Design Patterns and Design
+Principles.
+    * Expertize in OSGi, Distributed programming, Web Services (REST)
+    * Exposure to Agile ways of working
+    * should be pro-active
+
+  He/She will be seen as a Expert consultant for the development teams
+
+  Interested candidates can send resume to me.
+
+Regards
+R.Kumar
+
+From murthyraju at gmail.com  Fri Mar 13 12:22:36 2015
+From: murthyraju at gmail.com (Murthy Raju)
+Date: Fri, 13 Mar 2015 12:22:36 +0530
+Subject: [Ilugc] [OT][Commercial] Training Program for Engineering
+	Graduates/MCAs
+Message-ID: <CAC4BoN6zv9mBB-H1AmTaLqQo=d7JfANjsrSfPE-hHerD4w46FA@mail.gmail.com>
+
+Hi,
+
+I and a few friends working in various areas of technology are launching a
+3-month training program targeting Engineering graduates/MCAs passing out
+in 2015 to prepare them better for the job market in IT Sector.
+
+This program will include class room sessions , tonnes of hands-on tasks,
+group work and this is suitable for students living in and around Chennai.
+
+We intend to take a maximum of 30 students for this program and the
+selection will based on a screen test/interview.
+
+The course will cover the following areas:
+
+1. Technology - Based on Open Source products and Open Standards -
+Operating System(Linux), Networking, Programming(Python)
+2. Communication Skills
+3. Learning Skills
+
+The broad aim of the program is to equip the candidates better for finding
+a job in IT sector. All the sessions will be handled by resource persons
+who are working professionals in the respective area with long years of
+experience and a passion for teaching.
+
+Wide coverage of technology ensures that the student is better prepared for
+the bob market whether he is looking for a job in programming, support,
+systems administration etc. Emphasis on learning skills will ensure that
+the learning does not stop when the course ends.
+
+If you are interested, please mail me off-list for more details. Please do
+attach your resume with your mail.
+
+Please do note that this is a commercial training program.
+
+Thanks
+Murthy Raju
+http://in.linkedin.com/in/murthyraju
+
+From srinivaslnx at gmail.com  Sat Mar 14 00:00:39 2015
+From: srinivaslnx at gmail.com (srinivas m)
+Date: Sat, 14 Mar 2015 00:00:39 +0530
+Subject: [Ilugc] Configuration of Two Squid Proxy Servers with cluster.
+Message-ID: <CALyQ+FB-pSdRRKr=Bp+w25Su-g4wAUafk7ZcR5N3W7hbug8QSg@mail.gmail.com>
+
+Dear all,
+
+
+I need your suggestions for configuration of squid proxy servers with
+cluster setup and both cache should synchronize.
+
+Please help me for configuration of this.
+
+
+Thanks & Regards
+M.Srinivas
+
+From srinivaslnx at gmail.com  Sat Mar 14 01:17:02 2015
+From: srinivaslnx at gmail.com (srinivas m)
+Date: Sat, 14 Mar 2015 01:17:02 +0530
+Subject: [Ilugc] Configuration of Two Squid Proxy Servers with cluster.
+Message-ID: <CALyQ+FBSo8Kb8xcz+rKWpvZYZCvj_6dWOUiweP5va9P-NC3kLw@mail.gmail.com>
+
+Dear all,
+
+
+I need your suggestions for configuration of squid proxy servers with
+cluster setup and both cache should synchronize.
+
+Please suggest, it will be great help for me.
+
+
+Thanks & Regards
+M.Srinivas
+
+From shakthimaan at gmail.com  Sun Mar 15 11:29:31 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 15 Mar 2015 11:29:31 +0530
+Subject: [Ilugc] =?utf-8?q?ILUGC_Monthly_Meet_=E2=80=93_March_14_2014?=
+In-Reply-To: <5501A8E9.9030405@gmail.com>
+References: <5501A8E9.9030405@gmail.com>
+Message-ID: <CABG-yt0GKYvMkFrfJevzhD+2PVW38L0L4fbX_vJaq0aZw4-VGQ@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Mar 12, 2015 at 8:25 PM, Gowtham Raam
+<professionalgraam at gmail.com> wrote:
+| Topic: GNU Emacs + notmuch + offlineimap
+\--
+
+The list of links that I had mentioned in my talk are given below:
+
+  * http://offlineimap.org/
+
+  * https://wiki.archlinux.org/index.php/OfflineIMAP
+
+  * http://notmuchmail.org/
+
+  * http://msmtp.sourceforge.net/
+
+  * http://msmtp.sourceforge.net/doc/msmtprc.txt
+
+Regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Sun Mar 15 11:33:45 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 15 Mar 2015 11:33:45 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+Message-ID: <CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+
+Hi,
+
+Name : Vigneshkumar S
+Laptop : Dell Inspiron 14z-5423
+Linux : Linux Mint
+Purpose : Basic computing
+Other requirements : None
+
+We have 20 seats left for the Installfest.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Mon Mar 16 06:28:09 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 16 Mar 2015 06:28:09 +0530
+Subject: [Ilugc] Fwd: [Wikitech-l] Wikimedia REST content API is now
+	available in beta
+In-Reply-To: <CAMV0F-zR0otE5aFCPdAp+=BAZBK3vTu0ZKmFqpjVSMNrrup4gg@mail.gmail.com>
+References: <CAMV0F-zR0otE5aFCPdAp+=BAZBK3vTu0ZKmFqpjVSMNrrup4gg@mail.gmail.com>
+Message-ID: <CAND2794S0Oh4Z5TWe-Yuv63_3eZ2Ct_2-hNBeuRyGZydhU+85A@mail.gmail.com>
+
+Hope with the availability of REST api, we can build even more
+applications for wikipedia.
+
+
+---------- Forwarded message ----------
+From: Gabriel Wicke <gwicke at wikimedia.org>
+Date: 2015-03-11 3:53 GMT+05:30
+Subject: [Wikitech-l] Wikimedia REST content API is now available in beta
+To: Wikimedia developers <wikitech-l at lists.wikimedia.org>,
+wikitech-ambassdors at lists.wikimedia.org, Development and Operations
+Engineers <engineering at lists.wikimedia.org>,
+mediawiki-api at lists.wikimedia.org
+
+
+Hello all,
+
+I am happy to announce the beta release of the Wikimedia REST Content API
+at
+
+https://rest.wikimedia.org/
+
+Each domain has its own API documentation, which is auto-generated from
+Swagger API specs. For example, here is the link for the English Wikipedia:
+
+https://rest.wikimedia.org/en.wikipedia.org/v1/?doc
+
+At present, this API provides convenient and low-latency access to article
+HTML, page metadata and content conversions between HTML and wikitext.
+After extensive testing we are confident that these endpoints are ready for
+production use, but have marked them as 'unstable' until we have also
+validated this with production users. You can start writing applications
+that depend on it now, if you aren't afraid of possible minor changes
+before transitioning to 'stable' status. For the definition of the terms
+?stable? and ?unstable? see https://www.mediawiki.org/wiki/API_versioning .
+
+While general and not specific to VisualEditor, the selection of endpoints
+reflects this release's focus on speeding up VisualEditor. By storing
+private Parsoid round-trip information separately, we were able to reduce
+the HTML size by about 40%. This in turn reduces network transfer and
+processing times, which will make loading and saving with VisualEditor
+faster. We are also switching from a cache to actual storage, which will
+eliminate slow VisualEditor loads caused by cache misses. Other users of
+Parsoid HTML like Flow, HTML dumps, the OCG PDF renderer or Content
+translation will benefit similarly.
+
+But, we are not done yet. In the medium term, we plan to further reduce the
+HTML size by separating out all read-write metadata. This should allow us
+to use Parsoid HTML with its semantic markup
+<https://www.mediawiki.org/wiki/Parsoid/MediaWiki_DOM_spec> directly for
+both views and editing without increasing the HTML size over the current
+output. Combined with performance work in VisualEditor, this has the
+potential to make switching to visual editing instantaneous and free of any
+scrolling.
+
+We are also investigating a sub-page-level edit API for micro-contributions
+and very fast VisualEditor saves. HTML saves don't necessarily have to wait
+for the page to re-render from wikitext, which means that we can
+potentially make them faster than wikitext saves. For this to work we'll
+need to minimize network transfer and processing time on both client and
+server.
+
+More generally, this API is intended to be the beginning of a multi-purpose
+content API. Its implementation (RESTBase
+<http://www.mediawiki.org/wiki/RESTBase>) is driven by a declarative
+Swagger API specification, which helps to make it straightforward to extend
+the API with new entry points. The same API spec is also used to
+auto-generate the aforementioned sandbox environment, complete with handy
+"try it" buttons. So, please give it a try and let us know what you think!
+
+This API is currently unmetered; we recommend that users not perform more
+than 200 requests per second and may implement limitations if necessary.
+
+I also want to use this opportunity to thank all contributors who made this
+possible:
+
+- Marko Obrovac, Eric Evans, James Douglas and Hardik Juneja on the
+Services team worked hard to build RESTBase, and to make it as extensible
+and clean as it is now.
+
+- Filippo Giunchedi, Alex Kosiaris, Andrew Otto, Faidon Liambotis, Rob
+Halsell and Mark Bergsma helped to procure and set up the Cassandra storage
+cluster backing this API.
+
+- The Parsoid team with Subbu Sastry, Arlo Breault, C. Scott Ananian and
+Marc Ordinas i Llopis is solving the extremely difficult task of converting
+between wikitext and HTML, and built a new API that lets us retrieve and
+pass in metadata separately.
+
+- On the MediaWiki core team, Brad Jorsch quickly created a minimal
+authorization API that will let us support private wikis, and Aaron Schulz,
+Alex Monk and Ori Livneh built and extended the VirtualRestService that
+lets VisualEditor and MediaWiki in general easily access external services.
+
+We welcome your feedback here: https://www.mediawiki.org/wiki/Talk:RESTBase
+- and in Phabricator
+<https://phabricator.wikimedia.org/maniphest/task/create/?projects=RESTBase&title=Feedback:>
+.
+
+Sincerely --
+
+Gabriel Wicke
+
+Principal Software Engineer, Wikimedia Foundation
+_______________________________________________
+Wikitech-l mailing list
+Wikitech-l at lists.wikimedia.org
+https://lists.wikimedia.org/mailman/listinfo/wikitech-l
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Mon Mar 16 06:34:45 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Mon, 16 Mar 2015 06:34:45 +0530
+Subject: [Ilugc] Web application security audit
+Message-ID: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+
+Friends,
+
+I am trying to audit the web application we create.
+
+Exploring the tools mentioned in
+http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-scanners/
+
+They work good for the application with no login or with HTTP authentication.
+But, our web applications have custom login form.
+
+How to audit the web applications behind the login form?
+
+Please share the info about the tools you use.
+
+Thanks.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From sureshkumarr.s at gmail.com  Mon Mar 16 09:34:34 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Mon, 16 Mar 2015 09:34:34 +0530
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+Message-ID: <CAJLBBzx1y1gWpcwP=MCiso_qr9042fjYStoa0Fqp5g6L252cgQ@mail.gmail.com>
+
+Hi Shrini,
+
+> I am trying to audit the web application we create.
+
+Follow this guide
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+
+
+thanks
+suresh.
+
+From manokaran at gmail.com  Mon Mar 16 09:38:08 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Mon, 16 Mar 2015 04:08:08 +0000
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+Message-ID: <CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+
+One approach would be to make a list of all server requests (ajax and
+non-ajax) that are accessible only to authenticated users and then access
+them without being logged in using the browser console or curl. Sometimes
+the frontend scripts could be the only layer that is enforcing some
+(pseudo) control while the backend could be leaking information. The above
+can catch such gaps.
+
+Cheers,
+mano
+
+On Mon, Mar 16, 2015 at 6:36 AM Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> Friends,
+>
+> I am trying to audit the web application we create.
+>
+> Exploring the tools mentioned in
+> http://resources.infosecinstitute.com/14-popular-web-application-
+> vulnerability-scanners/
+>
+> They work good for the application with no login or with HTTP
+> authentication.
+> But, our web applications have custom login form.
+>
+> How to audit the web applications behind the login form?
+>
+> Please share the info about the tools you use.
+>
+> Thanks.
+>
+>
+>
+> --
+> Regards,
+> T.Shrinivasan
+>
+>
+> My Life with GNU/Linux : http://goinggnu.wordpress.com
+> Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+>
+> Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From hafizul.azeez at gmail.com  Mon Mar 16 11:19:00 2015
+From: hafizul.azeez at gmail.com (hafizul azeez)
+Date: Mon, 16 Mar 2015 11:19:00 +0530
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+	<CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+Message-ID: <CAAAE1MpSszZdhGzO96zv3CSeK9cDYEMZXURC=fmAMFGiOnLsJQ@mail.gmail.com>
+
+Shrini,
+
+Your requirement will be satisfied by a dynamic analyzer - try HP
+webinspect. It's not open source though.
+You can download an evaluation version - for 14 days i guess and try
+running it. You give the login credentials in the tool and the tool will
+crawl the web pages and will try to exploit the application using known
+hacking techniques. It will basically check for owasp top ten
+vulnerabilities and the likes.
+
+Hope it helps!
+
+Thanks
+Azeez
+
+
+On 16 March 2015 at 09:38, Manokaran K <manokaran at gmail.com> wrote:
+
+> One approach would be to make a list of all server requests (ajax and
+> non-ajax) that are accessible only to authenticated users and then access
+> them without being logged in using the browser console or curl. Sometimes
+> the frontend scripts could be the only layer that is enforcing some
+> (pseudo) control while the backend could be leaking information. The above
+> can catch such gaps.
+>
+> Cheers,
+> mano
+>
+> On Mon, Mar 16, 2015 at 6:36 AM Shrinivasan T <tshrinivasan at gmail.com>
+> wrote:
+>
+> > Friends,
+> >
+> > I am trying to audit the web application we create.
+> >
+> > Exploring the tools mentioned in
+> > http://resources.infosecinstitute.com/14-popular-web-application-
+> > vulnerability-scanners/
+> >
+> > They work good for the application with no login or with HTTP
+> > authentication.
+> > But, our web applications have custom login form.
+> >
+> > How to audit the web applications behind the login form?
+> >
+> > Please share the info about the tools you use.
+> >
+> > Thanks.
+> >
+> >
+> >
+> > --
+> > Regards,
+> > T.Shrinivasan
+> >
+> >
+> > My Life with GNU/Linux : http://goinggnu.wordpress.com
+> > Free E-Magazine on Free Open Source Software in Tamil :
+> http://kaniyam.com
+> >
+> > Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From antonyrl at gmail.com  Mon Mar 16 12:30:38 2015
+From: antonyrl at gmail.com (Antony Lawrence)
+Date: Mon, 16 Mar 2015 12:30:38 +0530
+Subject: [Ilugc] Knowledge on Ubuntu
+Message-ID: <CAEigH13yT3BzPAbooWX9xtX7fwoTSK7HgR1xGJwv4G+PU0fbCw@mail.gmail.com>
+
+Hi,
+Recently I have shifted to using Linux on my laptop from windows. Two days
+back I have formatted windows and got Ubuntu 13.04 installed. Now I have
+plenty of questions. I need some leads to go on finding the answers. Till
+now I could not even add the "flash" plugin. Can you guide me through the
+basics. Maybe suggesting a book or something.  Something to go on. :)
+
+Then meanwhile I did some R&D on my own which failed and my laptop is
+locked. It is not accepting my previous password. It would be helpful if
+anybody is available for support.
+Thanks
+Antony
+9176047044
+
+From shakthimaan at gmail.com  Mon Mar 16 13:15:57 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 16 Mar 2015 13:15:57 +0530
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CAAAE1MpSszZdhGzO96zv3CSeK9cDYEMZXURC=fmAMFGiOnLsJQ@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+	<CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+	<CAAAE1MpSszZdhGzO96zv3CSeK9cDYEMZXURC=fmAMFGiOnLsJQ@mail.gmail.com>
+Message-ID: <CABG-yt2nP_Y4wipaX9vdemSsH9mp2HMTq-NOCFwcrYuLuXRa0Q@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Mar 16, 2015 at 11:19 AM, hafizul azeez
+<hafizul.azeez at gmail.com> wrote:
+| Your requirement will be satisfied by a dynamic analyzer - try HP
+| webinspect. It's not open source though.
+\--
+
+This mailing list is for discussions on free and open source software.
+Please stick to these topics only.
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From igauravsehrawat at gmail.com  Mon Mar 16 13:51:12 2015
+From: igauravsehrawat at gmail.com (Gaurav Sehrawat)
+Date: Mon, 16 Mar 2015 13:51:12 +0530
+Subject: [Ilugc] Knowledge on Ubuntu
+In-Reply-To: <CAEigH13yT3BzPAbooWX9xtX7fwoTSK7HgR1xGJwv4G+PU0fbCw@mail.gmail.com>
+References: <CAEigH13yT3BzPAbooWX9xtX7fwoTSK7HgR1xGJwv4G+PU0fbCw@mail.gmail.com>
+Message-ID: <CAC2qNN4+zBx2knRq7-4dXSH3HLw+jp2BL9EeBerThfhY2D9ipw@mail.gmail.com>
+
+Hi there,
+Ubuntu 13.04 doesn't have long support(two year support from 2013) . I
+recommend installing either 12.04 or 14.04 having 5 year support.
+
+Since your distribution isn't accepting your password. Quick resort is to
+re-install by making a bootable usb. You can use guest login for any
+troubleshooting also on ubuntu(No password needed).
+
+Cheers
+
+On Mon, Mar 16, 2015 at 12:30 PM, Antony Lawrence <antonyrl at gmail.com>
+wrote:
+
+> Hi,
+> Recently I have shifted to using Linux on my laptop from windows. Two days
+> back I have formatted windows and got Ubuntu 13.04 installed. Now I have
+> plenty of questions. I need some leads to go on finding the answers. Till
+> now I could not even add the "flash" plugin. Can you guide me through the
+> basics. Maybe suggesting a book or something.  Something to go on. :)
+>
+> Then meanwhile I did some R&D on my own which failed and my laptop is
+> locked. It is not accepting my previous password. It would be helpful if
+> anybody is available for support.
+> Thanks
+> Antony
+> 9176047044
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From hafizul.azeez at gmail.com  Mon Mar 16 15:50:42 2015
+From: hafizul.azeez at gmail.com (hafizul azeez)
+Date: Mon, 16 Mar 2015 15:50:42 +0530
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CABG-yt2nP_Y4wipaX9vdemSsH9mp2HMTq-NOCFwcrYuLuXRa0Q@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+	<CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+	<CAAAE1MpSszZdhGzO96zv3CSeK9cDYEMZXURC=fmAMFGiOnLsJQ@mail.gmail.com>
+	<CABG-yt2nP_Y4wipaX9vdemSsH9mp2HMTq-NOCFwcrYuLuXRa0Q@mail.gmail.com>
+Message-ID: <CAAAE1Mrv4RJ94kwghyxQDhJjpWzDii8mQrmTwK7tQFX9tW4mLw@mail.gmail.com>
+
+ok - point noted.
+
+On 16 March 2015 at 13:15, Shakthi Kannan <shakthimaan at gmail.com> wrote:
+
+> Hi,
+>
+> --- On Mon, Mar 16, 2015 at 11:19 AM, hafizul azeez
+> <hafizul.azeez at gmail.com> wrote:
+> | Your requirement will be satisfied by a dynamic analyzer - try HP
+> | webinspect. It's not open source though.
+> \--
+>
+> This mailing list is for discussions on free and open source software.
+> Please stick to these topics only.
+>
+> Thanks!
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From ajeeshbkannan at gmail.com  Mon Mar 16 16:50:11 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Mon, 16 Mar 2015 16:50:11 +0530
+Subject: [Ilugc] packer doc and tacking images
+Message-ID: <CA+ark-oR_bKwX+EuP0JxVXqjG9p+JhS5wo6fTygZ+ijeLdXw9w@mail.gmail.com>
+
+Hi,
+
+I have installed packer on my Ubuntu machine.
+
+/usr/local/packer# packer version
+Packer v0.7.5
+
+Now how can i create image for my CentOS cPanel server. Is that possible ?
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From rkrajeshkumar87 at gmail.com  Mon Mar 16 19:12:38 2015
+From: rkrajeshkumar87 at gmail.com (Rajesh kumar)
+Date: Mon, 16 Mar 2015 19:12:38 +0530
+Subject: [Ilugc] Suggetion on Thin Client
+Message-ID: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+
+Hi All,
+
+One of my client is planning for setup a cost effective contact center. He
+is planning for 40 Seats. I am suggesting him to go for thin client.
+
+HP t200 seems to be viable. But most of the features are only for windows.
+
+Is there any Thin Client available with linux support.
+
+
+--
+regards
+Rajesh Kumar R.K
+
+From vik at hamaralinux.org  Mon Mar 16 20:31:13 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Mon, 16 Mar 2015 15:01:13 +0000
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>
+	<CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+Message-ID: <5506F039.7020602@hamaralinux.org>
+
+On 16/03/15 04:08, Manokaran K wrote:
+> They work good for the application with no login or with HTTP
+> >authentication.
+> >But, our web applications have custom login form.
+
+You shouldn?t have problems with either webscarab or w3af, both of these 
+AFAIK support
+you executing logins over http.
+
+webscarab or any http proxy will grab the relevant information for you - 
+you can then manipulate those values in order
+to pen test your application.
+http://travisaltman.com/webscarab-tutorial-part-1-learning-the-basics/
+
+The proprietary tools make this step a bit more point and click, but 
+essentially do the same thing.
+
+HTH
+
+
+Vik
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From vik at hamaralinux.org  Mon Mar 16 20:51:35 2015
+From: vik at hamaralinux.org (Vikas Tara)
+Date: Mon, 16 Mar 2015 15:21:35 +0000
+Subject: [Ilugc] Web application security audit
+In-Reply-To: <5506F039.7020602@hamaralinux.org>
+References: <CAND27977-WWzuL3MtohMcS+quBUkDF+vkC4rheuyUwhfKA0GqQ@mail.gmail.com>	<CAKGmkL1TbDoRSpyn2th+gjji9-jQWLbbdvmjD7N-aso4+SP0WA@mail.gmail.com>
+	<5506F039.7020602@hamaralinux.org>
+Message-ID: <5506F4FF.1080303@hamaralinux.org>
+
+On 16/03/15 15:01, Vikas Tara wrote:
+> On 16/03/15 04:08, Manokaran K wrote:
+>> They work good for the application with no login or with HTTP
+>>> authentication.
+>>> But, our web applications have custom login form.
+> You shouldn?t have problems with either webscarab or w3af, both of these
+> AFAIK support
+> you executing logins over http.
+>
+> webscarab or any http proxy will grab the relevant information for you -
+> you can then manipulate those values in order
+> to pen test your application.
+> http://travisaltman.com/webscarab-tutorial-part-1-learning-the-basics/
+>
+> The proprietary tools make this step a bit more point and click, but
+> essentially do the same thing.
+>
+Although this looks interesting and suggested it can perform dynamic scans
+http://www.arachni-scanner.com/
+
+-- 
+Founder - Hamara Linux
+www.hamaralinux.org
+www.twitter.com/hamaralinux
+
+
+From raamanp at gmail.com  Tue Mar 17 06:04:32 2015
+From: raamanp at gmail.com (Raman Pandarinathan)
+Date: Tue, 17 Mar 2015 06:04:32 +0530
+Subject: [Ilugc] Suggetion on Thin Client
+In-Reply-To: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+References: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+Message-ID: <CAFf706wqo3NgW+za+QDMQC6jo4=AaHYypfm_2iamZ-2ExqNBAQ@mail.gmail.com>
+
+On Mon, Mar 16, 2015 at 7:12 PM, Rajesh kumar <rkrajeshkumar87 at gmail.com> wrote:
+> Hi All,
+>
+> One of my client is planning for setup a cost effective contact center. He
+> is planning for 40 Seats. I am suggesting him to go for thin client.
+>
+> HP t200 seems to be viable. But most of the features are only for windows.
+>
+> Is there any Thin Client available with linux support.
+>
+Try HCL, they have thin clients, we bought some 5 years ago. It comes
+with pre-installed linux on IDE flash, though
+ I netboot these machine to ltsp server.
+
+
+Raman.P
+blog:http://ramanchennai.wordpress.com/
+
+From shakthimaan at gmail.com  Tue Mar 17 14:49:35 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Tue, 17 Mar 2015 14:49:35 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+Message-ID: <CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+
+Hi,
+
+Manufacturing System Insights have agreed to sponsor food for the
+Installfest to be held on Saturday, March 28, 2014 at their office
+premises.
+
+If you are interested in participating, please reply before Friday,
+March 20, 2015, 2359 IST.
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From stpmds at gmail.com  Tue Mar 17 17:24:43 2015
+From: stpmds at gmail.com (m-murali)
+Date: Tue, 17 Mar 2015 17:24:43 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+Message-ID: <000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+
+wishing the project all success. precise location please.
+is it here:  
+
+System Insights, Inc
+506, Velachery Main Road
+Tambaram East
+Chennai 600059, India
+
+if yes how to reach it ? any landmarks?
+
+regards.
+m.murali
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On
+Behalf Of Shakthi Kannan
+Sent: Tuesday, March 17, 2015 2:50 PM
+To: ILUG-C
+Subject: Re: [Ilugc] Discussion Regarding INSTALL FEST
+
+Hi,
+
+Manufacturing System Insights have agreed to sponsor food for the
+Installfest to be held on Saturday, March 28, 2014 at their office premises.
+
+If you are interested in participating, please reply before Friday, March
+20, 2015, 2359 IST.
+
+Thanks!
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+From shrayasr at gmail.com  Tue Mar 17 17:35:44 2015
+From: shrayasr at gmail.com (Shrayas rajagopal)
+Date: Tue, 17 Mar 2015 17:35:44 +0530
+Subject: [Ilugc] [OT] Speaker wanted for MetaRefresh run-up event in Chennai
+	on March 21st
+Message-ID: <CAEkH89MSQCjyZ9Nu-T3hbMP=A6rUbjvXeSARSg+WmukrycZS2Q@mail.gmail.com>
+
+Hi All,
+
+Tony from HasGeek[1] reached out to me looking for people to speak at
+their upcoming run-up event[2] for their MetaRefresh[3] conference.
+
+Here is an excerpt from the run-up event page:
+
+"Now a days we are faced with the challenge of developing and
+maintaining websites handling data that changes with time. What are
+the best practices, tools and frameworks at this job?
+
+The focus of the meet will be to explore the aspects of designing
+mobile websites with data that invariably changes over time."
+
+Interested people can connect with tony at tony at hasgeek.com to carry
+things forward.
+
+Best Regards,
+Shrayas
+
+---
+Footnotes:
+[1]: https://hasgeek.com/
+[2]: https://metarefresh.talkfunnel.com/2015-chennai/
+[3]: https://metarefresh.in/2015/
+
+From tshrinivasan at gmail.com  Wed Mar 18 02:36:34 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 18 Mar 2015 02:36:34 +0530
+Subject: [Ilugc] Fwd: [chennai.rb] [ANN] March Meetup
+In-Reply-To: <4a6249a9-1b96-4e25-81ba-a24fefb4c60a@googlegroups.com>
+References: <4a6249a9-1b96-4e25-81ba-a24fefb4c60a@googlegroups.com>
+Message-ID: <CAND2797EnSjoeDfh+C0rp_L05jURrjPLgpBkPOgy4DpqRPiBLg@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: *Steve Robinson* <steve.robinson at spritle.com>
+Date: Tuesday, March 17, 2015
+Subject: [chennai.rb] [ANN] March Meetup
+To: chennairb at googlegroups.com
+
+
+Hello Everyone!!
+
+We're having the March meetup on the last Saturday of this month which is
+the 28th. Spritle Software <http://spritle.com> is hosting it this time
+around.
+
+*Agenda:*
+
+3:00 - 4:00 - "Integration Tests using Capybara & RSpec" - Shanthi Arun
+4:00 - 4:30 - Networking & Snacks
+4:30 - 5:00 - Talk 2 (TBA)
+5:00 - 6:00 - "Ruby on Docker
+<https://gist.github.com/steverob/aa29f593fa8ba1bf51fc>" - Shrikrishna
+Holla
+
+Please RSVP here - http://www.meetup.com/chennai-ruby/events/221081316/ so
+the hosts can make necessary arrangements :)
+
+*Location:*
+Spritle Software, No: 1/A 2nd Floor, MG Chakrapani St., Saligramam,Chennai
+*Map: *https://www.google.com/maps?f=q&hl=en&q=13.047147,80.198200
+
+During the last meetup people asked for some good discussion time. We have
+allotted half an hour for it - possible can extend to one hour with some
+informal items if no one proposes another talk :)
+
+Its gonna be exciting and hope y'all can make it!
+
+Thanks people!
+
+--
+Steve Robinson
+
+-- 
+
+---
+You received this message because you are subscribed to the Google Groups
+"chennai.rb" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to chennairb+unsubscribe at googlegroups.com
+<javascript:_e(%7B%7D,'cvml','chennairb%2Bunsubscribe at googlegroups.com');>.
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Wed Mar 18 06:29:02 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 18 Mar 2015 06:29:02 +0530
+Subject: [Ilugc] Fwd: New qml testing tutorials!
+In-Reply-To: <5508CD83.5000704@canonical.com>
+References: <5508CD83.5000704@canonical.com>
+Message-ID: <CAND2795Xj7PXaTAC1nHxyyjhLJMmKObjhh2kQKGQ4Cc4nQjTnA@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Nicholas Skaggs <nicholas.skaggs at canonical.com>
+Date: 2015-03-18 6:27 GMT+05:30
+Subject: New qml testing tutorials!
+To: "ubuntu-quality at lists.ubuntu.com"
+<ubuntu-quality at lists.ubuntu.com>, Ubuntu CoreApps
+<ubuntu-touch-coreapps at lists.launchpad.net>
+
+
+Checkout the complete testing story for qml apps now on developer.ubuntu.com!
+
+https://developer.ubuntu.com/en/apps/quality/
+
+The example application has been covered with best practices for test
+writing, and includes guides to help you write unit and integration
+tests in qml for your application. If you are groaning at the thought
+of testing, think again. Unit tests especially are amazingly easy to
+write -- you likely already know qml.
+
+Let me know your thoughts and if there's other quality related content
+you'd like to see.
+
+Nicholas
+
+--
+Ubuntu-quality mailing list
+Ubuntu-quality at lists.ubuntu.com
+Modify settings or unsubscribe at:
+https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Wed Mar 18 08:22:54 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Wed, 18 Mar 2015 08:22:54 +0530
+Subject: [Ilugc] Move all web applications from one server to another server
+Message-ID: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+
+Friends,
+
+I have a AWS instance where I have installed 20 rails applications.
+It took much time to setup by installing various dependencies.
+Base os is ubuntu 14.04
+
+Now, we need the same setup in a physical server.
+we will need to setup multiple servers with the same applications.
+
+Is there any way to bundle the entire setup from AWS and deploy in
+the multiple physical servers with less hazzle?
+
+Share your thoughts.
+
+Thanks.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From shakthimaan at gmail.com  Wed Mar 18 08:56:27 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 18 Mar 2015 08:56:27 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+Message-ID: <CABG-yt1RyjyVTnC4qodH0Kbvk=y2askOWiDznMkNFpQqu6K81g@mail.gmail.com>
+
+Hi,
+
+--- On Tue, Mar 17, 2015 at 5:24 PM, m-murali <stpmds at gmail.com> wrote:
+| precise location please.
+| is it here:
+|
+| System Insights, Inc
+| 506, Velachery Main Road
+| Tambaram East
+| Chennai 600059, India
+|
+| if yes how to reach it ? any landmarks?
+\--
+
+Yes. It is next to Sankara Vidyala school bus stop, and opposite to
+Christ King convent bus stop, Tambaram East.
+
+If you are coming from Velachery, you can use buses A51, 5A or V51
+(this is a longer route), and get down at Christ King convent bus
+stop, and walk across the road.
+
+If you are coming from Mount Road towards Tambaram, you need to take
+any bus from Tambaram East that goes through Velachery main road, and
+the Sankara Vidyala school bus stop is the second stop.
+
+If you wish to attend please reply with the following info before
+Friday, March 20, 2015 2359 IST:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+There were few ILUG-C banners that were made many years ago. For example:
+
+  http://www.shakthimaan.com/Mambo/gallery/album35?page=6
+
+  http://www.shakthimaan.com/Mambo/gallery/album35/54_banners_outside
+
+May I know who is in possession of the same? I would like to borrow
+them, use them for this event and return it back.
+
+Please let me know,
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From stpmds at gmail.com  Wed Mar 18 09:21:58 2015
+From: stpmds at gmail.com (m-murali)
+Date: Wed, 18 Mar 2015 09:21:58 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt1RyjyVTnC4qodH0Kbvk=y2askOWiDznMkNFpQqu6K81g@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+	<CABG-yt1RyjyVTnC4qodH0Kbvk=y2askOWiDznMkNFpQqu6K81g@mail.gmail.com>
+Message-ID: <000301d0612e$e443c1a0$accb44e0$@gmail.com>
+
+dear mr.sakthi.
+thank you for the confirmation, it is very clear.
+as required I am submitting information and allow me attend the install fest
+please. 
+
+ * Full name:   M. MURALI
+  * What hardware do you plan to bring (laptop/PC and accessories)? :
+NOTHING - JUST INSTERESTED IN WATCHING
+  * What GNU/Linux distribution do you need?:  WOULD LOVE TO SEE
+INSTALLATION AND UPDATION OF MINT & CENT OS 7
+  * What you intend to work on?: WISH TO TRY OUT ALL DISTROS.
+  * Anything else you require during the installfest?:  NOTHING - ONLY
+PERMISSION TO ATTEND AND LEARN.
+
+regards.
+m.murali
+
+-----Original Message-----
+From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On
+Behalf Of Shakthi Kannan
+Sent: Wednesday, March 18, 2015 8:56 AM
+To: ILUG-C
+Subject: Re: [Ilugc] Discussion Regarding INSTALL FEST
+
+Hi,
+
+--- On Tue, Mar 17, 2015 at 5:24 PM, m-murali <stpmds at gmail.com> wrote:
+| precise location please.
+| is it here:
+|
+| System Insights, Inc
+| 506, Velachery Main Road
+| Tambaram East
+| Chennai 600059, India
+|
+| if yes how to reach it ? any landmarks?
+\--
+
+Yes. It is next to Sankara Vidyala school bus stop, and opposite to Christ
+King convent bus stop, Tambaram East.
+
+If you are coming from Velachery, you can use buses A51, 5A or V51 (this is
+a longer route), and get down at Christ King convent bus stop, and walk
+across the road.
+
+If you are coming from Mount Road towards Tambaram, you need to take any bus
+from Tambaram East that goes through Velachery main road, and the Sankara
+Vidyala school bus stop is the second stop.
+
+If you wish to attend please reply with the following info before Friday,
+March 20, 2015 2359 IST:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+There were few ILUG-C banners that were made many years ago. For example:
+
+  http://www.shakthimaan.com/Mambo/gallery/album35?page=6
+
+  http://www.shakthimaan.com/Mambo/gallery/album35/54_banners_outside
+
+May I know who is in possession of the same? I would like to borrow them,
+use them for this event and return it back.
+
+Please let me know,
+
+Thanks!
+
+SK
+
+--
+Shakthi Kannan
+http://www.shakthimaan.com
+_______________________________________________
+ILUGC Mailing List:
+http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+ILUGC Mailing List Guidelines:
+http://ilugc.in/mailinglist-guidelines
+
+
+From vijai.ganapathy at gmail.com  Wed Mar 18 10:12:28 2015
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Wed, 18 Mar 2015 10:12:28 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <000301d0612e$e443c1a0$accb44e0$@gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+	<CABG-yt1RyjyVTnC4qodH0Kbvk=y2askOWiDznMkNFpQqu6K81g@mail.gmail.com>
+	<000301d0612e$e443c1a0$accb44e0$@gmail.com>
+Message-ID: <CACahg4GCQiq9wEuzJEwkRJbo=Cv8HfmeOktknerHTp6X5Xqc+A@mail.gmail.com>
+
+Good luck guys. if possible I will try to be in .
+
+On Wed, Mar 18, 2015 at 9:21 AM, m-murali <stpmds at gmail.com> wrote:
+
+> dear mr.sakthi.
+> thank you for the confirmation, it is very clear.
+> as required I am submitting information and allow me attend the install
+> fest
+> please.
+>
+>  * Full name:   M. MURALI
+>   * What hardware do you plan to bring (laptop/PC and accessories)? :
+> NOTHING - JUST INSTERESTED IN WATCHING
+>   * What GNU/Linux distribution do you need?:  WOULD LOVE TO SEE
+> INSTALLATION AND UPDATION OF MINT & CENT OS 7
+>   * What you intend to work on?: WISH TO TRY OUT ALL DISTROS.
+>   * Anything else you require during the installfest?:  NOTHING - ONLY
+> PERMISSION TO ATTEND AND LEARN.
+>
+> regards.
+> m.murali
+>
+> -----Original Message-----
+> From: ilugc-bounces at ae.iitm.ac.in [mailto:ilugc-bounces at ae.iitm.ac.in] On
+> Behalf Of Shakthi Kannan
+> Sent: Wednesday, March 18, 2015 8:56 AM
+> To: ILUG-C
+> Subject: Re: [Ilugc] Discussion Regarding INSTALL FEST
+>
+> Hi,
+>
+> --- On Tue, Mar 17, 2015 at 5:24 PM, m-murali <stpmds at gmail.com> wrote:
+> | precise location please.
+> | is it here:
+> |
+> | System Insights, Inc
+> | 506, Velachery Main Road
+> | Tambaram East
+> | Chennai 600059, India
+> |
+> | if yes how to reach it ? any landmarks?
+> \--
+>
+> Yes. It is next to Sankara Vidyala school bus stop, and opposite to Christ
+> King convent bus stop, Tambaram East.
+>
+> If you are coming from Velachery, you can use buses A51, 5A or V51 (this is
+> a longer route), and get down at Christ King convent bus stop, and walk
+> across the road.
+>
+> If you are coming from Mount Road towards Tambaram, you need to take any
+> bus
+> from Tambaram East that goes through Velachery main road, and the Sankara
+> Vidyala school bus stop is the second stop.
+>
+> If you wish to attend please reply with the following info before Friday,
+> March 20, 2015 2359 IST:
+>
+>   * Full name
+>   * What hardware do you plan to bring (laptop/PC and accessories)?
+>   * What GNU/Linux distribution do you need?
+>   * What you intend to work on?
+>   * Anything else you require during the installfest?
+>
+> There were few ILUG-C banners that were made many years ago. For example:
+>
+>   http://www.shakthimaan.com/Mambo/gallery/album35?page=6
+>
+>   http://www.shakthimaan.com/Mambo/gallery/album35/54_banners_outside
+>
+> May I know who is in possession of the same? I would like to borrow them,
+> use them for this event and return it back.
+>
+> Please let me know,
+>
+> Thanks!
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Vijai Ganapathy
+Mailto: Vijai.Ganapathy at gmail.com
+
+From shakthimaan at gmail.com  Wed Mar 18 11:37:12 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Wed, 18 Mar 2015 11:37:12 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <000301d0612e$e443c1a0$accb44e0$@gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<000301d060a9$2a2917a0$7e7b46e0$@gmail.com>
+	<CABG-yt1RyjyVTnC4qodH0Kbvk=y2askOWiDznMkNFpQqu6K81g@mail.gmail.com>
+	<000301d0612e$e443c1a0$accb44e0$@gmail.com>
+Message-ID: <CABG-yt3qVEXCWMo7zOF1bY4wr3ZNWHqX3CBnLN7TL6_BtbGb9A@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Mar 18, 2015 at 9:21 AM, m-murali <stpmds at gmail.com> wrote:
+| * Full name:   M. MURALI
+|  * What hardware do you plan to bring (laptop/PC and accessories)? :
+| NOTHING - JUST INSTERESTED IN WATCHING
+\--
+
+You will not learn much by watching. Nothing can match hands-on experience.
+
+---
+|  * What GNU/Linux distribution do you need?:  WOULD LOVE TO SEE
+| INSTALLATION AND UPDATION OF MINT & CENT OS 7
+\--
+
+Okay. You can pair with Vigneshwaran for Mint installation.
+
+---
+|  * What you intend to work on?: WISH TO TRY OUT ALL DISTROS.
+\--
+
+We don't have hardware for your testing. The reason to bring hardware
+is that we can help you during the installfest, instead of you having
+to try it out at home.
+
+You can join in though.
+
+SK
+
+P.S.: Please don type in all capital letters. In written form, it
+means you are shouting at the person reading it, although that was not
+your intention.
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From antonyrl at gmail.com  Thu Mar 19 05:29:29 2015
+From: antonyrl at gmail.com (Antony Lawrence)
+Date: Thu, 19 Mar 2015 05:29:29 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+Message-ID: <CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+
+Hi Shakthi,
+Thank you for inviting me. I am coming for this INSTALLFEST meeting.
+Thank you.
+Antony
+On Mar 17, 2015 2:50 PM, "Shakthi Kannan" <shakthimaan at gmail.com> wrote:
+
+> Hi,
+>
+> Manufacturing System Insights have agreed to sponsor food for the
+> Installfest to be held on Saturday, March 28, 2014 at their office
+> premises.
+>
+> If you are interested in participating, please reply before Friday,
+> March 20, 2015, 2359 IST.
+>
+> Thanks!
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From tshrinivasan at gmail.com  Thu Mar 19 07:00:37 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 19 Mar 2015 07:00:37 +0530
+Subject: [Ilugc] Diaspora Workshop
+Message-ID: <CAND2795Q1NrgSXtgDLni9J==-9my5bz46DP974KtyRsFS2jgUA@mail.gmail.com>
+
+Hi all,
+
+Have you heard of Ello? The social networking site was launched as an
+alternative to Facebook. But long before Ello, there was Diaspora, a
+social network that gives you control over your data and lets you
+set-up your own social networks!
+
+IITM Linux Users Group invites you to explore the world of Diaspora
+through a workshop.
+
+Date: March 21, 2015 (Saturday)
+Time: 10:00 a.m. - 12:00 p.m.
+Venue: Computer Science Block, CSB 25
+
+Diaspora is a nonprofit, user-owned, distributed social network that
+is based upon the free Diaspora software. Diaspora consists of a group
+of independently owned nodes (called pods) which interoperate to form
+the network. Anyone can run the Diaspora software on their own server
+(called a diaspora pod) and these pods can communicate with each
+other, thus forming one single community that is spread across
+thousands of servers worldwide.
+
+The session will be focused on:
+
+Introduction to decentralized social networks and encryption
+Hands on session to setup a diaspora service in local server
+Benefits of contributing to Free Software
+How we can contribute to diaspora?
+fixing small bugs
+learning the git workflow
+seek innovative solutions to decentralization challenges
+how to setup pod migration
+distributed authentication and api
+directory service for easy user discovery
+public post aggregation and searching
+adding new features like events and groups
+package diaspora for debian, fedora and other distributions
+
+Everyone is free to attend the session! The only per-requisite is your
+interest in social networks.
+
+Also, requesting everyone to bring your laptop.
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From shakthimaan at gmail.com  Thu Mar 19 09:46:33 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 19 Mar 2015 09:46:33 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+Message-ID: <CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Mar 19, 2015 at 5:29 AM, Antony Lawrence <antonyrl at gmail.com> wrote:
+| Thank you for inviting me. I am coming for this INSTALLFEST meeting.
+\--
+
+It is an invitation to the members of the group. If you wish to attend
+please reply with the following info before Friday, March 20, 2015
+2359 IST:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From antonyrl at gmail.com  Thu Mar 19 15:52:27 2015
+From: antonyrl at gmail.com (Antony Lawrence)
+Date: Thu, 19 Mar 2015 15:52:27 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+Message-ID: <CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+
+Hi,
+Sorry for not filling the details earlier.
+
+ * Full name : Antony Lawrence
+
+  * What hardware do you plan to bring (laptop/PC and accessories)? Laptop
+power cord headphone
+
+  * What GNU/Linux distribution do you need?
+Ubuntu/Fedora/OpenSUSE
+
+  * What you intend to work on?
+Data and charts related to stock market, games.
+
+  * Anything else you require during the installfest?
+I want to install flash, moonlight, etc that are needed for the above
+requirements.
+
+Thanks
+Antony
+9176047044
+On Mar 19, 2015 9:47 AM, "Shakthi Kannan" <shakthimaan at gmail.com> wrote:
+
+> Hi,
+>
+> --- On Thu, Mar 19, 2015 at 5:29 AM, Antony Lawrence <antonyrl at gmail.com>
+> wrote:
+> | Thank you for inviting me. I am coming for this INSTALLFEST meeting.
+> \--
+>
+> It is an invitation to the members of the group. If you wish to attend
+> please reply with the following info before Friday, March 20, 2015
+> 2359 IST:
+>
+>   * Full name
+>   * What hardware do you plan to bring (laptop/PC and accessories)?
+>   * What GNU/Linux distribution do you need?
+>   * What you intend to work on?
+>   * Anything else you require during the installfest?
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Thu Mar 19 20:04:15 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Thu, 19 Mar 2015 20:04:15 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+Message-ID: <CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+
+Hi,
+
+--- On Thu, Mar 19, 2015 at 3:52 PM, Antony Lawrence <antonyrl at gmail.com> wrote:
+| Sorry for not filling the details earlier.
+\--
+
+Thanks for the info. Also adding info from Dickins:
+
+  My Name                     Dickins
+  Hardware i will bring :    Laptop
+  Distro I need :               Kali Linux
+  Intent To work :             PenTest
+  Anything Needed:         Tips or Tutorials on Pentest using Linux
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From tshrinivasan at gmail.com  Fri Mar 20 00:40:58 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 20 Mar 2015 00:40:58 +0530
+Subject: [Ilugc] Hadoop Explained - Free eBook
+Message-ID: <CAND2797EErYjDpEYDtnSeO3UQCNKHS_c1d2WrzFL1dVsX9+pLA@mail.gmail.com>
+
+PacktPub is giving this book for free.
+
+Get it here.
+https://www.packtpub.com/packt/free-ebook/hadoop-explained
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From tshrinivasan at gmail.com  Fri Mar 20 05:37:29 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Fri, 20 Mar 2015 05:37:29 +0530
+Subject: [Ilugc] Different history for each tab in gnome terminal
+Message-ID: <CAND2796WbuppPLp+OoqQ9+Lh6UEnJXEyr+EOjHXj8nVOd6e5NQ@mail.gmail.com>
+
+Friends,
+
+I use tabs in gnome terminal and konsole.
+each tab maintains its own history.
+
+It is very tough to find a previously ran command,
+as I have to open the same number of tab, to find it in history.
+
+Why it is designed so?
+
+How to merge all the tab's commands in single history file,
+so that we can access the history from any shell.?
+
+Thanks.
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From baskar at linuxpert.in  Fri Mar 20 06:59:10 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Fri, 20 Mar 2015 06:59:10 +0530
+Subject: [Ilugc] Different history for each tab in gnome terminal
+In-Reply-To: <CAND2796WbuppPLp+OoqQ9+Lh6UEnJXEyr+EOjHXj8nVOd6e5NQ@mail.gmail.com>
+References: <CAND2796WbuppPLp+OoqQ9+Lh6UEnJXEyr+EOjHXj8nVOd6e5NQ@mail.gmail.com>
+Message-ID: <CACtiFJYVfxO8TUqiBh4Ct5JUQoY9Qom9GJDc2n6=VX_hAqYzhQ@mail.gmail.com>
+
+> How to merge all the tab's commands in single history file,
+> so that we can access the history from any shell.?
+
+http://northernmost.org/blog/flush-bash_history-after-each-command/comment-page-1/index.html#comment-640
+
+S.  Baskar
+
+From prasannatsmkumar at gmail.com  Fri Mar 20 11:05:54 2015
+From: prasannatsmkumar at gmail.com (PrasannaKumar Muralidharan)
+Date: Fri, 20 Mar 2015 11:05:54 +0530
+Subject: [Ilugc] Different history for each tab in gnome terminal
+In-Reply-To: <CACtiFJYVfxO8TUqiBh4Ct5JUQoY9Qom9GJDc2n6=VX_hAqYzhQ@mail.gmail.com>
+References: <CAND2796WbuppPLp+OoqQ9+Lh6UEnJXEyr+EOjHXj8nVOd6e5NQ@mail.gmail.com>
+	<CACtiFJYVfxO8TUqiBh4Ct5JUQoY9Qom9GJDc2n6=VX_hAqYzhQ@mail.gmail.com>
+Message-ID: <CANc+2y6bWAsb6Xe_xpDxbLt=zGNLRkq7i4c0Oa1qnn5R3ezUVg@mail.gmail.com>
+
+I am also facing this issue for long. Thanks for the link.
+
+From prasannatsmkumar at gmail.com  Fri Mar 20 13:40:17 2015
+From: prasannatsmkumar at gmail.com (PrasannaKumar Muralidharan)
+Date: Fri, 20 Mar 2015 13:40:17 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+Message-ID: <CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+
+Hopefully I will be able to come. I will help in installation of Linux
+distributions. I will try to bring Ubuntu / Fedora images.
+
+Regards,
+PrasannaKumar
+
+From shakthimaan at gmail.com  Fri Mar 20 22:02:23 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 20 Mar 2015 22:02:23 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+Message-ID: <CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+
+Hi,
+
+--- On Fri, Mar 20, 2015 at 1:40 PM, PrasannaKumar Muralidharan
+<prasannatsmkumar at gmail.com> wrote:
+| I will help in installation of Linux
+| distributions. I will try to bring Ubuntu / Fedora images.
+\--
+
+Every one will eventually learn from one another, but, it is important
+that you come with an objective in mind. Please provide the following
+info:
+
+  * Full name
+  * What hardware do you plan to bring (laptop/PC and accessories)?
+  * What GNU/Linux distribution do you need?
+  * What you intend to work on?
+  * Anything else you require during the installfest?
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From rahulsharmacs50 at gmail.com  Sat Mar 21 17:44:51 2015
+From: rahulsharmacs50 at gmail.com (Rahul Sharma)
+Date: Sat, 21 Mar 2015 17:44:51 +0530
+Subject: [Ilugc] How to select topics
+Message-ID: <000001d063d0$a48f5a70$edae0f50$@gmail.com>
+
+I am not able to see any lists that are some preference oriented. Please
+tell me how to subscribe to lists that are topic oriented. 
+
+Thank You 
+
+ 
+
+Rahul Sharma
+
+University of Petroleum and Energy Studies,
+
+Dehradun
+
+
+From prasannatsmkumar at gmail.com  Sat Mar 21 21:53:50 2015
+From: prasannatsmkumar at gmail.com (PrasannaKumar Muralidharan)
+Date: Sat, 21 Mar 2015 21:53:50 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+Message-ID: <CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+
+>
+> Please provide the following info:
+>
+>   * Full name
+>
+
+Prasanna Kumar T S M
+
+
+>   * What hardware do you plan to bring (laptop/PC and accessories)?
+>
+
+I consider myself good in Linux, don't want assistance in getting a Linux
+distribution installed. Rather I intend to help others in installation so
+not going to bring laptop / PC.
+
+Regards,
+PrasannaKumar
+
+From shakthimaan at gmail.com  Sat Mar 21 22:03:02 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sat, 21 Mar 2015 22:03:02 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+Message-ID: <CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+
+Hi,
+
+--- On Sat, Mar 21, 2015 at 9:53 PM, PrasannaKumar Muralidharan
+<prasannatsmkumar at gmail.com> wrote:
+| don't want assistance in getting a Linux
+| distribution installed.
+\--
+
+An installfest is not just about installation. You can always work on
+system setups, configuration, testing and experimentation. You are
+welcome to help others.
+
+Please provide an objective that you wish to try or learn.
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From prasannatsmkumar at gmail.com  Sun Mar 22 00:17:45 2015
+From: prasannatsmkumar at gmail.com (PrasannaKumar Muralidharan)
+Date: Sun, 22 Mar 2015 00:17:45 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+Message-ID: <CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+
+>
+> An installfest is not just about installation. You can always work on
+> system setups, configuration, testing and experimentation. You are
+> welcome to help others.
+>
+
+Okay :).
+
+
+> Please provide an objective that you wish to try or learn.
+>
+
+I don't have any set objective to achieve.
+
+Thanks,
+PrasannaKumar
+
+From send4kumar at gmail.com  Mon Mar 23 10:35:52 2015
+From: send4kumar at gmail.com (Kumar)
+Date: Mon, 23 Mar 2015 10:35:52 +0530
+Subject: [Ilugc] Ubuntu system admin on call
+Message-ID: <CAHFTyBr0GUUPuC+Y0HUP5HNbVJCUcDLcCeVyCkP2G+pmpavS5w@mail.gmail.com>
+
+Dear All,
+
+Good day !
+
+One of my know company looking for system admin required on call basic.
+This company use Ubuntu ( 12 - 14.x  version ). They need some system
+supports like install, system hang , etc issue to solve. This company
+located in Madaveli. If any one interested please you can call to HR @
+044-24640088.
+
+Note : You can call directly and speak about T&C.
+
+
+With Thanks and Regards,
+Kumar
+m: +91 94434 55374
+im: send4kumar [ skype ]
+
+From shakthimaan at gmail.com  Sun Mar 22 08:12:15 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Sun, 22 Mar 2015 08:12:15 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+Message-ID: <CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+
+Hi,
+
+--- On Sun, Mar 22, 2015 at 12:17 AM, PrasannaKumar Muralidharan
+<prasannatsmkumar at gmail.com> wrote:
+| I don't have any set objective to achieve.
+\--
+
+That is what I asked you to let us know. Learning is a continuous
+process, and there is something to be learnt every day. A demo is
+scheduled at the end of the Installfest.
+
+Please let me know by today on what you want to learn during the Installfest .
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From thangam.arunx at gmail.com  Mon Mar 23 14:38:20 2015
+From: thangam.arunx at gmail.com (=?UTF-8?B?4K6F4K6w4K+B4K6j4K+NIOCuleCvgeCuruCuvuCusOCvjSAtIEFydW4gS3VtYXI=?=)
+Date: Mon, 23 Mar 2015 14:38:20 +0530
+Subject: [Ilugc] Move all web applications from one server to another
+	server
+In-Reply-To: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+References: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+Message-ID: <CAJghqqakaBDxoiMSL7yR_-uK45z5BTKK+Fr7EAVQ4A1ucbNKMw@mail.gmail.com>
+
+Shirni,
+
+
+> I have a AWS instance where I have installed 20 rails applications.
+> It took much time to setup by installing various dependencies.
+> Base os is ubuntu 14.04
+>
+> Now, we need the same setup in a physical server.
+> we will need to setup multiple servers with the same applications.
+>
+> Is there any way to bundle the entire setup from AWS and deploy in
+> the multiple physical servers with less hazzle?
+>
+
+Why do not  you use puppet ?
+
+
+Thanks & Regards
+Arun
+
+??????????????????????????????????????
+????????
+?????
+??????? ??????????? ???????? ????????
+http://thangamaniarun.wordpress.com
+??????????????????????????????????????
+
+From fossbalaji at gmail.com  Mon Mar 23 14:49:37 2015
+From: fossbalaji at gmail.com (Balaji G)
+Date: Mon, 23 Mar 2015 14:49:37 +0530
+Subject: [Ilugc] Move all web applications from one server to another
+	server
+In-Reply-To: <CAJghqqakaBDxoiMSL7yR_-uK45z5BTKK+Fr7EAVQ4A1ucbNKMw@mail.gmail.com>
+References: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+	<CAJghqqakaBDxoiMSL7yR_-uK45z5BTKK+Fr7EAVQ4A1ucbNKMw@mail.gmail.com>
+Message-ID: <CAOL5SspYwVEmbJS2dhKxvxJd2qomDRHpBMm6FqJx_xDT510X1w@mail.gmail.com>
+
+Hi anna,
+
+    You can use Ansible(http://docs.ansible.com/) also. Its also very easy
+to use . In my office we use ansible for everything .
+
+
+
+On Mon, Mar 23, 2015 at 2:38 PM, ????? ?????? - Arun Kumar <
+thangam.arunx at gmail.com> wrote:
+
+> Shirni,
+>
+>
+> > I have a AWS instance where I have installed 20 rails applications.
+> > It took much time to setup by installing various dependencies.
+> > Base os is ubuntu 14.04
+> >
+> > Now, we need the same setup in a physical server.
+> > we will need to setup multiple servers with the same applications.
+> >
+> > Is there any way to bundle the entire setup from AWS and deploy in
+> > the multiple physical servers with less hazzle?
+> >
+>
+> Why do not  you use puppet ?
+>
+>
+> Thanks & Regards
+> Arun
+>
+> ??????????????????????????????????????
+> ????????
+> ?????
+> ??????? ??????????? ???????? ????????
+> http://thangamaniarun.wordpress.com
+> ??????????????????????????????????????
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+With regards,
+
+Balaji.G
+
+My experiments in linux :http://tuxbalaji.wordpress.com
+
+From shakthimaan at gmail.com  Mon Mar 23 14:50:14 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 23 Mar 2015 14:50:14 +0530
+Subject: [Ilugc] Move all web applications from one server to another
+	server
+In-Reply-To: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+References: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+Message-ID: <CABG-yt2WAiyu95MNB-J6h2oi9ynUWf--XGWhYEkOQ0qj3mpdOQ@mail.gmail.com>
+
+Hi,
+
+--- On Wed, Mar 18, 2015 at 8:22 AM, Shrinivasan T
+<tshrinivasan at gmail.com> wrote:
+| I have installed 20 rails applications.
+| It took much time to setup by installing various dependencies.
+\--
+
+Your query has nothing to do with Amazon. Use Capistrano to automate
+deployment of Rails applications:
+
+  http://capistranorb.com/
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Mon Mar 23 18:13:29 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 23 Mar 2015 18:13:29 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+Message-ID: <CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+
+Hi,
+
+Added Venkoba Rao to the participant list:
+
+  * Full name: Venkoba Rao
+  * What hardware do you plan to bring (laptop/PC and accessories)? Desktop
+  * What GNU/Linux distribution do you need? Ubuntu 14.04
+  * What you intend to work on? Installation
+
+@PrasannaKumar Muralidharan
+
+I haven't received a reply from you on your objective for the
+Installfest. You are welcome to join in, but, I would like to give you
+some tasks to work on. Please bring your Ubuntu system.
+
+Thanks!
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From prasannatsmkumar at gmail.com  Mon Mar 23 21:11:50 2015
+From: prasannatsmkumar at gmail.com (PrasannaKumar Muralidharan)
+Date: Mon, 23 Mar 2015 21:11:50 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0kCQ3hv4T57V4r8B0NHwEGMus8YkPQpHyR0VpYR08LVw@mail.gmail.com>
+	<CABG-yt2SQkBNg1NYWwN=UaNZSWNxmhskgYU2P=PhJQyDeDz5Hw@mail.gmail.com>
+	<CABG-yt1e=hXMTt76NAp_F+g_rPWNsEH=_WhkWjZfHOBshm+nvg@mail.gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+Message-ID: <CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+
+>
+> @PrasannaKumar Muralidharan
+>
+> I haven't received a reply from you on your objective for the
+> Installfest. You are welcome to join in, but, I would like to give you
+> some tasks to work on. Please bring your Ubuntu system.
+>
+
+Ok. I will bring.
+
+Thanks,
+PrasannaKumar
+
+From tshrinivasan at gmail.com  Tue Mar 24 01:46:21 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Tue, 24 Mar 2015 01:46:21 +0530
+Subject: [Ilugc] Fwd: Final Beta Testing Week
+In-Reply-To: <55106A1B.6060902@canonical.com>
+References: <55106A1B.6060902@canonical.com>
+Message-ID: <CAND2794ZJTvNAiQ0sfVeP6uz3MSXMzb158NwEkM6e1DVBVXB4Q@mail.gmail.com>
+
+Help ubuntu by testing the iso.
+
+---------- Forwarded message ----------
+From: Nicholas Skaggs <nicholas.skaggs at canonical.com>
+Date: 2015-03-24 1:01 GMT+05:30
+Subject: Final Beta Testing Week
+To: "ubuntu-quality at lists.ubuntu.com" <ubuntu-quality at lists.ubuntu.com>
+
+
+It's here! Final beta images and milestone will be appearing on the tracker
+by early tomorrow AM UTC. Look for the milestone under vivid on
+http://iso.qa.ubuntu.com/.
+
+Plan to help test by grabbing the images when they hit the tracker and
+reporting your results! I'll post again when the milestone link is live
+(assuming elfy or someone else in Europe doesn't beat me to it!)
+
+If you are new to this whole image testing thing, do have a look at the
+wiki walkthrough https://wiki.ubuntu.com/Testing/ISO/Walkthrough for help.
+In a nutshell, download the image and run through the installation
+testcases on your machine. The images are linked from the testcase and come
+from cdimage.ubuntu.com. Real hardware is preferred, but feel free to test
+on a virtual machine too. Submit your testcase result and perform the next
+test.
+
+Thanks and happy testing everyone!
+
+Nicholas
+
+-- 
+Ubuntu-quality mailing list
+Ubuntu-quality at lists.ubuntu.com
+Modify settings or unsubscribe at: https://lists.ubuntu.com/
+mailman/listinfo/ubuntu-quality
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From gwalashish at gmail.com  Tue Mar 24 11:01:04 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Tue, 24 Mar 2015 11:01:04 +0530
+Subject: [Ilugc] Move all web applications from one server to another
+	server
+In-Reply-To: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+References: <CAND2794Sh564p9ZU7Oh88kKGx5G1JGaXmLJzdhMu=dJixoPA4A@mail.gmail.com>
+Message-ID: <CAPm7S=7ziUffErugMYupeC1ZQvBCOXXujLANRzV8DEOdfvf+4Q@mail.gmail.com>
+
+Hi,
+
+On Wed, Mar 18, 2015 at 8:22 AM, Shrinivasan T <tshrinivasan at gmail.com>
+wrote:
+
+> Friends,
+>
+> I have a AWS instance where I have installed 20 rails applications.
+> It took much time to setup by installing various dependencies.
+> Base os is ubuntu 14.04
+>
+> Now, we need the same setup in a physical server.
+> we will need to setup multiple servers with the same applications.
+>
+> Is there any way to bundle the entire setup from AWS and deploy in
+> the multiple physical servers with less hazzle?
+>
+> Share your thoughts.
+>
+
+I found a similar query on another site as well, although I have not tried
+that method by myself but IMO that should work.
+Here is the link,
+
+<
+http://stackoverflow.com/questions/20926859/export-centos-ec2-instance-to-physical-machine
+>
+
+--Regards
+Ashishkumar S. Yadav
+
+From satyaprakash.prasad at gmail.com  Tue Mar 24 11:50:09 2015
+From: satyaprakash.prasad at gmail.com (Satya Prakash Prasad)
+Date: Tue, 24 Mar 2015 11:50:09 +0530
+Subject: [Ilugc] Self learning Singing Software
+Message-ID: <CACX5wciWOpv3=xe2Nv_V4axp8OQUQapG3sVSfHg2LVxMkAhz6w@mail.gmail.com>
+
+Sorry if it sounds stupid - but is there a free musical / singing software
+that we can make use - my requirement is to record my voice - playback
+understand where my pitch / sound is bad - where I have to flatten to not
+match with the original track sound
+
+Something like how I am singing vs actual or the correct one
+
+If the same is a purchasable product and no free open source software is
+their - its ok I would consider the same
+
+From gwalashish at gmail.com  Tue Mar 24 12:42:23 2015
+From: gwalashish at gmail.com (Ashish Yadav)
+Date: Tue, 24 Mar 2015 12:42:23 +0530
+Subject: [Ilugc] Self learning Singing Software
+In-Reply-To: <CACX5wciWOpv3=xe2Nv_V4axp8OQUQapG3sVSfHg2LVxMkAhz6w@mail.gmail.com>
+References: <CACX5wciWOpv3=xe2Nv_V4axp8OQUQapG3sVSfHg2LVxMkAhz6w@mail.gmail.com>
+Message-ID: <CAPm7S=7U9=oLFHoZ-U3715UTOTeyKr=nThG8hvUX1t0of15MbA@mail.gmail.com>
+
+Hi,
+
+On Tue, Mar 24, 2015 at 11:50 AM, Satya Prakash Prasad <
+satyaprakash.prasad at gmail.com> wrote:
+
+> Sorry if it sounds stupid - but is there a free musical / singing software
+> that we can make use - my requirement is to record my voice - playback
+> understand where my pitch / sound is bad - where I have to flatten to not
+> match with the original track sound
+>
+> Something like how I am singing vs actual or the correct one
+>
+> If the same is a purchasable product and no free open source software is
+> their - its ok I would consider the same
+>
+
+Please check Ardour, Audacity and Rosegarden.
+
+http://audacity.sourceforge.net/
+http://en.wikipedia.org/wiki/Ardour_%28software%29
+http://www.rosegardenmusic.com/
+http://en.wikipedia.org/wiki/Linux_audio_software
+
+All of them are available through software centre/synaptic/repos.
+
+Or a full multimedia distro like Ubuntu Studio may suit...
+http://ubuntustudio.org/
+http://en.wikipedia.org/wiki/Ubuntu_Studio
+
+ --Regards
+Ashishkumar S. Yadav
+
+From ajeeshbkannan at gmail.com  Tue Mar 24 17:42:29 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 24 Mar 2015 17:42:29 +0530
+Subject: [Ilugc] mysql slave performance
+Message-ID: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+
+Hi
+
+My mysql slave server is showing Second Behind Master values 30 to 100 . At
+this time there is no mysql backup is running. I would like to make my
+slave server should be up to date. But upon checking I can see that the
+Second Behind Master on a particular time frame for all the day. Disk
+resource, load mysql process are all normal too.
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From hameed at vakilsearch.com  Tue Mar 24 22:00:44 2015
+From: hameed at vakilsearch.com (Shaahul Hameed)
+Date: Tue, 24 Mar 2015 22:00:44 +0530
+Subject: [Ilugc] [OT] Looking for an expert to configure Cisco router &
+	switches
+Message-ID: <CABD5kLdp5maSTRSLtVgsnVmRMR6Auyh19nvCshP84fPDyt3k7g@mail.gmail.com>
+
+Dear Members
+
+We are on the lookout for an expert who can configure a *Cisco 1941* router
+and *Cisco SRW-248* 48 port switches for a 200 seater office in Ambattur.
+Please connect me to an expert who will be available tomorrow.
+
+
+Thanks
+
+H a m e e d
++91 90431 45767
+
+From karthik120 at gmail.com  Tue Mar 24 23:25:07 2015
+From: karthik120 at gmail.com (Karthikeyan S)
+Date: Tue, 24 Mar 2015 23:25:07 +0530
+Subject: [Ilugc] Service in Runlevel did not work - Cent OS 7
+Message-ID: <CAFPraRydzxqDFs+bp=x+pUwYMCn3fNqBboHLsa+_n+1EBFXCgg@mail.gmail.com>
+
+Hi Everyone,
+             I have a Cent OS 7 installed and configured a service test to
+run in level 3,4 and 5
+
+[root at karthikeyan-server]# chkconfig test --list
+
+Note: This output shows SysV services only and does not include native
+      systemd services. SysV configuration data might be overridden by
+native
+      systemd configuration.
+
+      If you want to list systemd services use 'systemctl list-unit-files'.
+      To see services enabled on particular target use
+      'systemctl list-dependencies [target]'.
+
+test       0:off   1:off   2:off   3:on    4:on    5:on    6:off
+
+
+Unfortunately, when the system reboots in runlevel 4, it did not start the
+service automatically. I have to start the service test manually. How to
+troubleshoot this ? Could someone help ?
+
+From vijaykumar at bravegnu.org  Wed Mar 25 09:35:50 2015
+From: vijaykumar at bravegnu.org (Vijay Kumar B.)
+Date: Wed, 25 Mar 2015 04:05:50 +0000 (UTC)
+Subject: [Ilugc] Chennaipy March Meetup
+Message-ID: <loom.20150325T050312-149@post.gmane.org>
+
+# March Meetup
+
+## Date & Time
+
+  * 29th March (Sunday)
+  * 3:00pm to 5:30pm
+
+## Venue
+
+Ramanujan Auditorium, IMSc,
+C.I.T Campus,
+4th Cross Street,
+Tharamani,
+Chennai.
+
+Location map: http://www.google.com/maps?q=12.994337,80.247170
+
+## Schedule
+
+  * Lightning Talks (40 min)
+  * Networking over Tea sponsored by Clay Labs (30 min)
+  * Lightning Talks (40 min)
+  * Discussions (20 min)
+
+## Talks
+
+  * Python Powered Brain Simulations
+    by Ashutosh Mohan
+ 
+  * Bitten By Python
+    by Vijay Kumar
+
+  * My Python BCI Journey
+    by Kannan
+
+  * Python Scripting in Android using SL4A
+    by Sivasubramanyam
+
+  * How Emacs + org-mode replaced a few apps in my workflow
+    by Kiran Gangadharan
+
+  * Up and Running with PySpark
+    by Krishna Sangeeth
+
+  * Sentiment Analysis in Simple Steps
+    by Sharmila Gopirajan
+
+Only the talk titles are included here, for the sake of brevity. For
+details about the talks and the speakers, please visit
+http://www.meetup.com/Chennaipy/events/220917867/
+
+## RSVP
+
+Please RSVP on our Meetup page
+http://www.meetup.com/Chennaipy/events/220917867/
+
+## New to Python?
+
+If you are new to Python, you can make best use of the meetup, if you
+go through any of the following resources, before attending the
+meetup.
+
+  * Invent Your Own Computer Games with Python, Chapters 1 - 9
+    http://inventwithpython.com/chapters/
+
+  * Google's Python Course (with Lecture Videos)
+    https://developers.google.com/edu/python/
+
+  * How to Think Like a Computer Scientist, Chapters 1 - 12
+    http://www.greenteapress.com/thinkpython/ 
+
+
+From knura9 at gmail.com  Wed Mar 25 11:12:35 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 11:12:35 +0530
+Subject: [Ilugc] Service in Runlevel did not work - Cent OS 7
+In-Reply-To: <CAFPraRydzxqDFs+bp=x+pUwYMCn3fNqBboHLsa+_n+1EBFXCgg@mail.gmail.com>
+References: <CAFPraRydzxqDFs+bp=x+pUwYMCn3fNqBboHLsa+_n+1EBFXCgg@mail.gmail.com>
+Message-ID: <CAHhM8gCZgMM3=HdJHgCfi0SEGSof_2royEXDtHdvC_KjYHjn=w@mail.gmail.com>
+
+On Tue, Mar 24, 2015 at 11:25 PM, Karthikeyan S <karthik120 at gmail.com> wrote:
+> Hi Everyone,
+>              I have a Cent OS 7 installed and configured a service test to
+> run in level 3,4 and 5
+>
+> [root at karthikeyan-server]# chkconfig test --list
+>
+> Note: This output shows SysV services only and does not include native
+>       systemd services. SysV configuration data might be overridden by
+> native
+>       systemd configuration.
+>
+>       If you want to list systemd services use 'systemctl list-unit-files'.
+>       To see services enabled on particular target use
+>       'systemctl list-dependencies [target]'.
+>
+> test       0:off   1:off   2:off   3:on    4:on    5:on    6:off
+>
+>
+> Unfortunately, when the system reboots in runlevel 4, it did not start the
+> service automatically. I have to start the service test manually. How to
+> troubleshoot this ? Could someone help ?
+
+Recently, a similar discussion transpired on the CentOS general
+discussion mailing list.
+Suggest you search through it's archive.
+
+HTH
+-- Arun Khan
+
+From knura9 at gmail.com  Wed Mar 25 11:15:45 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 11:15:45 +0530
+Subject: [Ilugc] mysql slave performance
+In-Reply-To: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+References: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+Message-ID: <CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+
+On Tue, Mar 24, 2015 at 5:42 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> Hi
+>
+> My mysql slave server is showing Second Behind Master values 30 to 100 . At
+> this time there is no mysql backup is running. I would like to make my
+> slave server should be up to date. But upon checking I can see that the
+> Second Behind Master on a particular time frame for all the day. Disk
+> resource, load mysql process are all normal too.
+>
+
+A couple of setups we have, the replication is almost real time (on
+LAN) - the client transaction loads are light.
+
+Ensure network connectivity is not the problem.
+
+-- Arun Khan
+
+From knura9 at gmail.com  Wed Mar 25 11:39:45 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 11:39:45 +0530
+Subject: [Ilugc] How to select topics
+In-Reply-To: <000001d063d0$a48f5a70$edae0f50$@gmail.com>
+References: <000001d063d0$a48f5a70$edae0f50$@gmail.com>
+Message-ID: <CAHhM8gB06G_1fdoZz_Y25Ym7MMjYXcF_Bm6DayQsxViSD=xE7A@mail.gmail.com>
+
+On Sat, Mar 21, 2015 at 5:44 PM, Rahul Sharma <rahulsharmacs50 at gmail.com> wrote:
+> I am not able to see any lists that are some preference oriented. Please
+> tell me how to subscribe to lists that are topic oriented.
+>
+
+Strange, you cannot find forums / mailing lists for topics of interest.
+
+1. Visit the web site of the topic (e.g. www.python.org).
+2. Browse through the site.
+3. Be assured you will find the support forums.
+4. Follow the link(s), read the instructions to join the forum and
+5. Voila -- you can participate.
+
+Do not repeat questions that have been already asked.  Due diligence
+requires reading the FAQs, and searching through the archives.
+If you think your situation is unique, then cite the searched
+documentations and tell how your situation is not solved yet.
+
+HTH
+-- Arun Khan
+
+From baskar at linuxpert.in  Wed Mar 25 11:43:39 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Wed, 25 Mar 2015 11:43:39 +0530
+Subject: [Ilugc] Service in Runlevel did not work - Cent OS 7
+In-Reply-To: <CAFPraRydzxqDFs+bp=x+pUwYMCn3fNqBboHLsa+_n+1EBFXCgg@mail.gmail.com>
+References: <CAFPraRydzxqDFs+bp=x+pUwYMCn3fNqBboHLsa+_n+1EBFXCgg@mail.gmail.com>
+Message-ID: <CACtiFJaRHUQXC8nmLyxMs1F3ZaHZZF31zTpWP8aP2tvi_neH_g@mail.gmail.com>
+
+On 3/24/15, Karthikeyan S <karthik120 at gmail.com> wrote:
+> Hi Everyone,
+>              I have a Cent OS 7 installed and configured a service test to
+> run in level 3,4 and 5
+>
+> [root at karthikeyan-server]# chkconfig test --list
+>
+> Note: This output shows SysV services only and does not include native
+>       systemd services. SysV configuration data might be overridden by
+> native
+>       systemd configuration.
+>
+>       If you want to list systemd services use 'systemctl list-unit-files'.
+>       To see services enabled on particular target use
+>       'systemctl list-dependencies [target]'.
+>
+> test       0:off   1:off   2:off   3:on    4:on    5:on    6:off
+>
+>
+> Unfortunately, when the system reboots in runlevel 4, it did not start the
+> service automatically. I have to start the service test manually. How to
+> troubleshoot this ? Could someone help ?
+
+Read the paragraph below ' Runlevels/targets' for using 'systemd' in
+Runlevel 2, 4.
+
+https://fedoraproject.org/wiki/SysVinit_to_Systemd_Cheatsheet
+
+S. Baskar
+
+From knura9 at gmail.com  Wed Mar 25 11:47:16 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 11:47:16 +0530
+Subject: [Ilugc] Suggetion on Thin Client
+In-Reply-To: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+References: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+Message-ID: <CAHhM8gA5fZKRD=t5OTk-SzqRmGan_EXR70p1kVoJb9tNLaBtbQ@mail.gmail.com>
+
+On Mon, Mar 16, 2015 at 7:12 PM, Rajesh kumar <rkrajeshkumar87 at gmail.com> wrote:
+> Hi All,
+>
+> One of my client is planning for setup a cost effective contact center. He
+> is planning for 40 Seats. I am suggesting him to go for thin client.
+>
+> HP t200 seems to be viable. But most of the features are only for windows.
+>
+> Is there any Thin Client available with linux support.
+>
+
+
+With any infrastructure there is CapEx and OpEx.
+
+You have not mentioned what is the budget/thin client.
+
+You can try AIO models to boot from a LTSP server or create your own
+image that goes on a SATA Disk on Module (DoM).   This strategy also
+works with desktop PCs already in the infrastructure.
+
+HTH,
+-- Arun Khan
+
+From vijai.ganapathy at gmail.com  Wed Mar 25 12:39:40 2015
+From: vijai.ganapathy at gmail.com (Vijai Ganapathy)
+Date: Wed, 25 Mar 2015 12:39:40 +0530
+Subject: [Ilugc] Suggetion on Thin Client
+In-Reply-To: <CAFf706wqo3NgW+za+QDMQC6jo4=AaHYypfm_2iamZ-2ExqNBAQ@mail.gmail.com>
+References: <CAAKbJML5rauppxWoZk0JRx1CvA0dCCKZ3cvYg6y+S_3+pU0Huw@mail.gmail.com>
+	<CAFf706wqo3NgW+za+QDMQC6jo4=AaHYypfm_2iamZ-2ExqNBAQ@mail.gmail.com>
+Message-ID: <CACahg4HNV8BtrnMf5aevhuQcopRGaHHR5mh=WbkaNo8YtsD5rw@mail.gmail.com>
+
+You can try vxl model which we have configured as  voip client in ubuntu
+for a contact center. You can call me for more details.
+On Mar 17, 2015 6:05 AM, "Raman Pandarinathan" <raamanp at gmail.com> wrote:
+
+> On Mon, Mar 16, 2015 at 7:12 PM, Rajesh kumar <rkrajeshkumar87 at gmail.com>
+> wrote:
+> > Hi All,
+> >
+> > One of my client is planning for setup a cost effective contact center.
+> He
+> > is planning for 40 Seats. I am suggesting him to go for thin client.
+> >
+> > HP t200 seems to be viable. But most of the features are only for
+> windows.
+> >
+> > Is there any Thin Client available with linux support.
+> >
+> Try HCL, they have thin clients, we bought some 5 years ago. It comes
+> with pre-installed linux on IDE flash, though
+>  I netboot these machine to ltsp server.
+>
+>
+> Raman.P
+> blog:http://ramanchennai.wordpress.com/
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From knura9 at gmail.com  Wed Mar 25 14:47:26 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 14:47:26 +0530
+Subject: [Ilugc] Cloud In a Box Appliance
+Message-ID: <CAHhM8gAXa=YAsJ_-pPb4Sd9M1tmz+Xc4Z52tf04yy6Xs1Qpftg@mail.gmail.com>
+
+On Tue, Mar 3, 2015 at 1:24 PM, Vishnu Vijayaraghavan
+<vishnu.vijayaraghavan at gmail.com> wrote:
+> Hi All,
+>
+> I am posting in this forum after a very long time.
+>
+> I got an idea about the "Cloud In a Box" appliance.
+>
+> The details about this is posted in my blog @
+> http://linuxdreams.blogspot.in/2015/03/cloud-in-box-appliance.html
+>
+> Please, kindly go through it and give your valuable suggestions/feedbacks.
+>
+> I would like to know about the future of this business model and how well
+> it will be success.
+
+It is hard to predict what will catch on like a "forest fire" and what
+will simmer down to ashes.
+
+It is definitely an idea worth exploring as a business opportunity.
+
+My team has implemented small infra solutions similar to this on AWS,
+Digital Ocean, and Rackspace.
+
+AWS already provides the infrastructure for the concept you have posted.
+VMWare does the same for your own physical DC.
+
+Your concern about data residing in foreign shores (under the foreign
+jurisdiction) is valid *but* with most people who are now addicted to
+social networking sites like FB, Tweeter, Whatsapp etc., their mind
+set has also changed (IMO) vis-a-vis data privacy.
+
+A few India based DC like Cntl-S may be the place to start your venture.
+
+Best,
+-- Arun Khan
+
+From knura9 at gmail.com  Wed Mar 25 14:51:39 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 14:51:39 +0530
+Subject: [Ilugc]
+	=?utf-8?q?=5BInfo=5D_PeerVPN_=E2=80=93_Open-source_peer-t?=
+	=?utf-8?q?o-peer_VPN?=
+In-Reply-To: <CAPVR=qOJpnfSnQeAxYDCErujLyMi9YDFGk8gO=3bad_ntUO+SA@mail.gmail.com>
+References: <CAPVR=qOJpnfSnQeAxYDCErujLyMi9YDFGk8gO=3bad_ntUO+SA@mail.gmail.com>
+Message-ID: <CAHhM8gA6QvMMQVJh6khkBiSj3+fTNG-ORNR+9cH+GztZZDJv9Q@mail.gmail.com>
+
+On Mon, Mar 2, 2015 at 6:26 PM, Ramachandran V
+<vramachandran86 at gmail.com> wrote:
+> Hi,
+>
+> PeerVPN ? Open-source peer-to-peer VPN
+> http://www.peervpn.net/
+>
+
+Very interesting and thanks for sharing the link.  Reminds of Hamachi
+from logmein.com.
+
+Have you tried it?  If so, please share your experience.
+
+-- Arun Khan
+
+From ajeeshbkannan at gmail.com  Wed Mar 25 16:46:09 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Wed, 25 Mar 2015 16:46:09 +0530
+Subject: [Ilugc] mysql slave performance
+In-Reply-To: <CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+References: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+	<CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+Message-ID: <CA+ark-rVxPkevHe0f16XzEaJBbF6ZMQt6-3Uz3J+Nfb5P6M_9g@mail.gmail.com>
+
+Hi,
+
+I am using the slave connection using the internal LAN IP. Number of cpu
+cores in slave is higher than master server.
+
+On Wed, Mar 25, 2015 at 11:15 AM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Tue, Mar 24, 2015 at 5:42 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+> > Hi
+> >
+> > My mysql slave server is showing Second Behind Master values 30 to 100 .
+> At
+> > this time there is no mysql backup is running. I would like to make my
+> > slave server should be up to date. But upon checking I can see that the
+> > Second Behind Master on a particular time frame for all the day. Disk
+> > resource, load mysql process are all normal too.
+> >
+>
+> A couple of setups we have, the replication is almost real time (on
+> LAN) - the client transaction loads are light.
+>
+> Ensure network connectivity is not the problem.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+
+From knura9 at gmail.com  Wed Mar 25 17:10:47 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Wed, 25 Mar 2015 17:10:47 +0530
+Subject: [Ilugc] mysql slave performance
+In-Reply-To: <CA+ark-rVxPkevHe0f16XzEaJBbF6ZMQt6-3Uz3J+Nfb5P6M_9g@mail.gmail.com>
+References: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+	<CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+	<CA+ark-rVxPkevHe0f16XzEaJBbF6ZMQt6-3Uz3J+Nfb5P6M_9g@mail.gmail.com>
+Message-ID: <CAHhM8gDpEpkJc+-y+QFFXDJatiNEO6q9MArfeOPDA711w44t1g@mail.gmail.com>
+
+On Wed, Mar 25, 2015 at 4:46 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com> wrote:
+> Hi,
+>
+> I am using the slave connection using the internal LAN IP. Number of cpu
+> cores in slave is higher than master server.
+
+List guidelines -- do *not* top post.
+
+Look at number of transactions pending replication @ primary and
+compare those number at the replica.
+
+-- Arun Khan
+
+From tshrinivasan at gmail.com  Thu Mar 26 07:51:31 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Thu, 26 Mar 2015 07:51:31 +0530
+Subject: [Ilugc] [job] Fwd: selenium test automation expert required at
+	Chennai(C2H)
+Message-ID: <CAND2794Jj1J+9kNNJqDuEgqjff+NTdXsLo+1u1Gh+6w4DZXHRQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mayur Shah <mayur at kagrana.com>
+Date: 2015-03-25 11:26 GMT+05:30
+Subject: selenium test automation expert required at Chennai(C2H)
+To: chennai-testing at googlegroups.com
+
+
+Job Description:~
+================
+Deliver Test Automation solutions using Selenium
+
+- Strong experience in Front End automation framework (Selenium,
+testing/jUnit and QTP)
+- Experienced with Junit/TestNG, data driven testing, keyword driven testing
+- Should know page object model in Selenium
+- At least 4 years of experience on UI automation using Selenium Web Driver
+- Strong Core Java fundamentals and Object Oriented concepts.
+- Should have experience in writing tests in Selenium using Java
+- Experience working in Agile programs meeting sprint deliverables.
+- Expertise in Mercury test suite QTP a plus
+- Strong Communication and Analytical skills.
+- Good knowledge on Webservices and SOAP UI
+- Strong experience in Test Automation Frameworks such as Keyword
+driven, data driven and Hybrid framework
+- Experience in test automation using AGILE methodology
+- Expertise building scripts on Selenium
+- Expertise using HTTP Unit from Selenium for test automation
+- Expertise using Hudson continuous integration tool.
+- Work independently and manage multiple testing projects concurrently
+- Possess broad overall knowledge of business applications
+- Focus on project quality issues
+
+To apply use link below.
+http://kagrana.com/company/career/
+
+--
+You received this message because you are subscribed to the Google
+Groups "Chennai Software Testing" group.
+To unsubscribe from this group and stop receiving emails from it, send
+an email to chennai-testing+unsubscribe at googlegroups.com.
+To post to this group, send email to chennai-testing at googlegroups.com.
+Visit this group at http://groups.google.com/group/chennai-testing.
+For more options, visit https://groups.google.com/d/optout.
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From professionalgraam at gmail.com  Fri Mar 27 00:50:30 2015
+From: professionalgraam at gmail.com (Gowtham Raam)
+Date: Fri, 27 Mar 2015 00:50:30 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+	<CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+Message-ID: <55145BFE.1090403@gmail.com>
+
+Hi All
+
+  * Full name: Gowtham Raam.J
+  * What hardware do you plan to bring (laptop/PC and accessories)? Laptop
+  * What GNU/Linux distribution do you need? Distribution with GNURadio
+  * What you intend to work on? Installation
+
+
+-- 
+With Regards,
+Gowtham Raam.J
+ 
+
+From rktenneti at gmail.com  Fri Mar 27 09:24:58 2015
+From: rktenneti at gmail.com (Ravi Kumar Tenneti)
+Date: Fri, 27 Mar 2015 09:24:58 +0530
+Subject: [Ilugc] Cloud In a Box Appliance
+In-Reply-To: <CAHhM8gAXa=YAsJ_-pPb4Sd9M1tmz+Xc4Z52tf04yy6Xs1Qpftg@mail.gmail.com>
+References: <CAHhM8gAXa=YAsJ_-pPb4Sd9M1tmz+Xc4Z52tf04yy6Xs1Qpftg@mail.gmail.com>
+Message-ID: <CA+3=754OmPWrsQR_sbqE_u-w38J1BAX8BVGNez40ZKR3rBYusg@mail.gmail.com>
+
+Hi Vishnu,
+
+On Wed, Mar 25, 2015 at 2:47 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Tue, Mar 3, 2015 at 1:24 PM, Vishnu Vijayaraghavan
+> <vishnu.vijayaraghavan at gmail.com> wrote:
+> > Hi All,
+> >
+> > I am posting in this forum after a very long time.
+> >
+> > I got an idea about the "Cloud In a Box" appliance.
+> >
+> > The details about this is posted in my blog @
+> > http://linuxdreams.blogspot.in/2015/03/cloud-in-box-appliance.html
+> >
+> > Please, kindly go through it and give your valuable
+> suggestions/feedbacks.
+> >
+> > I would like to know about the future of this business model and how well
+> > it will be success.
+>
+>
+All the best for your idea!
+
+As far as your idea is concerned, with minor changes it has been launched
+by Zenith with the name Tiger Cloud and they sold to some customers also. I
+do agree that your idea is different with the usage of SoC and Solar etc.,
+But the problem with the Indian customers is (you can believe me as I have
+met more than 1000+ CIO/CFO/CTOs who are not ready to accept a new idea but
+will play a safe route of selecting already established players) - you can
+try foreign countries and you will be more successful with other countries
+than in India. I hope I will be wrong also :)
+
+Most of the Indian DCs are using software to create a Private Cloud by
+using OnApp or similar products so they look at being marketable than
+encouraging a new concept.
+
+One more thing is that this idea has been implemented almost 6 years back
+by Sun.
+
+http://www.datacentermap.com/blog/datacenter-container-55.html
+
+In fact they used to ship the processing power just like the way we get
+Generators for Power.
+
+Anyway. all the best for your efforts.
+
+
+
+-- 
+
+With Best Regards
+
+
+*Ravi Kumar Tenneti*
+
+From manokaran at gmail.com  Fri Mar 27 10:15:13 2015
+From: manokaran at gmail.com (Manokaran K)
+Date: Fri, 27 Mar 2015 04:45:13 +0000
+Subject: [Ilugc] Cloud In a Box Appliance
+In-Reply-To: <CA+3=754OmPWrsQR_sbqE_u-w38J1BAX8BVGNez40ZKR3rBYusg@mail.gmail.com>
+References: <CAHhM8gAXa=YAsJ_-pPb4Sd9M1tmz+Xc4Z52tf04yy6Xs1Qpftg@mail.gmail.com>
+	<CA+3=754OmPWrsQR_sbqE_u-w38J1BAX8BVGNez40ZKR3rBYusg@mail.gmail.com>
+Message-ID: <CAKGmkL0_7YE5cWNwEwGd78OODUQtY7XvtZY7ttJdy0b5pq9BcA@mail.gmail.com>
+
+IMO, if everyone thinks you have a great idea, its probably stale!
+Corollary: if everyone thinks its BS, you are on the right track :-)
+
+Whether the idea is BS or not, at worst you'll end up with learnings that
+no IIM/Harvard can provide.
+
+Best of luck,
+mano
+
+On Fri, Mar 27, 2015 at 9:25 AM Ravi Kumar Tenneti <rktenneti at gmail.com>
+wrote:
+
+> Hi Vishnu,
+>
+> On Wed, Mar 25, 2015 at 2:47 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Tue, Mar 3, 2015 at 1:24 PM, Vishnu Vijayaraghavan
+> > <vishnu.vijayaraghavan at gmail.com> wrote:
+> > > Hi All,
+> > >
+> > > I am posting in this forum after a very long time.
+> > >
+> > > I got an idea about the "Cloud In a Box" appliance.
+> > >
+> > > The details about this is posted in my blog @
+> > > http://linuxdreams.blogspot.in/2015/03/cloud-in-box-appliance.html
+> > >
+> > > Please, kindly go through it and give your valuable
+> > suggestions/feedbacks.
+> > >
+> > > I would like to know about the future of this business model and how
+> well
+> > > it will be success.
+> >
+> >
+> All the best for your idea!
+>
+> As far as your idea is concerned, with minor changes it has been launched
+> by Zenith with the name Tiger Cloud and they sold to some customers also. I
+> do agree that your idea is different with the usage of SoC and Solar etc.,
+> But the problem with the Indian customers is (you can believe me as I have
+> met more than 1000+ CIO/CFO/CTOs who are not ready to accept a new idea but
+> will play a safe route of selecting already established players) - you can
+> try foreign countries and you will be more successful with other countries
+> than in India. I hope I will be wrong also :)
+>
+> Most of the Indian DCs are using software to create a Private Cloud by
+> using OnApp or similar products so they look at being marketable than
+> encouraging a new concept.
+>
+> One more thing is that this idea has been implemented almost 6 years back
+> by Sun.
+>
+> http://www.datacentermap.com/blog/datacenter-container-55.html
+>
+> In fact they used to ship the processing power just like the way we get
+> Generators for Power.
+>
+> Anyway. all the best for your efforts.
+>
+>
+>
+> --
+>
+> With Best Regards
+>
+>
+> *Ravi Kumar Tenneti*
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From shakthimaan at gmail.com  Fri Mar 27 11:40:46 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 27 Mar 2015 11:40:46 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <55145BFE.1090403@gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+	<CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+	<55145BFE.1090403@gmail.com>
+Message-ID: <CABG-yt24HqMP9hS+KokMZsbunOh9adwF-2MzLGRcL_Cmxk+uaA@mail.gmail.com>
+
+Hi,
+
+This is a confirmation on the Installfest to be held tomorrow,
+Saturday, March 28, 2015 at Manufacturing System Insights, Chennai
+between 0800 and 1600 IST. The location of the office is:
+
+  System Insights, Inc
+  506, Velachery Main Road
+  Tambaram East
+  Chennai 600059
+  Tamil Nadu
+  India
+  Phone: +91 44 2239 6918, 2239 0386
+
+The office is located next to Sankara Vidyala school bus stop, and
+opposite to Christ King convent bus stop, Tambaram East.
+
+If you are coming from Velachery, you can use buses A51, 5A or V51
+(this is a longer route), and get down at Christ King convent bus
+stop, and walk across the road.
+
+If you are coming from Mount Road towards Tambaram, you need to take
+any bus from Tambaram East that goes through Velachery main road, and
+the Sankara Vidyala school bus stop is the second stop. You will find
+a Tux
+
+Lunch will be sponsored by Manufacturing System Insights.
+
+The list of participants (in alphabetical order) are:
+
+  Antony Lawrence
+  Bindu Upadhyay
+  Gowtham Raam J
+  Murali M
+  Nivetha S
+  Palanivel M
+  PrasannaKumar Muralidharan
+  Shakthi Kannan
+  Umar Dickins
+  Venkoba Rao
+  Vigneshkumar S
+
+Please take backup of your data before you come for the Installfest.
+
+With regards,
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From shakthimaan at gmail.com  Fri Mar 27 21:17:23 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Fri, 27 Mar 2015 21:17:23 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt24HqMP9hS+KokMZsbunOh9adwF-2MzLGRcL_Cmxk+uaA@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+	<CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+	<55145BFE.1090403@gmail.com>
+	<CABG-yt24HqMP9hS+KokMZsbunOh9adwF-2MzLGRcL_Cmxk+uaA@mail.gmail.com>
+Message-ID: <CABG-yt0oirWUuYWU7B=haZPU44YefJY7RuVM9h7uvEyanOF5rg@mail.gmail.com>
+
+Hi,
+
+The Installfest has been tentatively postponed for next Saturday due
+to the bandh tomorrow.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From gnukick at gmail.com  Fri Mar 27 21:50:49 2015
+From: gnukick at gmail.com (anwar latiff)
+Date: Fri, 27 Mar 2015 21:50:49 +0530
+Subject: [Ilugc] (ot) Blogger says that you entered the wrong user name or
+	password. --
+Message-ID: <CABdRDFU+EHBm3=JEFYK_=v1e7BPy=vr029gxVH=vGO65qhioPg@mail.gmail.com>
+
+aim trying to write blog in scribe fire it is showing this error Blogger
+says that you entered the wrong username or password.
+
+
+aim using Linux mint with fire fox recently i have with withdraw my custom
+domain to blog spot that means iam using blogspot domain
+
+can any one help to solve
+
+-- 
+Anwar Latiff
+
+From tshrinivasan at gmail.com  Sat Mar 28 00:32:40 2015
+From: tshrinivasan at gmail.com (Shrinivasan T)
+Date: Sat, 28 Mar 2015 00:32:40 +0530
+Subject: [Ilugc] (ot) Blogger says that you entered the wrong user name
+ or password. --
+In-Reply-To: <CABdRDFU+EHBm3=JEFYK_=v1e7BPy=vr029gxVH=vGO65qhioPg@mail.gmail.com>
+References: <CABdRDFU+EHBm3=JEFYK_=v1e7BPy=vr029gxVH=vGO65qhioPg@mail.gmail.com>
+Message-ID: <CAND2797A-FG+TgdTc+OzghMV_7XHajo3Y9o3sxPmKk5T3btLag@mail.gmail.com>
+
+2015-03-27 21:50 GMT+05:30 anwar latiff <gnukick at gmail.com>:
+> aim trying to write blog in scribe fire it is showing this error Blogger
+> says that you entered the wrong username or password.
+
+Hope you are using blogger after a very long time.
+Google bought it.
+goto http://blogger.com and login with your gmail login credentials.
+
+Thanks for reminding about scribefire.
+I used it heavily sometime back.
+
+The new scribefire
+https://addons.mozilla.org/en-us/firefox/addon/scribefire-next/
+is improved much.
+
+Started to use it.
+
+
+
+
+-- 
+Regards,
+T.Shrinivasan
+
+
+My Life with GNU/Linux : http://goinggnu.wordpress.com
+Free E-Magazine on Free Open Source Software in Tamil : http://kaniyam.com
+
+Get CollabNet Subversion Edge :     http://www.collab.net/svnedge
+
+From sureshkumarr.s at gmail.com  Sat Mar 28 08:59:57 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Sat, 28 Mar 2015 08:59:57 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+	ready to use
+Message-ID: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+
+Hi,
+
+Currently we dont have open source networking products available in
+indian market. mostly we need to buy from global market.  For example,
+ PFSense/openWRT firewall/routers not available (out of the box).
+
+
+I am working on this project opensource firewall/router/voip/etc
+(pfsense, monowall, openwrt/opensips etc) porting in to the Desktop PC
+targeting SME customers.
+
+Please suggest your views.
+
+Also, I am interested to join hands established people/company for
+this project.  If you are interested, please mail me.
+
+Thanks
+suresh.
+
+From tech at mazenetsolution.com  Sat Mar 28 11:13:30 2015
+From: tech at mazenetsolution.com (Mazenet Technology)
+Date: Sat, 28 Mar 2015 11:13:30 +0530
+Subject: [Ilugc] (Jobs) Experienced open source developers wanted
+Message-ID: <CAA9JLRqg3Wz6W1kLO+2_ruGK64xauCmT5Bp6hv7-Povc8O67Bg@mail.gmail.com>
+
+Mazenet Solutions is a leader in IT training for both individuals as well
+as Corporates over the past 15 years. We are now focussing heavily on Open
+Source training and solutions.
+
+To fuel our growth in these areas, Mazenet is looking for experienced
+professionals in the following areas:
+
+1. PHP and Web developers
+- minimum 2 years of experience
+- well versed in HTML, PHP, javascript, AJAX and Linux
+
+2. Android and iOS developers
+- minimum 1 year of experience
+- should have developed atleast 3 apps
+
+3. Python coders
+- minimum of 1 year experience in Python
+
+4. Ruby on Rails developers
+- minimum of 1 year experience, with experience in RubyGems and application
+development
+
+5. Electronics design engineers with experience in:
+- Arduino, Raspberry Pi, PIC etc.
+
+Salary will match the best in the Industry.
+Part time or Freelancers are also welcome.
+
+All applicants are requested to submit a paragraph on your Statement of
+Intent, outlining your vision for personal and professional growth.
+Applications without this Statement of Intent will be summarily rejected.
+
+Contact: Mr. Venkatraman
+Senior HR recruiter
+venkatraman at mazenetsolution.com
+9597222839
+
+From knura9 at gmail.com  Sat Mar 28 12:17:48 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sat, 28 Mar 2015 12:17:48 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CAHhM8gAPsb3xKq=uF28W03VDbX3yjZ5ticKAjsjLGzvk+tSXXQ@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+	<CAHhM8gAPsb3xKq=uF28W03VDbX3yjZ5ticKAjsjLGzvk+tSXXQ@mail.gmail.com>
+Message-ID: <CAHhM8gD=f0v6dmcXdpr7YTihn5aQr_70B+botQbFdvf+Hp1MpQ@mail.gmail.com>
+
+On Sat, Mar 28, 2015 at 12:14 PM, Arun Khan <knura9 at gmail.com> wrote:
+> On Sat, Mar 28, 2015 at 8:59 AM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+>> Hi,
+>>
+>> Currently we dont have open source networking products available in
+>> indian market. mostly we need to buy from global market.  For example,
+>>  PFSense/openWRT firewall/routers not available (out of the box).
+>>
+>
+> First thing to consider in product development is the support
+> structure and how are you going to deploy bug/security fixes to the
+> installed base.
+
+Oh, one more thing - stay away from "low" cost.  The market is crowded
+with them.  The products mentioned in my previous post are very cost
+competitive and beating them at their game will be a bit difficult
+IMO.  Instead focus on high value and price your product accordingly.
+
+-- 
+Arun Khan (???? ????/???? ???)
+"If you do not come out of your shell, you are just a nut."  Sadhguru
+
+From knura9 at gmail.com  Sat Mar 28 12:14:01 2015
+From: knura9 at gmail.com (Arun Khan)
+Date: Sat, 28 Mar 2015 12:14:01 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+Message-ID: <CAHhM8gAPsb3xKq=uF28W03VDbX3yjZ5ticKAjsjLGzvk+tSXXQ@mail.gmail.com>
+
+On Sat, Mar 28, 2015 at 8:59 AM, S Suresh <sureshkumarr.s at gmail.com> wrote:
+> Hi,
+>
+> Currently we dont have open source networking products available in
+> indian market. mostly we need to buy from global market.  For example,
+>  PFSense/openWRT firewall/routers not available (out of the box).
+>
+
+First thing to consider in product development is the support
+structure and how are you going to deploy bug/security fixes to the
+installed base.
+
+The India based products like Cyberoam, Gajshield, Quickheal etc.;
+they import the hardware appliances in volumes, brand them with their
+own labels and install a custom Linux image developed by them  **but**
+they have a support structure (phone, email, web forums, firmware
+updates etc.)
+
+>
+> I am working on this project opensource firewall/router/voip/etc
+> (pfsense, monowall, openwrt/opensips etc) porting in to the Desktop PC
+> targeting SME customers.
+>
+> Please suggest your views.
+>
+
+I don't how many people you have in your company.  IMO, even for a
+company  with >10 technical people,  the above list is too much to
+chew and digest.
+
+Focus on one or two for production which should include a support
+structure as mentioned above.
+
+> Also, I am interested to join hands established people/company for
+> this project.  If you are interested, please mail me.
+
+I am also working on a similar concept with a different approach.
+Contact me if you are interested.
+
+-- Arun Khan
+Aare O Samba, wahan per kitne Windows thee?
+
+From baskar at linuxpert.in  Sun Mar 29 07:40:34 2015
+From: baskar at linuxpert.in (Baskar Selvaraj)
+Date: Sun, 29 Mar 2015 07:40:34 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CAHhM8gD=f0v6dmcXdpr7YTihn5aQr_70B+botQbFdvf+Hp1MpQ@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+	<CAHhM8gAPsb3xKq=uF28W03VDbX3yjZ5ticKAjsjLGzvk+tSXXQ@mail.gmail.com>
+	<CAHhM8gD=f0v6dmcXdpr7YTihn5aQr_70B+botQbFdvf+Hp1MpQ@mail.gmail.com>
+Message-ID: <CACtiFJZURZmQrf21h4bfgjo0ud55JWcq8+Q9cpWZ8uZOo48Xrg@mail.gmail.com>
+
+>
+> Oh, one more thing - stay away from "low" cost.  The market is crowded
+> with them.  The products mentioned in my previous post are very cost
+> competitive and beating them at their game will be a bit difficult
+> IMO.  Instead focus on high value and price your product accordingly.
+
++1.
+
+The focus need to be on creating value for the product than saying it
+as 'low cost product' in the market.
+
+S. Baskar
+
+From sureshkumarr.s at gmail.com  Sun Mar 29 10:57:38 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Sun, 29 Mar 2015 10:57:38 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CACtiFJZURZmQrf21h4bfgjo0ud55JWcq8+Q9cpWZ8uZOo48Xrg@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+	<CAHhM8gAPsb3xKq=uF28W03VDbX3yjZ5ticKAjsjLGzvk+tSXXQ@mail.gmail.com>
+	<CAHhM8gD=f0v6dmcXdpr7YTihn5aQr_70B+botQbFdvf+Hp1MpQ@mail.gmail.com>
+	<CACtiFJZURZmQrf21h4bfgjo0ud55JWcq8+Q9cpWZ8uZOo48Xrg@mail.gmail.com>
+Message-ID: <CAJLBBzxn4yh7Zy4kJErzSprZ6etj57jQ-7eEXQKaRaPJvVpENw@mail.gmail.com>
+
+> > Oh, one more thing - stay away from "low" cost.  The market is crowded
+> > with them.  The products mentioned in my previous post are very cost
+> > competitive and beating them at their game will be a bit difficult
+> > IMO.  Instead focus on high value and price your product accordingly.
+>
+> +1.
+>
+> The focus need to be on creating value for the product than saying it
+> as 'low cost product' in the market.
+
+ok. the meaning of low cost is the relative word comparative to the
+proprietory solution such as cisco, juniper. we are not going to sell it to
+5k which is meaningless. i never compromise on quality either hardware
+selection or sw selection. the great adv is we dont have  software cost.
+how to  bring down the product cost  is the challenge , the major coat
+portion depends on hardware integreation cost and admin,support costs.  i
+believe we can make entry level product at  Rs.15k+ for SME customer with
+no compromise on quality and support.
+
+From mohan.tux at gmail.com  Sun Mar 29 11:15:55 2015
+From: mohan.tux at gmail.com (Mohan Sundaram)
+Date: Sun, 29 Mar 2015 11:15:55 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+Message-ID: <CAFum4PmkE5YNck5pY7KatW_A-Sdbrqr4kgqKyS8nERH=pOMoUQ@mail.gmail.com>
+
+I've done this is in the past. (2000-2002) and was part of a embedded Linux
+district team. Built a device and a product. Used to convert old PCs into
+gateways too.
+
+Look up LEAF firewall. pFSense looks to be the best packaged version right
+now for firewall. You must look at a gateway package and then choose the
+platform. Eg one that supports firewall, proxy, AV, qos, 802.1x etc....
+
+You'll find hardware with 5.to 8 Ethernet ports on a book PC from Taiwan or
+even bare metal networking boxes, as is the trend now from Dell, HP etc.
+
+You can write to me or talk to me if you want to discuss this further.
+
+Regards
+Mohan Sundaram
+Mobile mail, please pardon autocomplete /autoreplace typos
+On Mar 28, 2015 9:00 AM, "S Suresh" <sureshkumarr.s at gmail.com> wrote:
+
+> Hi,
+>
+> Currently we dont have open source networking products available in
+> indian market. mostly we need to buy from global market.  For example,
+>  PFSense/openWRT firewall/routers not available (out of the box).
+>
+>
+> I am working on this project opensource firewall/router/voip/etc
+> (pfsense, monowall, openwrt/opensips etc) porting in to the Desktop PC
+> targeting SME customers.
+>
+> Please suggest your views.
+>
+> Also, I am interested to join hands established people/company for
+> this project.  If you are interested, please mail me.
+>
+> Thanks
+> suresh.
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From sureshkumarr.s at gmail.com  Sun Mar 29 13:03:28 2015
+From: sureshkumarr.s at gmail.com (S Suresh)
+Date: Sun, 29 Mar 2015 13:03:28 +0530
+Subject: [Ilugc] [commerical] Low cost open source networking products -
+ ready to use
+In-Reply-To: <CAFum4PmkE5YNck5pY7KatW_A-Sdbrqr4kgqKyS8nERH=pOMoUQ@mail.gmail.com>
+References: <CAJLBBzz=6anbriyps3x-cFMnHn0YzPKnQmwBnJqsXp47ieTnyQ@mail.gmail.com>
+	<CAFum4PmkE5YNck5pY7KatW_A-Sdbrqr4kgqKyS8nERH=pOMoUQ@mail.gmail.com>
+Message-ID: <CAJLBBzzqfBa6oWiKT6wcWyCpftRPz_sNFLfQsbw70Q5M9DwVgg@mail.gmail.com>
+
+> I've done this is in the past. (2000-2002) and was part of a embedded
+Linux
+> district team. Built a device and a product. Used to convert old PCs into
+> gateways too.
+>
+> Look up LEAF firewall. pFSense looks to be the best packaged version right
+> now for firewall. You must look at a gateway package and then choose the
+> platform. Eg one that supports firewall, proxy, AV, qos, 802.1x etc....
+>
+> You'll find hardware with 5.to 8 Ethernet ports on a book PC from Taiwan
+or
+> even bare metal networking boxes, as is the trend now from Dell, HP etc.
+>
+> You can write to me or talk to me if you want to discuss this further.
+thanks mohan. i do have similar experience. i think the cost of taiwan book
+pc  may be higher.  i need to explore. if the cost is under control , then
+thats the best fit.  i will contact you to discuss further on this topic.
+
+From 77minds at gmail.com  Sun Mar 29 21:04:53 2015
+From: 77minds at gmail.com (Karthikeyan A K)
+Date: Sun, 29 Mar 2015 21:04:53 +0530
+Subject: [Ilugc] Need for Chennai Ruby Programmers Group
+Message-ID: <CAJR+9kbaP07Jq_=PM_-Wa84D7GqxPu4DfYxGBbtb0cSDtxDwqg@mail.gmail.com>
+
+Hello People,
+
+Disclaimer: If you are not a radical thinker who may not think out of the
+box, then please do not click the link below
+
+https://rails7.wordpress.com/2015/03/29/need-for-chennai-ruby-programmers/
+
+I don't want to offend people who don't like change.
+
+------
+
+Karthikeyan A K
+
+From tuxuday at gmail.com  Mon Mar 30 13:01:23 2015
+From: tuxuday at gmail.com (Udaya Kumar)
+Date: Mon, 30 Mar 2015 13:01:23 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CABG-yt0oirWUuYWU7B=haZPU44YefJY7RuVM9h7uvEyanOF5rg@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+	<CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+	<55145BFE.1090403@gmail.com>
+	<CABG-yt24HqMP9hS+KokMZsbunOh9adwF-2MzLGRcL_Cmxk+uaA@mail.gmail.com>
+	<CABG-yt0oirWUuYWU7B=haZPU44YefJY7RuVM9h7uvEyanOF5rg@mail.gmail.com>
+Message-ID: <CANODOzu80KKKQgE05NbeDuahjg88rZZveC-MX8DVE1ZYJYXx6Q@mail.gmail.com>
+
+I hope this is open to public.
+
+On Fri, Mar 27, 2015 at 9:17 PM, Shakthi Kannan <shakthimaan at gmail.com>
+wrote:
+
+> Hi,
+>
+> The Installfest has been tentatively postponed for next Saturday due
+> to the bandh tomorrow.
+>
+> SK
+>
+> --
+> Shakthi Kannan
+> http://www.shakthimaan.com
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+Cheers
+Uday.
+
+From murthyraju at gmail.com  Mon Mar 30 16:13:15 2015
+From: murthyraju at gmail.com (Murthy Raju)
+Date: Mon, 30 Mar 2015 16:13:15 +0530
+Subject: [Ilugc] [OT][Commercial] Getting Started With Python - A
+ Comprehensive online Workshop - 4th/5th/11th/12th April 2015
+Message-ID: <CAC4BoN5Vda1ypmOfHduXswBjAWfKwkLEerT5WqSgoYLyNojkSQ@mail.gmail.com>
+
+Hi,
+
+"Getting Started with Python" is an online workshop spread over 2 weekends
+ scheduled for 4th, 5th, 11th and 12th April 2015 - 2:00 PM to 6:00 PM IST.
+
+This is an instructor led online course that I will be conducting.
+
+If you have always wanted to get started with Python, but have never found
+the time to do it, here is a comprehensive introduction to Python that will
+help you get started quickly.
+
+Resource Person - Murthy Raju - murthysclasses at gmail.com
+
+Fee - Rs. 5,000 per participant
+
+Students get a discount of Rs. 1500
+
+Topics Covered:
+
+Variables, Data Types
+Lists, Tuples, Dictionaries
+Conditionals
+Iteration
+Functions
+Object Orientation
+IDEs for Python
+Python Virtual Environment
+Organization of Python Code - Modules, Packages
+Python Libraries - Use of libraries and writing custom libraries
+Regular Expressions and Text Processing
+A few popular modules - os, system, requests etc.
+Coding Best Practices
+Documentation
+Testing
+
+Pre-requisites:
+
+Familiarity with any programming language
+A Laptop/Desktop with a good Internet connection
+
+Please mail Murthy at murthysclasses at gmail.com to register and for further
+details.
+
+Please spread the word to your friends and colleagues.
+
+Thanks and Regards,
+
+Murthy Raju
+murthysclasses at gmail.com
+http://in.linkedin.com/in/murthyraju
+
+From shakthimaan at gmail.com  Mon Mar 30 16:18:32 2015
+From: shakthimaan at gmail.com (Shakthi Kannan)
+Date: Mon, 30 Mar 2015 16:18:32 +0530
+Subject: [Ilugc] Discussion Regarding INSTALL FEST
+In-Reply-To: <CANODOzu80KKKQgE05NbeDuahjg88rZZveC-MX8DVE1ZYJYXx6Q@mail.gmail.com>
+References: <54E20830.5090308@gmail.com>
+	<CABG-yt0qe6SoR+rhV1w=Yuk6M5Cr5g2pKrED+KY1nDCQ3HE_zA@mail.gmail.com>
+	<CAEigH134cfh2cf=U=qUAQNZvwSXG5KsQP01gSeYQ8=Jk-jsZAw@mail.gmail.com>
+	<CABG-yt0LD3Pq-3VciUST8K1T-8W4OC75g5rnCA7UeYRz2dK6CA@mail.gmail.com>
+	<CAEigH13_YQQEAJA-=jAoguFgcqzEk0zVso-SOVSxXOAz9bg90A@mail.gmail.com>
+	<CABG-yt3FAmZ3a-KapfvaBG1d4MzsG81V_=+JcRy9h4FqxB=myg@mail.gmail.com>
+	<CANc+2y6JCUTtMTK2enNTze43QzwrAM5GT9r4GFuaBR=20+GHTw@mail.gmail.com>
+	<CABG-yt0aEBMDiEdM6F=ri4dBBAnR+QeQp_0YO3SZ6j9njmNmDw@mail.gmail.com>
+	<CANc+2y4RbQ7mz5Ui5w93kMkReAUGyerLssdnwsbKUL-x4ZJA4A@mail.gmail.com>
+	<CABG-yt2fdVH3ESYiLHv0Zv4miyBEGyUOaS8BYsdGi=wEOU8OUA@mail.gmail.com>
+	<CANc+2y7Vu+SiNgGLLNn7osp6eucON+mcfyhZox3GZaweYcpzhQ@mail.gmail.com>
+	<CABG-yt2Ack58ahTps=Y1T2uaBPvJPchPSU6C0cPqLPEg3OjcRw@mail.gmail.com>
+	<CABG-yt1QK0gHjB7EkV7f5KVjaMcnwdAKBfZmrSoJ1LO9rgMbPQ@mail.gmail.com>
+	<CANc+2y4KQVLvAVYJgSG54it+T0X9S3gQqn9Q5knhxUjuZbVbSQ@mail.gmail.com>
+	<55145BFE.1090403@gmail.com>
+	<CABG-yt24HqMP9hS+KokMZsbunOh9adwF-2MzLGRcL_Cmxk+uaA@mail.gmail.com>
+	<CABG-yt0oirWUuYWU7B=haZPU44YefJY7RuVM9h7uvEyanOF5rg@mail.gmail.com>
+	<CANODOzu80KKKQgE05NbeDuahjg88rZZveC-MX8DVE1ZYJYXx6Q@mail.gmail.com>
+Message-ID: <CABG-yt0qwwJLKP7Y_rzea+5YvdBB=yDz4_3rNi4sGa5c8-Q6WQ@mail.gmail.com>
+
+Hi,
+
+--- On Mon, Mar 30, 2015 at 1:01 PM, Udaya Kumar <tuxuday at gmail.com> wrote:
+| I hope this is open to public.
+\--
+
+Not this installfest, due to space limitations.
+
+SK
+
+-- 
+Shakthi Kannan
+http://www.shakthimaan.com
+
+From prkart at gmail.com  Mon Mar 30 17:48:31 2015
+From: prkart at gmail.com (P.R.Karthik)
+Date: Mon, 30 Mar 2015 17:48:31 +0530
+Subject: [Ilugc] mysql slave performance
+In-Reply-To: <CAHhM8gDpEpkJc+-y+QFFXDJatiNEO6q9MArfeOPDA711w44t1g@mail.gmail.com>
+References: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+	<CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+	<CA+ark-rVxPkevHe0f16XzEaJBbF6ZMQt6-3Uz3J+Nfb5P6M_9g@mail.gmail.com>
+	<CAHhM8gDpEpkJc+-y+QFFXDJatiNEO6q9MArfeOPDA711w44t1g@mail.gmail.com>
+Message-ID: <CAD7fY7QKN-+C8KvY8PaLYTYvD1AUvpUopeJOtNVbMMepQjys3w@mail.gmail.com>
+
+Hi ,
+
+The slave lag for a few seconds is common. It might be heavy writes on
+master delaying the replication. As replication in MySQL is single threaded
+it can happen ( Hope you are not using Multi threaded replication in MySQL
+5.6 ).
+
+What is the binglog format ?
+Is the queries are tuned along with MySQL settings ?
+Any notable queries in slow query log ?
+
+
+Regards,
+KarthiK.P.R
+MySQL DBA
+
+On Wed, Mar 25, 2015 at 5:10 PM, Arun Khan <knura9 at gmail.com> wrote:
+
+> On Wed, Mar 25, 2015 at 4:46 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> wrote:
+> > Hi,
+> >
+> > I am using the slave connection using the internal LAN IP. Number of cpu
+> > cores in slave is higher than master server.
+>
+> List guidelines -- do *not* top post.
+>
+> Look at number of transactions pending replication @ primary and
+> compare those number at the replica.
+>
+> -- Arun Khan
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+From linuxbaskar at gmail.com  Tue Mar 31 08:03:17 2015
+From: linuxbaskar at gmail.com (Baskar Selvaraj)
+Date: Tue, 31 Mar 2015 08:03:17 +0530
+Subject: [Ilugc] [Event Report] DSpace workshop conducted in colleges
+Message-ID: <CACtiFJb=f=iLfwMTvGyyn-_FLanJZv9EoTcyo-Lbo4eo4Y9T2w@mail.gmail.com>
+
+Dear all,
+
+Myself conducted a one day workshop on 'Implementation of DSpace in
+Institutions' in various institutions across Tamilnadu. Participants from
+the following institutions / organizations attended the DSpace workshop.
+
+Loyola-ICAM College of Engineering and Technology, Chennai (28/02/2015)
+-----------------------------------------------------------------------
+
+1. Loyola Institute of Business Administration (LIBA), Chennai
+2. Rajalakshmi Engineering College, Thandalam, Kanchipuram Dt.
+3. St. Joseph College of Engineering, Sriperumbudur, Kanchipuram Dt.
+4. Loyola-ICAM College of Engineering and Technology, Chennai
+5. K.L.N College of Engineering, Sivagangai Dt.
+6. Anna Centenary Library, Chennai
+7. Guru Nanak College, Velachery, Chennai
+8. Loyola College (Arts & Science), Chennai
+9. KCG College of Technology, Karapakkam, Chennai
+10. VelTech Technical University, Avadi, Thiruvallur Dt.
+11. SCSVMV University, Kanchipuram Dt.
+12. Mazharul Uloom College, Ambur, Vellore Dt.
+13. AMET University, Kanathur, Kanchipuram Dt.
+14. R.M.K. Engineering College, Thiruvallur Dt.
+15. Alpha College of Engineering, Thirumazhisai, Kanchipuram Dt.
+
+
+Velalar College of Engineering and Technology, Erode Dt. (07/03/2015)
+---------------------------------------------------------------------
+
+1. Anna University (BIT Campus), Tiruchirapalli Dt.
+2. Dr. John Mathai Centre, Calicut University, Kerala
+3. Central University of Kerala, Kasaragod, Kerala
+4. Spices Board (Govt. of India), Cochin, Kerala
+5. Velalar College of Engineering and Technology, Erode Dt.
+6. Vellalar College of Education for Women, Erode Dt.
+7. Vellalar College for Women (Autonomous), Erode Dt.
+8. Sarah College of Education for Women, Erode Dt.
+9. Maharaja Engineering College for Women, Perundurai, Erode Dt.
+10. Dhirajlal Gandhi College of Technology, Salem Dt.
+11. Sona College of Technology, Salem Dt.
+12. Mahendra Engineering College, Namakkal Dt.
+13. K.S.R College of Engineering, Thiruchengode, Namakkal Dt.
+14. K.S. Rangasamy College of Technology, Thiruchengode, Namakkal Dt.
+15. Bharathidasan University Constituent Arts & Science College, Trichy
+16. Kongunadu Educational Institutions, Thottiam, Trichy Dt.
+17. Nehru Institute of Engineering and Technology, Coimbatore Dt.
+18. Alagappa University, Karaikudi, Sivagangai Dt.
+
+
+Kumaraguru College of Technology (Autonomous), Coimbatore Dt. (27/03/2015)
+--------------------------------------------------------------------------
+
+1. SNS College of Engineering, Coimbatore Dt.
+2. SNS College of Technology (Autonomous), Coimbatore Dt.
+3. JKK Nattraja College of Engineering and Technology, Namakkal Dt.
+4. Dr. R.V. Arts and Science College, Karamadai, Coimbatore Dt.
+5. Rathinam College of Arts and Science, Coimbatore Dt.
+6. Sri GVG Visalakshmi College for Women (Autonomous), Udumalpet,
+Coimbatore Dt.
+7. Sri Ramakrishna Engineering College (Autonomous), Coimbatore Dt.
+8. Kumaraguru College of Technology (Autonomous), Coimbatore Dt.
+9. SNT Global Academy of Management Studies and Technology, Coimbatore Dt.
+
+
+Sona College of Technology (Autonomous), Salem Dt. (28/03/2015)
+---------------------------------------------------------------
+
+1. Sona College of Technology (Autonomous), Salem Dt.
+2. ADHOC Technologies Pvt. Ltd., Thiruvanandapuram, Kerala
+3. University of Calicut, Malappuram, Kerala
+4. K.S.R College of Engineering, Thiruchengode, Namakkal Dt.
+5. Sri Sarada College for Women (Autonomous), Salem Dt.
+6. Alagappa University, Karaikudi, Sivagangai Dt.
+7. Narasu's Sarathy Institute of Technology, Salem Dt.
+8. Health Manpower Development Institute, Dept. of Public Health, Salem Dt.
+9. Jayam College of Engineering and Technology, Dharmapuri Dt.
+10. Thiagarajar Polytechnic College, Salem Dt.
+11. Varuvan Vadivelan Institute of Technology, Dharmapuri Dt.
+
+Useful Links:
+
+About DSpace
+http://www.dspace.org/introducing
+
+Top Reasons To Use DSpace
+http://www.dspace.org/why-use
+
+S. Baskar
+
+Blog : http://linuxbaskar.wordpress.com
+Twitter  : http://twitter.com/linuxbaskar
+LinkedIN : http://www.linkedin.com/pub/baskar-selvaraj/21/881/b29
+
+From ajeeshbkannan at gmail.com  Tue Mar 31 14:04:40 2015
+From: ajeeshbkannan at gmail.com (Ajeesh Kannan)
+Date: Tue, 31 Mar 2015 14:04:40 +0530
+Subject: [Ilugc] mysql slave performance
+In-Reply-To: <CAD7fY7QKN-+C8KvY8PaLYTYvD1AUvpUopeJOtNVbMMepQjys3w@mail.gmail.com>
+References: <CA+ark-psFK_7JSGd2UUkk=pyq96_SnaYhAt06HewOE0YHYvQCQ@mail.gmail.com>
+	<CAHhM8gCyagB1jCBxv-anyUR19_BBNjWkvOVW2s8K4QOZ3+FNDA@mail.gmail.com>
+	<CA+ark-rVxPkevHe0f16XzEaJBbF6ZMQt6-3Uz3J+Nfb5P6M_9g@mail.gmail.com>
+	<CAHhM8gDpEpkJc+-y+QFFXDJatiNEO6q9MArfeOPDA711w44t1g@mail.gmail.com>
+	<CAD7fY7QKN-+C8KvY8PaLYTYvD1AUvpUopeJOtNVbMMepQjys3w@mail.gmail.com>
+Message-ID: <CA+ark-oYnK0jaZGrietZPB8X=TOfFFC-jhxVksq+F14KvD-X4Q@mail.gmail.com>
+
+Hi Karthik,
+
+Thank you for your update.
+
+My mysql server is running with old version 5.1 and it is hard to upgrade
+at the moment.
+
+On Mon, Mar 30, 2015 at 5:48 PM, P.R.Karthik <prkart at gmail.com> wrote:
+
+> Hi ,
+>
+> The slave lag for a few seconds is common. It might be heavy writes on
+> master delaying the replication. As replication in MySQL is single threaded
+> it can happen ( Hope you are not using Multi threaded replication in MySQL
+> 5.6 ).
+>
+> What is the binglog format ?
+> Is the queries are tuned along with MySQL settings ?
+> Any notable queries in slow query log ?
+>
+>
+> Regards,
+> KarthiK.P.R
+> MySQL DBA
+>
+> On Wed, Mar 25, 2015 at 5:10 PM, Arun Khan <knura9 at gmail.com> wrote:
+>
+> > On Wed, Mar 25, 2015 at 4:46 PM, Ajeesh Kannan <ajeeshbkannan at gmail.com>
+> > wrote:
+> > > Hi,
+> > >
+> > > I am using the slave connection using the internal LAN IP. Number of
+> cpu
+> > > cores in slave is higher than master server.
+> >
+> > List guidelines -- do *not* top post.
+> >
+> > Look at number of transactions pending replication @ primary and
+> > compare those number at the replica.
+> >
+> > -- Arun Khan
+> > _______________________________________________
+> > ILUGC Mailing List:
+> > http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> > ILUGC Mailing List Guidelines:
+> > http://ilugc.in/mailinglist-guidelines
+> >
+> _______________________________________________
+> ILUGC Mailing List:
+> http://www.ae.iitm.ac.in/mailman/listinfo/ilugc
+> ILUGC Mailing List Guidelines:
+> http://ilugc.in/mailinglist-guidelines
+>
+
+
+
+-- 
+With Regards,
+Ajeesh B.Kannan
+

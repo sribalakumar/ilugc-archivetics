@@ -1,0 +1,140 @@
+From rameshp at india.adventnet.com  Sun Jan 30 09:48:52 2000
+From: rameshp at india.adventnet.com (rameshp)
+Date: Sun, 30 Jan 2000 15:18:52 +0530
+Subject: [Ilugc] how to run mp3 in linux 8
+In-Reply-To: <Pine.LNX.4.44.0301301331150.16525-100000@lantana.iitm.ernet.in>
+References: <Pine.LNX.4.44.0301301331150.16525-100000@lantana.iitm.ernet.in>
+Message-ID: <38940904.5000703@india.adventnet.com>
+
+Bharathi S wrote:
+
+>On Thu, 30 Jan 2003, aravind reddy wrote:
+>
+>Hi Aravind :)
+>
+> If your Snd crd setup is correct then the following
+> command will help you :)
+>
+>  
+>
+>>how to play mp3 songs 
+>>    
+>>
+>  mpg123, xmms, ... 
+>  
+>
+mpg123 is not available by default in  RH 8.0 , IIANW  ... so u'll have 
+to dowload and install it  - http://www.mpg123.de/.  
+
+As for XMMS, Redhat decided to not ship any mp3 decoding software 
+whatsoever in Redhat 8.0 
+
+so XMMS wont be able to play mp3 by default ..  u can dowload the mp3  
+plugin here
+
+http://staff.xmms.org/priv/redhat8/
+
+>>how to play mpeg movies.
+>>    
+>>
+>  mplay, ...
+>
+>  For more info, Read the man pages of each command.
+>
+>Bye :)
+>
+cheers,
+ramesh pallikara
+
+-- 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ rameshp@india.adventnet.com ]~~~
+
+Computer Science: solving today's problems tomorrow.
+
+~~~[ AdventNet Inc, 91 - 44 - 243 12 15, 243 11 15 Extn. 216 ]~~~~~~~~~~
+
+
+
+From rameshp at india.adventnet.com  Mon Jan 31 06:37:20 2000
+From: rameshp at india.adventnet.com (rameshp)
+Date: Mon, 31 Jan 2000 12:07:20 +0530
+Subject: [Ilugc] puzzling behaviour on cd-r and cd-rw !!!!!!!!!!!!
+Message-ID: <38952DA0.70908@india.adventnet.com>
+
+hi all,
+
+i have a dual booting system with RedHat 8.0 and Windoze 98.
+i have a Samsung CD-R and a Samsung CD Writer.
+i burned a few files (say a , b), a few days back on a cd
+y'day i burned a few more files (say c, d ) on the same cd (multisession).
+
+On Windoze, my CD-R shows only a,b files while my CD-RW shows all the 
+files (a,b,c,d)
+
+On RH 8.0, my CD-R shows only a,b files. when i try to open the cd in my 
+CD-RW, my system hangs (my caps lock and scroll lock keeps blinking forever)
+
+i'm all confused ...  :-(
+
+any explanation / help / suggestion will be greatly appreciated,
+
+thanx and regardz,
+ramesh pallikara
+
+P.S - sorry 'bout the long story
+
+-- 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ rameshp@india.adventnet.com ]~~~
+
+This is Linux country. If you listen carefully, you can hear Windows reboot...
+
+~~~[ AdventNet Inc, 91 - 44 - 243 12 15, 243 11 15 Extn. 216 ]~~~~~~~~~~
+
+
+
+
+From rameshp at india.adventnet.com  Mon Jan 31 09:14:26 2000
+From: rameshp at india.adventnet.com (rameshp)
+Date: Mon, 31 Jan 2000 14:44:26 +0530
+Subject: [Ilugc] puzzling behaviour on cd-r and cd-rw !!!!!!!!!!!!
+In-Reply-To: <5.2.0.9.0.20030131121745.0142f270@202.125.80.81>
+References: <5.2.0.9.0.20030131121745.0142f270@202.125.80.81>
+Message-ID: <38955272.3000009@india.adventnet.com>
+
+sathish wrote:
+
+>
+> The format in the CD is not written with iso9660 compatibility.
+> it may have written with the windows format. 
+
+i had burned my first session (files a,b) as well as the next session 
+(files c,d) using Ahead Nero software.
+
+if the format was a problem, how is it that i am able to read the files 
+(a,b) from my first session on windoze and  but not from my second 
+session (i hadn't done any configuration changes on Nero) on my CD Reader.
+
+My CD Writer on windoze however reads all the files (a, b, c, d) ... any 
+ideas why.
+
+>
+> the data may have written in  adapetc direct cd format.
+> normally to read the data in unix  and windows compatible format it 
+> should be written in
+> adaptech cd creator which will be with iso9660 format.
+
+BTW this "adaptech cd creator", is it a cd-burning software like Nero. 
+ where can i get it ???
+
+thanx a bunch,
+ramesh pallikara
+
+-- 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ rameshp@india.adventnet.com ]~~~
+
+Color... it's just a pigment of your imagination.
+
+~~~[ AdventNet Inc, 91 - 44 - 243 12 15, 243 11 15 Extn. 216 ]~~~~~~~~~~
+
+
+
